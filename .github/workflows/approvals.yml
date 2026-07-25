@@ -1,0 +1,51 @@
+name: Kit Builder
+
+# Every 30 min: build a tailored resume PDF + referral for roles you tapped
+# "Make Kit" on, and push them to your phone. (No windows on a server, so it
+# can run often for fast kits.)
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: job-state
+  cancel-in-progress: false
+
+jobs:
+  approvals:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Restore real resume from secret
+        env:
+          RESUME_MD: ${{ secrets.RESUME_MD }}
+        run: python -c "import os;open('resume.md','w',encoding='utf-8').write(os.environ.get('RESUME_MD',''))"
+
+      - name: Build approved kits
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          APPROVE_TOPIC: ${{ secrets.APPROVE_TOPIC }}
+          RESUME_LINK: ${{ secrets.RESUME_LINK }}
+          YOUR_NAME: ${{ secrets.YOUR_NAME }}
+          SCHOOL: ${{ secrets.SCHOOL }}
+        run: python approvals.py
+
+      - name: Persist state
+        run: |
+          git config user.name "job-bot"
+          git config user.email "actions@users.noreply.github.com"
+          rm -f resume.md
+          git add pending.json approve_state.json || true
+          git commit -m "state: approvals [skip ci]" || echo "nothing to commit"
+          git push || echo "nothing to push"

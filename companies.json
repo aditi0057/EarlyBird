@@ -1,0 +1,974 @@
+[
+  {
+    "name": "PhonePe",
+    "source": "greenhouse",
+    "token": "phonepe",
+    "type": "fintech"
+  },
+  {
+    "name": "Zscaler",
+    "source": "greenhouse",
+    "token": "zscaler",
+    "type": "tech"
+  },
+  {
+    "name": "MongoDB",
+    "source": "greenhouse",
+    "token": "mongodb",
+    "type": "tech"
+  },
+  {
+    "name": "Meesho",
+    "source": "lever",
+    "token": "meesho",
+    "type": "tech"
+  },
+  {
+    "name": "Twilio",
+    "source": "greenhouse",
+    "token": "twilio",
+    "type": "tech"
+  },
+  {
+    "name": "Dream11",
+    "source": "lever",
+    "token": "dreamsports",
+    "type": "tech"
+  },
+  {
+    "name": "Databricks",
+    "source": "greenhouse",
+    "token": "databricks",
+    "type": "data"
+  },
+  {
+    "name": "OpenAI",
+    "source": "ashby",
+    "token": "openai",
+    "type": "tech"
+  },
+  {
+    "name": "Stripe",
+    "source": "greenhouse",
+    "token": "stripe",
+    "type": "fintech"
+  },
+  {
+    "name": "Okta",
+    "source": "greenhouse",
+    "token": "okta",
+    "type": "tech"
+  },
+  {
+    "name": "GitLab",
+    "source": "greenhouse",
+    "token": "gitlab",
+    "type": "tech"
+  },
+  {
+    "name": "Snowflake",
+    "source": "ashby",
+    "token": "snowflake",
+    "type": "data"
+  },
+  {
+    "name": "ClickHouse",
+    "source": "greenhouse",
+    "token": "clickhouse",
+    "type": "tech"
+  },
+  {
+    "name": "Notion",
+    "source": "ashby",
+    "token": "notion",
+    "type": "tech"
+  },
+  {
+    "name": "Zeta",
+    "source": "lever",
+    "token": "zeta",
+    "type": "fintech"
+  },
+  {
+    "name": "Cloudflare",
+    "source": "greenhouse",
+    "token": "cloudflare",
+    "type": "tech"
+  },
+  {
+    "name": "Coinbase",
+    "source": "greenhouse",
+    "token": "coinbase",
+    "type": "fintech"
+  },
+  {
+    "name": "Postman",
+    "source": "greenhouse",
+    "token": "postman",
+    "type": "tech"
+  },
+  {
+    "name": "Rubrik",
+    "source": "greenhouse",
+    "token": "rubrik",
+    "type": "tech"
+  },
+  {
+    "name": "Together AI",
+    "source": "greenhouse",
+    "token": "togetherai",
+    "type": "tech"
+  },
+  {
+    "name": "Fampay",
+    "source": "lever",
+    "token": "fampay",
+    "type": "fintech"
+  },
+  {
+    "name": "Datadog",
+    "source": "greenhouse",
+    "token": "datadog",
+    "type": "tech"
+  },
+  {
+    "name": "Anthropic",
+    "source": "greenhouse",
+    "token": "anthropic",
+    "type": "tech"
+  },
+  {
+    "name": "Samsara",
+    "source": "greenhouse",
+    "token": "samsara",
+    "type": "tech"
+  },
+  {
+    "name": "Toast",
+    "source": "greenhouse",
+    "token": "toast",
+    "type": "tech"
+  },
+  {
+    "name": "Verkada",
+    "source": "greenhouse",
+    "token": "verkada",
+    "type": "tech"
+  },
+  {
+    "name": "Brex",
+    "source": "greenhouse",
+    "token": "brex",
+    "type": "fintech"
+  },
+  {
+    "name": "Roblox",
+    "source": "greenhouse",
+    "token": "roblox",
+    "type": "tech"
+  },
+  {
+    "name": "Airbnb",
+    "source": "greenhouse",
+    "token": "airbnb",
+    "type": "tech"
+  },
+  {
+    "name": "Reddit",
+    "source": "greenhouse",
+    "token": "reddit",
+    "type": "tech"
+  },
+  {
+    "name": "Pinterest",
+    "source": "greenhouse",
+    "token": "pinterest",
+    "type": "tech"
+  },
+  {
+    "name": "Scale AI",
+    "source": "greenhouse",
+    "token": "scaleai",
+    "type": "tech"
+  },
+  {
+    "name": "Affirm",
+    "source": "greenhouse",
+    "token": "affirm",
+    "type": "fintech"
+  },
+  {
+    "name": "Figma",
+    "source": "greenhouse",
+    "token": "figma",
+    "type": "tech"
+  },
+  {
+    "name": "Elastic",
+    "source": "greenhouse",
+    "token": "elastic",
+    "type": "tech"
+  },
+  {
+    "name": "Lyft",
+    "source": "greenhouse",
+    "token": "lyft",
+    "type": "tech"
+  },
+  {
+    "name": "Flexport",
+    "source": "greenhouse",
+    "token": "flexport",
+    "type": "tech"
+  },
+  {
+    "name": "Asana",
+    "source": "greenhouse",
+    "token": "asana",
+    "type": "tech"
+  },
+  {
+    "name": "Instacart",
+    "source": "greenhouse",
+    "token": "instacart",
+    "type": "tech"
+  },
+  {
+    "name": "Cohere",
+    "source": "ashby",
+    "token": "cohere",
+    "type": "tech"
+  },
+  {
+    "name": "Fivetran",
+    "source": "greenhouse",
+    "token": "fivetran",
+    "type": "data"
+  },
+  {
+    "name": "Ramp",
+    "source": "ashby",
+    "token": "ramp",
+    "type": "fintech"
+  },
+  {
+    "name": "Plaid",
+    "source": "ashby",
+    "token": "plaid",
+    "type": "fintech"
+  },
+  {
+    "name": "Robinhood",
+    "source": "greenhouse",
+    "token": "robinhood",
+    "type": "fintech"
+  },
+  {
+    "name": "Vanta",
+    "source": "ashby",
+    "token": "vanta",
+    "type": "tech"
+  },
+  {
+    "name": "Grafana Labs",
+    "source": "greenhouse",
+    "token": "grafanalabs",
+    "type": "tech"
+  },
+  {
+    "name": "Nubank",
+    "source": "greenhouse",
+    "token": "nubank",
+    "type": "fintech"
+  },
+  {
+    "name": "Replit",
+    "source": "ashby",
+    "token": "replit",
+    "type": "tech"
+  },
+  {
+    "name": "LangChain",
+    "source": "ashby",
+    "token": "langchain",
+    "type": "tech"
+  },
+  {
+    "name": "Gusto",
+    "source": "greenhouse",
+    "token": "gusto",
+    "type": "tech"
+  },
+  {
+    "name": "Faire",
+    "source": "greenhouse",
+    "token": "faire",
+    "type": "tech"
+  },
+  {
+    "name": "Baseten",
+    "source": "ashby",
+    "token": "baseten",
+    "type": "tech"
+  },
+  {
+    "name": "Sigma",
+    "source": "greenhouse",
+    "token": "sigmacomputing",
+    "type": "data"
+  },
+  {
+    "name": "Chime",
+    "source": "greenhouse",
+    "token": "chime",
+    "type": "fintech"
+  },
+  {
+    "name": "Slice",
+    "source": "greenhouse",
+    "token": "slice",
+    "type": "fintech"
+  },
+  {
+    "name": "Vercel",
+    "source": "greenhouse",
+    "token": "vercel",
+    "type": "tech"
+  },
+  {
+    "name": "1Password",
+    "source": "ashby",
+    "token": "1password",
+    "type": "tech"
+  },
+  {
+    "name": "Ashby",
+    "source": "ashby",
+    "token": "ashby",
+    "type": "tech"
+  },
+  {
+    "name": "Temporal",
+    "source": "ashby",
+    "token": "temporal",
+    "type": "tech"
+  },
+  {
+    "name": "Mercury",
+    "source": "greenhouse",
+    "token": "mercury",
+    "type": "fintech"
+  },
+  {
+    "name": "Discord",
+    "source": "greenhouse",
+    "token": "discord",
+    "type": "tech"
+  },
+  {
+    "name": "Supabase",
+    "source": "ashby",
+    "token": "supabase",
+    "type": "tech"
+  },
+  {
+    "name": "Benchling",
+    "source": "ashby",
+    "token": "benchling",
+    "type": "tech"
+  },
+  {
+    "name": "Attentive",
+    "source": "greenhouse",
+    "token": "attentive",
+    "type": "tech"
+  },
+  {
+    "name": "Amplitude",
+    "source": "greenhouse",
+    "token": "amplitude",
+    "type": "tech"
+  },
+  {
+    "name": "Dropbox",
+    "source": "greenhouse",
+    "token": "dropbox",
+    "type": "tech"
+  },
+  {
+    "name": "Airtable",
+    "source": "greenhouse",
+    "token": "airtable",
+    "type": "tech"
+  },
+  {
+    "name": "Marqeta",
+    "source": "greenhouse",
+    "token": "marqeta",
+    "type": "fintech"
+  },
+  {
+    "name": "CockroachLabs",
+    "source": "greenhouse",
+    "token": "cockroachlabs",
+    "type": "tech"
+  },
+  {
+    "name": "Modal",
+    "source": "ashby",
+    "token": "modal",
+    "type": "tech"
+  },
+  {
+    "name": "Miro",
+    "source": "ashby",
+    "token": "miro",
+    "type": "tech"
+  },
+  {
+    "name": "Confluent",
+    "source": "ashby",
+    "token": "confluent",
+    "type": "tech"
+  },
+  {
+    "name": "Render",
+    "source": "ashby",
+    "token": "render",
+    "type": "tech"
+  },
+  {
+    "name": "Druva",
+    "source": "greenhouse",
+    "token": "druva",
+    "type": "tech"
+  },
+  {
+    "name": "Webflow",
+    "source": "greenhouse",
+    "token": "webflow",
+    "type": "tech"
+  },
+  {
+    "name": "SumoLogic",
+    "source": "greenhouse",
+    "token": "sumologic",
+    "type": "tech"
+  },
+  {
+    "name": "Linear",
+    "source": "ashby",
+    "token": "linear",
+    "type": "tech"
+  },
+  {
+    "name": "PostHog",
+    "source": "ashby",
+    "token": "posthog",
+    "type": "tech"
+  },
+  {
+    "name": "Calendly",
+    "source": "greenhouse",
+    "token": "calendly",
+    "type": "tech"
+  },
+  {
+    "name": "Nextdoor",
+    "source": "greenhouse",
+    "token": "nextdoor",
+    "type": "tech"
+  },
+  {
+    "name": "Squarespace",
+    "source": "greenhouse",
+    "token": "squarespace",
+    "type": "tech"
+  },
+  {
+    "name": "Airbyte",
+    "source": "ashby",
+    "token": "airbyte",
+    "type": "data"
+  },
+  {
+    "name": "Groww",
+    "source": "greenhouse",
+    "token": "groww",
+    "type": "fintech"
+  },
+  {
+    "name": "Wealthfront",
+    "source": "lever",
+    "token": "wealthfront",
+    "type": "fintech"
+  },
+  {
+    "name": "PlanetScale",
+    "source": "greenhouse",
+    "token": "planetscale",
+    "type": "tech"
+  },
+  {
+    "name": "Navi",
+    "source": "ashby",
+    "token": "navi",
+    "type": "fintech"
+  },
+  {
+    "name": "Netlify",
+    "source": "greenhouse",
+    "token": "netlify",
+    "type": "tech"
+  },
+  {
+    "name": "Weaviate",
+    "source": "ashby",
+    "token": "weaviate",
+    "type": "tech"
+  },
+  {
+    "name": "CRED",
+    "source": "lever",
+    "token": "cred",
+    "type": "fintech"
+  },
+  {
+    "name": "Pinecone",
+    "source": "ashby",
+    "token": "pinecone",
+    "type": "tech"
+  },
+  {
+    "name": "Anyscale",
+    "source": "lever",
+    "token": "anyscale",
+    "type": "tech"
+  },
+  {
+    "name": "Amazon",
+    "source": "amazon",
+    "token": "india",
+    "type": "tech"
+  },
+  {
+    "name": "Morgan Stanley",
+    "source": "workday",
+    "token": "ms:wd5:External",
+    "type": "fintech"
+  },
+  {
+    "name": "NVIDIA",
+    "source": "workday",
+    "token": "nvidia:wd5:NVIDIAExternalCareerSite",
+    "type": "tech"
+  },
+  {
+    "name": "Adobe",
+    "source": "workday",
+    "token": "adobe:wd5:external_experienced",
+    "type": "tech"
+  },
+  {
+    "name": "Salesforce",
+    "source": "workday",
+    "token": "salesforce:wd12:External_Career_Site",
+    "type": "tech"
+  },
+  {
+    "name": "Mastercard",
+    "source": "workday",
+    "token": "mastercard:wd1:CorporateCareers",
+    "type": "fintech"
+  },
+  {
+    "name": "Citi",
+    "source": "workday",
+    "token": "citi:wd5:2",
+    "type": "fintech"
+  },
+  {
+    "name": "PayPal",
+    "source": "workday",
+    "token": "paypal:wd1:jobs",
+    "type": "fintech"
+  },
+  {
+    "name": "BlackRock",
+    "source": "workday",
+    "token": "blackrock:wd1:BlackRock_Professional",
+    "type": "fintech"
+  },
+  {
+    "name": "HighRadius",
+    "source": "greenhouse",
+    "token": "highradius",
+    "type": "fintech"
+  },
+  {
+    "name": "Abnormal Security",
+    "source": "greenhouse",
+    "token": "abnormalsecurity",
+    "type": "tech"
+  },
+  {
+    "name": "Netskope",
+    "source": "greenhouse",
+    "token": "netskope",
+    "type": "tech"
+  },
+  {
+    "name": "Yugabyte",
+    "source": "greenhouse",
+    "token": "yugabyte",
+    "type": "tech"
+  },
+  {
+    "name": "Ping Identity",
+    "source": "greenhouse",
+    "token": "pingidentity",
+    "type": "tech"
+  },
+  {
+    "name": "Adyen",
+    "source": "greenhouse",
+    "token": "adyen",
+    "type": "fintech"
+  },
+  {
+    "name": "New Relic",
+    "source": "greenhouse",
+    "token": "newrelic",
+    "type": "tech"
+  },
+  {
+    "name": "Fastly",
+    "source": "greenhouse",
+    "token": "fastly",
+    "type": "tech"
+  },
+  {
+    "name": "MindTickle",
+    "source": "lever",
+    "token": "mindtickle",
+    "type": "tech"
+  },
+  {
+    "name": "Observe.ai",
+    "source": "greenhouse",
+    "token": "observeai",
+    "type": "tech"
+  },
+  {
+    "name": "Epifi (Fi)",
+    "source": "lever",
+    "token": "epifi",
+    "type": "fintech"
+  },
+  {
+    "name": "Atlan",
+    "source": "ashby",
+    "token": "atlan",
+    "type": "data"
+  },
+  {
+    "name": "Coupang",
+    "source": "greenhouse",
+    "token": "coupang",
+    "type": "tech"
+  },
+  {
+    "name": "Airwallex",
+    "source": "ashby",
+    "token": "airwallex",
+    "type": "fintech"
+  },
+  {
+    "name": "DoorDash Eng",
+    "source": "greenhouse",
+    "token": "doordashusa",
+    "type": "tech"
+  },
+  {
+    "name": "SumUp",
+    "source": "greenhouse",
+    "token": "sumup",
+    "type": "fintech"
+  },
+  {
+    "name": "ElevenLabs",
+    "source": "ashby",
+    "token": "elevenlabs",
+    "type": "tech"
+  },
+  {
+    "name": "Sierra",
+    "source": "ashby",
+    "token": "sierra",
+    "type": "tech"
+  },
+  {
+    "name": "Decagon",
+    "source": "ashby",
+    "token": "decagon",
+    "type": "tech"
+  },
+  {
+    "name": "N26",
+    "source": "greenhouse",
+    "token": "n26",
+    "type": "fintech"
+  },
+  {
+    "name": "Synthesia",
+    "source": "ashby",
+    "token": "synthesia",
+    "type": "tech"
+  },
+  {
+    "name": "Deepgram",
+    "source": "ashby",
+    "token": "deepgram",
+    "type": "tech"
+  },
+  {
+    "name": "SoFi",
+    "source": "greenhouse",
+    "token": "sofi",
+    "type": "fintech"
+  },
+  {
+    "name": "ClickUp",
+    "source": "ashby",
+    "token": "clickup",
+    "type": "tech"
+  },
+  {
+    "name": "Algolia",
+    "source": "greenhouse",
+    "token": "algolia",
+    "type": "tech"
+  },
+  {
+    "name": "Sentry",
+    "source": "ashby",
+    "token": "sentry",
+    "type": "tech"
+  },
+  {
+    "name": "Bill.com",
+    "source": "greenhouse",
+    "token": "billcom",
+    "type": "fintech"
+  },
+  {
+    "name": "Mixpanel",
+    "source": "greenhouse",
+    "token": "mixpanel",
+    "type": "tech"
+  },
+  {
+    "name": "LaunchDarkly",
+    "source": "greenhouse",
+    "token": "launchdarkly",
+    "type": "tech"
+  },
+  {
+    "name": "GoCardless",
+    "source": "greenhouse",
+    "token": "gocardless",
+    "type": "fintech"
+  },
+  {
+    "name": "Betterment",
+    "source": "greenhouse",
+    "token": "betterment",
+    "type": "fintech"
+  },
+  {
+    "name": "Contentful",
+    "source": "greenhouse",
+    "token": "contentful",
+    "type": "tech"
+  },
+  {
+    "name": "Cloudinary",
+    "source": "lever",
+    "token": "cloudinary",
+    "type": "tech"
+  },
+  {
+    "name": "Sanity",
+    "source": "ashby",
+    "token": "sanity",
+    "type": "tech"
+  },
+  {
+    "name": "Careem",
+    "source": "greenhouse",
+    "token": "careem",
+    "type": "tech"
+  },
+  {
+    "name": "HackerOne",
+    "source": "ashby",
+    "token": "hackerone",
+    "type": "tech"
+  },
+  {
+    "name": "Astronomer",
+    "source": "ashby",
+    "token": "astronomer",
+    "type": "data"
+  },
+  {
+    "name": "Alloy",
+    "source": "greenhouse",
+    "token": "alloy",
+    "type": "fintech"
+  },
+  {
+    "name": "Sonatype",
+    "source": "lever",
+    "token": "sonatype",
+    "type": "tech"
+  },
+  {
+    "name": "Column",
+    "source": "ashby",
+    "token": "column",
+    "type": "fintech"
+  },
+  {
+    "name": "PagerDuty",
+    "source": "greenhouse",
+    "token": "pagerduty",
+    "type": "tech"
+  },
+  {
+    "name": "Honeycomb",
+    "source": "greenhouse",
+    "token": "honeycomb",
+    "type": "tech"
+  },
+  {
+    "name": "AssemblyAI",
+    "source": "greenhouse",
+    "token": "assemblyai",
+    "type": "tech"
+  },
+  {
+    "name": "Railway",
+    "source": "ashby",
+    "token": "railway",
+    "type": "tech"
+  },
+  {
+    "name": "Unit",
+    "source": "ashby",
+    "token": "unit",
+    "type": "fintech"
+  },
+  {
+    "name": "Modern Treasury",
+    "source": "ashby",
+    "token": "moderntreasury",
+    "type": "fintech"
+  },
+  {
+    "name": "Sysdig",
+    "source": "lever",
+    "token": "sysdig",
+    "type": "tech"
+  },
+  {
+    "name": "Prefect",
+    "source": "ashby",
+    "token": "prefect",
+    "type": "data"
+  },
+  {
+    "name": "Mux",
+    "source": "ashby",
+    "token": "mux",
+    "type": "tech"
+  },
+  {
+    "name": "HP",
+    "source": "workday",
+    "token": "hp:wd5:ExternalCareerSite",
+    "type": "tech"
+  },
+  {
+    "name": "Autodesk",
+    "source": "workday",
+    "token": "autodesk:wd1:Ext",
+    "type": "tech"
+  },
+  {
+    "name": "Target",
+    "source": "workday",
+    "token": "target:wd5:targetcareers",
+    "type": "tech"
+  },
+  {
+    "name": "Intel",
+    "source": "workday",
+    "token": "intel:wd1:External",
+    "type": "tech"
+  },
+  {
+    "name": "Workday",
+    "source": "workday",
+    "token": "workday:wd5:Workday",
+    "type": "tech"
+  },
+  {
+    "name": "Deutsche Bank",
+    "source": "workday",
+    "token": "db:wd3:DBWebsite",
+    "type": "fintech"
+  },
+  {
+    "name": "Wells Fargo",
+    "source": "workday",
+    "token": "wf:wd1:WellsFargoJobs",
+    "type": "fintech"
+  },
+  {
+    "name": "State Street",
+    "source": "workday",
+    "token": "statestreet:wd1:Global",
+    "type": "fintech"
+  },
+  {
+    "name": "Fiserv",
+    "source": "workday",
+    "token": "fiserv:wd5:EXT",
+    "type": "fintech"
+  },
+  {
+    "name": "FIS",
+    "source": "workday",
+    "token": "fis:wd5:SearchJobs",
+    "type": "fintech"
+  },
+  {
+    "name": "Capital One",
+    "source": "workday",
+    "token": "capitalone:wd12:Capital_One",
+    "type": "fintech"
+  },
+  {
+    "name": "Broadcom",
+    "source": "workday",
+    "token": "broadcom:wd1:External_Career",
+    "type": "tech"
+  },
+  {
+    "name": "Comcast",
+    "source": "workday",
+    "token": "comcast:wd5:Comcast_Careers",
+    "type": "tech"
+  }
+]

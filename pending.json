@@ -1,0 +1,437 @@
+{
+  "942ffddbd2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10481468",
+      "title": "Software Development Engineer II, Detail Page",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10481468/software-development-engineer-ii-detail-page",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com\u2019s Product Detail Page team is looking for talented, motivated  and passionate software developers to be part of the design and  development of a highly scalable multi-tiered shopping application"
+    }
+  },
+  "e74f2a28a2": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-I_R-10398826",
+      "title": "Software Development Engineering - Sr Professional I",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-I_R-10398826",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "13b6aa5586": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026549",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026549",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "d49adcd7b2": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440760",
+      "title": "Engineer 2 - Software Development & Engineering",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440760",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "d8be12b3c0": {
+    "company": "PhonePe",
+    "role_type": "fintech",
+    "job": {
+      "id": 7799432003,
+      "title": "Product Solution Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/phonepe/jobs/7799432003",
+      "_source": "greenhouse",
+      "_token": "phonepe",
+      "_content": null
+    }
+  },
+  "bf7ee97c81": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 7520866,
+      "title": "Supportability Engineer 3",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/7520866",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "fab6d1532f": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8615332002,
+      "title": "Intermediate Backend Engineer - Platform Integrations (Monetization)",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8615332002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "2af15280e6": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8076301,
+      "title": "Software Engineer Atlas",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "d7aec0a7a4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482303",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482303/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
+    }
+  },
+  "3fe8b85a59": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441348",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441348",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "fc6f50cf9f": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering---SDET_R436624",
+      "title": "Engineer 3, Software Development & Engineering - SDET",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering---SDET_R436624",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "33a077326c": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R432741",
+      "title": "Development Engineer 5 (RDKV Architecture)",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R432741",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "4945f14ccb": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430173",
+      "title": "Development Engineer 5",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430173",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "79533a99bd": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430158",
+      "title": "Development Engineer 5",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430158",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "62c2ecf04e": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8644274002,
+      "title": "Site Reliability Engineer - Dedicated Hosted Runners",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8644274002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "06a00ff1a1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482790",
+      "title": "Software Development Engineer II, Amazon Finance Technology",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482790/software-development-engineer-ii-amazon-finance-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, scalable financial systems that support Amazon's current and future growth? Are you looking for ways to invent newer and simpler ways of building solutions?"
+    }
+  },
+  "db6057b588": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482876",
+      "title": "Software Development Engineer, AWS DynamoDB",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482876/software-development-engineer-aws-dynamodb",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
+    }
+  },
+  "1994a1c793": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482367",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482367/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
+    }
+  },
+  "58620bd24e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482365",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482365/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
+    }
+  },
+  "f8225f22bd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482362",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482362/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
+    }
+  },
+  "aa0cd05087": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482556",
+      "title": "Software Development Engineer, Amazon Traffic Engineering",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482556/software-development-engineer-amazon-traffic-engineering",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The ServiceLens console Team develops modeling and UI frameworks to simplify the service on boarding experience of internal teams. Our services operate at scale, enables thousands of software development"
+    }
+  },
+  "61cffb4287": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10482609",
+      "title": "Software Development Engineer II, Amazon Music",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10482609/software-development-engineer-ii-amazon-music",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon MusicImagine being a part of an agile team where your ideas have the potential to reach millions. Picture working on consumer-facing products, where every single team member is a critical voice"
+    }
+  },
+  "a005710c27": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Data-Engineer-II-1_R-279726-1",
+      "title": "Data Engineer II-1",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II-1_R-279726-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "0d11da2109": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/Software-Application-Development-Engineer_JR0285646",
+      "title": "Software Application Development Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Software-Application-Development-Engineer_JR0285646",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "f9e9e81c9e": {
+    "company": "PhonePe",
+    "role_type": "fintech",
+    "job": {
+      "id": 7807100003,
+      "title": "Product Solution Engineer 2 - Pune ",
+      "location": {
+        "name": "Pune"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/phonepe/jobs/7807100003",
+      "_source": "greenhouse",
+      "_token": "phonepe",
+      "_content": null
+    }
+  },
+  "120b587511": {
+    "company": "Airbnb",
+    "role_type": "tech",
+    "job": {
+      "id": 8083137,
+      "title": "Operations Engineer, BizTech",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://careers.airbnb.com/positions/8083137?gh_jid=8083137",
+      "_source": "greenhouse",
+      "_token": "airbnb",
+      "_content": null
+    }
+  },
+  "c6c79f6e46": {
+    "company": "Capital One",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-In/Distinguished-Engineer_R236799",
+      "title": "Distinguished Engineer",
+      "location": {
+        "name": "Bangalore, In"
+      },
+      "absolute_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-Engineer_R236799",
+      "_source": "workday",
+      "_token": "capitalone:wd12:Capital_One",
+      "_content": null
+    }
+  },
+  "a4c1024154": {
+    "company": "Zeta",
+    "role_type": "fintech",
+    "job": {
+      "id": "f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+      "title": "SIEM & SecOps Engineer II",
+      "location": {
+        "name": "Hyderabad"
+      },
+      "absolute_url": "https://jobs.lever.co/zeta/f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+      "_source": "lever",
+      "_token": "zeta",
+      "_content": "About us:\nBuild the future of banking.\n\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0\n\n\u00a0\n\nOur impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\n\u00a0\n\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n\n4. Elena, our intelligent and conversational AI platform for banking\n\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\n\u2026and more across cards, payments, lending, and core banking.\n\n\u00a0\n\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work.\n\n\u00a0\n\nIf you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\n\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram, YouTube, and X.\n\n\u00a0\n\nAbout the Role:\n\nWe are looking for a passionate and technically strong Detection Engineer / SOC Analyst to join our Security Operations Centre (SOC). The ideal candidate should have a strong foundation in cybersecurity, be eager to learn, and be capable of contributing to detection engineering, incident response, and the continuous improvement of our cloud-native SIEM platform under the guidance of the SOC Lead."
+    }
+  },
+  "d1de526517": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10463026",
+      "title": "Software Development Engineer, Amazon Device Observability & Troubleshooting Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10463026/software-development-engineer-amazon-device-observability-troubleshooting-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Device Observability & Troubleshooting Team exist to ensure device and application customers have delightful experiences using the product by enabling swift, precise, and privacy-compliant observability"
+    }
+  }
+}

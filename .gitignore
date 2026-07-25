@@ -1,0 +1,23 @@
+@'
+# Secrets & personal data: NEVER commit these to a public repo.
+config.local.json
+resume.md
+
+# Environment
+.venv/
+_pycache_/
+*.pyc
+
+# Generated output / logs
+kits/
+*.log
+tailored_resume.md
+resume_sample.pdf
+test_*.pdf
+import_ok.txt
+job.txt
+
+# Windows / editor cruft
+Thumbs.db
+.DS_Store
+'@ | Set-Content -Path .gitignore -Encoding utf8
