@@ -1,4 +1,4 @@
-# Job-Hunt Automation — How to Use
+# EarlyBird — How to Use
 
 A personal system that discovers relevant India software roles across 162 companies,
 tailors your resume to each, drafts referral outreach, and pushes it all to your phone.
