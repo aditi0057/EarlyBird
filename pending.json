@@ -463,5 +463,35 @@
       "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
+  },
+  "388877dead": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484132",
+      "title": "Sr Software Development Engineer, Selection Monitoring",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484132/sr-software-development-engineer-selection-monitoring",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products from millions of sources to algorithmically find products"
+    }
+  },
+  "dab04b81aa": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10437469",
+      "title": "SDE-1 (Fixed Term Contract)",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10437469/sde-1-fixed-term-contract",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "This is a contractual role for a period of 12 months (direct contract with Amazon)AEE is looking for an experienced Software Development Engineer to work on our expansions tech stacks, which enables to"
+    }
   }
 }
