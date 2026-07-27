@@ -598,5 +598,155 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "bddf0d6418": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484697",
+      "title": "Software Dev Engineer II, Accounting Engineering",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484697/software-dev-engineer-ii-accounting-engineering",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you ready to shape the financial future of Amazon's fastest-growing marketplaces, leveraging the power of AI? Imagine building intelligent systems that ensure accurate financial reporting for millions"
+    }
+  },
+  "f2bceea4de": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484810",
+      "title": "Software Development II, Core Services",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484810/software-development-ii-core-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
+    }
+  },
+  "66ecd6acad": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R170735",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170735",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "965cec87d8": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7687204003,
+      "title": "AI Developer",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7687204003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "cd1dcdccdf": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7601743003,
+      "title": "Forward Deployed Engineer (AP)",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7601743003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "3127b51aac": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/C---Software-Engineer-II_JR0308258",
+      "title": "C++ Developer (Linux) \u2013 Market Data (TCC)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/C---Software-Engineer-II_JR0308258",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "24296a7224": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441609",
+      "title": "Development Engineer 1",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441609",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "83f0ce773e": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441610",
+      "title": "Development Engineer 1",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441610",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "e84fd6e24b": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438799",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438799",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "4f516263e0": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438798",
+      "title": "Development Engineer 3",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438798",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
   }
 }
