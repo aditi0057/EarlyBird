@@ -493,5 +493,110 @@
       "_token": "india",
       "_content": "This is a contractual role for a period of 12 months (direct contract with Amazon)AEE is looking for an experienced Software Development Engineer to work on our expansions tech stacks, which enables to"
     }
+  },
+  "c24c7b77d9": {
+    "company": "Adyen",
+    "role_type": "fintech",
+    "job": {
+      "id": 7219290,
+      "title": "Software Engineer (Java)",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/7219290",
+      "_source": "greenhouse",
+      "_token": "adyen",
+      "_content": null
+    }
+  },
+  "74922e8383": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Pune-IND/Software-Engineer--Java-Node--AWS-_26WD99744-1",
+      "title": "Software Engineer (Java/Node, AWS)",
+      "location": {
+        "name": "Pune, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java-Node--AWS-_26WD99744-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "bab0248566": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440733-1",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440733-1",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "20a9c29610": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3---Software-Development---Engineering_R440734",
+      "title": "Development Engineer 3",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3---Software-Development---Engineering_R440734",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "98dd826679": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Planning---Design_R438768",
+      "title": "Engineer 2, Planning & Design",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Planning---Design_R438768",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "c1c18e042a": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440755",
+      "title": "Engineer 2 - Software Development & Engineering",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440755",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "953da0fcec": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer--1_R439294",
+      "title": "DevOps Engineer -1",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer--1_R439294",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
   }
 }
