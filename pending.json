@@ -748,5 +748,125 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "8e81aa97ab": {
+    "company": "Postman",
+    "role_type": "tech",
+    "job": {
+      "id": 7818501003,
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/postman/jobs/7818501003",
+      "_source": "greenhouse",
+      "_token": "postman",
+      "_content": null
+    }
+  },
+  "e9191f5306": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484875",
+      "title": "Software Development Engineer II , Cross Border Haul Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484875/software-development-engineer-ii-cross-border-haul-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Haul is our strategic response to the rapidly growing value commerce segment, competing directly with CN retailers. We are building the technology that powers ultra-low-price shopping experiences"
+    }
+  },
+  "677e377d2f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484876",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484876/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "caff235206": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484877",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484877/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "78a152c301": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer--Gen-AI--Google-ADK--LangChain-Python_R-551920",
+      "title": "Software Engineer.",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer--Gen-AI--Google-ADK--LangChain-Python_R-551920",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "9d35ad9bf8": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/QA-Engineer---Software-Development-Engineer-Test_R-10391973",
+      "title": "QA Engineer - Software Development Engineer Test",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/QA-Engineer---Software-Development-Engineer-Test_R-10391973",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "4aa26edae8": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India--Virtual--Maharashtra-DTA/Development-Engineer-4_R437109",
+      "title": "Development Engineer 4",
+      "location": {
+        "name": "India \u2013 Virtual \u2013 Maharashtra DTA"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Maharashtra-DTA/Development-Engineer-4_R437109",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "015bed0c04": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India--Virtual--Karnataka-DTA/Development-Engineer-4_R420863",
+      "title": "Business Planning Engineer 4",
+      "location": {
+        "name": "India \u2013 Virtual \u2013 Karnataka DTA"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Karnataka-DTA/Development-Engineer-4_R420863",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
   }
 }
