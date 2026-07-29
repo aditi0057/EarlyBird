@@ -228,6 +228,8 @@
   "Amazon:10484875",
   "Amazon:10484876",
   "Amazon:10484877",
+  "Amazon:10486863",
+  "Amazon:10486910",
   "Atlan:6a9441af-27c7-4519-95c2-8381536cf8b4",
   "Autodesk:/job/APAC---India---Pune---ABIL-Boulevard/Software-Engineer--C----CAD-CAM-_26WD99923-1",
   "Autodesk:/job/Bengaluru-IND/Software-Engineer_26WD99323-2",
@@ -254,6 +256,7 @@
   "ClickHouse:5767816004",
   "Cloudflare:7955378",
   "Coinbase:7558051",
+  "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/C-C---Linux--RDK-Development-Engineer-2_R414059",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer--1_R439294",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441609",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441610",
@@ -266,6 +269,7 @@
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R440144",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441348",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441935",
+  "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R431695",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R437433",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438745",
   "Comcast:/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438798",
@@ -472,5 +476,6 @@
   "Zscaler:5165699007",
   "Zscaler:5177398007",
   "Zscaler:5184114007",
-  "Zscaler:5185335007"
+  "Zscaler:5185335007",
+  "Zscaler:5195925007"
 ]

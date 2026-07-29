@@ -1018,5 +1018,80 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "222ea0f212": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5195925007,
+      "title": "Escalation Engineer - Cloud",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5195925007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "202c2e6b0d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10486910",
+      "title": "Software Development Engineer, AFFS",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10486910/software-development-engineer-affs",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Financials Foundation Services (AFFS), a division within Amazon\u2019s eCommerce Services Organization (eCS) is leading innovation in business systems integration and defining the future of financial"
+    }
+  },
+  "219d3d36cd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10486863",
+      "title": "Sr. SDE, Alexa For Shopping",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10486863/sr-sde-alexa-for-shopping",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "What if you could talk to your Amazon Store? With Alexa+ on Echo Show, customers can now do exactly that. The full Amazon store is live on Echo Show 15 and 21 \u2014 a new way to shop at home that combines"
+    }
+  },
+  "f7f7e782a1": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R431695",
+      "title": "Development Engineer 3",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R431695",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "21b8d461c9": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/C-C---Linux--RDK-Development-Engineer-2_R414059",
+      "title": "C,C++,Linux, RDK Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/C-C---Linux--RDK-Development-Engineer-2_R414059",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
   }
 }
