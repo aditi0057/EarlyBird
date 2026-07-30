@@ -614,21 +614,6 @@
       "_content": null
     }
   },
-  "8e81aa97ab": {
-    "company": "Postman",
-    "role_type": "tech",
-    "job": {
-      "id": 7818501003,
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/postman/jobs/7818501003",
-      "_source": "greenhouse",
-      "_token": "postman",
-      "_content": null
-    }
-  },
   "e9191f5306": {
     "company": "Amazon",
     "role_type": "tech",
