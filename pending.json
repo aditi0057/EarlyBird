@@ -794,36 +794,6 @@
       "_content": null
     }
   },
-  "21d21a5bb6": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer--Gen-AI--Google-ADK--LangChain-Python-_R-551889",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer--Gen-AI--Google-ADK--LangChain-Python-_R-551889",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "f3e9a9f04e": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer_R-563727",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-563727",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
   "7074dca12b": {
     "company": "Wells Fargo",
     "role_type": "fintech",
@@ -899,21 +869,6 @@
       "_content": null
     }
   },
-  "202c2e6b0d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10486910",
-      "title": "Software Development Engineer, AFFS",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10486910/software-development-engineer-affs",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Financials Foundation Services (AFFS), a division within Amazon\u2019s eCommerce Services Organization (eCS) is leading innovation in business systems integration and defining the future of financial"
-    }
-  },
   "219d3d36cd": {
     "company": "Amazon",
     "role_type": "tech",
@@ -974,21 +929,6 @@
       "_content": null
     }
   },
-  "3fb60f3d93": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 8026201,
-      "title": "Software Engineer (L1)",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8026201",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
   "37607c1791": {
     "company": "Twilio",
     "role_type": "tech",
@@ -1001,36 +941,6 @@
       "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
       "_source": "greenhouse",
       "_token": "twilio",
-      "_content": null
-    }
-  },
-  "1204e529de": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10486982",
-      "title": "Software Development Engineer, FBA",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10486982/software-development-engineer-fba",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "READY TO UNLOCK FBA'S NEXT CHAPTER?Fulfillment by Amazon (FBA) is the service that lets sellers worldwide leverage Amazon's world-class logistics infrastructure \u2014 storage, fulfillment, delivery, returns"
-    }
-  },
-  "c0188772d0": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Analyst--AI-Engineer_R264433-1",
-      "title": "Analyst, AI Engineer",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--AI-Engineer_R264433-1",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
       "_content": null
     }
   },
