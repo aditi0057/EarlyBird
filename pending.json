@@ -1,49 +1,4 @@
 {
-  "3fe8b85a59": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441348",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R441348",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "fc6f50cf9f": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering---SDET_R436624",
-      "title": "Engineer 3, Software Development & Engineering - SDET",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering---SDET_R436624",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "33a077326c": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R432741",
-      "title": "Development Engineer 5 (RDKV Architecture)",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R432741",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "4945f14ccb": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1089,6 +1044,156 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R435231",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "4a4b934e1e": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8632126002,
+      "title": "Full Stack Developer (AI Agents)",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "818c84beac": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488199",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "7052c37bea": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488109",
+      "title": "Software Development Engineer II, Amazon B2B Payments and Lending (ABPL)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488109/software-development-engineer-ii-amazon-b2b-payments-and-lending-abpl",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Welcome to join a fast-growing team breaking new grounds at Amazon. We are looking for Software Development Engineers to join our Family. If you can Think Big, Dive Deep and are curious to Learn, you have"
+    }
+  },
+  "adcb4a1eb6": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488045",
+      "title": "Software Development Engineer I FTC",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
+    }
+  },
+  "13424d9449": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488049",
+      "title": "Software Development Engineer II, Affordability (Exchange)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488049/software-development-engineer-ii-affordability-exchange",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Exchange platform is an India-first affordability initiative. The program allows customers to return their old devices and get a discount on the new devices that they are purchasing. Since the program's"
+    }
+  },
+  "f5e3140336": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R170776",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170776",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "94cb4b46dc": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Site-Reliability-Engineer-II_R-284401",
+      "title": "Site Reliability Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-284401",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "34fed335d5": {
+    "company": "Netskope",
+    "role_type": "tech",
+    "job": {
+      "id": 8088812,
+      "title": "Sr. Software Development Engineer in Test , Performance QE",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8088812",
+      "_source": "greenhouse",
+      "_token": "netskope",
+      "_content": null
+    }
+  },
+  "2d49c3a3ed": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/AI-Engineer_R-542087",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/AI-Engineer_R-542087",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "e35271d62c": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
+      "title": "Development Engineer 2 ( C++)",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
