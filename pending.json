@@ -1,64 +1,4 @@
 {
-  "4945f14ccb": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430173",
-      "title": "Development Engineer 5",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430173",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "79533a99bd": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430158",
-      "title": "Development Engineer 5",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-5_R430158",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "62c2ecf04e": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8644274002,
-      "title": "Site Reliability Engineer - Dedicated Hosted Runners",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8644274002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "06a00ff1a1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10482790",
-      "title": "Software Development Engineer II, Amazon Finance Technology",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10482790/software-development-engineer-ii-amazon-finance-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building high-performance, scalable financial systems that support Amazon's current and future growth? Are you looking for ways to invent newer and simpler ways of building solutions?"
-    }
-  },
   "db6057b588": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "480aef639a": {
+    "company": "Coinbase",
+    "role_type": "fintech",
+    "job": {
+      "id": 7985187,
+      "title": "Machine Learning Engineer",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+      "_source": "greenhouse",
+      "_token": "coinbase",
+      "_content": null
+    }
+  },
+  "bc7c2edb89": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488846",
+      "title": "Software Dev Engineer II, Amazon Customer Service - Concessions Team, CS Fixed Corp",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488846/software-dev-engineer-ii-amazon-customer-service-concessions-team-cs-fixed-corp",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth's most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "9ebcb8de5d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10488839",
+      "title": "Software Dev Engineer II, Amazon Customer Service",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10488839/software-dev-engineer-ii-amazon-customer-service",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "97b9415e98": {
+    "company": "Adyen",
+    "role_type": "fintech",
+    "job": {
+      "id": 8045872,
+      "title": "Software Engineer (Java) - Authentication & Tokenization",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8045872",
+      "_source": "greenhouse",
+      "_token": "adyen",
       "_content": null
     }
   }
