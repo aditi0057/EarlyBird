@@ -1,64 +1,4 @@
 {
-  "c6c79f6e46": {
-    "company": "Capital One",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-In/Distinguished-Engineer_R236799",
-      "title": "Distinguished Engineer",
-      "location": {
-        "name": "Bangalore, In"
-      },
-      "absolute_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-Engineer_R236799",
-      "_source": "workday",
-      "_token": "capitalone:wd12:Capital_One",
-      "_content": null
-    }
-  },
-  "a4c1024154": {
-    "company": "Zeta",
-    "role_type": "fintech",
-    "job": {
-      "id": "f140e9d7-8d0c-4e24-bace-8568385b6f5c",
-      "title": "SIEM & SecOps Engineer II",
-      "location": {
-        "name": "Hyderabad"
-      },
-      "absolute_url": "https://jobs.lever.co/zeta/f140e9d7-8d0c-4e24-bace-8568385b6f5c",
-      "_source": "lever",
-      "_token": "zeta",
-      "_content": "About us:\nBuild the future of banking.\n\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0\n\n\u00a0\n\nOur impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\n\u00a0\n\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n\n4. Elena, our intelligent and conversational AI platform for banking\n\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\n\u2026and more across cards, payments, lending, and core banking.\n\n\u00a0\n\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work.\n\n\u00a0\n\nIf you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\n\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram, YouTube, and X.\n\n\u00a0\n\nAbout the Role:\n\nWe are looking for a passionate and technically strong Detection Engineer / SOC Analyst to join our Security Operations Centre (SOC). The ideal candidate should have a strong foundation in cybersecurity, be eager to learn, and be capable of contributing to detection engineering, incident response, and the continuous improvement of our cloud-native SIEM platform under the guidance of the SOC Lead."
-    }
-  },
-  "d1de526517": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10463026",
-      "title": "Software Development Engineer, Amazon Device Observability & Troubleshooting Team",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10463026/software-development-engineer-amazon-device-observability-troubleshooting-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Device Observability & Troubleshooting Team exist to ensure device and application customers have delightful experiences using the product by enabling swift, precise, and privacy-compliant observability"
-    }
-  },
-  "5c308639ce": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10484049",
-      "title": "Software Development Engineer -1, IESP Merchant Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10484049/software-development-engineer-1-iesp-merchant-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
   "03d6af922a": {
     "company": "FIS",
     "role_type": "fintech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-553175",
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "2c94b508ef": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10489776",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10489776/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "69d5487749": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10489852",
+      "title": "Software Development Engineer II, Amazon Music Automotive Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10489852/software-development-engineer-ii-amazon-music-automotive-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist"
+    }
+  },
+  "38832d9e8e": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer---Java-full-stack-engineer_R-563698",
+      "title": "Software Engineer - Java full stack engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-full-stack-engineer_R-563698",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "d09db6dba3": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-3_R442175",
+      "title": "DevOps Engineer 3",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-3_R442175",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
   }
