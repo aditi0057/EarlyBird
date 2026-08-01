@@ -128,6 +128,12 @@ def render_resume(data, out_path):
             pdf.write(4.9, _ascii(value))
             pdf.ln(5.2)
 
+    # ---- Certifications ----
+    certs = data.get("certifications", [])
+    if certs:
+        _section(pdf, "Certifications")
+        _bullets(pdf, certs)
+
     # ---- Achievements ----
     ach = data.get("achievements", [])
     if ach:

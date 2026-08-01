@@ -260,6 +260,7 @@ Return ONLY valid JSON with EXACTLY this shape:
     "experience": [{{"org": "", "role": "", "dates": "", "bullets": ["", ""]}}],
     "projects": [{{"name": "", "tech": "", "bullets": ["", ""]}}],
     "skills": {{"Category Name": "comma-separated values"}},
+    "certifications": ["", ""],
     "achievements": ["", ""]
   }},
   "fit": "2-3 sentences: how strong a fit, and one concrete tip (e.g. get a referral).",

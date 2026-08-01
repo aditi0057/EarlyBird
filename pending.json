@@ -1198,5 +1198,35 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "5c308639ce": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10484049",
+      "title": "Software Development Engineer -1, IESP Merchant Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10484049/software-development-engineer-1-iesp-merchant-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "03d6af922a": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
+      "title": "Java Developer (Core Java, J2EE, Spring & Angular)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
   }
 }
