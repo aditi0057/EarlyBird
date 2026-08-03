@@ -1,64 +1,4 @@
 {
-  "03d6af922a": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
-      "title": "Java Developer (Core Java, J2EE, Spring & Angular)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "388877dead": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10484132",
-      "title": "Sr Software Development Engineer, Selection Monitoring",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10484132/sr-software-development-engineer-selection-monitoring",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products from millions of sources to algorithmically find products"
-    }
-  },
-  "dab04b81aa": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10437469",
-      "title": "SDE-1 (Fixed Term Contract)",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10437469/sde-1-fixed-term-contract",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "This is a contractual role for a period of 12 months (direct contract with Amazon)AEE is looking for an experienced Software Development Engineer to work on our expansions tech stacks, which enables to"
-    }
-  },
-  "c24c7b77d9": {
-    "company": "Adyen",
-    "role_type": "fintech",
-    "job": {
-      "id": 7219290,
-      "title": "Software Engineer (Java)",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/7219290",
-      "_source": "greenhouse",
-      "_token": "adyen",
-      "_content": null
-    }
-  },
   "74922e8383": {
     "company": "Autodesk",
     "role_type": "tech",
@@ -1214,19 +1154,49 @@
       "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
     }
   },
-  "03d6af922a": {
-    "company": "FIS",
-    "role_type": "fintech",
+  "4d2f5dfda5": {
+    "company": "OpenAI",
+    "role_type": "tech",
     "job": {
-      "id": "/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
-      "title": "Java Developer (Core Java, J2EE, Spring & Angular)",
+      "id": "bf036b23-cd23-46d0-a02f-4b1483f4698a",
+      "title": "AI Deployment Engineer",
       "location": {
-        "name": "IND PUNE FL7"
+        "name": "Delhi, India"
       },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Java-Developer--Core-Java--J2EE--Spring---Angular-_JR0307909",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
+      "absolute_url": "https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a",
+      "_source": "ashby",
+      "_token": "openai",
+      "_content": "About the Team\n\nThe AI Deployment Engineering team is responsible for ensuring the safe and effective deployment of Generative AI applications for developers and enterprises. We act as a trusted advisor and thought partner for our customers, working to build an effective backlog of GenAI use cases for their industry and drive them to production through strong technical guidance. As an AI Deployment Engineer, you\u2019ll help the largest companies transform their business through solutions such as customer service, automated content generation, and novel applications that make use of our newest, most exciting models.\n\n\n\nAbout the Role\n\nWe are looking for a driven solutions leader with a product mindset to partner with our customers and ensure they achieve tangible business value with GenAI. You will pair with senior customer leaders to establish a GenAI strategy and identify the highest value applications. You\u2019ll then partner with their technical teams to move from prototype through production. You\u2019ll take a holistic view of their needs and design an enterprise architecture using ChatGPT, OpenAI API, and other services to maximize customer value. You will collaborate closely with Sales, Solutions Engineering, Applied Research, and Product teams, and you will report to the Head of Technical Success, APAC.\n\nThis role can be based in Delhi, Mumbai or Bangalore. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees\n\n\n\nIn this role, you will:\n\n - Deeply embed with our most strategic platform customers as the technical lead, serving as their technical thought partner to ideate and build novel applications on our API.\n\n - Work with senior customer stakeholders to identify the best applications of GenAI in their industry and to build/qualify a comprehensive backlog to support their AI roadmap.\n\n - Intervene directly to accelerate customer time to value through building hands-on prototypes and/or by delivering impactful strategic guidance.\n\n - Forge and manage relationships with our customers\u2019 leadership and stakeholders to ensure the successful deployment and scale of their applications.\n\n - Contribute to our open-source developer and enterprise resources.\n\n - Scale the Solutions Architect function through sharing knowledge, codifying best practices, and publishing notebooks to our internal and external repositories.\n\n - Validate, synthesize, and deliver high-signal feedback to the Product and Research teams.\n\n\n\nYou\u2019ll thrive in this role if you:\n\n - Have 6+ years of technical consulting (or equivalent) experience, bridging technical teams and senior business stakeholders.\n\n - Are an effective and polished communicator who can translate business and technical topics to all audiences.\n\n - Have led complex implementations of Generative AI/traditional ML solutions and have knowledge of network/cloud architecture.\n\n - Have industry experience in programming languages like Python or Javascript.\n\n - Own problems end-to-end and are willing to pick up whatever knowledge you're missing to get the job done.\n\n - Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.\n\n - Are an effective, high throughput operator who can drive multiple concurrent projects and prioritize ruthlessly. \n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology."
+    }
+  },
+  "18c65dc325": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10490003",
+      "title": "Software Development Engineer III, Amazon Now ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10490003/software-development-engineer-iii-amazon-now",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is building India's Quick Commerce offering, delivering everyday essentials to customers in minutes. We are building world-class technology that powers store launches at scale, curates hyper-local"
+    }
+  },
+  "05a4b1d17e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10489940",
+      "title": "Software Development Engineer II, Customer Experience Infrastructure (CXI)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10489940/software-development-engineer-ii-customer-experience-infrastructure-cxi",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "If you\u2019re excited about solving deep technical challenges and building innovative software that directly influences how Amazon Now Dark Stores and fulfillment centers are designed and launched from the"
     }
   }
 }
