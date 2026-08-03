@@ -1,154 +1,4 @@
 {
-  "74922e8383": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Pune-IND/Software-Engineer--Java-Node--AWS-_26WD99744-1",
-      "title": "Software Engineer (Java/Node, AWS)",
-      "location": {
-        "name": "Pune, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java-Node--AWS-_26WD99744-1",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "bab0248566": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440733-1",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440733-1",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "20a9c29610": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3---Software-Development---Engineering_R440734",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3---Software-Development---Engineering_R440734",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "98dd826679": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Planning---Design_R438768",
-      "title": "Engineer 2, Planning & Design",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Planning---Design_R438768",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "c1c18e042a": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440755",
-      "title": "Engineer 2 - Software Development & Engineering",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2---Software-Development---Engineering_R440755",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "953da0fcec": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer--1_R439294",
-      "title": "DevOps Engineer -1",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer--1_R439294",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "bddf0d6418": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10484697",
-      "title": "Software Dev Engineer II, Accounting Engineering",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10484697/software-dev-engineer-ii-accounting-engineering",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you ready to shape the financial future of Amazon's fastest-growing marketplaces, leveraging the power of AI? Imagine building intelligent systems that ensure accurate financial reporting for millions"
-    }
-  },
-  "f2bceea4de": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10484810",
-      "title": "Software Development II, Core Services",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10484810/software-development-ii-core-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
-    }
-  },
-  "66ecd6acad": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer_R170735",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170735",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "965cec87d8": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 7687204003,
-      "title": "AI Developer",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7687204003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
   "cd1dcdccdf": {
     "company": "HighRadius",
     "role_type": "fintech",
@@ -1197,6 +1047,156 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "If you\u2019re excited about solving deep technical challenges and building innovative software that directly influences how Amazon Now Dark Stores and fulfillment centers are designed and launched from the"
+    }
+  },
+  "dd5eaeca41": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 8083366,
+      "title": "Software Engineer 3",
+      "location": {
+        "name": "Gurugram"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "df8d75d090": {
+    "company": "Snowflake",
+    "role_type": "data",
+    "job": {
+      "id": "6ced2190-98f0-4ca0-b128-ef655e38d0be",
+      "title": "Analytics Engineer - Finance",
+      "location": {
+        "name": "IN-Pune"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/snowflake/6ced2190-98f0-4ca0-b128-ef655e38d0be",
+      "_source": "ashby",
+      "_token": "snowflake",
+      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAbout Snowflake\n\nSnowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. We are now a global, world-class organization with offices in more than a dozen countries and serving many more.\n\nThis role requires in-person attendance in our Pune office at least 3 days per week.\n\nJob Description\n\nWe are looking for an Analytics Engineer to join our growing Finance Analytics Engineering team. In this role, you will drive value and empower decision-making by developing and maintaining the data infrastructure which fuels reporting and analysis for the Finance organization and has a direct impact on Snowflake\u2019s success as a company. As an Analytics Engineer, you will be responsible for the following:\n\n - Use SQL, Python, Snowflake, dbt, Airflow, and other systems while working within an agile development model to build and maintain data infrastructure for use in reporting, analysis, and automation\n\n - Perform data QA and develop automated testing procedures for use with Snowflake data models\n\n - Translate reporting, analysis, and automation requirements into data model requirements and specifications\n\n - Work with IT and other technical stakeholders to source data from key business systems and Snowflake databases\n\n - Architect flexible, performant data models that will support a wide range of use cases while driving the organization towards single sources of truth\n\n - Provide input into data governance strategies and frameworks including permissions and security models, data lineage systems, and data definitions\n\n - Meet regularly with Finance BI and technical leads to define requirements, formulate project plans, provide status updates, and perform user testing and QA\n\n - Build and maintain user friendly documentation for data models and key metrics\n\n - Identify weaknesses in processes, data, and systems, and drive organizational improvements within the Analytics Engineering team\n\nWhat You Will Need\n\nRequired skills:\n\n - 3+ years of experience working as an analytics, data, or BI engineer\n\n - Advanced SQL skills with experience standardizing queries and building data infrastructure involving large-scale relational datasets\n\n - Experience using Python to parse, structure, and transform data\n\n - Experience with MPP databases such as Snowflake, Redshift, BigQuery, or other relevant technologies\n\n - Ability to communicate in an effective and efficient manner while working with a wide range of stakeholders\n\n - Ability to prioritize and execute tasks in a high-pressure, constantly changing environment\n\n - Ability to think creatively to solve problems\n\n - An impulse for introducing structure and simplicity into vague, complex problems\n\n - An obsession for detail and quality\n\n - An ability to identify weaknesses in data and process, and a willingness to drive improvement\n\n - A bias for action\n\nPreferred skills:\n\n - Experience with ERP and Financial Planning tools\n\n - Experience using Python to parse, structure, and transform data\n\n - Experience working with CI/CD pipelines\n\n - Experience leading or working within a scrum, sprint, or other agile framework\n\n - Past experience supporting product or product finance stakeholders\n\n - Experience working with cost attribution models for SaaS products and tying products out to CSP cost reports\n\n - Familiarity with cloud cost management and understanding of cost structures in cloud environments (e.g. FOCUS Framework)\n\n - Demonstrated experience in cloud computing platforms (e.g., AWS, Azure, Google Cloud)\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
+    }
+  },
+  "9fd01015fc": {
+    "company": "Fivetran",
+    "role_type": "data",
+    "job": {
+      "id": 7798460003,
+      "title": " Software Development Engineer in Test II ",
+      "location": {
+        "name": "Bengaluru, Karnataka, India, APAC"
+      },
+      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=7798460003",
+      "_source": "greenhouse",
+      "_token": "fivetran",
+      "_content": null
+    }
+  },
+  "4b1a6d53a6": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering--MTS-SMTS--Salesforce-Developer-_JR318187-1",
+      "title": "Salesforce Developer (Software Engineering, MTS/SMTS)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS-SMTS--Salesforce-Developer-_JR318187-1",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "bd1f61b2d6": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7107816003,
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7107816003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "dfeeebc41b": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7608435003,
+      "title": "Software Development Engineer - IV",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7608435003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "99d61c2d40": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-Tech-Park/AI-Python-Full-stack-engineer--AVP_R0425938-1",
+      "title": "AI Python Full stack engineer, AVP",
+      "location": {
+        "name": "Bangalore, Velankani Tech Park"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/AI-Python-Full-stack-engineer--AVP_R0425938-1",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "5d5eed6b57": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Mainframe-Developer_R-10399606-1",
+      "title": "Mainframe Developer",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Mainframe-Developer_R-10399606-1",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "f4a36608df": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437352",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437352",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "b91f07d04e": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R441022",
+      "title": "Engineer 3, Software Development & Engineering",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R441022",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
     }
   }
 }
