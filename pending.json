@@ -1,94 +1,4 @@
 {
-  "cd1dcdccdf": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 7601743003,
-      "title": "Forward Deployed Engineer (AP)",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7601743003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
-  "3127b51aac": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/C---Software-Engineer-II_JR0308258",
-      "title": "C++ Developer (Linux) \u2013 Market Data (TCC)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/C---Software-Engineer-II_JR0308258",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "24296a7224": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441609",
-      "title": "Development Engineer 1",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441609",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "83f0ce773e": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441610",
-      "title": "Development Engineer 1",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-1_R441610",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e84fd6e24b": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438799",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438799",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "4f516263e0": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438798",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R438798",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "e9191f5306": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1194,6 +1104,96 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R441022",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "2f4f8ba138": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10490592",
+      "title": "Software Development Engineer 2, Amazon Tax Services",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10490592/software-development-engineer-2-amazon-tax-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
+    }
+  },
+  "d9c57a89c7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10491230",
+      "title": "Software Development Engineer II, Detail Page",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10491230/software-development-engineer-ii-detail-page",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com\u2019s Product Detail Page team is looking for talented, motivated  and passionate software developers to be part of the design and  development of a highly scalable multi-tiered shopping application"
+    }
+  },
+  "1c5470ee0f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10490860",
+      "title": "Software Dev Engineer, Payroll Integrations",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10490860/software-dev-engineer-payroll-integrations",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Payroll Technology organization is building the future of payroll processing at unprecedented scale \u2014 serving over 1.7 million employees across 50+ countries. We are looking for a Software Development"
+    }
+  },
+  "2a92b8f3d0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10491197",
+      "title": "Software Development Engineer, FinTech General Ledger",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10491197/software-development-engineer-fintech-general-ledger",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
+    }
+  },
+  "b16497035e": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Engineer-2_R170080",
+      "title": "Software Engineer 2",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Engineer-2_R170080",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "643a8f595e": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R441473",
+      "title": "Quality and Automation Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R441473",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
