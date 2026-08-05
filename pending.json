@@ -854,21 +854,6 @@
       "_content": "Amazon's Payroll Technology organization is building the future of payroll processing at unprecedented scale \u2014 serving over 1.7 million employees across 50+ countries. We are looking for a Software Development"
     }
   },
-  "2a92b8f3d0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491197",
-      "title": "Software Development Engineer, FinTech General Ledger",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491197/software-development-engineer-fintech-general-ledger",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
-    }
-  },
   "b16497035e": {
     "company": "Adobe",
     "role_type": "tech",
@@ -959,36 +944,6 @@
       "_content": null
     }
   },
-  "776fd65335": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491410",
-      "title": "Software Development Engineer, Ads Campaign Management ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491410/software-development-engineer-ads-campaign-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Advertising is one of Amazon's fastest growing and most profitable businesses, responsible for defining and delivering AI-powered solutions that transform how advertisers make strategic decisions."
-    }
-  },
-  "81847f2749": {
-    "company": "Morgan Stanley",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Software-Engineer---Parametric_PT-JR041792",
-      "title": "Software Engineer - Parametric",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Software-Engineer---Parametric_PT-JR041792",
-      "_source": "workday",
-      "_token": "ms:wd5:External",
-      "_content": null
-    }
-  },
   "cf9b200bb3": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1064,36 +1019,6 @@
       "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
     }
   },
-  "bd5e7e7e49": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491646",
-      "title": "Software Development Engineer , Amazon Lending",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491646/software-development-engineer-amazon-lending",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you a driven Software Development Engineer who wants to have a direct impact on customers and the team? Do you enjoy building flexible, performant and extensible solutions for complex financial and"
-    }
-  },
-  "de6af9643c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491966",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491966/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about AWS performance and creating a reliable, high-quality datapipeline  that directly impact executive leadership decisions? Join our CXBT team as a Manager III, Software Development,"
-    }
-  },
   "e71b1c9b92": {
     "company": "Target",
     "role_type": "tech",
@@ -1106,21 +1031,6 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000441054",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "94d6edbb11": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/Software-Application-Development-Engineer_JR0286151",
-      "title": "Software Application Development Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Software-Application-Development-Engineer_JR0286151",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
       "_content": null
     }
   },
