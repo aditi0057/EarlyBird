@@ -179,21 +179,6 @@
       "_content": null
     }
   },
-  "4a4b934e1e": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 8632126002,
-      "title": "Full Stack Developer (AI Agents)",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
   "818c84beac": {
     "company": "Amazon",
     "role_type": "tech",
