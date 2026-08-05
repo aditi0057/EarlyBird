@@ -254,21 +254,6 @@
       "_content": "Exchange platform is an India-first affordability initiative. The program allows customers to return their old devices and get a discount on the new devices that they are purchasing. Since the program's"
     }
   },
-  "f5e3140336": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer_R170776",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170776",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
   "94cb4b46dc": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -299,21 +284,6 @@
       "_content": null
     }
   },
-  "2d49c3a3ed": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/AI-Engineer_R-542087",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/AI-Engineer_R-542087",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
   "e35271d62c": {
     "company": "Comcast",
     "role_type": "tech",
@@ -326,21 +296,6 @@
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "480aef639a": {
-    "company": "Coinbase",
-    "role_type": "fintech",
-    "job": {
-      "id": 7985187,
-      "title": "Machine Learning Engineer",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
-      "_source": "greenhouse",
-      "_token": "coinbase",
       "_content": null
     }
   },
@@ -374,21 +329,6 @@
       "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
     }
   },
-  "97b9415e98": {
-    "company": "Adyen",
-    "role_type": "fintech",
-    "job": {
-      "id": 8045872,
-      "title": "Software Engineer (Java) - Authentication & Tokenization",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8045872",
-      "_source": "greenhouse",
-      "_token": "adyen",
-      "_content": null
-    }
-  },
   "3caee1e90b": {
     "company": "Okta",
     "role_type": "tech",
@@ -402,36 +342,6 @@
       "_source": "greenhouse",
       "_token": "okta",
       "_content": null
-    }
-  },
-  "126acfee9c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10489048",
-      "title": "Software Development Engineer (Prime Video), Sports Immersive Experience ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10489048/software-development-engineer-prime-video-sports-immersive-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems? Looking forward to work with a team of highly competent software engineers ranging"
-    }
-  },
-  "a729425f64": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10489022",
-      "title": "Software Development Engineer, WWOSTech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10489022/software-development-engineer-wwostech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever wanted to solve a mystery or be part of solving a case? Are you fascinated by detective stories or crime shows on TV? Do you love the challenge of building innovative software products (leveraging"
     }
   },
   "bd30d479b9": {
