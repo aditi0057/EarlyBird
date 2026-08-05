@@ -464,36 +464,6 @@
       "_content": null
     }
   },
-  "707e89d816": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-engineer--DevSecOps-_R-282027",
-      "title": "Software engineer (DevSecOps)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-engineer--DevSecOps-_R-282027",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "682b55959b": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-engineer_R-281108",
-      "title": "Software engineer",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-engineer_R-281108",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "6e1c0f84d6": {
     "company": "HP",
     "role_type": "tech",
@@ -524,36 +494,6 @@
       "_content": null
     }
   },
-  "ea49d15c06": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer_R-553175",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-553175",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "2c94b508ef": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10489776",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10489776/software-development-engineer-concessions-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
-    }
-  },
   "69d5487749": {
     "company": "Amazon",
     "role_type": "tech",
@@ -567,21 +507,6 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist"
-    }
-  },
-  "38832d9e8e": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---Java-full-stack-engineer_R-563698",
-      "title": "Software Engineer - Java full stack engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-full-stack-engineer_R-563698",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
     }
   },
   "d09db6dba3": {
@@ -837,21 +762,6 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon.com\u2019s Product Detail Page team is looking for talented, motivated  and passionate software developers to be part of the design and  development of a highly scalable multi-tiered shopping application"
-    }
-  },
-  "1c5470ee0f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10490860",
-      "title": "Software Dev Engineer, Payroll Integrations",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10490860/software-dev-engineer-payroll-integrations",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Payroll Technology organization is building the future of payroll processing at unprecedented scale \u2014 serving over 1.7 million employees across 50+ countries. We are looking for a Software Development"
     }
   },
   "b16497035e": {
