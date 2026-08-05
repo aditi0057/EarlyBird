@@ -928,5 +928,155 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "f05fc29844": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8556658002,
+      "title": "AI Engineer",
+      "location": {
+        "name": "Remote, Bangalore"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "6de18854c0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10492686",
+      "title": "Software Development Engineer - II, Verification Services-Fixed",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10492686/software-development-engineer-ii-verification-services-fixed",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
+    }
+  },
+  "59d30bb874": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10491198",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10491198/software-development-engineer-fixed-asset-automation-faa",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about finding patterns in seemingly disparate problems? Does working closely with the customers to drive innovation excite you? Interested in building high-performance, globally scalable"
+    }
+  },
+  "2e539ec359": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10466980",
+      "title": "Software Dev Engineer II, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10466980/software-dev-engineer-ii-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join Alexa Connections and Revolutionize How the World Connects!Are you ready to shape the future of voice-driven communication? The Contacts team within Alexa Connections is seeking exceptional Software"
+    }
+  },
+  "a2aaccf0e2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10424933",
+      "title": "Software Development Engineer II,  Digital Pricing and Competitive Intelligence (D-PRICIQ ), Digital Acceleration",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10424933/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We invite you to be part of a high-impact team that is shaping the future of pricing at Amazon. The Digital Pricing team is at the forefront of leveraging AI and machine learning to compute millions of"
+    }
+  },
+  "96cf244173": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-286702",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-286702",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "ba51f7d492": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/AI-Engineer_R-279646",
+      "title": "AI Engineer",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/AI-Engineer_R-279646",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "6ac73af492": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5213979008,
+      "title": "Partner Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5213979008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "4a9f6afe6b": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Engineer-II--Software_JR0307626",
+      "title": "Engineer II, Software",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Software_JR0307626",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "40339fddb6": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--DevOps_R439081",
+      "title": "Engineer 2, DevOps",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--DevOps_R439081",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
   }
 }
