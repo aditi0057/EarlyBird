@@ -1064,21 +1064,6 @@
       "_content": null
     }
   },
-  "00f8a989e2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10493777",
-      "title": "Software Dev Engineer I,  EMXO- Payments",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10493777/software-dev-engineer-i-emxo-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Software Development Engineer I (SDE I) \u2013 Java Developer is an entry-level engineering role responsible for designing, developing, testing, and maintaining scalable software solutions using Java and"
-    }
-  },
   "12821a2f86": {
     "company": "Amazon",
     "role_type": "tech",
