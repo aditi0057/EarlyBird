@@ -1,64 +1,4 @@
 {
-  "37607c1791": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 8079801,
-      "title": "Software Engineer L3",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8079801",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
-  "bfeb8bae55": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/India-Pune-Offsite/Payments---Cards-QA-Engineer--AS_R0439258",
-      "title": "Payments & Cards QA Engineer, AS",
-      "location": {
-        "name": "India, Pune, Offsite"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/India-Pune-Offsite/Payments---Cards-QA-Engineer--AS_R0439258",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "3250194473": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-India/Sr-Associate--Software-Development-Engineering_R-10398694",
-      "title": "Sr Associate, Software Development Engineering",
-      "location": {
-        "name": "Chennai, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Sr-Associate--Software-Development-Engineering_R-10398694",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "e183f835ea": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Machine-Learning_R438473",
-      "title": "Engineer 2 - Machine Learning",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Machine-Learning_R438473",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "4e1de359f6": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1106,6 +1046,156 @@
       "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265844",
       "_source": "workday",
       "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "f0bcd25767": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5202460007,
+      "title": "Sr. Software Development Engineer",
+      "location": {
+        "name": "Bangalore, IND; Mohali, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5202460007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "dda2e0d002": {
+    "company": "CRED",
+    "role_type": "fintech",
+    "job": {
+      "id": "58dfc330-090b-4318-a395-cc7280cf5065",
+      "title": "web developer - Prefr",
+      "location": {
+        "name": "hyderabad"
+      },
+      "absolute_url": "https://jobs.lever.co/cred/58dfc330-090b-4318-a395-cc7280cf5065",
+      "_source": "lever",
+      "_token": "cred",
+      "_content": "Prefr (a brand under Dreamplug Technologies Pvt. Ltd. / CRED) is a tech-first fintech\u00a0platform reshaping how India\u2019s digital-first generation experiences credit. We currently\u00a0offer instant personal loans from \u20b950,000 to \u20b95,00,000 through a seamless,\u00a0end-to-end digital journey \u2014 serving India\u2019s creditworthy yet underserved segments, in\u00a0partnership with RBI-approved top-tier financial institutions. Our mission to become\u00a0the largest platform for delivering fast, transparent, and trusted credit for the millions -by bringing together distribution depth, AI-driven intelligence & multi-lender access.\n"
+    }
+  },
+  "6e6d4f3b41": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10494547",
+      "title": "Software Development Engineer, Alexa Audio",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10494547/software-development-engineer-alexa-audio",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "As Alexa Audio, we own the audio experiences on Alexa enabled devices. These experiences include Music, Podcast, Audio Books, Radio, and Ambient soundscapes. Our integration skill kits enable seamless"
+    }
+  },
+  "892d89d1d2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10421890",
+      "title": "Software Development Engineer (SDE2) - Fire TV Devices Content & Ads (DCA), (5, T03141), FTVC Partner Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10421890/software-development-engineer-sde2-fire-tv-devices-content-ads-dca-5-t03141-ftvc-partner-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to re-invent how 10s of millions of people enjoy shows and movies on their TVs and Tablets? Fire TV Devices Content & Ads (DCA) builds upon innovations to Amazon Fire TV, the #1 streaming media"
+    }
+  },
+  "c9b6a1464d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10426888",
+      "title": "Software Development Engineer, Fintech, TFAW",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10426888/software-development-engineer-fintech-tfaw",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to be part of a team building big data and machine learning applications that process and analyze transactions worth billions of dollars a day using the latest technology? Do you want to make"
+    }
+  },
+  "3c63472405": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10417493",
+      "title": "Software Development Engineer, E-reader Software",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10417493/software-development-engineer-e-reader-software",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Have you ever wanted to be part of a team that builds highly efficient operating system for E-reader? Amazon's E-reader team owns full stack device platform, Productivity offering built on GenAI, LLM,"
+    }
+  },
+  "47b8f074d8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10412587",
+      "title": "Software Development Engineer, Alexa Endpoint Experiences",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10412587/software-development-engineer-alexa-endpoint-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "This position is for Echo Show Home team which owns the face of the device through home screen being one of the most monetized surface on EFD. Home coupled with Alexa+ agent (proactive and persistent content"
+    }
+  },
+  "3b18f8dece": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Associate--Application-Engineer_R264572",
+      "title": "Associate, Application Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Associate--Application-Engineer_R264572",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "58236b3983": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 7774637003,
+      "title": "Software Engineer II - Entity Intelligence",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/7774637003?gh_jid=7774637003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "d230b220bf": {
+    "company": "Netskope",
+    "role_type": "tech",
+    "job": {
+      "id": 8110788,
+      "title": "Sr. Software Engineer, DSPM ( Chenfang )",
+      "location": {
+        "name": "India"
+      },
+      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8110788",
+      "_source": "greenhouse",
+      "_token": "netskope",
       "_content": null
     }
   }
