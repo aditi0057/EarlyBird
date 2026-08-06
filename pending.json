@@ -1063,5 +1063,65 @@
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
+  },
+  "00f8a989e2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10493777",
+      "title": "Software Dev Engineer I,  EMXO- Payments",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10493777/software-dev-engineer-i-emxo-payments",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Software Development Engineer I (SDE I) \u2013 Java Developer is an entry-level engineering role responsible for designing, developing, testing, and maintaining scalable software solutions using Java and"
+    }
+  },
+  "12821a2f86": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10426843",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10426843/software-development-engineer-fixed-asset-automation-faa",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about finding patterns in seemingly disparate problems? Does working closely with the customers to drive innovation excite you? Interested in building high-performance, globally scalable"
+    }
+  },
+  "84db7da4cd": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265308",
+      "title": "AI Agent Developer, L&C, Associate",
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265308",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "a6a2efe467": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265844",
+      "title": "AI Agent Developer, L&C, Associate",
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265844",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
   }
 }
