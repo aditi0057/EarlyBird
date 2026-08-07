@@ -1,154 +1,4 @@
 {
-  "adcb4a1eb6": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488045",
-      "title": "Software Development Engineer I FTC",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
-    }
-  },
-  "13424d9449": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488049",
-      "title": "Software Development Engineer II, Affordability (Exchange)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488049/software-development-engineer-ii-affordability-exchange",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Exchange platform is an India-first affordability initiative. The program allows customers to return their old devices and get a discount on the new devices that they are purchasing. Since the program's"
-    }
-  },
-  "94cb4b46dc": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Site-Reliability-Engineer-II_R-284401",
-      "title": "Site Reliability Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-284401",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "34fed335d5": {
-    "company": "Netskope",
-    "role_type": "tech",
-    "job": {
-      "id": 8088812,
-      "title": "Sr. Software Development Engineer in Test , Performance QE",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8088812",
-      "_source": "greenhouse",
-      "_token": "netskope",
-      "_content": null
-    }
-  },
-  "e35271d62c": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
-      "title": "Development Engineer 2 ( C++)",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2---C---_R441611",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "bc7c2edb89": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488846",
-      "title": "Software Dev Engineer II, Amazon Customer Service - Concessions Team, CS Fixed Corp",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488846/software-dev-engineer-ii-amazon-customer-service-concessions-team-cs-fixed-corp",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's mission is to be 'Earth's most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
-    }
-  },
-  "9ebcb8de5d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488839",
-      "title": "Software Dev Engineer II, Amazon Customer Service",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488839/software-dev-engineer-ii-amazon-customer-service",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
-    }
-  },
-  "3caee1e90b": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 7727730,
-      "title": "Business Application Developer - ServiceNow",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "bd30d479b9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10483285",
-      "title": "Software Development Engineer II, Grocery Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10483285/software-development-engineer-ii-grocery-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are spearheading the development of brand-new, India-centric technology aimed at revolutionizing the Grocery in India. This presents a rare opportunity to work on pioneering projects with substantial"
-    }
-  },
-  "11303f27d8": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-280417",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-280417",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "6e1c0f84d6": {
     "company": "HP",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026750",
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "cb7196ec97": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5200282007,
+      "title": "Software Development Engineer (Jira Data Center)",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5200282007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "a12615a5f3": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "baf0eddc-4fac-4520-aa41-a922adbdefc0",
+      "title": "Software Development Engineer II - Data",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/baf0eddc-4fac-4520-aa41-a922adbdefc0",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the team\n\u00a0\nData is everything\u2026 But only in the hands of the right person. And as part of our team, you will help us transform data into actionable insights and systems. When 5% of Indian households shop with us, it\u2019s important to build data-backed, resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e\u00a0\n\u00a0\nSounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant that it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast.\n\u00a0\nWe place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As\u00a0 Software Development Engineer- II -Data, you will be part of self-starters who thrive on teamwork and constructive feedback.\u00a0\n\u00a0\nWe know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favourite books and games \u2013 or even gossipping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\n\u00a0\nAbout the role\n\u00a0\nDoes digging deep for data and turning it into useful, impactful insights get you excited? Then you could be our next Software Development Engineer - II - Data.\n\u00a0\nIn this role, you will oversee your entire team\u2019s work, ensuring that each individual is working towards achieving their personal goals and Meesho\u2019s organisational goals. Moreover, you will keep an eye on all engineering projects and ensure the team is not straying from the right track.\u00a0\n\u00a0\nYou will also be tasked with directing programming activities, evaluating system performance, and designing new programs and features for smooth functioning.\u00a0\n"
+    }
+  },
+  "7d58df7e20": {
+    "company": "CRED",
+    "role_type": "fintech",
+    "job": {
+      "id": "7e4d512e-fc89-40fd-9a30-46c5459bbea5",
+      "title": "machine learning engineer",
+      "location": {
+        "name": "hyderabad"
+      },
+      "absolute_url": "https://jobs.lever.co/cred/7e4d512e-fc89-40fd-9a30-46c5459bbea5",
+      "_source": "lever",
+      "_token": "cred",
+      "_content": "Prefr (a brand under Dreamplug Technologies Pvt. Ltd.) is a tech-first fintech platform reshaping how India\u2019s digital-first generation experiences credit. we currently offer instant personal loans from \u20b950,000 to \u20b95,00,000 through a seamless, end-to-end digital journey \u2014 serving India\u2019s creditworthy yet underserved segments, in partnership with RBI-approved top-tier financial institutions. our mission to become the largest platform for delivering fast, transparent and trusted credit for the millions - by bringing together distribution depth, AI-driven intelligence & multi-lender access.\n"
+    }
+  },
+  "34b1980dff": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-287456",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287456",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "7a34a70e3c": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7712793003,
+      "title": "DevOps Engineer - II/III",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7712793003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "e672b3d47c": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Pune-IND/Software-Engineer_26WD96707-1",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Pune, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "04663428d0": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Specialist--Software-Development-Engineering_R-10399571",
+      "title": "Specialist, Software Development Engineering",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Specialist--Software-Development-Engineering_R-10399571",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "19528d7aaa": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Advisor--Software-Development-Engineering_R-10399568",
+      "title": "Advisor, Software Development Engineering",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Advisor--Software-Development-Engineering_R-10399568",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "5cf1b28ec9": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026751",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026751",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "33ea9f9763": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442174",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442174",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
   }
