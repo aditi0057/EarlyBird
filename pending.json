@@ -1,154 +1,4 @@
 {
-  "4e1de359f6": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4--DevOps_R439590",
-      "title": "Engineer 4, DevOps",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4--DevOps_R439590",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e9b2c22113": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5190485007,
-      "title": "Information Systems Engineer",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5190485007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "d79938265d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10487361",
-      "title": "Software Development Engineer II, Aurora Storage, Aurora Storage",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10487361/software-development-engineer-ii-aurora-storage-aurora-storage",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
-  "a91c1f13e9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10487903",
-      "title": "Software Development Engineer II, Amazon B2B Payments and Lending (ABPL)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10487903/software-development-engineer-ii-amazon-b2b-payments-and-lending-abpl",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Welcome to join a fast-growing team breaking new grounds at Amazon. We are looking for Software Development Engineers to join our Family. If you can Think Big, Dive Deep and are curious to Learn, you have"
-    }
-  },
-  "e67d92c5a5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10487554",
-      "title": "Software Development Engineer, Amazon Currency Converter for Sellers (ACCS)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10487554/software-development-engineer-amazon-currency-converter-for-sellers-accs",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Currency Converter team is responsible for developing the platform and applications used to introduce new and innovative payment methods to customers. We help Amazon expand globally by providing"
-    }
-  },
-  "c0bf173d3f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10487522",
-      "title": "System Development Engineer, FTV Frameworks and Performance",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10487522/system-development-engineer-ftv-frameworks-and-performance",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Fire TV is the #1 best-selling streaming media player in the U.S. We are looking for a strong software development engineer to contribute to the architecture and operating system level performance. In"
-    }
-  },
-  "6d2b3f8941": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R437842",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R437842",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "a780ff82d4": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R435231",
-      "title": "Quality and Automation Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R435231",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "818c84beac": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488199",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488199/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
-  "7052c37bea": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10488109",
-      "title": "Software Development Engineer II, Amazon B2B Payments and Lending (ABPL)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10488109/software-development-engineer-ii-amazon-b2b-payments-and-lending-abpl",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Welcome to join a fast-growing team breaking new grounds at Amazon. We are looking for Software Development Engineers to join our Family. If you can Think Big, Dive Deep and are curious to Learn, you have"
-    }
-  },
   "adcb4a1eb6": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8110788",
       "_source": "greenhouse",
       "_token": "netskope",
+      "_content": null
+    }
+  },
+  "68b2ef1d95": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10494641",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10494641/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products to algorithmically find products not already sold on"
+    }
+  },
+  "e0ffef6504": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10495453",
+      "title": "Software Development Engineer, Vendor Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10495453/software-development-engineer-vendor-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about working with Amazon-scale systems, solving critical engineering problems, and delivering mission critical solutions? Does the idea of building end-to-end solutions that will delight"
+    }
+  },
+  "2cfbe99dc9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10495277",
+      "title": "Software Dev Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10495277/software-dev-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
+    }
+  },
+  "ed3ff2f36a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10494842",
+      "title": "Software Development Engineer, Amazon Device Observability & Troubleshooting Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10494842/software-development-engineer-amazon-device-observability-troubleshooting-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Device Observability & Troubleshooting Team exist to ensure device and application customers have delightful experiences using the product by enabling swift, precise, and privacy-compliant observability"
+    }
+  },
+  "7219445bdd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10451656",
+      "title": "Software Development Engineer II, Aurora ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10451656/software-development-engineer-ii-aurora",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
+    }
+  },
+  "4bf6ce5e6a": {
+    "company": "Observe.ai",
+    "role_type": "tech",
+    "job": {
+      "id": 5374903008,
+      "title": "Software Development Engineer II - CCaaS",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://www.observe.ai/position?gh_jid=5374903008",
+      "_source": "greenhouse",
+      "_token": "observeai",
+      "_content": null
+    }
+  },
+  "5f4d05f3d3": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026747",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026747",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "131801e496": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026748",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026748",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "ca258a2cd8": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026749",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026749",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "8d9d9356a8": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026750",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026750",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
       "_content": null
     }
   }
