@@ -1,154 +1,4 @@
 {
-  "6e1c0f84d6": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Software-Applications-Engineer-4_3166311",
-      "title": "Software Applications Engineer 4",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Applications-Engineer-4_3166311",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "776689102c": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer_R0000441648",
-      "title": "Sr Engineer",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000441648",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "69d5487749": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10489852",
-      "title": "Software Development Engineer II, Amazon Music Automotive Team",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10489852/software-development-engineer-ii-amazon-music-automotive-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist"
-    }
-  },
-  "d09db6dba3": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-3_R442175",
-      "title": "DevOps Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-3_R442175",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "5c308639ce": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10484049",
-      "title": "Software Development Engineer -1, IESP Merchant Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10484049/software-development-engineer-1-iesp-merchant-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "4d2f5dfda5": {
-    "company": "OpenAI",
-    "role_type": "tech",
-    "job": {
-      "id": "bf036b23-cd23-46d0-a02f-4b1483f4698a",
-      "title": "AI Deployment Engineer",
-      "location": {
-        "name": "Delhi, India"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a",
-      "_source": "ashby",
-      "_token": "openai",
-      "_content": "About the Team\n\nThe AI Deployment Engineering team is responsible for ensuring the safe and effective deployment of Generative AI applications for developers and enterprises. We act as a trusted advisor and thought partner for our customers, working to build an effective backlog of GenAI use cases for their industry and drive them to production through strong technical guidance. As an AI Deployment Engineer, you\u2019ll help the largest companies transform their business through solutions such as customer service, automated content generation, and novel applications that make use of our newest, most exciting models.\n\n\n\nAbout the Role\n\nWe are looking for a driven solutions leader with a product mindset to partner with our customers and ensure they achieve tangible business value with GenAI. You will pair with senior customer leaders to establish a GenAI strategy and identify the highest value applications. You\u2019ll then partner with their technical teams to move from prototype through production. You\u2019ll take a holistic view of their needs and design an enterprise architecture using ChatGPT, OpenAI API, and other services to maximize customer value. You will collaborate closely with Sales, Solutions Engineering, Applied Research, and Product teams, and you will report to the Head of Technical Success, APAC.\n\nThis role can be based in Delhi, Mumbai or Bangalore. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees\n\n\n\nIn this role, you will:\n\n - Deeply embed with our most strategic platform customers as the technical lead, serving as their technical thought partner to ideate and build novel applications on our API.\n\n - Work with senior customer stakeholders to identify the best applications of GenAI in their industry and to build/qualify a comprehensive backlog to support their AI roadmap.\n\n - Intervene directly to accelerate customer time to value through building hands-on prototypes and/or by delivering impactful strategic guidance.\n\n - Forge and manage relationships with our customers\u2019 leadership and stakeholders to ensure the successful deployment and scale of their applications.\n\n - Contribute to our open-source developer and enterprise resources.\n\n - Scale the Solutions Architect function through sharing knowledge, codifying best practices, and publishing notebooks to our internal and external repositories.\n\n - Validate, synthesize, and deliver high-signal feedback to the Product and Research teams.\n\n\n\nYou\u2019ll thrive in this role if you:\n\n - Have 6+ years of technical consulting (or equivalent) experience, bridging technical teams and senior business stakeholders.\n\n - Are an effective and polished communicator who can translate business and technical topics to all audiences.\n\n - Have led complex implementations of Generative AI/traditional ML solutions and have knowledge of network/cloud architecture.\n\n - Have industry experience in programming languages like Python or Javascript.\n\n - Own problems end-to-end and are willing to pick up whatever knowledge you're missing to get the job done.\n\n - Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.\n\n - Are an effective, high throughput operator who can drive multiple concurrent projects and prioritize ruthlessly. \n\n\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\u00a0\n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. \n\nFor additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology."
-    }
-  },
-  "18c65dc325": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10490003",
-      "title": "Software Development Engineer III, Amazon Now ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10490003/software-development-engineer-iii-amazon-now",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is building India's Quick Commerce offering, delivering everyday essentials to customers in minutes. We are building world-class technology that powers store launches at scale, curates hyper-local"
-    }
-  },
-  "05a4b1d17e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10489940",
-      "title": "Software Development Engineer II, Customer Experience Infrastructure (CXI)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10489940/software-development-engineer-ii-customer-experience-infrastructure-cxi",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "If you\u2019re excited about solving deep technical challenges and building innovative software that directly influences how Amazon Now Dark Stores and fulfillment centers are designed and launched from the"
-    }
-  },
-  "dd5eaeca41": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8083366,
-      "title": "Software Engineer 3",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8083366",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "df8d75d090": {
-    "company": "Snowflake",
-    "role_type": "data",
-    "job": {
-      "id": "6ced2190-98f0-4ca0-b128-ef655e38d0be",
-      "title": "Analytics Engineer - Finance",
-      "location": {
-        "name": "IN-Pune"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/snowflake/6ced2190-98f0-4ca0-b128-ef655e38d0be",
-      "_source": "ashby",
-      "_token": "snowflake",
-      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAbout Snowflake\n\nSnowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. We are now a global, world-class organization with offices in more than a dozen countries and serving many more.\n\nThis role requires in-person attendance in our Pune office at least 3 days per week.\n\nJob Description\n\nWe are looking for an Analytics Engineer to join our growing Finance Analytics Engineering team. In this role, you will drive value and empower decision-making by developing and maintaining the data infrastructure which fuels reporting and analysis for the Finance organization and has a direct impact on Snowflake\u2019s success as a company. As an Analytics Engineer, you will be responsible for the following:\n\n - Use SQL, Python, Snowflake, dbt, Airflow, and other systems while working within an agile development model to build and maintain data infrastructure for use in reporting, analysis, and automation\n\n - Perform data QA and develop automated testing procedures for use with Snowflake data models\n\n - Translate reporting, analysis, and automation requirements into data model requirements and specifications\n\n - Work with IT and other technical stakeholders to source data from key business systems and Snowflake databases\n\n - Architect flexible, performant data models that will support a wide range of use cases while driving the organization towards single sources of truth\n\n - Provide input into data governance strategies and frameworks including permissions and security models, data lineage systems, and data definitions\n\n - Meet regularly with Finance BI and technical leads to define requirements, formulate project plans, provide status updates, and perform user testing and QA\n\n - Build and maintain user friendly documentation for data models and key metrics\n\n - Identify weaknesses in processes, data, and systems, and drive organizational improvements within the Analytics Engineering team\n\nWhat You Will Need\n\nRequired skills:\n\n - 3+ years of experience working as an analytics, data, or BI engineer\n\n - Advanced SQL skills with experience standardizing queries and building data infrastructure involving large-scale relational datasets\n\n - Experience using Python to parse, structure, and transform data\n\n - Experience with MPP databases such as Snowflake, Redshift, BigQuery, or other relevant technologies\n\n - Ability to communicate in an effective and efficient manner while working with a wide range of stakeholders\n\n - Ability to prioritize and execute tasks in a high-pressure, constantly changing environment\n\n - Ability to think creatively to solve problems\n\n - An impulse for introducing structure and simplicity into vague, complex problems\n\n - An obsession for detail and quality\n\n - An ability to identify weaknesses in data and process, and a willingness to drive improvement\n\n - A bias for action\n\nPreferred skills:\n\n - Experience with ERP and Financial Planning tools\n\n - Experience using Python to parse, structure, and transform data\n\n - Experience working with CI/CD pipelines\n\n - Experience leading or working within a scrum, sprint, or other agile framework\n\n - Past experience supporting product or product finance stakeholders\n\n - Experience working with cost attribution models for SaaS products and tying products out to CSP cost reports\n\n - Familiarity with cloud cost management and understanding of cost structures in cloud environments (e.g. FOCUS Framework)\n\n - Demonstrated experience in cloud computing platforms (e.g., AWS, Azure, Google Cloud)\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
-    }
-  },
   "9fd01015fc": {
     "company": "Fivetran",
     "role_type": "data",
@@ -1194,6 +1044,156 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442174",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "e49b31962d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496114",
+      "title": "Sr. SDE, Affordability and Hardline Fulfillment Experiences",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496114/sr-sde-affordability-and-hardline-fulfillment-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Affordability and Category Experiences Tech team plays a pivotal role in building technology that enhances customer trust, delivers the lowest cost of buying, improved delivery speed, and reduces business"
+    }
+  },
+  "6170ac0115": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496147",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496147/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "17a988bdbc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496146",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496146/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "00b82a7339": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496152",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496152/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "3903ffe643": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496377",
+      "title": "Software Development Engineer, DaS FinTech",
+      "location": {
+        "name": "Noida, Uttar Pradesh, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496377/software-development-engineer-das-fintech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Devices and Services Fintech is the global team that designs and builds the financial planning and analysis tools for wide variety of Amazon\u2019s new and established organisations. From Kindle to Ring"
+    }
+  },
+  "acd0ea0f2e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496073",
+      "title": "Software Development Engineer, AWS Compliance & Security Assurance, Denied Party Screening, Denied Party Screening",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496073/software-development-engineer-aws-compliance-security-assurance-denied-party-screening-denied-party-screening",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our mission is to prevent \"denied entities\" from transacting with Amazon businesses. We build"
+    }
+  },
+  "7cd0d5d810": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496075",
+      "title": "Software Development Engineer, AWS Compliance & Security Assurance, Denied Party Screening",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496075/software-development-engineer-aws-compliance-security-assurance-denied-party-screening",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our mission is to prevent \"denied entities\" from transacting with Amazon businesses. We build"
+    }
+  },
+  "0c23fa76ed": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-2-B-E004564-0060-GTO-_R442496",
+      "title": "DevOps Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/DevOps-Engineer-2-B-E004564-0060-GTO-_R442496",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "ad1f13f9aa": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437420",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437420",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "9ec079edf8": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438474",
+      "title": "Development Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R438474",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
