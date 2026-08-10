@@ -1,139 +1,4 @@
 {
-  "99d61c2d40": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-Tech-Park/AI-Python-Full-stack-engineer--AVP_R0425938-1",
-      "title": "AI Python Full stack engineer, AVP",
-      "location": {
-        "name": "Bangalore, Velankani Tech Park"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/AI-Python-Full-stack-engineer--AVP_R0425938-1",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "5d5eed6b57": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-India/Mainframe-Developer_R-10399606-1",
-      "title": "Mainframe Developer",
-      "location": {
-        "name": "Chennai, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Mainframe-Developer_R-10399606-1",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "f4a36608df": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437352",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R437352",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "b91f07d04e": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R441022",
-      "title": "Engineer 3, Software Development & Engineering",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R441022",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "2f4f8ba138": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10490592",
-      "title": "Software Development Engineer 2, Amazon Tax Services",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10490592/software-development-engineer-2-amazon-tax-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
-    }
-  },
-  "d9c57a89c7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491230",
-      "title": "Software Development Engineer II, Detail Page",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491230/software-development-engineer-ii-detail-page",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com\u2019s Product Detail Page team is looking for talented, motivated  and passionate software developers to be part of the design and  development of a highly scalable multi-tiered shopping application"
-    }
-  },
-  "b16497035e": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Engineer-2_R170080",
-      "title": "Software Engineer 2",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Engineer-2_R170080",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "643a8f595e": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R441473",
-      "title": "Quality and Automation Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R441473",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "a43d49edc6": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 7926889,
-      "title": "Software Engineer (L2)",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/7926889",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
   "702e851e62": {
     "company": "Zeta",
     "role_type": "fintech",
@@ -1196,6 +1061,141 @@
       "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002",
       "_source": "greenhouse",
       "_token": "databricks",
+      "_content": null
+    }
+  },
+  "8ea1f1be9b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496609",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496609/software-development-engineer-prime-video-linear-prime-video",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Prime Video is disrupting traditional media with an ever-increasing selection of movies, TV shows, Emmy Award winning original content, add-on subscriptions including HBO and Showtime, and live events"
+    }
+  },
+  "9fb453c998": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496608",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496608/software-development-engineer-prime-video-linear-prime-video",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Prime Video is disrupting traditional media with an ever-increasing selection of movies, TV shows, Emmy Award winning original content, add-on subscriptions including HBO and Showtime, and live events"
+    }
+  },
+  "6baebd7b28": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10496589",
+      "title": "Software Development Engineer , Ordering",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10496589/software-development-engineer-ordering",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about enabling millions of customers around to world buy anything, anywhere, anytime? Dealing with large scale distributed systems, orchestrating the entire retail ordering workflow?We,"
+    }
+  },
+  "697675b46f": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer---_R-287018",
+      "title": "Software Engineer ||",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---_R-287018",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "8f96e1dca4": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Site-Reliability-Engineer-I_R-286909-1",
+      "title": "Site Reliability Engineer I",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-I_R-286909-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "7fac3e2c7a": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Python-Developer---Software-Engineer_26982912",
+      "title": "Python Developer - Software Engineer",
+      "location": {
+        "name": "Chennai Tamil Nadu India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Python-Developer---Software-Engineer_26982912",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "4e495eced0": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000437172",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000437172",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "bbff880ab4": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer_R0000443998",
+      "title": "Sr Engineer",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000443998",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "ff586f3fed": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/Backend-Engineer--AS_R0427212",
+      "title": "Backend Engineer, AS",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Backend-Engineer--AS_R0427212",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
       "_content": null
     }
   }
