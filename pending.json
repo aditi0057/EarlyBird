@@ -1,154 +1,4 @@
 {
-  "309230990a": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality---Automation-Engineer-2_R438747",
-      "title": "Quality & Automation Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality---Automation-Engineer-2_R438747",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "9ccf1ed493": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442254",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442254",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "d578d598c7": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R434066",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R434066",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "4f0b756ea2": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R441492",
-      "title": "Development Engineer 4",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R441492",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "f05fc29844": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8556658002,
-      "title": "AI Engineer",
-      "location": {
-        "name": "Remote, Bangalore"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "6de18854c0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10492686",
-      "title": "Software Development Engineer - II, Verification Services-Fixed",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10492686/software-development-engineer-ii-verification-services-fixed",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "59d30bb874": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10491198",
-      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10491198/software-development-engineer-fixed-asset-automation-faa",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about finding patterns in seemingly disparate problems? Does working closely with the customers to drive innovation excite you? Interested in building high-performance, globally scalable"
-    }
-  },
-  "2e539ec359": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10466980",
-      "title": "Software Dev Engineer II, Alexa Connections",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10466980/software-dev-engineer-ii-alexa-connections",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join Alexa Connections and Revolutionize How the World Connects!Are you ready to shape the future of voice-driven communication? The Contacts team within Alexa Connections is seeking exceptional Software"
-    }
-  },
-  "a2aaccf0e2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10424933",
-      "title": "Software Development Engineer II,  Digital Pricing and Competitive Intelligence (D-PRICIQ ), Digital Acceleration",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10424933/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We invite you to be part of a high-impact team that is shaping the future of pricing at Amazon. The Digital Pricing team is at the forefront of leveraging AI and machine learning to compute millions of"
-    }
-  },
-  "96cf244173": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-286702",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-286702",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "ba51f7d492": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1197,6 +1047,156 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon's Customer Experience and Business Trends (CXBT) organization is seeking a Software Development Engineer (SDE) to shape the future of Amazon Web Services (AWS) customer experience by improving service"
+    }
+  },
+  "60f25c0a0e": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8015848002,
+      "title": "AI Engineer, FDE (Forward Deployed Engineer)",
+      "location": {
+        "name": "Bengaluru, India; Delhi, India; Mumbai, India; Pune, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "4dcf2e2822": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8686962002,
+      "title": "Intermediate Backend Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8686962002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "d19286e72f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498377",
+      "title": "Software Development Engineer II, Account Compliance Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498377/software-development-engineer-ii-account-compliance-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are the guardians of the Amazon galaxy. The Account Compliance team strives to ensure that Amazon remains compliant and the cost of being compliant is never the reason where the business or our sellers"
+    }
+  },
+  "4706d61a10": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498379",
+      "title": "Software Development Engineer II, Account Compliance Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498379/software-development-engineer-ii-account-compliance-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are the guardians of the Amazon galaxy. The Account Compliance team strives to ensure that Amazon remains compliant and the cost of being compliant is never the reason where the business or our sellers"
+    }
+  },
+  "ed54611411": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498376",
+      "title": "Software Development Engineer II, Selling Parter Identity Verifcation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498376/software-development-engineer-ii-selling-parter-identity-verifcation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
+    }
+  },
+  "2ddaff1673": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498242",
+      "title": "Software Development Engineer, AI Ops Integration ",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498242/software-development-engineer-ai-ops-integration",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "As part of Ops AI Integration, we partner with RoW APEX AI Strategy & Implementation to build impactful AI solutions for Amazon's global operations customers. We are building an AI platform (MCP tools,"
+    }
+  },
+  "ff495e03a1": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer_R171037",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171037",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "ff6082a84e": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Bangalore/Software-DevOps-Engineer_JR355184",
+      "title": "Software DevOps Engineer",
+      "location": {
+        "name": "India - Bangalore"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-DevOps-Engineer_JR355184",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "efe2200894": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Vadodara-India/Software-Engineer-II_R-284464-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Vadodara, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Software-Engineer-II_R-284464-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "679aeb5737": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-1_R440727",
+      "title": "Quality and Automation Engineer 1",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-1_R440727",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
     }
   }
 }
