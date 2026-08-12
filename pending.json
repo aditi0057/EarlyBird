@@ -1,124 +1,4 @@
 {
-  "dda2e0d002": {
-    "company": "CRED",
-    "role_type": "fintech",
-    "job": {
-      "id": "58dfc330-090b-4318-a395-cc7280cf5065",
-      "title": "web developer - Prefr",
-      "location": {
-        "name": "hyderabad"
-      },
-      "absolute_url": "https://jobs.lever.co/cred/58dfc330-090b-4318-a395-cc7280cf5065",
-      "_source": "lever",
-      "_token": "cred",
-      "_content": "Prefr (a brand under Dreamplug Technologies Pvt. Ltd. / CRED) is a tech-first fintech\u00a0platform reshaping how India\u2019s digital-first generation experiences credit. We currently\u00a0offer instant personal loans from \u20b950,000 to \u20b95,00,000 through a seamless,\u00a0end-to-end digital journey \u2014 serving India\u2019s creditworthy yet underserved segments, in\u00a0partnership with RBI-approved top-tier financial institutions. Our mission to become\u00a0the largest platform for delivering fast, transparent, and trusted credit for the millions -by bringing together distribution depth, AI-driven intelligence & multi-lender access.\n"
-    }
-  },
-  "6e6d4f3b41": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10494547",
-      "title": "Software Development Engineer, Alexa Audio",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10494547/software-development-engineer-alexa-audio",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "As Alexa Audio, we own the audio experiences on Alexa enabled devices. These experiences include Music, Podcast, Audio Books, Radio, and Ambient soundscapes. Our integration skill kits enable seamless"
-    }
-  },
-  "892d89d1d2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10421890",
-      "title": "Software Development Engineer (SDE2) - Fire TV Devices Content & Ads (DCA), (5, T03141), FTVC Partner Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10421890/software-development-engineer-sde2-fire-tv-devices-content-ads-dca-5-t03141-ftvc-partner-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to re-invent how 10s of millions of people enjoy shows and movies on their TVs and Tablets? Fire TV Devices Content & Ads (DCA) builds upon innovations to Amazon Fire TV, the #1 streaming media"
-    }
-  },
-  "c9b6a1464d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10426888",
-      "title": "Software Development Engineer, Fintech, TFAW",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10426888/software-development-engineer-fintech-tfaw",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to be part of a team building big data and machine learning applications that process and analyze transactions worth billions of dollars a day using the latest technology? Do you want to make"
-    }
-  },
-  "3c63472405": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10417493",
-      "title": "Software Development Engineer, E-reader Software",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10417493/software-development-engineer-e-reader-software",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever wanted to be part of a team that builds highly efficient operating system for E-reader? Amazon's E-reader team owns full stack device platform, Productivity offering built on GenAI, LLM,"
-    }
-  },
-  "47b8f074d8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10412587",
-      "title": "Software Development Engineer, Alexa Endpoint Experiences",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10412587/software-development-engineer-alexa-endpoint-experiences",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "This position is for Echo Show Home team which owns the face of the device through home screen being one of the most monetized surface on EFD. Home coupled with Alexa+ agent (proactive and persistent content"
-    }
-  },
-  "3b18f8dece": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Associate--Application-Engineer_R264572",
-      "title": "Associate, Application Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Associate--Application-Engineer_R264572",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
-  "58236b3983": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 7774637003,
-      "title": "Software Engineer II - Entity Intelligence",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/7774637003?gh_jid=7774637003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
   "d230b220bf": {
     "company": "Netskope",
     "role_type": "tech",
@@ -1194,6 +1074,126 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Site-Reliability-Engineering_R439579",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "4848a22d42": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8121308,
+      "title": "Site Reliability Engineer II",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8121308?gh_jid=8121308",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "47ff64998a": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 7315060,
+      "title": "Software Engineer - Jarvis",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "3363443276": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499507",
+      "title": "Software Development Engineer II, Fintech TAX - RoW Compliance",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499507/software-development-engineer-ii-fintech-tax-row-compliance",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Financial Technology team is seeking passionate, results-driven, and inventive software developers who thrive in working on massively scalable and distributed systems. The ideal candidate excels"
+    }
+  },
+  "2aa587cf1b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499456",
+      "title": "Software Development Engineer II, Fintelligence Workplace",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499456/software-development-engineer-ii-fintelligence-workplace",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
+    }
+  },
+  "22860b48fe": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499455",
+      "title": "Software Development Engineer II, Fintelligence Workplace",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499455/software-development-engineer-ii-fintelligence-workplace",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
+    }
+  },
+  "b9b8201b85": {
+    "company": "Morgan Stanley",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/HR-Strats-Engineer--Vice-President-HR-Business-Management_PT-JR042084-1",
+      "title": "HR Strats / Data Engineer _Vice President_HR Business Management",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/HR-Strats-Engineer--Vice-President-HR-Business-Management_PT-JR042084-1",
+      "_source": "workday",
+      "_token": "ms:wd5:External",
+      "_content": null
+    }
+  },
+  "ff218b6735": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-QA-Engineer_3166635-1",
+      "title": "Android QA Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-QA-Engineer_3166635-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "73250a4118": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R442731",
+      "title": "Development Engineer 3",
+      "location": {
+        "name": "India \u2013 Virtual \u2013 Karnataka DTA"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R442731",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
