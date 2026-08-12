@@ -1,124 +1,4 @@
 {
-  "ba51f7d492": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/AI-Engineer_R-279646",
-      "title": "AI Engineer",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/AI-Engineer_R-279646",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "6ac73af492": {
-    "company": "New Relic",
-    "role_type": "tech",
-    "job": {
-      "id": 5213979008,
-      "title": "Partner Engineer",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5213979008",
-      "_source": "greenhouse",
-      "_token": "newrelic",
-      "_content": null
-    }
-  },
-  "4a9f6afe6b": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Engineer-II--Software_JR0307626",
-      "title": "Engineer II, Software",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Software_JR0307626",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "40339fddb6": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--DevOps_R439081",
-      "title": "Engineer 2, DevOps",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--DevOps_R439081",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "12821a2f86": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10426843",
-      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10426843/software-development-engineer-fixed-asset-automation-faa",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about finding patterns in seemingly disparate problems? Does working closely with the customers to drive innovation excite you? Interested in building high-performance, globally scalable"
-    }
-  },
-  "84db7da4cd": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265308",
-      "title": "AI Agent Developer, L&C, Associate",
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265308",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
-  "a6a2efe467": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265844",
-      "title": "AI Agent Developer, L&C, Associate",
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/AI-Agent-Developer--L-C--Associate_R265844",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
-  "f0bcd25767": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5202460007,
-      "title": "Sr. Software Development Engineer",
-      "location": {
-        "name": "Bangalore, IND; Mohali, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5202460007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
   "dda2e0d002": {
     "company": "CRED",
     "role_type": "fintech",
@@ -1194,6 +1074,126 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-1_R440727",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "281ef9283e": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8695515002,
+      "title": "Backend Engineer, Geo Team",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "7f0bc34a3f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498614",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498614/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "2db14b152e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10498616",
+      "title": "Software Development Engineer , Concessions Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
+    }
+  },
+  "ea61fd22a7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499305",
+      "title": "Software Development Engineer, FBA",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499305/software-development-engineer-fba",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
+    }
+  },
+  "aaca227870": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499304",
+      "title": "Software Development Engineer II, FBA",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499304/software-development-engineer-ii-fba",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
+    }
+  },
+  "9c87235c0e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499299",
+      "title": "Software Development Engineer II, FBA",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499299/software-development-engineer-ii-fba",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
+    }
+  },
+  "eac63d9642": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-281700-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-281700-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "9ef31b46b1": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Site-Reliability-Engineering_R439579",
+      "title": "Engineer 3, Site Reliability Engineering",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Site-Reliability-Engineering_R439579",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
