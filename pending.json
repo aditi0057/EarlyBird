@@ -1,94 +1,4 @@
 {
-  "d230b220bf": {
-    "company": "Netskope",
-    "role_type": "tech",
-    "job": {
-      "id": 8110788,
-      "title": "Sr. Software Engineer, DSPM ( Chenfang )",
-      "location": {
-        "name": "India"
-      },
-      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8110788",
-      "_source": "greenhouse",
-      "_token": "netskope",
-      "_content": null
-    }
-  },
-  "68b2ef1d95": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10494641",
-      "title": "Software Development Engineer, Amazon",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10494641/software-development-engineer-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products to algorithmically find products not already sold on"
-    }
-  },
-  "e0ffef6504": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10495453",
-      "title": "Software Development Engineer, Vendor Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10495453/software-development-engineer-vendor-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about working with Amazon-scale systems, solving critical engineering problems, and delivering mission critical solutions? Does the idea of building end-to-end solutions that will delight"
-    }
-  },
-  "2cfbe99dc9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10495277",
-      "title": "Software Dev Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10495277/software-dev-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
-    }
-  },
-  "ed3ff2f36a": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10494842",
-      "title": "Software Development Engineer, Amazon Device Observability & Troubleshooting Team",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10494842/software-development-engineer-amazon-device-observability-troubleshooting-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Device Observability & Troubleshooting Team exist to ensure device and application customers have delightful experiences using the product by enabling swift, precise, and privacy-compliant observability"
-    }
-  },
-  "7219445bdd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10451656",
-      "title": "Software Development Engineer II, Aurora ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10451656/software-development-engineer-ii-aurora",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
   "4bf6ce5e6a": {
     "company": "Observe.ai",
     "role_type": "tech",
@@ -1194,6 +1104,96 @@
         "name": "India \u2013 Virtual \u2013 Karnataka DTA"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R442731",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "a3e4a2950f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10500291",
+      "title": "Software Development II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10500291/software-development-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
+    }
+  },
+  "ceb45bba87": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10500349",
+      "title": "Software Development Engineer II, Selling Partner Identity Verification",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10500349/software-development-engineer-ii-selling-partner-identity-verification",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
+    }
+  },
+  "08f009b2cd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499857",
+      "title": "Software Development Engineer, Amazon Fulfilment Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499857/software-development-engineer-amazon-fulfilment-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, data-driven decision making and problem solving skills in a real world setting? Do you want to build large-scale"
+    }
+  },
+  "276762b71c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10499858",
+      "title": "Software Development Engineer, Amazon Fulfilment Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10499858/software-development-engineer-amazon-fulfilment-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, data-driven decision making and problem solving skills in a real world setting? Do you want to build large-scale"
+    }
+  },
+  "52f9efac91": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-ISC/Full-Stack-Engineer_R0438569",
+      "title": "Full Stack Engineer",
+      "location": {
+        "name": "Bangalore Velankani ISC"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/Full-Stack-Engineer_R0438569",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "9d4e23d327": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R442498",
+      "title": "Quality and Automation Engineer 2",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R442498",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
