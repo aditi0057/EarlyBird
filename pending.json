@@ -1,94 +1,4 @@
 {
-  "e672b3d47c": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Pune-IND/Software-Engineer_26WD96707-1",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Pune, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "04663428d0": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-India/Specialist--Software-Development-Engineering_R-10399571",
-      "title": "Specialist, Software Development Engineering",
-      "location": {
-        "name": "Chennai, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Specialist--Software-Development-Engineering_R-10399571",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "19528d7aaa": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-India/Advisor--Software-Development-Engineering_R-10399568",
-      "title": "Advisor, Software Development Engineering",
-      "location": {
-        "name": "Chennai, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Advisor--Software-Development-Engineering_R-10399568",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "5cf1b28ec9": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026751",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026751",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "33ea9f9763": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442174",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R442174",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e49b31962d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10496114",
-      "title": "Sr. SDE, Affordability and Hardline Fulfillment Experiences",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10496114/sr-sde-affordability-and-hardline-fulfillment-experiences",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Affordability and Category Experiences Tech team plays a pivotal role in building technology that enhances customer trust, delivers the lowest cost of buying, improved delivery speed, and reduces business"
-    }
-  },
   "6170ac0115": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1106,96 @@
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-287513",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "a50373180e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10501199",
+      "title": "Software Development Engineer, Fixed Asset Automation (FAA)",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10501199/software-development-engineer-fixed-asset-automation-faa",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about finding patterns in seemingly disparate problems? Does working closely with the customers to drive innovation excite you? Interested in building high-performance, globally scalable"
+    }
+  },
+  "acd2ad2ed6": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Mumbai-India/Research-Engineer--Portfolio-Management-Group--Associate_R265897",
+      "title": "Research Engineer, Portfolio Management Group, Associate",
+      "location": {
+        "name": "Mumbai, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Research-Engineer--Portfolio-Management-Group--Associate_R265897",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "58698514b2": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5271780008,
+      "title": "Software Engineer 1",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5271780008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "1c3994a10a": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Software-QA-Engineer_3167351-1",
+      "title": "Software QA Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-QA-Engineer_3167351-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "48271cf8d4": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Target-India_R0000432607",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India_R0000432607",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "05f433cc49": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R434353",
+      "title": "Development Engineer 3-Python",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R434353",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
   }
