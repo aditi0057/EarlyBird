@@ -1,34 +1,4 @@
 {
-  "82f4fc1ad3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10497378",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10497378/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
-    }
-  },
-  "b57f726ba3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10497354",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10497354/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Customer Experience and Business Trends (CXBT) organization is seeking a Software Development Engineer (SDE) to shape the future of Amazon Web Services (AWS) customer experience by improving service"
-    }
-  },
   "99ccc8915b": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1167,36 @@
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
+    }
+  },
+  "e5b1ac14c7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10503241",
+      "title": "Software Dev Engineer, Profit Intelligence",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10503241/software-dev-engineer-profit-intelligence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building intelligence systems from the ground up?Are you interested in working with Applied Scientists, Big Data Engineers and Software Development Engineers to build large-scale"
+    }
+  },
+  "9574bd693a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10503256",
+      "title": "Software Dev Engineer II, UTR Tech",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10503256/software-dev-engineer-ii-utr-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation? Does the prospect"
     }
   }
 }
