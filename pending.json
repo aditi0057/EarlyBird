@@ -1,154 +1,4 @@
 {
-  "9c87235c0e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499299",
-      "title": "Software Development Engineer II, FBA",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499299/software-development-engineer-ii-fba",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
-    }
-  },
-  "eac63d9642": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-281700-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-281700-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "9ef31b46b1": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Site-Reliability-Engineering_R439579",
-      "title": "Engineer 3, Site Reliability Engineering",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Site-Reliability-Engineering_R439579",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "4848a22d42": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8121308,
-      "title": "Site Reliability Engineer II",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8121308?gh_jid=8121308",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "47ff64998a": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 7315060,
-      "title": "Software Engineer - Jarvis",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "3363443276": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499507",
-      "title": "Software Development Engineer II, Fintech TAX - RoW Compliance",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499507/software-development-engineer-ii-fintech-tax-row-compliance",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Financial Technology team is seeking passionate, results-driven, and inventive software developers who thrive in working on massively scalable and distributed systems. The ideal candidate excels"
-    }
-  },
-  "2aa587cf1b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499456",
-      "title": "Software Development Engineer II, Fintelligence Workplace",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499456/software-development-engineer-ii-fintelligence-workplace",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
-    }
-  },
-  "22860b48fe": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499455",
-      "title": "Software Development Engineer II, Fintelligence Workplace",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499455/software-development-engineer-ii-fintelligence-workplace",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
-    }
-  },
-  "b9b8201b85": {
-    "company": "Morgan Stanley",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/HR-Strats-Engineer--Vice-President-HR-Business-Management_PT-JR042084-1",
-      "title": "HR Strats / Data Engineer _Vice President_HR Business Management",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/HR-Strats-Engineer--Vice-President-HR-Business-Management_PT-JR042084-1",
-      "_source": "workday",
-      "_token": "ms:wd5:External",
-      "_content": null
-    }
-  },
-  "ff218b6735": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-QA-Engineer_3166635-1",
-      "title": "Android QA Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-QA-Engineer_3166635-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
   "73250a4118": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Engineering-Operations_R438602",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "e75fc92fae": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R170616",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170616",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "904595fb87": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 6555499003,
+      "title": "Cloud Engineer - III",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=6555499003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "5edd113079": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7804499003,
+      "title": "Forward Deployed Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7804499003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "af8f380a2f": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7705552003,
+      "title": "Forward Deployed Engineer II",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7705552003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "3fa9e8c8de": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 7884804003,
+      "title": "Software Engineer II - Full Stack",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/7884804003?gh_jid=7884804003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "7be7fabcbd": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164825-1",
+      "title": "Agentic AI Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164825-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "420cef010e": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164655-1",
+      "title": "Agentic AI Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164655-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "799f9e3dbd": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Test-Engineer_3166636-1",
+      "title": "Android Test Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Test-Engineer_3166636-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "e8822996b8": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Embedded-Systems-and-Platform-Engineer_3164854-2",
+      "title": "Embedded Systems and Platform Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Embedded-Systems-and-Platform-Engineer_3164854-2",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "e21e641bc5": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000437067",
+      "title": "Engineer - Genesys Cloud Cx",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000437067",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
