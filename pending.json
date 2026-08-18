@@ -1,109 +1,4 @@
 {
-  "efe2200894": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Vadodara-India/Software-Engineer-II_R-284464-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Vadodara, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Software-Engineer-II_R-284464-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "679aeb5737": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-1_R440727",
-      "title": "Quality and Automation Engineer 1",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-1_R440727",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "281ef9283e": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8695515002,
-      "title": "Backend Engineer, Geo Team",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "7f0bc34a3f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10498614",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10498614/software-development-engineer-concessions-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
-    }
-  },
-  "2db14b152e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10498616",
-      "title": "Software Development Engineer , Concessions Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10498616/software-development-engineer-concessions-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's mission is to be 'Earth\u2019s most customer-centric company,' and our award-winning Customer Service (CS) team is a key part of that mission. Amazon CS is among the world's largest customer service"
-    }
-  },
-  "ea61fd22a7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499305",
-      "title": "Software Development Engineer, FBA",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499305/software-development-engineer-fba",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
-    }
-  },
-  "aaca227870": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499304",
-      "title": "Software Development Engineer II, FBA",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499304/software-development-engineer-ii-fba",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Software Development Engineer II \u2014 AI-Native Engineering Systems, FBAWANT TO BUILD AI SYSTEMS \u2014 NOT CARRY A PAGER?Fulfillment by Amazon (FBA) lets sellers worldwide leverage Amazon's world-class logistics"
-    }
-  },
   "9c87235c0e": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1194,6 +1089,111 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Qulaity-and-Automation-Engineer-2_R442497",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "c9fa6c9fc9": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8132173,
+      "title": " IT Automation and AI Engineer ",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8132173?gh_jid=8132173",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "a7cbad1356": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8705011002,
+      "title": "RPA Engineer, UiPath",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8705011002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "ee8863c815": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10503778",
+      "title": "Software Development Engineer ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10503778/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products to algorithmically find products not already sold on"
+    }
+  },
+  "d8988170e0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10503791",
+      "title": "Software Development Engineer II, WWGST Tesseract",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10503791/software-development-engineer-ii-wwgst-tesseract",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to be on the leading edge of Amazon e-commerce improvements? If so, please come and talk to us! We are the GroceryX organization within the Worldwide Grocery Stores Tech (WWGST) organization."
+    }
+  },
+  "243efc2d16": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10503681",
+      "title": "Software Development Engineer, ShipTech",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10503681/software-development-engineer-shiptech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to define the future of Internet commerce?\r Are you a top-notch software engineer with a creative flare, strong problem-solving skills, the drive to build and ship products fast, a solid computer"
+    }
+  },
+  "d0ce660934": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-engineer_R-568160",
+      "title": "Software engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-engineer_R-568160",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "6dcb834761": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Engineering-Operations_R438602",
+      "title": "Engineer 3, Engineering Operations",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Engineering-Operations_R438602",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
