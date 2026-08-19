@@ -1,139 +1,4 @@
 {
-  "9d4e23d327": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R442498",
-      "title": "Quality and Automation Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-2_R442498",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "2d51c6c92e": {
-    "company": "PhonePe",
-    "role_type": "fintech",
-    "job": {
-      "id": 7852357003,
-      "title": "Software Engineer, Backend (3-5 Years)",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/phonepe/jobs/7852357003",
-      "_source": "greenhouse",
-      "_token": "phonepe",
-      "_content": null
-    }
-  },
-  "0b677bc2a7": {
-    "company": "Snowflake",
-    "role_type": "data",
-    "job": {
-      "id": "cbc2087c-f5fc-48b7-8d23-114836a42e3e",
-      "title": "Cloud Infrastructure Engineer",
-      "location": {
-        "name": "IN-Pune"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/snowflake/cbc2087c-f5fc-48b7-8d23-114836a42e3e",
-      "_source": "ashby",
-      "_token": "snowflake",
-      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake customers run more than 3.9 billion queries and 515 million data workloads each day. To support this workload, our globally deployed infrastructure spans multiple cloud providers and manages hundreds of thousands of VMs. Join the Snowflake team to build the Data Cloud Platform at an exceptional scale.\n\nWe are hiring talented Software Engineers for our Cloud Infrastructure Engineering  teams. If you are passionate about solving complex infrastructure challenges by using software engineering expertise, this opportunity may be for you. Our Cloud Infrastructure Engineering Teams are focused on things like:\n\n - simplifying our large-scale infrastructure for the other development teams to use\n\n - building services that improve the reliability of Snowflake by protecting us from the cloud providers issues\n\n - enabling Snowflake services to operate globally across multiple cloud providers\n\n - managing complicated infrastructure changes at the scale a few companies can match\n\n - keeping the SLOs of our infrastructure and services at a very high bar\n\n - defining the OS and containerization layer for all of Snowflake\u2019s services\n\nAll Cloud Infrastructure Engineering Teams aim to optimize and evolve our infrastructure's reliability, availability, serviceability, performance, and cost efficiency.\n\nAS A SOFTWARE ENGINEER - CLOUD INFRASTRUCTURE ENGINEERING AT SNOWFLAKE, YOU WILL:\n\n - Will build a deep understanding of Snowflake\u2019s infrastructure and services\n\n - Demonstrate both infrastructure and software engineering expertise by contributing to the team charter to build and operate highly scalable, resilient, and performant infrastructure.\n\n - Provide technical leadership on large and complex projects that build infrastructure, platforms, tools, and automation in the cloud.\n\n - Evangelize and drive adoption of the Platform to meet business goals.\n\n - Mentor and support more junior team members, leading by example with excellent code quality, documentation, and software development  best practices\n\nOUR IDEAL SOFTWARE ENGINEER - CLOUD ENGINEERING AT SNOWFLAKE, WILL HAVE:\n\n - BS/CS, MS/CS, or equivalent.\n\n - At least 2+ years experience in a platform or cloud team building spent on supporting mission-critical services and infrastructure in a SaaS environment.\n\n - Strong software engineering fundamentals, coding skills, and knowledge of software development  best practices.\n\n - At least 1+ years in cloud computing (AWS, Azure, or GCP).\n\n - Fluent in one or more languages (Golang, Java, Python, C).\n\n - Expertise in at least one of the following areas: container platforms, automation, networking, operating systems, site reliability, config management, and infrastructure as code solutions such as Pulumi and Terraform.\n\n - Tremendous attention to detail and ability to build reliable and scalable software systems.\n\n - Effective communication and collaboration skills.\n\n - Ability to troubleshoot and resolve complex technical issues.\n\n - A strong work ethic, ability to self-manage and drive project success, and a passion for problem-solving.\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
-    }
-  },
-  "cd1d275f8e": {
-    "company": "Fampay",
-    "role_type": "fintech",
-    "job": {
-      "id": "8dfc0511-7187-4e96-939c-ed9a5c656511",
-      "title": "SDE 3 - Platform Engineering",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/fampay/8dfc0511-7187-4e96-939c-ed9a5c656511",
-      "_source": "lever",
-      "_token": "fampay",
-      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nWe're looking for a strong software engineer with an infrastructure mindset to build reusable platform services and engineering primitives that power product development across the company. This role is focused on designing and building foundational capabilities such as rate limiting, distributed locking, configuration management, feature flags, service discovery, and other shared platform services that can be adopted by multiple engineering teams.\nThis is not a traditional DevOps or operations role. Rather than operating large-scale production systems day-to-day, you'll be responsible for building robust, scalable, and extensible platform abstractions that enable engineers to move faster and build reliable products.\nYou'll work on complex distributed systems problems, design clean APIs and libraries, and ensure platform services can be confidently validated through thoughtful testing, failure simulation, and scalability verification.\n"
-    }
-  },
-  "0cb5c095f6": {
-    "company": "Druva",
-    "role_type": "tech",
-    "job": {
-      "id": 8695494002,
-      "title": "Associate Engineer - IT Helpdesk",
-      "location": {
-        "name": "Pune, Maharashtra, India"
-      },
-      "absolute_url": "https://www.druva.com/why-druva/explore/careers/jobs/8695494002/?gh_jid=8695494002",
-      "_source": "greenhouse",
-      "_token": "druva",
-      "_content": null
-    }
-  },
-  "917cdfc432": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10500649",
-      "title": "Software Dev Engineer II, Amazon Payment Products",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10500649/software-dev-engineer-ii-amazon-payment-products",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Looking for Software Development Engineer to be part of a dynamic development environment within Amazon, be at the forefront of building new, innovative global payments products and solutions.Amazon Payments"
-    }
-  },
-  "2d2d406e48": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10500468",
-      "title": "Software Development Engineer II, Execution Planning, Last Mile Planning",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10500468/software-development-engineer-ii-execution-planning-last-mile-planning",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Routing and Planning (RaP) organization, within the Last Mile Technology (LMT) organization, plays a pivotal role in Amazon's mission to deliver packages to billions of customers worldwide. Our goal"
-    }
-  },
-  "09f7eab11b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10500656",
-      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10500656/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
-    }
-  },
-  "c0a4e74def": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Product-Security---Vulnerability-Response-Engineer_JR341675",
-      "title": "Product Security | Vulnerability Response Engineer",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security---Vulnerability-Response-Engineer_JR341675",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
   "63b490d50c": {
     "company": "Salesforce",
     "role_type": "tech",
@@ -1194,6 +1059,141 @@
         "name": "India - Chennai, Comcast India Engineering Cent"
       },
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality---Automation-Engineer-4_R425121",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "693f245d50": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10506473",
+      "title": "Software Development Engineer II , Cross Border Haul Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10506473/software-development-engineer-ii-cross-border-haul-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Haul is our strategic response to the rapidly growing value commerce segment, competing directly with CN retailers. We are building the technology that powers ultra-low-price shopping experiences"
+    }
+  },
+  "6ea9299db2": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-288786-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288786-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "dcad5a1f3a": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Mumbai-India/Artificial-Intelligence-Engineer--Portfolio-Management-Group--Associate_R264721",
+      "title": "Artificial Intelligence Engineer, Portfolio Management Group, Associate",
+      "location": {
+        "name": "Mumbai, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Artificial-Intelligence-Engineer--Portfolio-Management-Group--Associate_R264721",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "e9dfb4abae": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/SAP-IBP-Configurator---Developer_3164310-1",
+      "title": "SAP-IBP Configurator & Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/SAP-IBP-Configurator---Developer_3164310-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "03243f4100": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000446251-1",
+      "title": "Engineer",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000446251-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "593f93f7a7": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer_R-567296",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-567296",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "5640c0053e": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10389883",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10389883",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "986b02ea17": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Back-End-Developer---Python-Scripting-RDBMS--Linux-SQL-ETL-----Pune_JR0308894",
+      "title": "Back End Developer \u00a0(Python Scripting,RDBMS ,Linux,SQL,ETL ) - Pune",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Back-End-Developer---Python-Scripting-RDBMS--Linux-SQL-ETL-----Pune_JR0308894",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "5594ace4ae": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R425357",
+      "title": "Development Engineer 3",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R425357",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
