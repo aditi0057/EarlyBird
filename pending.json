@@ -1,94 +1,4 @@
 {
-  "73250a4118": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R442731",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India \u2013 Virtual \u2013 Karnataka DTA"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India--Virtual--Karnataka-DTA/Development-Engineer-3_R442731",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "a3e4a2950f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10500291",
-      "title": "Software Development II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10500291/software-development-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
-    }
-  },
-  "ceb45bba87": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10500349",
-      "title": "Software Development Engineer II, Selling Partner Identity Verification",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10500349/software-development-engineer-ii-selling-partner-identity-verification",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
-    }
-  },
-  "08f009b2cd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499857",
-      "title": "Software Development Engineer, Amazon Fulfilment Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499857/software-development-engineer-amazon-fulfilment-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, data-driven decision making and problem solving skills in a real world setting? Do you want to build large-scale"
-    }
-  },
-  "276762b71c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10499858",
-      "title": "Software Development Engineer, Amazon Fulfilment Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10499858/software-development-engineer-amazon-fulfilment-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, data-driven decision making and problem solving skills in a real world setting? Do you want to build large-scale"
-    }
-  },
-  "52f9efac91": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-ISC/Full-Stack-Engineer_R0438569",
-      "title": "Full Stack Engineer",
-      "location": {
-        "name": "Bangalore Velankani ISC"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/Full-Stack-Engineer_R0438569",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
   "9d4e23d327": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1196,6 +1106,96 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000437067",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "c0f7373dd1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10505853",
+      "title": "Software Development Engineer III , Amazon Pay Credit and Lending",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10505853/software-development-engineer-iii-amazon-pay-credit-and-lending",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you ready to shape the future of credit and lending for millions of customers? Join Amazon Pay's fintech team where you'll build innovative payment solutions that transform how customers access credit."
+    }
+  },
+  "0ad821a7b0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10506001",
+      "title": "Sr. Software Development Engineer, Payments - MENA and APAC Affordability",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10506001/sr-software-development-engineer-payments-mena-and-apac-affordability",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Payments power the world \u2014 and we're building the technology behind it. If you thrive on designing scalable services, love collaborating with sharp minds, and want your work to shape how millions of customers"
+    }
+  },
+  "2d16ddf55e": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Artificial-Intelligence-Engineer_3163967",
+      "title": "Artificial Intelligence Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Artificial-Intelligence-Engineer_3163967",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "9ef717fad3": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Professional--Quality-Assurance-Engineering--Payment-SDET-Engineer-_R-10400956",
+      "title": "Professional, Quality Assurance Engineering (Payment SDET Engineer)",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Quality-Assurance-Engineering--Payment-SDET-Engineer-_R-10400956",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "4b82ff16bf": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---Site-Reliability-Engineering_R442580",
+      "title": "Engineer 4 - Site Reliability Engineering",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---Site-Reliability-Engineering_R442580",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "7ef623ad86": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Quality---Automation-Engineer-4_R425121",
+      "title": "AI/ML Test Automation Engineer 4",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality---Automation-Engineer-4_R425121",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
   }
