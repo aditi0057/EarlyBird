@@ -1,154 +1,4 @@
 {
-  "449ce2b802": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R430747",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R430747",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "56ce8c6139": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R430746",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R430746",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "82aedd4c8a": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R423186",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R423186",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e0282c071c": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R442309",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R442309",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "7b7c19cd29": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---UI-Full-Stack-Developer_R431885",
-      "title": "Engineer 4 - UI Full Stack Developer",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---UI-Full-Stack-Developer_R431885",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "8653e506f0": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R419188",
-      "title": "Development Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2_R419188",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "c7ab175722": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R437594",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R437594",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "0c13d2d551": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R440819",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R440819",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "a9f30a3e2f": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R436806",
-      "title": "Development Engineer 4",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R436806",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "cd2c12fd60": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R438543-1",
-      "title": "Development Engineer 4",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R438543-1",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "f97faea7fd": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3--Golang-_R442512",
       "_source": "workday",
       "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "4c2c9a55c5": {
+    "company": "Fampay",
+    "role_type": "fintech",
+    "job": {
+      "id": "01750a61-a53b-433f-8d8c-bfb5a18417f8",
+      "title": "Data Engineer (SDE 2)",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/fampay/01750a61-a53b-433f-8d8c-bfb5a18417f8",
+      "_source": "lever",
+      "_token": "fampay",
+      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout the role:-\u00a0\n\u00a0\nWe are looking for a Data Engineer II (SDE-2) to join our data team. The ideal candidate will be a play a key role to develop of high performant and scalable  Data Lake-house, moving us toward a world of sub-minute data latency and unified batch/streaming compute. This is an engineering-heavy role where you will manage complex CDC flows, optimize distributed query engines and leverage AI to accelerate our development lifecycle. \n\u00a0\nMust Have Requirements- \nExperience: 3\u20135 years in Data Engineering, specifically with distributed systems and cloud-native architectures.\nCoding: Expert-level Python/PySpark and SQL.\u00a0Familiarity with Go/Java/Scala is a plus\nInfrastructure: Hands-on experience with AWS (S3, EKS, MSK) and Infrastructure-as-Code.\nOrchestration: Experience with Airflow or Temporal for complex workflow management.\nAI-Native: Proficiency in using AI tools (Claude, Codex, Copilot) to write, test, and document code efficiently.\nSystems Thinking: Ability to explain the trade-offs between different storage formats and processing frameworks.\nTech Execution : Drive key tech initiatives by preparing TRD and actively involve in design reviews.\nDomain Modelling - Should be hands on in designing Domain models for OLAP like Fact, Dimension, Cumulative , types of SCD\u2019s and OBT pattern tables.\nSelf Starter - Lead the team technically and bring in new ideas to contribute to the growth of the charter.\nStakeholder Interaction - Interact with the Product & Key Stakeholders & help them by adding value to the business workflow with data & analytics.\nGood to have -\u00a0\nReal-time CDC: Ownership of high-throughput ingestion from RDBMS to Lakehouse using Debezium, PeerDB.\nLakehouse Architecture: Designing and optimizing table formats (Iceberg, Delta, Hudi) for both performance and storage efficiency.\nUnified Compute: Developing robust ETL/ELT frameworks in PySpark and Flink (handling both batch and streaming workloads).\nInfrastructure & Ops: Managing data workloads on AWS (EMR, EKS, MSK, S3) and automating everything via Gitlab/Github Actions.\nQuery & BI: Tuning Trino or Clickhouse to power real-time dashboards in Metabase, Superset, and PowerBI.\nOur Tech Stack-\u00a0\n\n\n"
+    }
+  },
+  "d52648f9db": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10509822",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10509822/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "ee3fd8ad23": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10509821",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "3f16ce59d9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10509895",
+      "title": "Software Dev Engineer II, Profit Intelligence",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10509895/software-dev-engineer-ii-profit-intelligence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building intelligence systems from the ground up?Are you interested in working with Applied Scientists, Big Data Engineers and Software Development Engineers to build large-scale"
+    }
+  },
+  "b9cb843117": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10509892",
+      "title": "Software Dev Engineer II, Profit Intelligence",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10509892/software-dev-engineer-ii-profit-intelligence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building intelligence systems from the ground up?Are you interested in working with Applied Scientists, Big Data Engineers and Software Development Engineers to build large-scale"
+    }
+  },
+  "3becdda4a5": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Data-Engineer-II_R-288599-1",
+      "title": "Data Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-288599-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "4b3d73d587": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7608415003,
+      "title": "Cyber Security Engineer II",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7608415003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "7c58057cf4": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer_R0000443449-1",
+      "title": "Sr Engineer",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000443449-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "d52f2211a1": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Software-Developer_R-10393508",
+      "title": "Software Developer",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Software-Developer_R-10393508",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "6f9c8a34c5": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Software-Development---Advisor_R-10392979",
+      "title": "Software Development - Advisor",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Software-Development---Advisor_R-10392979",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
