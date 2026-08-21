@@ -1,154 +1,4 @@
 {
-  "20bdb2ffdb": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10502059",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10502059/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
-  "8fae3654ac": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10502054",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10502054/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
-  "8569f8cf6b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10502015",
-      "title": "Software Dev Engineer II, RoW AIM TECH ",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10502015/software-dev-engineer-ii-row-aim-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Supply Chain Optimization Technologies (SCOT) org is looking for Software Development Engineer to join the Automated Inventory Management Team. As a part of the program you will have the opportunity to"
-    }
-  },
-  "fd100d546b": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Gurugram-India/Quality-Assurance-Engineer--Aladdin-Platform-Engineering--Associate_R266028",
-      "title": "Quality Assurance Engineer, Aladdin Platform Engineering, Associate",
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/Quality-Assurance-Engineer--Aladdin-Platform-Engineering--Associate_R266028",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
-  "8cd9ae2f37": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karntaka-India/Android-SW-FWK-Engineer_3166632-1",
-      "title": "Android SW FWK Engineer",
-      "location": {
-        "name": "Bengaluru, Karn\u0101taka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Android-SW-FWK-Engineer_3166632-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "7e28ad5ebb": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 7919336,
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "94dfe96d63": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10502808",
-      "title": "Software Development Engineer II, Amazon",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10502808/software-development-engineer-ii-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Revolutionize Global Financial Systems with Cutting-Edge TechnologyAre you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative"
-    }
-  },
-  "5f8523a795": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10502382",
-      "title": "Software Development Engineer, Traffic Quality",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10502382/software-development-engineer-traffic-quality",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Advertising at Amazon is a fast-growing, multi-billion dollar business. It spans desktop, mobile and connected devices; encompasses ads on Amazon and a vast network of third-party publishers; and extends"
-    }
-  },
-  "cab6cc2f6d": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-MUTTHA-TWR-FLR-3-4-6/AWS-and-Devops-Engineer_JR0307649",
-      "title": "AWS and Devops Engineer",
-      "location": {
-        "name": "IND PUNE MUTTHA TWR FLR 3-4, 6"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-MUTTHA-TWR-FLR-3-4-6/AWS-and-Devops-Engineer_JR0307649",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "e25f476117": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R435747",
-      "title": "Development Engineer 3",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R435747",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "449ce2b802": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India-55_R0000444274",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "3f16f66b69": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10508284",
+      "title": "Embedded SDE - Security, Silicon & Systems Group",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10508284/embedded-sde-security-silicon-systems-group",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Silicon & Systems Group builds the custom Arm-based SoCs and low-level software that power Fire TV and Amazon's streaming media and smart-TV devices. We are looking for a Software Development"
+    }
+  },
+  "b0b87961bc": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Target-India_R0000450316",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India_R0000450316",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "3b4e4e780c": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000449523",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000449523",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "b8aca39d19": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434038",
+      "title": "SAS DMS AI Full Stack Engineer, AS",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434038",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "8fe37cda16": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer_R-568062",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-568062",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "5c3eea2a3d": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026886-1",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026886-1",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "7ce867f02a": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026887",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026887",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "10895c8c0c": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026888",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026888",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "ed69a5a3a7": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2-Golang-_R442513",
+      "title": "Development Engineer 2(Golang)",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2-Golang-_R442513",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
+      "_content": null
+    }
+  },
+  "893a11ea69": {
+    "company": "Comcast",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3--Golang-_R442512",
+      "title": "Development Engineer 3( Golang)",
+      "location": {
+        "name": "India - Chennai, Comcast India Engineering Cent"
+      },
+      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3--Golang-_R442512",
+      "_source": "workday",
+      "_token": "comcast:wd5:Comcast_Careers",
       "_content": null
     }
   }
