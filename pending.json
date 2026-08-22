@@ -1,49 +1,4 @@
 {
-  "f97faea7fd": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R439589",
-      "title": "Engineer 3, Software Development & Engineering",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Software-Development---Engineering_R439589",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e7d9c52d96": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---Software-Development---Engineering_R440764-1",
-      "title": "Development Engineer 4",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---Software-Development---Engineering_R440764-1",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "38a2fd3fac": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Development-Engineer_R438459-1",
-      "title": "Engineer 3, Development Engineer",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Development-Engineer_R438459-1",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
   "2c7972e084": {
     "company": "Comcast",
     "role_type": "tech",
@@ -1196,6 +1151,51 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Software-Development---Advisor_R-10392979",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "7dd2857648": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10510077",
+      "title": "Software Dev Engineer II, EE Replenishment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10510077/software-dev-engineer-ii-ee-replenishment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "As a Software Development Engineer on the Everyday Essentials Promotions (EEP) team, you'll build systems that power promotional experiences for millions of Amazon customers.Our platform determines which"
+    }
+  },
+  "ae663610c2": {
+    "company": "MindTickle",
+    "role_type": "tech",
+    "job": {
+      "id": "d62b36db-b088-48c7-a606-4ed458e30208",
+      "title": "Security and Automation Engineer",
+      "location": {
+        "name": "Pune, Maharashtra"
+      },
+      "absolute_url": "https://jobs.lever.co/mindtickle/d62b36db-b088-48c7-a606-4ed458e30208",
+      "_source": "lever",
+      "_token": "mindtickle",
+      "_content": "About Mindtickle\u00a0\nMindtickle is the leading AI-powered revenue enablement platform, helping sales teams learn faster, practice smarter, and perform at their best. We bring together onboarding, training, coaching, content, digital sales rooms, conversation intelligence, and AI role plays into one platform so revenue teams have everything they need to build winning sellers.\nGlobal companies, like Fortune 500 organizations, trust Mindtickle to support their revenue teams. We've also been recognized by customers and industry analysts. G2 has ranked us the #1 Sales Training & Onboarding platform for 28 consecutive quarters, and Forrester has recognized Mindtickle as a Leader in revenue enablement. Mindtickle was also recognized as AI-Based Sales Solution of the Year by the 2025 AI Breakthrough Awards and has received Stevie Awards for Technology Innovation and Customer Support Excellence.\nAt Mindtickle, we're helping companies create high-performing revenue teams, and we're looking for people who want to help shape what's next.\n"
+    }
+  },
+  "4c27685500": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer_R0000445796",
+      "title": "Engineer",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer_R0000445796",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
