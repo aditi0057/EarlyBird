@@ -1,154 +1,4 @@
 {
-  "5fb42608e7": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R442883",
-      "title": "Development Engineer 4",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-4_R442883",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "988f514559": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Qulaity-and-Automation-Engineer-2_R442497",
-      "title": "Qulaity and Automation Engineer 2",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Qulaity-and-Automation-Engineer-2_R442497",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "c9fa6c9fc9": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8132173,
-      "title": " IT Automation and AI Engineer ",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8132173?gh_jid=8132173",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "a7cbad1356": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8705011002,
-      "title": "RPA Engineer, UiPath",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8705011002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "ee8863c815": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10503778",
-      "title": "Software Development Engineer ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10503778/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products to algorithmically find products not already sold on"
-    }
-  },
-  "d8988170e0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10503791",
-      "title": "Software Development Engineer II, WWGST Tesseract",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10503791/software-development-engineer-ii-wwgst-tesseract",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to be on the leading edge of Amazon e-commerce improvements? If so, please come and talk to us! We are the GroceryX organization within the Worldwide Grocery Stores Tech (WWGST) organization."
-    }
-  },
-  "243efc2d16": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10503681",
-      "title": "Software Development Engineer, ShipTech",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10503681/software-development-engineer-shiptech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to define the future of Internet commerce?\r Are you a top-notch software engineer with a creative flare, strong problem-solving skills, the drive to build and ship products fast, a solid computer"
-    }
-  },
-  "d0ce660934": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-engineer_R-568160",
-      "title": "Software engineer",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-engineer_R-568160",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "6dcb834761": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Engineering-Operations_R438602",
-      "title": "Engineer 3, Engineering Operations",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--Engineering-Operations_R438602",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "e75fc92fae": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer_R170616",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170616",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
   "904595fb87": {
     "company": "HighRadius",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7700843003",
       "_source": "greenhouse",
       "_token": "highradius",
+      "_content": null
+    }
+  },
+  "b7f84f4488": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8721229002,
+      "title": "Intermediate Software Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8721229002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "d12a3ebc15": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10512590",
+      "title": "Software Development Engineer, Vendor Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10512590/software-development-engineer-vendor-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about working with Amazon-scale systems, solving critical engineering problems, and delivering mission critical solutions? Does the idea of building end-to-end solutions that will delight"
+    }
+  },
+  "06c4e867c0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10512593",
+      "title": "Software Development Engineer II, Vendor Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10512593/software-development-engineer-ii-vendor-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about working with Amazon-scale systems, solving critical engineering problems, and delivering mission critical solutions? Does the idea of building end-to-end solutions that will delight"
+    }
+  },
+  "1b06cbf981": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10512283",
+      "title": "Software Dev Engineer II , Finance Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10512283/software-dev-engineer-ii-finance-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Enabling Amazon\u2019s explosive growth requires top talent in our Finance Technology (FinTech) organization. FinTech is seeking a Software Development Engineer to be a part of Thunder team.At FinTech we ingest"
+    }
+  },
+  "4b6c5f0aef": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10512794",
+      "title": "Software Development Engineer II , FRK - CoreRecon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10512794/software-development-engineer-ii-frk-corerecon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited about building distributed systems with really challenging mix of requirements on availability, latency and consistency? Are you someone who enjoys the challenge of figuring out scalable"
+    }
+  },
+  "54e92bbcee": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10512648",
+      "title": "Software Engineer, Under the Roof Labor Planning, UTR",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10512648/software-engineer-under-the-roof-labor-planning-utr",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you pioneer? Do you enjoy breaking down and solving complex problems for the benefit of a quickly expanding customer base, focusing first on our customer and working backwards? The Under the Roof Labor"
+    }
+  },
+  "20b47f0ec8": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Data-Engineer-II_R-288643-1",
+      "title": "Data Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-288643-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "ebf632373b": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-288697",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288697",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "80cac3f08d": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Software-Cloud-Engineer_3166799-1",
+      "title": "Software Cloud Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Cloud-Engineer_3166799-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "938d340e01": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676",
+      "title": "Software Engineer/Python primary, Java basics and AI",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
     }
   }
