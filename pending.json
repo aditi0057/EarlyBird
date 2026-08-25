@@ -1,154 +1,4 @@
 {
-  "904595fb87": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 6555499003,
-      "title": "Cloud Engineer - III",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=6555499003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
-  "5edd113079": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 7804499003,
-      "title": "Forward Deployed Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7804499003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
-  "af8f380a2f": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 7705552003,
-      "title": "Forward Deployed Engineer II",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7705552003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
-  "3fa9e8c8de": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 7884804003,
-      "title": "Software Engineer II - Full Stack",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/7884804003?gh_jid=7884804003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "7be7fabcbd": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164825-1",
-      "title": "Agentic AI Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164825-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "420cef010e": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164655-1",
-      "title": "Agentic AI Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Agentic-AI-Engineer_3164655-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "799f9e3dbd": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Test-Engineer_3166636-1",
-      "title": "Android Test Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Test-Engineer_3166636-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "e8822996b8": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Embedded-Systems-and-Platform-Engineer_3164854-2",
-      "title": "Embedded Systems and Platform Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Embedded-Systems-and-Platform-Engineer_3164854-2",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "e21e641bc5": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000437067",
-      "title": "Engineer - Genesys Cloud Cx",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000437067",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "c0f7373dd1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10505853",
-      "title": "Software Development Engineer III , Amazon Pay Credit and Lending",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10505853/software-development-engineer-iii-amazon-pay-credit-and-lending",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you ready to shape the future of credit and lending for millions of customers? Join Amazon Pay's fintech team where you'll build innovative payment solutions that transform how customers access credit."
-    }
-  },
   "0ad821a7b0": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676",
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "e9044c256f": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8056209,
+      "title": "DevOps Engineer, Professional Services R&D",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "c08f42c988": {
+    "company": "Samsara",
+    "role_type": "tech",
+    "job": {
+      "id": 8138802,
+      "title": "Security Engineer II - Vulnerability Management",
+      "location": {
+        "name": "Bengaluru - BLR1"
+      },
+      "absolute_url": "https://www.samsara.com/company/careers/roles/8138802?gh_jid=8138802",
+      "_source": "greenhouse",
+      "_token": "samsara",
+      "_content": null
+    }
+  },
+  "70b5e40091": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10513313",
+      "title": "Software Development Engineer II (ML), CMT",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10513313/software-development-engineer-ii-ml-cmt",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "As a member of Amazon's Worldwide Pricing and promotions team, you'll play a key role in the evolution of our Competitive Monitoring team to solve the world's most complex technical challenges in Crawling,"
+    }
+  },
+  "8a12f8fcf1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10511781",
+      "title": "Software Development Engineer, Amazon International Seller Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10511781/software-development-engineer-amazon-international-seller-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Team Overview:The Seller Compliance team builds critical services enabling Amazon's $100B+ EU marketplace growth by solving complex regulatory challenges. We own the Pay-on-Behalf platform that currently"
+    }
+  },
+  "d456b6e76b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10469056",
+      "title": "Software Development Engineer - Test II, EDGE Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10469056/software-development-engineer-test-ii-edge-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
+    }
+  },
+  "045f2fbab0": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Data-Engineer_3167557-1",
+      "title": "Data Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3167557-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "28c16fcac0": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166631",
+      "title": "Android Framework Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166631",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "bd081984f0": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166634-1",
+      "title": "Android Framework Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166634-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "df9dd20647": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000443601",
+      "title": "Sr Engineer - Ad Tech",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000443601",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "d9388af711": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-Tech-Park/Engineer_R0445994",
+      "title": "Engineer",
+      "location": {
+        "name": "Bangalore, Velankani Tech Park"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Engineer_R0445994",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
       "_content": null
     }
   }
