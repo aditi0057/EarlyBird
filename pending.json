@@ -1,139 +1,4 @@
 {
-  "b05476627b": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000442064",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000442064",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "d887c49876": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India-55_R0000444274",
-      "title": "Engineer - Target India-55",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India-55_R0000444274",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "3f16f66b69": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10508284",
-      "title": "Embedded SDE - Security, Silicon & Systems Group",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10508284/embedded-sde-security-silicon-systems-group",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Silicon & Systems Group builds the custom Arm-based SoCs and low-level software that power Fire TV and Amazon's streaming media and smart-TV devices. We are looking for a Software Development"
-    }
-  },
-  "b0b87961bc": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Target-India_R0000450316",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India_R0000450316",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "3b4e4e780c": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000449523",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000449523",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "b8aca39d19": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434038",
-      "title": "SAS DMS AI Full Stack Engineer, AS",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434038",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "8fe37cda16": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer_R-568062",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-568062",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "5c3eea2a3d": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026886-1",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026886-1",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "7ce867f02a": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026887",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026887",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
   "10895c8c0c": {
     "company": "Broadcom",
     "role_type": "tech",
@@ -1196,6 +1061,141 @@
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288941",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "4a9c35b5f8": {
+    "company": "Elastic",
+    "role_type": "tech",
+    "job": {
+      "id": 8154997,
+      "title": "AI QA & Evaluation Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8154997&gh_jid=8154997",
+      "_source": "greenhouse",
+      "_token": "elastic",
+      "_content": null
+    }
+  },
+  "511a72b51a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516728",
+      "title": "Software Development Engineer, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516728/software-development-engineer-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence"
+    }
+  },
+  "9d22c3ec7d": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Digital-Software-Engineer_26988896",
+      "title": "Digital Software Engineer",
+      "location": {
+        "name": "Chennai Tamil Nadu India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Digital-Software-Engineer_26988896",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "e50947200d": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 7816911003,
+      "title": "Software Engineer 2 - Abnormal Data Platform",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/7816911003?gh_jid=7816911003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "8dc7011303": {
+    "company": "Netskope",
+    "role_type": "tech",
+    "job": {
+      "id": 8161047,
+      "title": "Sr. DevOps Engineer, Data Platform",
+      "location": {
+        "name": "India"
+      },
+      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8161047",
+      "_source": "greenhouse",
+      "_token": "netskope",
+      "_content": null
+    }
+  },
+  "6c5713b311": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Java-Engineer_R-570574",
+      "title": "Software Engineer - Java Springboot with Gen AI",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Engineer_R-570574",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "24ba6430c2": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026933",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026933",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "ccbb4878d7": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026932",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026932",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "2780428d6f": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026934",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026934",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
       "_content": null
     }
   }
