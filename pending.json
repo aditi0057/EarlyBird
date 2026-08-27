@@ -1,154 +1,4 @@
 {
-  "ea3625070b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10507385",
-      "title": "Software Development Engineer, AWS Compliance & Security Assurance, Denied Party Screening",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10507385/software-development-engineer-aws-compliance-security-assurance-denied-party-screening",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our mission is to prevent \"denied entities\" from transacting with Amazon businesses. We build"
-    }
-  },
-  "5a91e645cc": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-I_R-10395385",
-      "title": "Software Development Engineering - Sr Professional I",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-I_R-10395385",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "8d89a4d046": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8121053,
-      "title": "Software Engineer - Cloud Native Protection",
-      "location": {
-        "name": "Bangalore "
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "dbfeeb6729": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10507832",
-      "title": "Software Development Engineer II, Hardline FX (Wireless / H&B)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10507832/software-development-engineer-ii-hardline-fx-wireless-h-b",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "959e90fe9f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10507895",
-      "title": "Software Development Engineer III, Amazon Payments",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10507895/software-development-engineer-iii-amazon-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment systems that support numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
-  "5a998e92c1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10507894",
-      "title": "Software Development Engineer II, Amazon Payments",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10507894/software-development-engineer-ii-amazon-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment system that supports numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
-  "6230b284c7": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer---1_R-288516",
-      "title": "Software Engineer - 1",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "b187870fd1": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000450325",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000450325",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "f25e0a4319": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Target-India_R0000442405",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India_R0000442405",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "61643fd147": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000441667-1",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000441667-1",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "b05476627b": {
     "company": "Target",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Software--C---Developer--Trading-Domain-_JR0308987",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "5cf320917e": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5219488007,
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "5a57af9767": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "c68ee07f-0e16-455b-bc4a-87848aaf46fa",
+      "title": "Software Development Engineer III -Backend",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\n\u00a0\nWant to be the brains behind our robust systems? Then joining us as Software Development Engineer - III - Backend may be the right thing for you!\n\u00a0\nWhen 5% of Indian households shop with us, it\u2019s important to build resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e\u00a0\n\u00a0\nSounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant that it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast.\n\u00a0\nWe place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As Software Development Engineer - III - Backend, you will be part of self-starters who thrive on teamwork and constructive feedback.\u00a0\n\u00a0\nWe know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favourite books and games \u2013 or even gossipping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\nAbout the Role\n\u00a0\nAs an SDE - III (Backend), you will solve real-life complex problems and create compelling experiences for our users. In this role, you will ensure that the solutions and processes that we create are of the highest quality. And in doing so, you will champion a seamless app experience for all our users. You will also collaborate with your fellow engineers to create scalable solutions that are pertinent to Meesho\u2019s overall growth.\n\u00a0\nIf you are confident about solving hard, interesting and UNIQUE problems, and creating an impact within an entrepreneurial environment, then you might just be our next SDE - III (Backend).\n"
+    }
+  },
+  "5aa24a5242": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516673",
+      "title": "Software Development Engineer III, Prime Video Infrastructure and platform team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516673/software-development-engineer-iii-prime-video-infrastructure-and-platform-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come build the future of entertainment with us. Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?\u2028Prime"
+    }
+  },
+  "a735b813ce": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516674",
+      "title": "Software Development Engineer, PXT Case Management System",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516674/software-development-engineer-pxt-case-management-system",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to revolutionize how millions of Amazonians worldwide receive HR support? Are you passionate about building intelligent, AI-powered solutions that transform employee experiences? Do you want"
+    }
+  },
+  "ecf3c59495": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516656",
+      "title": "Software Dev Engineer II, EU INTech Partner Growth Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516656/software-dev-engineer-ii-eu-intech-partner-growth-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The EU International Technology (EU INTech) charter for Partner Growth and Experiences (PGX) is established to deliver coherent and personalised experiences for Selling Partners (SP) and Amazon teams,"
+    }
+  },
+  "39c3530f2f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516484",
+      "title": "Software Dev Engineer II, Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516484/software-dev-engineer-ii-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building next generation services that will re-define international trade at Amazon? Do you want to improve how shoppers around the world discover and purchase global merchandise?"
+    }
+  },
+  "38fe43409f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516468",
+      "title": "Software dev engineer, WWGST Workforce management",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516468/software-dev-engineer-wwgst-workforce-management",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is looking for a Software Development Engineer who is passionate, innovative and have a heart for Nourishing People and the Planet. You will be working on designing and developing long term, scalable"
+    }
+  },
+  "7259a3b95f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10516597",
+      "title": "SDE II (Level 5), GT Foundation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10516597/sde-ii-level-5-gt-foundation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are seeking a talented Software Development Engineer with a strong technical background to join Amazon Global Selling on the Export Navigator (ExNav) team within Global Selling Foundations Technology."
+    }
+  },
+  "5c0dcafdf0": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer_R171363",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171363",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "c8872739a2": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-288941",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288941",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
     }
   }
