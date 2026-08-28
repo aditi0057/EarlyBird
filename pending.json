@@ -1,109 +1,4 @@
 {
-  "10895c8c0c": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026888",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026888",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "ed69a5a3a7": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2-Golang-_R442513",
-      "title": "Development Engineer 2(Golang)",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-2-Golang-_R442513",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "893a11ea69": {
-    "company": "Comcast",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3--Golang-_R442512",
-      "title": "Development Engineer 3( Golang)",
-      "location": {
-        "name": "India - Chennai, Comcast India Engineering Cent"
-      },
-      "absolute_url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3--Golang-_R442512",
-      "_source": "workday",
-      "_token": "comcast:wd5:Comcast_Careers",
-      "_content": null
-    }
-  },
-  "4c2c9a55c5": {
-    "company": "Fampay",
-    "role_type": "fintech",
-    "job": {
-      "id": "01750a61-a53b-433f-8d8c-bfb5a18417f8",
-      "title": "Data Engineer (SDE 2)",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/fampay/01750a61-a53b-433f-8d8c-bfb5a18417f8",
-      "_source": "lever",
-      "_token": "fampay",
-      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout the role:-\u00a0\n\u00a0\nWe are looking for a Data Engineer II (SDE-2) to join our data team. The ideal candidate will be a play a key role to develop of high performant and scalable  Data Lake-house, moving us toward a world of sub-minute data latency and unified batch/streaming compute. This is an engineering-heavy role where you will manage complex CDC flows, optimize distributed query engines and leverage AI to accelerate our development lifecycle. \n\u00a0\nMust Have Requirements- \nExperience: 3\u20135 years in Data Engineering, specifically with distributed systems and cloud-native architectures.\nCoding: Expert-level Python/PySpark and SQL.\u00a0Familiarity with Go/Java/Scala is a plus\nInfrastructure: Hands-on experience with AWS (S3, EKS, MSK) and Infrastructure-as-Code.\nOrchestration: Experience with Airflow or Temporal for complex workflow management.\nAI-Native: Proficiency in using AI tools (Claude, Codex, Copilot) to write, test, and document code efficiently.\nSystems Thinking: Ability to explain the trade-offs between different storage formats and processing frameworks.\nTech Execution : Drive key tech initiatives by preparing TRD and actively involve in design reviews.\nDomain Modelling - Should be hands on in designing Domain models for OLAP like Fact, Dimension, Cumulative , types of SCD\u2019s and OBT pattern tables.\nSelf Starter - Lead the team technically and bring in new ideas to contribute to the growth of the charter.\nStakeholder Interaction - Interact with the Product & Key Stakeholders & help them by adding value to the business workflow with data & analytics.\nGood to have -\u00a0\nReal-time CDC: Ownership of high-throughput ingestion from RDBMS to Lakehouse using Debezium, PeerDB.\nLakehouse Architecture: Designing and optimizing table formats (Iceberg, Delta, Hudi) for both performance and storage efficiency.\nUnified Compute: Developing robust ETL/ELT frameworks in PySpark and Flink (handling both batch and streaming workloads).\nInfrastructure & Ops: Managing data workloads on AWS (EMR, EKS, MSK, S3) and automating everything via Gitlab/Github Actions.\nQuery & BI: Tuning Trino or Clickhouse to power real-time dashboards in Metabase, Superset, and PowerBI.\nOur Tech Stack-\u00a0\n\n\n"
-    }
-  },
-  "d52648f9db": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10509822",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10509822/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "ee3fd8ad23": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10509821",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "3f16ce59d9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10509895",
-      "title": "Software Dev Engineer II, Profit Intelligence",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10509895/software-dev-engineer-ii-profit-intelligence",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building intelligence systems from the ground up?Are you interested in working with Applied Scientists, Big Data Engineers and Software Development Engineers to build large-scale"
-    }
-  },
   "b9cb843117": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026934",
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "d576bef360": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 7955601002,
+      "title": "Sr Software Engineer - Backend",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "cb7d640dfc": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 7925560002,
+      "title": "Sr. Software Engineer - Observability",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "13ea23f7c4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10517821",
+      "title": "Software Development Engineer II, UTR Tech",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10517821/software-development-engineer-ii-utr-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s global fulfilment network enables any merchant in any of the geography ship items that you order on Amazon, to any place on earth. Amazon Logistics\u2019 (AMZL) delivery stations (DS) receive packages"
+    }
+  },
+  "f2f817cfad": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10517918",
+      "title": "Software Development Engineer II, IN Pharmacy",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10517918/software-development-engineer-ii-in-pharmacy",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Our 3 year vision is to be the best-in-class online Healthcare provider in India. Amit Agarwal, SVP India recently said, \u201cIn Amazon India\u2019s next five year vision \u2013 serving healthcare needs for India is"
+    }
+  },
+  "fa55395c95": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10517858",
+      "title": "Software Development Engineer II , Product & Offers Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10517858/software-development-engineer-ii-product-offers-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you shop on Amazon? Have you ever browsed a product detail page, scrolled through images, compared prices, checked delivery dates, and then clicked \"Add to Cart\"? That entire experience? Our team builds"
+    }
+  },
+  "5950eb31f2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10517857",
+      "title": "Software Development Engineer II , Product & Offers Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10517857/software-development-engineer-ii-product-offers-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you shop on Amazon? Have you ever browsed a product detail page, scrolled through images, compared prices, checked delivery dates, and then clicked \"Add to Cart\"? That entire experience? Our team builds"
+    }
+  },
+  "aa5c94a461": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer_R171349",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171349",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
       "_content": null
     }
   }
