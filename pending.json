@@ -1,19 +1,4 @@
 {
-  "b9cb843117": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10509892",
-      "title": "Software Dev Engineer II, Profit Intelligence",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10509892/software-dev-engineer-ii-profit-intelligence",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building intelligence systems from the ground up?Are you interested in working with Applied Scientists, Big Data Engineers and Software Development Engineers to build large-scale"
-    }
-  },
   "3becdda4a5": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1181,21 @@
       "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171349",
       "_source": "workday",
       "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "4841a27b40": {
+    "company": "Coinbase",
+    "role_type": "fintech",
+    "job": {
+      "id": 8165441,
+      "title": "Software Engineer, Security Platform",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
+      "_source": "greenhouse",
+      "_token": "coinbase",
       "_content": null
     }
   }
