@@ -1,109 +1,4 @@
 {
-  "4b6c5f0aef": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10512794",
-      "title": "Software Development Engineer II , FRK - CoreRecon",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10512794/software-development-engineer-ii-frk-corerecon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about building distributed systems with really challenging mix of requirements on availability, latency and consistency? Are you someone who enjoys the challenge of figuring out scalable"
-    }
-  },
-  "54e92bbcee": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10512648",
-      "title": "Software Engineer, Under the Roof Labor Planning, UTR",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10512648/software-engineer-under-the-roof-labor-planning-utr",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you pioneer? Do you enjoy breaking down and solving complex problems for the benefit of a quickly expanding customer base, focusing first on our customer and working backwards? The Under the Roof Labor"
-    }
-  },
-  "20b47f0ec8": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Data-Engineer-II_R-288643-1",
-      "title": "Data Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-288643-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "ebf632373b": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-288697",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288697",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "80cac3f08d": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Software-Cloud-Engineer_3166799-1",
-      "title": "Software Cloud Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Cloud-Engineer_3166799-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "938d340e01": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676",
-      "title": "Software Engineer/Python primary, Java basics and AI",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "e9044c256f": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8056209,
-      "title": "DevOps Engineer, Professional Services R&D",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
   "c08f42c988": {
     "company": "Samsara",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/XMLNAME-Net-Core-Full-Stack-with-Angular---Microservices-Developer---Pune_JR0309073",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "f10f715afa": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 8167389,
+      "title": "Software Engineer 3",
+      "location": {
+        "name": "Gurugram"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8167389",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "629a1b0bb0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10523573",
+      "title": "Software Development Engineer III, Selling Partner Identity Verification",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10523573/software-development-engineer-iii-selling-partner-identity-verification",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
+    }
+  },
+  "7070e0dea9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10523762",
+      "title": "Software Development Engineer, PXT Case Management System",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10523762/software-development-engineer-pxt-case-management-system",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to help shape how Amazonians worldwide receive HR support? Are you energized by building intelligent, AI-powered solutions that improve employee experiences every day? Do you want to work on"
+    }
+  },
+  "a257f2272f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10523659",
+      "title": "Software Development Engineer II, Amazon External Payments",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10523659/software-development-engineer-ii-amazon-external-payments",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon External Payments is building the foundational capabilities for Agentic Payments. As a Software Development Engineer (SDE2), you will own the development of these core building blocks, enabling"
+    }
+  },
+  "1076d3256c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10511883",
+      "title": "Software Development Engineer -I, IESP Merchant Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "6cfee154fd": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R171208-1",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171208-1",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "c0ab513037": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
+      "title": "Zuora Revenue Systems Engineer",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
       "_content": null
     }
   }
