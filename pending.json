@@ -1,154 +1,4 @@
 {
-  "8d646edaa7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10513736",
-      "title": "Software Development Engineer, Last Mile, Last Mile - Execution Planning,  Last Mile - Execution Planning",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10513736/software-development-engineer-last-mile-last-mile-execution-planning-last-mile-execution-planning",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Routing and Planning (RaP) organization, within the Last Mile Technology (LMT) organization, plays a pivotal role in Amazon's mission to deliver packages to billions of customers worldwide. Our goal"
-    }
-  },
-  "c584cc1f2c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10515069",
-      "title": "Software Dev Engineer, WWGST Grocery operator experience ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10515069/software-dev-engineer-wwgst-grocery-operator-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a Software Development Engineer who is passionate, innovative and have a heart for Nourishing People and the Planet. You will be working on designing and developing long term, scalable"
-    }
-  },
-  "a6cdd33178": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10514291",
-      "title": "Software dev engineer, WWGST Workforce management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10514291/software-dev-engineer-wwgst-workforce-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a Software Development Engineer who is passionate, innovative and have a heart for Nourishing People and the Planet. You will be working on designing and developing long term, scalable"
-    }
-  },
-  "d2e6bfb2a4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10513792",
-      "title": "Software Development Engineer - II, ShipTech Analytics",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10513792/software-development-engineer-ii-shiptech-analytics",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "ShipTech Analytics (STA) is on a mission to revolutionize Amazon's global transportation network through data-driven innovation and artificial intelligence. Our vision is to be the central nervous system"
-    }
-  },
-  "9a71dc8d69": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Software-Developer-Specialist--AS_R0432229-1",
-      "title": "Software Developer/Specialist, AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Software-Developer-Specialist--AS_R0432229-1",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "2d10948a8b": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Senior-Engineer-Java-Python--AVP_R0424438-1",
-      "title": "Engineer Java/Python, AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Senior-Engineer-Java-Python--AVP_R0424438-1",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "17e7e47a30": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Java-Developer---Associate_R0438312-1",
-      "title": "Java Developer - Associate",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Java-Developer---Associate_R0438312-1",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "07425b8451": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434039",
-      "title": "SAS DMS AI Full Stack Engineer, AS",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434039",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "61d20c69be": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/C-Net-Developer-with-Angular--TypeScript-and-RESTful---Pune_JR0309044",
-      "title": "C#.Net Developer with Angular,  Microservices, docker, containers  \u2013 Pune",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/C-Net-Developer-with-Angular--TypeScript-and-RESTful---Pune_JR0309044",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "58e64ce1a9": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Back-End-Developer---Python-Scripting-RDBMS--Linux-SQL-ETL-----Pune_JR0308895",
-      "title": "Back End Developer \u00a0(Python Scripting,RDBMS ,Linux,SQL,ETL ) - Pune",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Back-End-Developer---Python-Scripting-RDBMS--Linux-SQL-ETL-----Pune_JR0308895",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
   "4b71fb749b": {
     "company": "Zeta",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Microservices-Gen-AI_R-572232",
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "da112b1506": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 7597723,
+      "title": "Software Engineer 3",
+      "location": {
+        "name": "Gurugram"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7597723",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "5cef04f063": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525665",
+      "title": "Software Development Engineer - II",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525665/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
+    }
+  },
+  "ffcc17c5c2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525643",
+      "title": "SDE-1 (FTC)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525643/sde-1-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
+    }
+  },
+  "9d712d0ad5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525642",
+      "title": "SDE-1 (FTC)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525642/sde-1-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
+    }
+  },
+  "026c7b3651": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525641",
+      "title": "SDE-1 (FTC)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525641/sde-1-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
+    }
+  },
+  "d95670da40": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525615",
+      "title": "Software Development Engineer, Digital Acceleration",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525615/software-development-engineer-digital-acceleration",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com is looking for a talented and enthusiastic SDE to join the Digital Acceleration team. You will be involved in enabling AI, data, metrics and analytics at scale to several Amazon digital teams."
+    }
+  },
+  "ccf1aab54b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525614",
+      "title": "Software Development Engineer, Digital Acceleration",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525614/software-development-engineer-digital-acceleration",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com is looking for a talented and enthusiastic SDE to join the Digital Acceleration team. You will be involved in enabling AI, data, metrics and analytics at scale to several Amazon digital teams."
+    }
+  },
+  "ae2cb1e52d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10472503",
+      "title": "Software Development Engineer II, Amazon Pay Credit and Lending",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10472503/software-development-engineer-ii-amazon-pay-credit-and-lending",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you ready to shape the future of credit and lending for millions of customers worldwide? Join Amazon Pay's fintech team where you'll build innovative payment solutions that transform how customers"
+    }
+  },
+  "31d87fb63d": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Site-Reliability-Engineer-II_R-288716",
+      "title": "Site Reliability Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-288716",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "5e1f42514f": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Navi-Mumbai-India-Finicity/Software-Engineer-II---Integrations---API-Connectivity_R-289567",
+      "title": "Software Engineer II \u2013 Integrations & API Connectivity",
+      "location": {
+        "name": "Navi Mumbai, India (Finicity)"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-II---Integrations---API-Connectivity_R-289567",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
     }
   }
