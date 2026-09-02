@@ -1,139 +1,4 @@
 {
-  "c08f42c988": {
-    "company": "Samsara",
-    "role_type": "tech",
-    "job": {
-      "id": 8138802,
-      "title": "Security Engineer II - Vulnerability Management",
-      "location": {
-        "name": "Bengaluru - BLR1"
-      },
-      "absolute_url": "https://www.samsara.com/company/careers/roles/8138802?gh_jid=8138802",
-      "_source": "greenhouse",
-      "_token": "samsara",
-      "_content": null
-    }
-  },
-  "70b5e40091": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10513313",
-      "title": "Software Development Engineer II (ML), CMT",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10513313/software-development-engineer-ii-ml-cmt",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "As a member of Amazon's Worldwide Pricing and promotions team, you'll play a key role in the evolution of our Competitive Monitoring team to solve the world's most complex technical challenges in Crawling,"
-    }
-  },
-  "8a12f8fcf1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10511781",
-      "title": "Software Development Engineer, Amazon International Seller Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10511781/software-development-engineer-amazon-international-seller-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Team Overview:The Seller Compliance team builds critical services enabling Amazon's $100B+ EU marketplace growth by solving complex regulatory challenges. We own the Pay-on-Behalf platform that currently"
-    }
-  },
-  "d456b6e76b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10469056",
-      "title": "Software Development Engineer - Test II, EDGE Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10469056/software-development-engineer-test-ii-edge-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
-    }
-  },
-  "045f2fbab0": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Data-Engineer_3167557-1",
-      "title": "Data Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3167557-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "28c16fcac0": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166631",
-      "title": "Android Framework Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166631",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "bd081984f0": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166634-1",
-      "title": "Android Framework Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Framework-Engineer_3166634-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "df9dd20647": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000443601",
-      "title": "Sr Engineer - Ad Tech",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000443601",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "d9388af711": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-Tech-Park/Engineer_R0445994",
-      "title": "Engineer",
-      "location": {
-        "name": "Bangalore, Velankani Tech Park"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Engineer_R0445994",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
   "8d646edaa7": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1061,141 @@
       "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
       "_source": "workday",
       "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "5b64839c07": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525260",
+      "title": "Software Development Engineer II, Payments Acceptance and Experience Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525260/software-development-engineer-ii-payments-acceptance-and-experience-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Want to be part of a dynamic development environment within Amazon and be at the forefront of building new, innovative global payments products and solutions?Payment Acceptance And Experience team at Amazon"
+    }
+  },
+  "df327fa663": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10524238",
+      "title": "Sr Software Dev Engineer, Amazon Smart Vehicles",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10524238/sr-software-dev-engineer-amazon-smart-vehicles",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
+    }
+  },
+  "7ad9a54089": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525236",
+      "title": "Software Engineer, Cross Border Science and Analytics",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525236/software-engineer-cross-border-science-and-analytics",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a Software Development Engineer to join the XB Science team \u2014 a centralized applied science function that builds and deploys ML-powered systems driving cross-border product discovery,"
+    }
+  },
+  "147f3bc9bc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525264",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525264/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "8966395936": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748",
+      "title": "Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "5c59f26493": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-SW-FWK-Engineer_3166632-1",
+      "title": "Android SW FWK Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-SW-FWK-Engineer_3166632-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "5d7ccac025": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Developer-AI-and-Automation_3159829-1",
+      "title": "AI and Automation Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Developer-AI-and-Automation_3159829-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "7115de8786": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Java-backend-Development_R-570931-1",
+      "title": "Software Engineer - Java backend Development",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-backend-Development_R-570931-1",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "0933c0c0ef": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Java-Microservices-Gen-AI_R-572232",
+      "title": "Software Engineer - Java/Microservices/Gen AI",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Microservices-Gen-AI_R-572232",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
     }
   }
