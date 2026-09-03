@@ -1,154 +1,4 @@
 {
-  "4b71fb749b": {
-    "company": "Zeta",
-    "role_type": "fintech",
-    "job": {
-      "id": "dad16204-8051-4517-9e50-966f329045b5",
-      "title": "Cloud Network Engineer II",
-      "location": {
-        "name": "Hyderabad"
-      },
-      "absolute_url": "https://jobs.lever.co/zeta/dad16204-8051-4517-9e50-966f329045b5",
-      "_source": "lever",
-      "_token": "zeta",
-      "_content": "About Us\n\u00a0\nBuild the future of banking.\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0\n\u00a0\nOur impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\u00a0\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n4. Elena, our intelligent and conversational AI platform for banking.\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024.\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\u2026and more across cards, payments, lending, and core banking.\n\u00a0\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work.\nIf you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.If you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram,YouTube, and X.\n"
-    }
-  },
-  "2ae3ab0ce8": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer--Search-Team_R0000448998",
-      "title": "Engineer- Search Team",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer--Search-Team_R0000448998",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "5f7396fe24": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer_R-553178",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-553178",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "f789b3d19e": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---Salesforce-Development_R-570932",
-      "title": "Software Engineer - Salesforce Development",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Salesforce-Development_R-570932",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "5edb2c4c24": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Engineer-II--Software--C---Developer--Trading-Domain-_JR0308987",
-      "title": "Engineer II, Software (C++ Developer, Trading Domain)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Software--C---Developer--Trading-Domain-_JR0308987",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "5cf320917e": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5219488007,
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "5a57af9767": {
-    "company": "Meesho",
-    "role_type": "tech",
-    "job": {
-      "id": "c68ee07f-0e16-455b-bc4a-87848aaf46fa",
-      "title": "Software Development Engineer III -Backend",
-      "location": {
-        "name": "Bangalore, Karnataka"
-      },
-      "absolute_url": "https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa",
-      "_source": "lever",
-      "_token": "meesho",
-      "_content": "About the Team\n\u00a0\nWant to be the brains behind our robust systems? Then joining us as Software Development Engineer - III - Backend may be the right thing for you!\n\u00a0\nWhen 5% of Indian households shop with us, it\u2019s important to build resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e\u00a0\n\u00a0\nSounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant that it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast.\n\u00a0\nWe place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As Software Development Engineer - III - Backend, you will be part of self-starters who thrive on teamwork and constructive feedback.\u00a0\n\u00a0\nWe know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favourite books and games \u2013 or even gossipping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\nAbout the Role\n\u00a0\nAs an SDE - III (Backend), you will solve real-life complex problems and create compelling experiences for our users. In this role, you will ensure that the solutions and processes that we create are of the highest quality. And in doing so, you will champion a seamless app experience for all our users. You will also collaborate with your fellow engineers to create scalable solutions that are pertinent to Meesho\u2019s overall growth.\n\u00a0\nIf you are confident about solving hard, interesting and UNIQUE problems, and creating an impact within an entrepreneurial environment, then you might just be our next SDE - III (Backend).\n"
-    }
-  },
-  "5aa24a5242": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10516673",
-      "title": "Software Development Engineer III, Prime Video Infrastructure and platform team",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10516673/software-development-engineer-iii-prime-video-infrastructure-and-platform-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Come build the future of entertainment with us. Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching?\u2028Prime"
-    }
-  },
-  "a735b813ce": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10516674",
-      "title": "Software Development Engineer, PXT Case Management System",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10516674/software-development-engineer-pxt-case-management-system",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to revolutionize how millions of Amazonians worldwide receive HR support? Are you passionate about building intelligent, AI-powered solutions that transform employee experiences? Do you want"
-    }
-  },
-  "ecf3c59495": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10516656",
-      "title": "Software Dev Engineer II, EU INTech Partner Growth Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10516656/software-dev-engineer-ii-eu-intech-partner-growth-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The EU International Technology (EU INTech) charter for Partner Growth and Experiences (PGX) is established to deliver coherent and personalised experiences for Selling Partners (SP) and Amazon teams,"
-    }
-  },
   "39c3530f2f": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-II---Integrations---API-Connectivity_R-289567",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "b2f90b609a": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8736877002,
+      "title": "Intermediate Backend Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "47c5e95414": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8775507002,
+      "title": "Intermediate Backend Engineer, India",
+      "location": {
+        "name": "Remote, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "6dafc9029c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10528107",
+      "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10528107/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our Echo Software team works on not only the Echo Show but other"
+    }
+  },
+  "784fc9e355": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10528119",
+      "title": "Software Development Engineer 2, Prime Video Playback Operations Tech, Prime Video Playback Live Operations Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10528119/software-development-engineer-2-prime-video-playback-operations-tech-prime-video-playback-live-operations-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We're looking for a smart, motivated, and results-oriented Software Development Engineer II who is passionate about building AI-driven automation systems that transform operational complexity into seamless"
+    }
+  },
+  "88696c5482": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10526906",
+      "title": "Software Development Engineer, Amazon Music",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10526906/software-development-engineer-amazon-music",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon MusicImagine being a part of an agile team where your ideas have the potential to reach millions. Picture working on consumer-facing products, where every single team member is a critical voice"
+    }
+  },
+  "9a1f09b827": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-Maharashtra-India/Software-Engineer---Java-Developer_26989980",
+      "title": "Software Engineer \u2013 Java Developer",
+      "location": {
+        "name": "Pune Maharashtra India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Software-Engineer---Java-Developer_26989980",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "947159e92e": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166497-1",
+      "title": "Android Multi-Device Experience Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166497-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "e647ce8627": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/Engineer_R0447131",
+      "title": "Engineer",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer_R0447131",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "33915b484a": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Salesforce-Development_R-570932",
+      "title": "Software Engineer - Salesforce Development",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Salesforce-Development_R-570932",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "739f045b62": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Noida-India/Professional--Software-Development-Engineering_R-10401125-1",
+      "title": "Professional, Software Development Engineering",
+      "location": {
+        "name": "Noida, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Noida-India/Professional--Software-Development-Engineering_R-10401125-1",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
