@@ -1,109 +1,4 @@
 {
-  "ccbb4878d7": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026932",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026932",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "2780428d6f": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026934",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R026934",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "d576bef360": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 7955601002,
-      "title": "Sr Software Engineer - Backend",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
-  "cb7d640dfc": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 7925560002,
-      "title": "Sr. Software Engineer - Observability",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
-  "13ea23f7c4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10517821",
-      "title": "Software Development Engineer II, UTR Tech",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10517821/software-development-engineer-ii-utr-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s global fulfilment network enables any merchant in any of the geography ship items that you order on Amazon, to any place on earth. Amazon Logistics\u2019 (AMZL) delivery stations (DS) receive packages"
-    }
-  },
-  "f2f817cfad": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10517918",
-      "title": "Software Development Engineer II, IN Pharmacy",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10517918/software-development-engineer-ii-in-pharmacy",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Our 3 year vision is to be the best-in-class online Healthcare provider in India. Amit Agarwal, SVP India recently said, \u201cIn Amazon India\u2019s next five year vision \u2013 serving healthcare needs for India is"
-    }
-  },
-  "fa55395c95": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10517858",
-      "title": "Software Development Engineer II , Product & Offers Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10517858/software-development-engineer-ii-product-offers-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you shop on Amazon? Have you ever browsed a product detail page, scrolled through images, compared prices, checked delivery dates, and then clicked \"Add to Cart\"? That entire experience? Our team builds"
-    }
-  },
   "5950eb31f2": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1194,6 +1089,111 @@
         "name": "Pune - Margarpatta"
       },
       "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP---JAVA-Developer--AVP_R0407798",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "765e4efb8e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10529736",
+      "title": "Sr. Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10529736/sr-software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "About the RoleAt Amazon, we're looking for experienced Software Development Engineers (SDE III) who are passionate about solving complex technical challenges and building innovative, scalable solutions"
+    }
+  },
+  "063eb06e54": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/AI-Engineer_R-290015",
+      "title": "AI Engineer",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/AI-Engineer_R-290015",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "3b017d7a49": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-I_R-289557",
+      "title": "Software Engineer I",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-289557",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "a094f0a57e": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-AI-Engineer--Comp-Intel_R0000452236",
+      "title": "Sr AI Engineer",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-AI-Engineer--Comp-Intel_R0000452236",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "837577829a": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/SAS-DMS-dbDocStore-UI-Developer--AS_R0415724",
+      "title": "SAS DMS dbDocStore UI Developer, AS",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/SAS-DMS-dbDocStore-UI-Developer--AS_R0415724",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "b5f7da1a78": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434031",
+      "title": "SAS DMS AI Full Stack Engineer, AS",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Full-Stack-Engineer--AS_R0434031",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "2554b99f48": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/Requirement-Engineer---QA-Engineer--AVP_R0419829-1",
+      "title": "Requirement Engineer + QA Engineer, AVP",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Requirement-Engineer---QA-Engineer--AVP_R0419829-1",
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
       "_content": null
