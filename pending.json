@@ -1,34 +1,4 @@
 {
-  "5950eb31f2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10517857",
-      "title": "Software Development Engineer II , Product & Offers Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10517857/software-development-engineer-ii-product-offers-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you shop on Amazon? Have you ever browsed a product detail page, scrolled through images, compared prices, checked delivery dates, and then clicked \"Add to Cart\"? That entire experience? Our team builds"
-    }
-  },
-  "aa5c94a461": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bangalore/Software-Development-Engineer_R171349",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171349",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
   "4841a27b40": {
     "company": "Coinbase",
     "role_type": "fintech",
@@ -1197,6 +1167,36 @@
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
       "_content": null
+    }
+  },
+  "3c79e9fcd2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530361",
+      "title": "Software Development Engineer II, E Reader Software",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530361/software-development-engineer-ii-e-reader-software",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Have you ever wanted to be part of a team that builds highly efficient system for E-reader? Are you looking at creating value for millions of customers as we launch more E-readers with additional capabilities?"
+    }
+  },
+  "d87a281769": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530595",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530595/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
     }
   }
 }
