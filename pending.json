@@ -1,19 +1,4 @@
 {
-  "4841a27b40": {
-    "company": "Coinbase",
-    "role_type": "fintech",
-    "job": {
-      "id": 8165441,
-      "title": "Software Engineer, Security Platform",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
-      "_source": "greenhouse",
-      "_token": "coinbase",
-      "_content": null
-    }
-  },
   "5290bc88bd": {
     "company": "Rubrik",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "5450112cff": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530717",
+      "title": "Software Dev Engineer II, Paragon Workbench ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530717/software-dev-engineer-ii-paragon-workbench",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
     }
   }
 }
