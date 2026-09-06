@@ -1,64 +1,4 @@
 {
-  "5290bc88bd": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 7956918,
-      "title": "Software Engineer - IAM",
-      "location": {
-        "name": "Pune"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "bec2ae817e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521433",
-      "title": "Software Development Engineer II, Payments Acceptance and Experience Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521433/software-development-engineer-ii-payments-acceptance-and-experience-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to be part of a dynamic development environment within Amazon and be at the forefront of building new, innovative global payments products and solutions?Payment Acceptance And Experience team at Amazon"
-    }
-  },
-  "a8c2fc63ef": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521434",
-      "title": "Software Development Engineer, Payments Acceptance and Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521434/software-development-engineer-payments-acceptance-and-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment system that supports numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
-  "10a6d5ba25": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521435",
-      "title": "Software Development Engineer, Payments Acceptance and Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521435/software-development-engineer-payments-acceptance-and-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment system that supports numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
   "ce86c377f6": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
+    }
+  },
+  "8028e09680": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8166537,
+      "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+      "location": {
+        "name": "Pune"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "9f1cc7c6d4": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8166523,
+      "title": "Software Engineer - Winter Intern",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "cef5d50fc7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530753",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530753/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "70fe08ba6c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530754",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530754/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
     }
   }
 }
