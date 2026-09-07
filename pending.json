@@ -1,64 +1,4 @@
 {
-  "ce86c377f6": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521439",
-      "title": "Software Development Engineer, Payments Acceptance and Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521439/software-development-engineer-payments-acceptance-and-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment system that supports numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
-  "efc4cd44a0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521288",
-      "title": "Software Dev Engineer II, SCOT ROW AIM TECH",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521288/software-dev-engineer-ii-scot-row-aim-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Supply Chain Optimization Technologies (SCOT) org is looking for Software Development Engineer to join the Automated Inventory Management (AIM- RoW) Team. The RoW AIM Tech team extends SCOT's supply chain"
-    }
-  },
-  "438243524e": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Vulnerability-Response-Engineer_JR357894-1",
-      "title": "Vulnerability Response Engineer",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Vulnerability-Response-Engineer_JR357894-1",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "7c85720b21": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8161336,
-      "title": "Software Engineer 3",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8161336",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
   "b0a0f98d2d": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "be102e7942": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8003315,
+      "title": "SRE Operations Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "d866f8c662": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Performance-Engineer---Software-Engineering-SMTS_JR358291",
+      "title": "Performance Engineer - Software Engineering SMTS",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Performance-Engineer---Software-Engineering-SMTS_JR358291",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "a0f3e90ff7": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/Requirement-Engineer--AVP_R0435385",
+      "title": "Requirement Engineer, AVP",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Requirement-Engineer--AVP_R0435385",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "060e73d5d1": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Professional---Systems-Engineering_R-10401602",
+      "title": "Specialist, Software Development Engineering",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional---Systems-Engineering_R-10401602",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
     }
   }
 }
