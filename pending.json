@@ -1,154 +1,4 @@
 {
-  "b0a0f98d2d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521540",
-      "title": "Software Development Engineer II, FinTech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521540/software-development-engineer-ii-fintech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about simplifying complex problems? Do you like finding patterns and inventing new ways to push the boundaries of the current possibilities? Interested in building high-performance,"
-    }
-  },
-  "a30d03a343": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521781",
-      "title": "Software Development Engineer II, Payments Acceptance and Experience Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521781/software-development-engineer-ii-payments-acceptance-and-experience-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to be part of a dynamic development environment within Amazon and be at the forefront of building new, innovative global payments products and solutions?Payment Acceptance And Experience team at Amazon"
-    }
-  },
-  "4633f6a719": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521778",
-      "title": "Software Development Engineer II, Payments Acceptance and Experience Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521778/software-development-engineer-ii-payments-acceptance-and-experience-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to be part of a dynamic development environment within Amazon and be at the forefront of building new, innovative global payments products and solutions?Payment Acceptance And Experience team at Amazon"
-    }
-  },
-  "731aa05daa": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10521782",
-      "title": "Software Development Engineer, Payments Acceptance and Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10521782/software-development-engineer-payments-acceptance-and-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to participate in building the next generation of online payment system that supports numerous countries and payment methods? We are seeking talented software engineers to join one of the fastest"
-    }
-  },
-  "0b508fb6ac": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Vadodara-India/Information-Security-Engineer-II_R-275571",
-      "title": "Information Security Engineer II",
-      "location": {
-        "name": "Vadodara, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Information-Security-Engineer-II_R-275571",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "83e7a13a56": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---ETL-Developer_R-568061-1",
-      "title": "Software Engineer - ETL Developer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---ETL-Developer_R-568061-1",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "6de791a649": {
-    "company": "Capital One",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-In/Distinguished-AI-Engineer_R249922-1",
-      "title": "Distinguished AI Engineer",
-      "location": {
-        "name": "Bangalore, In"
-      },
-      "absolute_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-AI-Engineer_R249922-1",
-      "_source": "workday",
-      "_token": "capitalone:wd12:Capital_One",
-      "_content": null
-    }
-  },
-  "e9c53c8c7b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10523432",
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10523432/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our Echo Software team works on not only the Echo Show but other"
-    }
-  },
-  "d47cacdb50": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10523037",
-      "title": "Software Dev Engineer II , Last Mile Payments",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10523037/software-dev-engineer-ii-last-mile-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building multi-tenant and highly scalable services to process critical business payments globally for Amazon? You will build services that cater to wide variety of payment scenarios"
-    }
-  },
-  "5055fce4c3": {
-    "company": "Morgan Stanley",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Java-Backend--Associate-Software-Engineer_JR042981",
-      "title": "Java Backend -Associate-Software Engineer",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Java-Backend--Associate-Software-Engineer_JR042981",
-      "_source": "workday",
-      "_token": "ms:wd5:External",
-      "_content": null
-    }
-  },
   "2a5d1a9e0a": {
     "company": "HP",
     "role_type": "tech",
@@ -1194,6 +1044,156 @@
         "name": "Pune - Trion Business Park, India"
       },
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional---Systems-Engineering_R-10401602",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "e5612de43f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530932",
+      "title": "Software Development Engineer II, FinTech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
+    }
+  },
+  "22dd954476": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530940",
+      "title": "Software Development Engineer I, Amazon Payments",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
+    }
+  },
+  "65013c975d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525640",
+      "title": "SDE-1 (FTC)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525640/sde-1-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
+    }
+  },
+  "3f70485702": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10492771",
+      "title": "Software Development Engineer (Fixed Term Contract),  International FBA Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10492771/software-development-engineer-fixed-term-contract-international-fba-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "1aeda2948a": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
+      "title": "Sr. Data Engineer (Python & SQL exp. mandatory)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "792bbfd30c": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1",
+      "title": "Cloud Automation & Platform Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "eac286d298": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Gurgaon-India/Software-Development-Engineering---Sr-Professional-II_R-10401288",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Gurgaon, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Gurgaon-India/Software-Development-Engineering---Sr-Professional-II_R-10401288",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "aa39b1f3e2": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "69530792e6": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10395006",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10395006",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "783b31214b": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Advisor-I_R-10395397",
+      "title": "Software Development Engineering - Advisor I",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Advisor-I_R-10395397",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
       "_content": null
