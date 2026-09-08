@@ -1,49 +1,4 @@
 {
-  "2a5d1a9e0a": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karntaka-India/Developer-AI-and-Automation_3159829-1",
-      "title": "AI and Automation Developer",
-      "location": {
-        "name": "Bengaluru, Karn\u0101taka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Developer-AI-and-Automation_3159829-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "7dd801df35": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/IGA-Engineer_3149122-1",
-      "title": "Endpoint Privilege Management (EPM) Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/IGA-Engineer_3149122-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "b851211474": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer-Java--Kafla--Python-programming--AI_R-544655",
-      "title": "Software Engineer/Java, Kafla, Python programming -AI",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Java--Kafla--Python-programming--AI_R-544655",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
   "edf38404fa": {
     "company": "FIS",
     "role_type": "fintech",
@@ -1196,6 +1151,51 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Advisor-I_R-10395397",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "de975b0f30": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 7996779,
+      "title": "Software Engineer (L3)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/7996779",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "4530194abc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530594",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530594/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "3c53d9727f": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7511610003,
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7511610003",
+      "_source": "greenhouse",
+      "_token": "highradius",
       "_content": null
     }
   }
