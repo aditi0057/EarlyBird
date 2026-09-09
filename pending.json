@@ -1,154 +1,4 @@
 {
-  "8966395936": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748",
-      "title": "Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "5c59f26493": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-SW-FWK-Engineer_3166632-1",
-      "title": "Android SW FWK Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-SW-FWK-Engineer_3166632-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "5d7ccac025": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Developer-AI-and-Automation_3159829-1",
-      "title": "AI and Automation Developer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Developer-AI-and-Automation_3159829-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "7115de8786": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---Java-backend-Development_R-570931-1",
-      "title": "Software Engineer - Java backend Development",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-backend-Development_R-570931-1",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "0933c0c0ef": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---Java-Microservices-Gen-AI_R-572232",
-      "title": "Software Engineer - Java/Microservices/Gen AI",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Microservices-Gen-AI_R-572232",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "da112b1506": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 7597723,
-      "title": "Software Engineer 3",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7597723",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "5cef04f063": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525665",
-      "title": "Software Development Engineer - II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525665/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "ffcc17c5c2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525643",
-      "title": "SDE-1 (FTC)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525643/sde-1-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
-    }
-  },
-  "9d712d0ad5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525642",
-      "title": "SDE-1 (FTC)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525642/sde-1-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
-    }
-  },
-  "026c7b3651": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525641",
-      "title": "SDE-1 (FTC)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525641/sde-1-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
-    }
-  },
   "d95670da40": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer---AVP_R0421938",
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "4e618eceea": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10533913",
+      "title": "Sr. Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10533913/sr-software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join our Retail Business Services tech team to architect intelligent automation solutions that power Amazon's retail operations globally. You'll lead the development of large-scale distributed systems"
+    }
+  },
+  "7c2273c9d3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10534447",
+      "title": "Software Development Engineer, Alexa Audio, Alexa Audio",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10534447/software-development-engineer-alexa-audio-alexa-audio",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "As Alexa Audio, we own the audio experiences on Alexa enabled devices. These experiences include Music, Podcast, Audio Books, Radio, and Ambient soundscapes. Our integration skill kits enable seamless"
+    }
+  },
+  "f16ffb2e52": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10534417",
+      "title": "Software Development Engineer, Everyday Essentials Experiences",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10534417/software-development-engineer-everyday-essentials-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Everyday Essentials Experience Org delivers a world-class shopping experience for everyday essentials that is efficient, habitual, and economical for customers and selling partners. We are looking"
+    }
+  },
+  "63c5589bc4": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R171778",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171778",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "a382b77958": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-276237",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-276237",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "7599fe6d99": {
+    "company": "MindTickle",
+    "role_type": "tech",
+    "job": {
+      "id": "864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
+      "title": "AI Product Engineer",
+      "location": {
+        "name": "Pune, Maharashtra"
+      },
+      "absolute_url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
+      "_source": "lever",
+      "_token": "mindtickle",
+      "_content": "Role Overview\nWe are transitioning our organization to an AI-first operational model. We are seeking an AI Product Engineer to architect and build the company\u2019s central intelligence engine.\nIn this role, you will be the primary builder of automated intelligence systems\u2014tools that not only retrieve insights but actively trigger workflows, and synthesize strategic intel across our entire business landscape.\nRole Profile\nThis is a high-impact, hands-on engineering role requiring a convergence of three distinct skill sets:\nSoftware Engineering (50%): Building scalable middleware, API integrations, and production-grade applications that connect our data stack to business tools (CRM, Marketing Automation, Support/Ticketing).\nAI Engineering (30%): Implementing Agentic workflows, RAG architectures, and LLMs to process unstructured data at scale.\nData Analytics (20%): Leveraging SQL and B2B SaaS metrics to ensure all automation is grounded in accurate, governed data.\nKey Responsibilities\n1. Building the \"Enterprise Brain\" (Architecture & Integration)\nDevelop a unified intelligence layer that ingests signals from disparate sources (Product Telemetry, CRM, Call Transcripts, Marketing inputs) and processes them into actionable outputs.\nBuild robust integrations/webhooks to push AI-generated insights directly into workflow tools (e.g., pushing \"Churn Risk\" alerts into Salesforce\n2. AI Logic & Agent Implementation\nArchitect \"Agentic\" workflows where LLMs are granted permission to perform tasks\u00a0\nImplement advanced RAG to ground AI outputs in company documentation, historical data, and strategic context.\nEnsure rigorous evaluation and guardrails for non-deterministic models to prevent \"hallucinations\" in critical business workflows.\n3. Data Engineering & Governance\nCollaborate with Analytics Engineers to ensure the underlying data pipelines support real-time or near-real-time AI applications.\nMaintain security and privacy standards, ensuring that AI agents respect data access permissions across different departments.\nQualifications\nMinimum Qualifications:\nEducation: Bachelor\u2019s degree in Computer Science, Engineering, or equivalent practical experience.\nSoftware Engineering: 3+ years of experience in Python development, with strong proficiency in API development (FastAPI/Django) and building integrations between SaaS platforms.\nAI/ML Application: Proven experience building applications using LLM APIs and orchestration frameworks, Experience with \"Agent\" concepts.\nData Proficiency: Strong SQL skills and familiarity with cloud data warehouses (Snowflake/BigQuery).\nPreferred Qualifications:\nBusiness Systems Knowledge: Experience working with APIs for major B2B tools (Salesforce, HubSpot, Zendesk, Jira, Marketo).\nWorkflow Automation: Experience with tools like Airflow, Zapier/Make (advanced usage), or custom workflow engines.\nB2B Domain Expertise: Understanding of the interplay between Sales, Product, and Customer Success.\nCompetencies\nThe \"Builder\" Mindset: You are comfortable taking a high-level strategic requirement from leadership (e.g., \"We need to automate lead qualification\") and independently architecting and coding the solution.\nSystemic Thinking: You understand how a change in product data schema impacts the downstream marketing automation flow.\nAdaptability: You can switch contexts rapidly\u2014from debugging a SQL query for Strategy to refining a prompt for Customer Support automation.\n"
+    }
+  },
+  "8e81e16ac9": {
+    "company": "MindTickle",
+    "role_type": "tech",
+    "job": {
+      "id": "b6e024c2-42c2-463c-8bc8-ca0aa0826845",
+      "title": "Software Engineer, Business Systems",
+      "location": {
+        "name": "Pune, Maharashtra"
+      },
+      "absolute_url": "https://jobs.lever.co/mindtickle/b6e024c2-42c2-463c-8bc8-ca0aa0826845",
+      "_source": "lever",
+      "_token": "mindtickle",
+      "_content": "Software Engineer, Business Systems\nFunction: Business Technology & Security \u2014 Business Systems\u00a0\nLocation: Pune, India \u00b7 Hybrid\nReports to: Product Manager, Business Systems\nExperience: 2\u20134 years\nShort description\nBuild and run the integrations, pipelines, automations and internal tools that connect Mindtickle's business systems \u2014 Salesforce, NetSuite, HRMS, Slack and Google Cloud. You take defined requirements and own the technical path end to end: design, build, ship, and keep it running.\nAbout the team\nBusiness Technology & Security runs the systems, automation and security behind how Mindtickle operates. Business Systems is its build engine \u2014 the team that turns requirements from GTM, Finance, People Success, IT, Legal and Security into shipped systems: integrations, data pipelines, automations, internal tools and agents.\nWe are a small team. You will not be part of a traditional engineering squad with sprints and Scrum ceremonies. You will operate independently, usually owning a problem from a defined requirement through to a deployed, monitored solution \u2014 and then continuing to own it.\nThe role\nYou are the engineer on the team. When a system needs to talk to another system, when a manual process needs to become an automated one, when a tool needs to exist and doesn't \u2014 you build it.\nRequirements come to you defined. The Product Manager and Business Systems Analyst own the business problem, the stakeholders, and the question of whether we should do it at all. The technical path is entirely yours \u2014 how it's designed, what it's built on, how it's tested, how it fails safely, and how it's supported once it's live.\nWhat you'll own\nBuilding \u2014 about half your time Integrations between business systems. Data pipelines. Automations that remove manual work from Finance, People Success, IT, Security and GTM. Internal tools and lightweight services. AI-backed workflows and agents where they are the right answer, and conventional code where they are not.\nRunning it \u2014 about a fifth of your time You inherit a set of automations already in production and become their owner. Monitoring, alerting, incident response, and the unglamorous work of making inherited systems observable and documented. Nothing you build gets handed to someone else to support.\nTechnical evaluation \u2014 about 15% When the team is deciding whether to build or buy, or whether a vendor's API can actually do what the demo claimed, you build the prototype that answers it. Deep technical spikes, integration feasibility, and performance and security reality-checks \u2014 against a requirement the Product Manager and Analyst have already defined.\nMigrations \u2014 about 15% Data migration, field mapping, cutover scripts and system replacements as we move platforms.\nThe shape of a typical week\nDaily \u2014 Writing Python with Claude Code. Reading vendor API documentation. Wiring REST and GraphQL APIs, webhooks and event-driven flows. Debugging a sync that silently dropped records. Deploying to Cloud Run.\nWeekly \u2014 Shipping an increment and demoing it. Working through requirements with the Product Manager and Analyst. Triaging what broke.\nMonthly \u2014 One meaningful capability live in production, with monitoring, a runbook, and documentation good enough that someone else could pick it up.\nStack\nPython \u00b7 Google Apps Script \u00b7 Google Cloud Platform (Cloud Run, Cloud Functions, Cloud Scheduler, Pub/Sub, BigQuery, Firestore, Cloud Storage, Compute Engine) \u00b7 REST and GraphQL APIs, webhooks, OAuth and service-account authentication \u00b7 Claude Code and modern AI tooling as a primary way of working \u00b7 Git and CI/CD\nBusiness systems you will integrate with: Salesforce, NetSuite, HRMS, Slack, Google Workspace, and the wider SaaS estate.\nWhat we're looking for\nWe care about what you have built and kept alive, not the tools listed on your CV.\n2\u20134 years building software, integrations or automations in a professional environment\nStrong Python, and real fluency with APIs \u2014 authentication, rate limits, retries, idempotency, pagination, webhooks and event-driven patterns\nYou have built integrations against SaaS APIs, not only configured them through consoles or drag-and-drop integration platforms\nHands-on cloud experience (GCP preferred; AWS or Azure is fine) with a working understanding of how to compose services rather than follow a tutorial\nEnd-to-end ownership you can point to \u2014 a system you designed, built, shipped and then operated. Something that broke in production and you fixed it.\nDebugging across system boundaries \u2014 when two systems disagree about the same record, you can work out why\nTesting and verification instinct \u2014 you know your output is correct because you measured it, not because it ran without erroring\nFast on unfamiliar ground \u2014 you have picked up a stack you didn't know and shipped it. This matters more to us than prior exposure to any specific technology.\nClear written communication \u2014 design notes, runbooks, and documentation are part of the job, not an afterthought\nNice to have\nBuilding AI agents, tool-use, and agentic workflows; MCP servers\nExposure to business systems \u2014 CRM, ERP, HRIS, ITSM \u2014 and the SaaS ecosystem around them\nData and pipeline work (BigQuery, ETL/ELT)\nInfrastructure-as-code\n"
+    }
+  },
+  "8c31b28b23": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer_R-573515-1",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-573515-1",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "b41e476612": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Java_R-573491",
+      "title": "Software Engineer - Java",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java_R-573491",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "728a224507": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Noida-India/Software-Development-Engineering---Tech-Lead_R-10396745",
+      "title": "Professional, Software Development Engineering",
+      "location": {
+        "name": "Noida, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Noida-India/Software-Development-Engineering---Tech-Lead_R-10396745",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
