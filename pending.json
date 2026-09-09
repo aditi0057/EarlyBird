@@ -1,154 +1,4 @@
 {
-  "629a1b0bb0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10523573",
-      "title": "Software Development Engineer III, Selling Partner Identity Verification",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10523573/software-development-engineer-iii-selling-partner-identity-verification",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
-    }
-  },
-  "7070e0dea9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10523762",
-      "title": "Software Development Engineer, PXT Case Management System",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10523762/software-development-engineer-pxt-case-management-system",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to help shape how Amazonians worldwide receive HR support? Are you energized by building intelligent, AI-powered solutions that improve employee experiences every day? Do you want to work on"
-    }
-  },
-  "a257f2272f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10523659",
-      "title": "Software Development Engineer II, Amazon External Payments",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10523659/software-development-engineer-ii-amazon-external-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon External Payments is building the foundational capabilities for Agentic Payments. As a Software Development Engineer (SDE2), you will own the development of these core building blocks, enabling"
-    }
-  },
-  "1076d3256c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10511883",
-      "title": "Software Development Engineer -I, IESP Merchant Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "6cfee154fd": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer_R171208-1",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171208-1",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "c0ab513037": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
-      "title": "Zuora Revenue Systems Engineer",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "5b64839c07": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525260",
-      "title": "Software Development Engineer II, Payments Acceptance and Experience Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525260/software-development-engineer-ii-payments-acceptance-and-experience-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to be part of a dynamic development environment within Amazon and be at the forefront of building new, innovative global payments products and solutions?Payment Acceptance And Experience team at Amazon"
-    }
-  },
-  "df327fa663": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10524238",
-      "title": "Sr Software Dev Engineer, Amazon Smart Vehicles",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10524238/sr-software-dev-engineer-amazon-smart-vehicles",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
-    }
-  },
-  "7ad9a54089": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525236",
-      "title": "Software Engineer, Cross Border Science and Analytics",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525236/software-engineer-cross-border-science-and-analytics",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a Software Development Engineer to join the XB Science team \u2014 a centralized applied science function that builds and deploys ML-powered systems driving cross-border product discovery,"
-    }
-  },
-  "147f3bc9bc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525264",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525264/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
   "8966395936": {
     "company": "Salesforce",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10397216",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "e25f7c36c4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10533665",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10533665/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to work on one of the world's largest transactional distributed systems? Whether you're passionate about building highly scalable and reliable systems or a software developer who likes to"
+    }
+  },
+  "0654f3ec2c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10530909",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
+    }
+  },
+  "7da6c19add": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10533696",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10533696/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come be a part of a rapidly expanding $35 billion-dollar global business. At Amazon Business, a fast-growing startup passionate about building solutions, we set out every day to innovate and disrupt the"
+    }
+  },
+  "3d68c8b2f9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10525636",
+      "title": "SDE-1 (FTC)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10525636/sde-1-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
+    }
+  },
+  "3aeb784607": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10532279",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10532279/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "4bd9df00ef": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10533778",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10533778/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to create a new supply chain product? We are a startup team working working to enable organizations across the world with reliable, cost effective and flexible end-to-end"
+    }
+  },
+  "f8320da111": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10533780",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10533780/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to create a new supply chain product? We are a startup team working working to enable organizations across the world with reliable, cost effective and flexible end-to-end"
+    }
+  },
+  "dafbebef5f": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-290245-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290245-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "b867e7a526": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "title": "Software Engineer I",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "2fd4164990": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer---AVP_R0421938",
+      "title": "Full Stack Engineer - AVP",
+      "location": {
+        "name": "Bangalore, Velankani Tech Park"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Full-Stack-Engineer---AVP_R0421938",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
       "_content": null
     }
   }
