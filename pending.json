@@ -1,154 +1,4 @@
 {
-  "5e1f42514f": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Navi-Mumbai-India-Finicity/Software-Engineer-II---Integrations---API-Connectivity_R-289567",
-      "title": "Software Engineer II \u2013 Integrations & API Connectivity",
-      "location": {
-        "name": "Navi Mumbai, India (Finicity)"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-II---Integrations---API-Connectivity_R-289567",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "b2f90b609a": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8736877002,
-      "title": "Intermediate Backend Engineer",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "47c5e95414": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8775507002,
-      "title": "Intermediate Backend Engineer, India",
-      "location": {
-        "name": "Remote, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "6dafc9029c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10528107",
-      "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10528107/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our Echo Software team works on not only the Echo Show but other"
-    }
-  },
-  "784fc9e355": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10528119",
-      "title": "Software Development Engineer 2, Prime Video Playback Operations Tech, Prime Video Playback Live Operations Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10528119/software-development-engineer-2-prime-video-playback-operations-tech-prime-video-playback-live-operations-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We're looking for a smart, motivated, and results-oriented Software Development Engineer II who is passionate about building AI-driven automation systems that transform operational complexity into seamless"
-    }
-  },
-  "88696c5482": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10526906",
-      "title": "Software Development Engineer, Amazon Music",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10526906/software-development-engineer-amazon-music",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon MusicImagine being a part of an agile team where your ideas have the potential to reach millions. Picture working on consumer-facing products, where every single team member is a critical voice"
-    }
-  },
-  "9a1f09b827": {
-    "company": "Citi",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-Maharashtra-India/Software-Engineer---Java-Developer_26989980",
-      "title": "Software Engineer \u2013 Java Developer",
-      "location": {
-        "name": "Pune Maharashtra India"
-      },
-      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Software-Engineer---Java-Developer_26989980",
-      "_source": "workday",
-      "_token": "citi:wd5:2",
-      "_content": null
-    }
-  },
-  "947159e92e": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166497-1",
-      "title": "Android Multi-Device Experience Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166497-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "e647ce8627": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Engineer_R0447131",
-      "title": "Engineer",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer_R0447131",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "33915b484a": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---Salesforce-Development_R-570932",
-      "title": "Software Engineer - Salesforce Development",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Salesforce-Development_R-570932",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
   "739f045b62": {
     "company": "Fiserv",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289618",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "3ca9497d67": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 8122751,
+      "title": "Engineer 3 - Business Systems",
+      "location": {
+        "name": "Gurugram"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8122751",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "e9ee78afda": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8679982002,
+      "title": "Sr. IT Full Stack Developer (AI Agents)",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "3355c3e796": {
+    "company": "Samsara",
+    "role_type": "tech",
+    "job": {
+      "id": 8168295,
+      "title": "Network Engineer II",
+      "location": {
+        "name": "Bengaluru - BLR1"
+      },
+      "absolute_url": "https://www.samsara.com/company/careers/roles/8168295?gh_jid=8168295",
+      "_source": "greenhouse",
+      "_token": "samsara",
+      "_content": null
+    }
+  },
+  "ab46fda06a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10535856",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10535856/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "82f08a197c": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer_R171304",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "c84a7aa452": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-289841",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289841",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "30a70a0374": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-290024-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290024-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "fae63ce9e8": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/AI-Developer_3164037-1",
+      "title": "Data Science Engineer - AI",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-Developer_3164037-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "712248d08a": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573890",
+      "title": "Software Engineer - AI Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573890",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "866000abba": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573885",
+      "title": "Software Engineer - AI Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573885",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
     }
   }
