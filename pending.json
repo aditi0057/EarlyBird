@@ -1,64 +1,4 @@
 {
-  "d95670da40": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525615",
-      "title": "Software Development Engineer, Digital Acceleration",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525615/software-development-engineer-digital-acceleration",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com is looking for a talented and enthusiastic SDE to join the Digital Acceleration team. You will be involved in enabling AI, data, metrics and analytics at scale to several Amazon digital teams."
-    }
-  },
-  "ccf1aab54b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525614",
-      "title": "Software Development Engineer, Digital Acceleration",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525614/software-development-engineer-digital-acceleration",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com is looking for a talented and enthusiastic SDE to join the Digital Acceleration team. You will be involved in enabling AI, data, metrics and analytics at scale to several Amazon digital teams."
-    }
-  },
-  "ae2cb1e52d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10472503",
-      "title": "Software Development Engineer II, Amazon Pay Credit and Lending",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10472503/software-development-engineer-ii-amazon-pay-credit-and-lending",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you ready to shape the future of credit and lending for millions of customers worldwide? Join Amazon Pay's fintech team where you'll build innovative payment solutions that transform how customers"
-    }
-  },
-  "31d87fb63d": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Site-Reliability-Engineer-II_R-288716",
-      "title": "Site Reliability Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-II_R-288716",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "5e1f42514f": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Noida-India/Software-Development-Engineering---Tech-Lead_R-10396745",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "492b6b485c": {
+    "company": "Scale AI",
+    "role_type": "tech",
+    "job": {
+      "id": 4549048005,
+      "title": "Forward Deployed Engineer, Gen AI",
+      "location": {
+        "name": "India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/scaleai/jobs/4549048005",
+      "_source": "greenhouse",
+      "_token": "scaleai",
+      "_content": null
+    }
+  },
+  "c863ede52e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10534666",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10534666/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "86aaf6127b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10534656",
+      "title": "Software Development Engineer II, Fulfillment by Amazon (FBA)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10534656/software-development-engineer-ii-fulfillment-by-amazon-fba",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "2b1d4ad4f3": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-289618",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289618",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
     }
   }
