@@ -1,109 +1,4 @@
 {
-  "5450112cff": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530717",
-      "title": "Software Dev Engineer II, Paragon Workbench ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530717/software-dev-engineer-ii-paragon-workbench",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
-    }
-  },
-  "8028e09680": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8166537,
-      "title": "Software Engineer (CPD) - Winter Intern (Pune)",
-      "location": {
-        "name": "Pune"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "9f1cc7c6d4": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8166523,
-      "title": "Software Engineer - Winter Intern",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "cef5d50fc7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530753",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530753/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
-    }
-  },
-  "70fe08ba6c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530754",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530754/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
-    }
-  },
-  "be102e7942": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8003315,
-      "title": "SRE Operations Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "d866f8c662": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Performance-Engineer---Software-Engineering-SMTS_JR358291",
-      "title": "Performance Engineer - Software Engineering SMTS",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Performance-Engineer---Software-Engineering-SMTS_JR358291",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
   "a0f3e90ff7": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking"
+    }
+  },
+  "b7261ed472": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
+      "title": "Software Engineer II (Java Full Stack Developer)",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "d86b2cac6a": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-288539-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288539-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "95eb8dd6b9": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-I_R-290204",
+      "title": "Software Engineer I",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "6769aa644c": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Compute-Virtualization_R0000452932",
+      "title": "Sr Engineer - Compute Virtualization",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Compute-Virtualization_R0000452932",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "307cde6369": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-AI-Engineer--Item-Science_R0000450918",
+      "title": "Sr AI Engineer- Item Science",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-AI-Engineer--Item-Science_R0000450918",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "b64d78d923": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027033",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027033",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "3afe66917c": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027032",
+      "title": "R & D Software Engineer",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027032",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
     }
   }
 }
