@@ -1,34 +1,4 @@
 {
-  "3c79e9fcd2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530361",
-      "title": "Software Development Engineer II, E Reader Software",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530361/software-development-engineer-ii-e-reader-software",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever wanted to be part of a team that builds highly efficient system for E-reader? Are you looking at creating value for millions of customers as we launch more E-readers with additional capabilities?"
-    }
-  },
-  "d87a281769": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530595",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530595/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
   "5450112cff": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1167,36 @@
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
+    }
+  },
+  "7d30178151": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10538207",
+      "title": "Software Development Engineer II, Amazon Now",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10538207/software-development-engineer-ii-amazon-now",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking"
+    }
+  },
+  "2548acb3aa": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10538206",
+      "title": "Software Development Engineer II, Amazon Now",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10538206/software-development-engineer-ii-amazon-now",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking"
     }
   }
 }
