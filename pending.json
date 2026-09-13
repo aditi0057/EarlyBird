@@ -1,34 +1,4 @@
 {
-  "a0f3e90ff7": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Requirement-Engineer--AVP_R0435385",
-      "title": "Requirement Engineer, AVP",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Requirement-Engineer--AVP_R0435385",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "060e73d5d1": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Professional---Systems-Engineering_R-10401602",
-      "title": "Specialist, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional---Systems-Engineering_R-10401602",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "e5612de43f": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1167,36 @@
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
       "_content": null
+    }
+  },
+  "78479c7d91": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10435882",
+      "title": "Software Development Engineer, FTV Frameworks and Performance",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10435882/software-development-engineer-ftv-frameworks-and-performance",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Job summaryFire TV is the #1 best-selling streaming media player in the U.S. We are looking for a strong software development engineer to contribute to the architecture and operating system level performance."
+    }
+  },
+  "64530800d4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10403403",
+      "title": "Software Development Engineer II, Amazon",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Revolutionize Global Financial Systems with Cutting-Edge TechnologyAre you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative"
     }
   }
 }
