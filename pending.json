@@ -1,109 +1,4 @@
 {
-  "22dd954476": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530940",
-      "title": "Software Development Engineer I, Amazon Payments",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
-    }
-  },
-  "65013c975d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10525640",
-      "title": "SDE-1 (FTC)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10525640/sde-1-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Cross Border Tech  is looking for an experienced Software Development Engineer to work on our Cross Border technology stacks, which enables to launch new Cross Border  arc with local language, local currency,"
-    }
-  },
-  "3f70485702": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10492771",
-      "title": "Software Development Engineer (Fixed Term Contract),  International FBA Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10492771/software-development-engineer-fixed-term-contract-international-fba-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "1aeda2948a": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "title": "Sr. Data Engineer (Python & SQL exp. mandatory)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sr-Data-Engineer--Python---SQL-exp-mandatory-_JR358536",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "792bbfd30c": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1",
-      "title": "Cloud Automation & Platform Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "eac286d298": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Gurgaon-India/Software-Development-Engineering---Sr-Professional-II_R-10401288",
-      "title": "Software Development Engineering - Sr Professional II",
-      "location": {
-        "name": "Gurgaon, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Gurgaon-India/Software-Development-Engineering---Sr-Professional-II_R-10401288",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "aa39b1f3e2": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
-      "title": "Software Development Engineering - Sr Professional II",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "69530792e6": {
     "company": "Fiserv",
     "role_type": "fintech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon Now (Quick Commerce) \u2014 is one of Amazon's largest and fastest-growing businesses, operating across 8+ marketplaces (India, MENA, North America, EU, UK, Japan) and powering adjacent businesses like"
+    }
+  },
+  "9bcffe076f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10538810",
+      "title": "Software Development Engineer III, FBA Capacity and Inventory Health Management",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10538810/software-development-engineer-iii-fba-capacity-and-inventory-health-management",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
+    }
+  },
+  "295e33caed": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10415631",
+      "title": "Software Develpment Engineer II, Physical Stores Payments",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10415631/software-develpment-engineer-ii-physical-stores-payments",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Physical Stores Payment team at Amazon is seeking a talented Software Development Engineer to help build the future of retail payments. Our team builds innovative payment solutions behind innovative"
+    }
+  },
+  "5c4807dbaa": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10405518",
+      "title": "Software Development Engineer, Alexa Customers & Technology",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10405518/software-development-engineer-alexa-customers-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our team also works on other high-profile consumer electronics products"
+    }
+  },
+  "6c0a08af27": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10442801",
+      "title": "Software Development Engineer-Test, Amazon Smart Vehicles",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10442801/software-development-engineer-test-amazon-smart-vehicles",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
+    }
+  },
+  "81e1f4941d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10524146",
+      "title": "Software Development Engineer, Device Software Services",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10524146/software-development-engineer-device-software-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire"
+    }
+  },
+  "00cdb938a5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10425938",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10425938/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sales Abuse Prevention (SAP) vision is to make Amazon the safest and most trustworthy store for our buyers, brands, and selling partners. Integrity in our store is self-evident, abuse is deterred by ensuring"
+    }
+  },
+  "7d537bf52e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10400789",
+      "title": "Sr. Software Development Engineer, Alexa Smart Properties",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10400789/sr-software-development-engineer-alexa-smart-properties",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to build an LLM based enterprise-grade, highly available, large scale, software solution? Does it excite you to find patterns and build generic, composable software solutions"
     }
   }
 }
