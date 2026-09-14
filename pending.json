@@ -1,19 +1,4 @@
 {
-  "e5612de43f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10530932",
-      "title": "Software Development Engineer II, FinTech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
-    }
-  },
   "22dd954476": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Revolutionize Global Financial Systems with Cutting-Edge TechnologyAre you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative"
+    }
+  },
+  "7005a2f967": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10538347",
+      "title": "Software Development Engineer II, Amazon Now (Tez)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10538347/software-development-engineer-ii-amazon-now-tez",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Now (Quick Commerce) \u2014 is one of Amazon's largest and fastest-growing businesses, operating across 8+ marketplaces (India, MENA, North America, EU, UK, Japan) and powering adjacent businesses like"
     }
   }
 }
