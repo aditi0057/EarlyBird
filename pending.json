@@ -1,154 +1,4 @@
 {
-  "82f08a197c": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer_R171304",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "c84a7aa452": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-289841",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-289841",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "30a70a0374": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-290024-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290024-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "fae63ce9e8": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/AI-Developer_3164037-1",
-      "title": "Data Science Engineer - AI",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-Developer_3164037-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "712248d08a": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573890",
-      "title": "Software Engineer - AI Engineer",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573890",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "866000abba": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573885",
-      "title": "Software Engineer - AI Engineer",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---AI-Engineer_R-573885",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "6522bf6367": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8170631,
-      "title": "Technical Services Engineer",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8170631",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "8794af34f7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10536816",
-      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10536816/software-development-engineer-ii-recipient-experience-recipient-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to influence the experience of millions of customers? Do you want to work in a collaborative environment that impacts products from across the company? The Recipient Experience (REX) team owns"
-    }
-  },
-  "0a41e8c625": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10536353",
-      "title": "Sr. Software Development Engineer, RBS Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10536353/sr-software-development-engineer-rbs-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join our Retail Business Services tech team to architect intelligent automation solutions that power Amazon's retail operations globally. You'll lead the development of large-scale distributed systems"
-    }
-  },
-  "1df75d103b": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Sr-Site-Reliability-Engineer_R0137470-1",
-      "title": "Sr. Site Reliability Engineer",
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Site-Reliability-Engineer_R0137470-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
   "6b71437e72": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Windows-Virtualization-Operations-Engineer_3167895-1",
       "_source": "workday",
       "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "615b7451d9": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8190889,
+      "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "7656601600": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10551504",
+      "title": "Sr. Software Development Engineer, Multichannel Commerce and Fulfilment Services, Santos",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10551504/sr-software-development-engineer-multichannel-commerce-and-fulfilment-services-santos",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join our Supply Chain Technology team and help reshape how businesses manage their operations across the globe. You'll design and implement scalable solutions that enable companies of all sizes to reach"
+    }
+  },
+  "48c82cb650": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10546640",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10546640/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
+    }
+  },
+  "13a4c6309b": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer--Search_R0000453583",
+      "title": "Sr Engineer- Search",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer--Search_R0000453583",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "5731491454": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-Tech-Park/Site-Reliability-Engineer_R0448537",
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "Bangalore, Velankani Tech Park"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Site-Reliability-Engineer_R0448537",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "b7642ca865": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer_R-570569",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-570569",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "b82060993f": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426",
+      "title": "Connex/ Base24 Developer ( Chennai/ Bangalore/Pune)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "5b58c176ac": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer_JR0309416",
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer_JR0309416",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "8ac12dba1a": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer--Azure-Preferred-_JR0309204",
+      "title": "Site Reliability Engineer (Azure Preferred)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--Azure-Preferred-_JR0309204",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "623afb2246": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Software-Engineer-II--COBOL-MAINFRAME-SQL--Non-Stop-TANDEM-_JR0309403",
+      "title": "Software Engineer II (COBOL/MAINFRAME-SQL, Non-Stop TANDEM)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Software-Engineer-II--COBOL-MAINFRAME-SQL--Non-Stop-TANDEM-_JR0309403",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
   }
