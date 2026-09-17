@@ -1,49 +1,4 @@
 {
-  "6b71437e72": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Sr-Engineer--Java-Engineer_R0447742",
-      "title": "Sr. Engineer, Java Engineer",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Sr-Engineer--Java-Engineer_R0447742",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "c614a37309": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Devops-Engineer_R0447389",
-      "title": "Devops Engineer",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Devops-Engineer_R0447389",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "6084b6b4c3": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Computer-Operations---Sr-Professional-I_R-10401604",
-      "title": "Specialist, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Computer-Operations---Sr-Professional-I_R-10401604",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "7000ab4255": {
     "company": "Broadcom",
     "role_type": "tech",
@@ -1197,6 +1152,51 @@
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
       "_content": null
+    }
+  },
+  "2753ce1546": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10552117",
+      "title": "Software Development Engineer III, HST Health Foundation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10552117/software-development-engineer-iii-hst-health-foundation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are a passionate team working to build a best-in-class healthcare product designed to make high-quality healthcare easy to access. We are looking for a Senior Software Development Engineer who can build"
+    }
+  },
+  "bec402404f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10552119",
+      "title": "Software Development Engineer II, Amazon Pharmacy",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10552119/software-development-engineer-ii-amazon-pharmacy",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join Amazon Pharmacy's ambitious mission to build a next-generation Pharmacy fulfillment technology that is reshaping healthcare delivery. As a founding member of our new Bangalore team, you'll architect"
+    }
+  },
+  "c21772bb25": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10381000",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "\u201cWARNING: Choking Hazard \u2014 small parts. Not for children under 3 years.\u201d\u201cWARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects"
     }
   }
 }
