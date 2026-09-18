@@ -1,64 +1,4 @@
 {
-  "7000ab4255": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027036",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027036",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "40fe7efe60": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027035",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027035",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "2e9f2bf8c8": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027034",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027034",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "5fdb3c8483": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8143980,
-      "title": "Application Engineer",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
   "827f61636b": {
     "company": "MongoDB",
     "role_type": "tech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "\u201cWARNING: Choking Hazard \u2014 small parts. Not for children under 3 years.\u201d\u201cWARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects"
+    }
+  },
+  "8ef6d5b78f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10552379",
+      "title": "Software Development Engineer II, AWS OpenSearch",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10552379/software-development-engineer-ii-aws-opensearch",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
+    }
+  },
+  "44b21a80a4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10553121",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10553121/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa Shopping team located in Bangalore is looking for an Software Development Engineer to deliver strategic goals for Shopping suite of products. This is an opportunity to join our mission to build tech"
+    }
+  },
+  "ad47f00b8f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10553122",
+      "title": "Software Development Engineer, Buyer Fraud Prevention",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10553122/software-development-engineer-buyer-fraud-prevention",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Want to join a team that saves tens of millions of dollars per year for Amazon, and uses technology, including machine learning and statistical modeling techniques, data mining and big data analytics,"
+    }
+  },
+  "d739ab8a9e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10544314",
+      "title": "Software Development Engineer I, IESP Merchant Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10544314/software-development-engineer-i-iesp-merchant-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
     }
   }
 }
