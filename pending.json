@@ -1,154 +1,4 @@
 {
-  "827f61636b": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 7922676,
-      "title": "Software Engineer 2",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7922676",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "d5e1bdd583": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8127772,
-      "title": "Software Engineer 3, AI Framework Integrations",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "9a013ddc34": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8195169,
-      "title": "Workday Extend Developer ",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "71136e0f47": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10411916",
-      "title": "Software Development Engineer II,  Digital Pricing and Competitive Intelligence (D-PRICIQ ), Digital Acceleration",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10411916/software-development-engineer-ii-digital-pricing-and-competitive-intelligence-d-priciq-digital-acceleration",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We invite you to be part of a high-impact team that is shaping the future of pricing at Amazon. The Digital Pricing team is at the forefront of leveraging AI and machine learning to compute millions of"
-    }
-  },
-  "2ae78aefc2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10411242",
-      "title": "Software Development Engineer II, FGBS",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10411242/software-development-engineer-ii-fgbs",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
-    }
-  },
-  "93e36a63cd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10410006",
-      "title": "Software Development Engineer II, OnRoad Transporter Experience",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10410006/software-development-engineer-ii-onroad-transporter-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Last Mile Technology has the operational focus of providing new and different technologies to solve challenges in the last mile delivery space. We want to ensure a top-in-class customer experience"
-    }
-  },
-  "23672b5e9f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10409654",
-      "title": "Software Development Engineer, Amazon Currency Converter for Sellers (ACCS)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10409654/software-development-engineer-amazon-currency-converter-for-sellers-accs",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Currency Converter team is responsible for developing the platform and applications used to introduce new and innovative payment methods to customers. We help Amazon expand globally by providing"
-    }
-  },
-  "a9372f4e5e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10418914",
-      "title": "Software Development Engineer - II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10418914/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "cd3623d16b": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-288000",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "7d30178151": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10538207",
-      "title": "Software Development Engineer II, Amazon Now",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10538207/software-development-engineer-ii-amazon-now",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking"
-    }
-  },
   "2548acb3aa": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1047,156 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "75b3129dc6": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10553343",
+      "title": "SDE-1, Expansions Tech and Product",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AEE is looking for an experienced Software Development Engineer to work on our expansions tech stacks, which enables to launch new stores with local language, local currency, local payments and build new"
+    }
+  },
+  "98464ff39e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10378262",
+      "title": "Sr Software Development Engineer, Ads AI Core Infra",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10378262/sr-software-development-engineer-ads-ai-core-infra",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to build highly available, scalable, distributed engineering systems for one of the largest data lakes in Amazon? Does Petabyte scale excite you?Spektr Datalake team is the central data"
+    }
+  },
+  "d55f4a8b71": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10375504",
+      "title": "Software Development Engineer, Buyer Safety Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10375504/software-development-engineer-buyer-safety-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "\u201cWARNING: Choking Hazard \u2014 small parts. Not for children under 3 years.\u201d\u201cWARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects"
+    }
+  },
+  "e0afb23553": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10374503",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "a4f154e337": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer_R171850",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R171850",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "84420fa01b": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Software-Development-Engineer-4_R170262",
+      "title": "Software Development Engineer 4",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170262",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "255af8b16a": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer-4_R170532",
+      "title": "Software Development Engineer 4",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "73366c62af": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Lead-Software-Engineer_R-286355",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-286355",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "3837d10419": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-291169-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291169-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "d0e3f717b6": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "APAC - India - Pune - ABIL Boulevard"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
     }
   }
 }
