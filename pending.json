@@ -1,34 +1,4 @@
 {
-  "2548acb3aa": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10538206",
-      "title": "Software Development Engineer II, Amazon Now",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10538206/software-development-engineer-ii-amazon-now",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking"
-    }
-  },
-  "b7261ed472": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
-      "title": "Software Engineer II (Java Full Stack Developer)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Java-Full-Stack-Developer-_R-259024",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "d86b2cac6a": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1166,36 @@
       "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1",
       "_source": "workday",
       "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "20c325dac7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554118",
+      "title": "Software Development Engineer II, Alexa Smart Home Cameras",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554118/software-development-engineer-ii-alexa-smart-home-cameras",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Alexa Smart Home Cameras team is seeking an experienced Software Development Engineer. The ideal candidate is an innovative self-starter who is looking for an opportunity to be both an individual contributor"
+    }
+  },
+  "6335a36c7f": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/Engineer--AS_R0449228",
+      "title": "Engineer, AS",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Engineer--AS_R0449228",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
       "_content": null
     }
   }
