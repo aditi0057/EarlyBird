@@ -1,19 +1,4 @@
 {
-  "95eb8dd6b9": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-I_R-290204",
-      "title": "Software Engineer I",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "6769aa644c": {
     "company": "Target",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
+    }
+  },
+  "360914653d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10370961",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
     }
   }
 }
