@@ -1,109 +1,4 @@
 {
-  "5c4807dbaa": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10405518",
-      "title": "Software Development Engineer, Alexa Customers & Technology",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10405518/software-development-engineer-alexa-customers-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our team also works on other high-profile consumer electronics products"
-    }
-  },
-  "6c0a08af27": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10442801",
-      "title": "Software Development Engineer-Test, Amazon Smart Vehicles",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10442801/software-development-engineer-test-amazon-smart-vehicles",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
-    }
-  },
-  "81e1f4941d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10524146",
-      "title": "Software Development Engineer, Device Software Services",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10524146/software-development-engineer-device-software-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire"
-    }
-  },
-  "00cdb938a5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10425938",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10425938/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sales Abuse Prevention (SAP) vision is to make Amazon the safest and most trustworthy store for our buyers, brands, and selling partners. Integrity in our store is self-evident, abuse is deterred by ensuring"
-    }
-  },
-  "7d537bf52e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10400789",
-      "title": "Sr. Software Development Engineer, Alexa Smart Properties",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10400789/sr-software-development-engineer-alexa-smart-properties",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you looking for an opportunity to build an LLM based enterprise-grade, highly available, large scale, software solution? Does it excite you to find patterns and build generic, composable software solutions"
-    }
-  },
-  "071f5ac9c8": {
-    "company": "Snowflake",
-    "role_type": "data",
-    "job": {
-      "id": "d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
-      "title": "Software Engineer",
-      "location": {
-        "name": "IN-Pune"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/snowflake/d61bd4d8-d04b-46b8-b087-ca952dfe5c87",
-      "_source": "ashby",
-      "_token": "snowflake",
-      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset\u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nWe are seeking a talented Software Engineer to join our Enterprise Engineering team at Snowflake. In this role, you will be responsible for designing, developing, and testing software systems and applications for our cloud-based enterprise platforms. You will work collaboratively with cross-functional teams to deliver high-quality software solutions that drive innovation and enhance our product capabilities.\n\n\n\nIN THIS ROLE AT SNOWFLAKE, YOU WILL:\n\n - Design and develop software systems and applications using Java, NextJs, React, Python, SQL, AWS, Snowflake\n\n - Design and develop AI Agents and AI use cases\n\n - Write clean, maintainable, and efficient code following best practices\n\n - Collaborate with team members on software design and architecture decisions\n\n - Participate in code reviews and provide constructive feedback\n\n - Debug and resolve software defects\n\n - Contribute to continuous improvement of development processes\n\n\n\nWE WOULD LOVE TO HEAR FROM YOU IF YOU HAVE:\n\n - Bachelor's or Master's degree in any field\n\n - 3+ years of software development experience\n\n - Strong proficiency in SQL, database and AI Agentic concepts\n\n - Experience with modern software development methodologies\n\n - Strong problem-solving and analytical skills\n\n - Excellent communication and collaboration abilities\n\n\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
-    }
-  },
-  "8fbfb7338b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10541335",
-      "title": "Software Development Engineer II, Tax Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10541335/software-development-engineer-ii-tax-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
-    }
-  },
   "54a74960ee": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R-D-Engineer-Software-5_R027120",
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "094cc94d2b": {
+    "company": "Stripe",
+    "role_type": "fintech",
+    "job": {
+      "id": 8209970,
+      "title": "Software Engineer, Stripe Data Pipeline",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8209970",
+      "_source": "greenhouse",
+      "_token": "stripe",
+      "_content": null
+    }
+  },
+  "f81988e574": {
+    "company": "Fivetran",
+    "role_type": "data",
+    "job": {
+      "id": 7798462003,
+      "title": "Software Development Engineer in Test II",
+      "location": {
+        "name": "Bengaluru, Karnataka, India, APAC"
+      },
+      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=7798462003",
+      "_source": "greenhouse",
+      "_token": "fivetran",
+      "_content": null
+    }
+  },
+  "f2f4d716d8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554616",
+      "title": " Software Development Engineer, AI Business Automation, AI Business Automation, Prime Video",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554616/software-development-engineer-ai-business-automation-ai-business-automation-prime-video",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Prime Video is changing the way people watch movies, TV shows, and live sports, offering a vast library of content to a global audience. We are constantly innovating to enhance the customer experience,"
+    }
+  },
+  "3a26ab9a94": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554371",
+      "title": "Sr Software Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554371/sr-software-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to work on one of the world's largest transactional distributed systems? How about working with customers and peers from the entire range of Amazon's business on cool new features? Whether"
+    }
+  },
+  "0240ef19d0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554458",
+      "title": "Software Development Engineer, Seller and AM GenAI Tools",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554458/software-development-engineer-seller-and-am-genai-tools",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's International Seller Services (ISS) org  is seeking a Software Development Engineer to be part of an engineering team working on innovative  products and tools across 3P. 3P sellers WW register"
+    }
+  },
+  "ce5ae45bdc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554765",
+      "title": "Software Development Engineer III,  Seller and AM GenAI Tools",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554765/software-development-engineer-iii-seller-and-am-genai-tools",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's International Seller Services (ISS) org is seeking a Software Development Engineer to be part of an engineering team working on innovative products and tools to help 3P Sellers and Account Managers"
+    }
+  },
+  "6feb536320": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Pen-Tester_R0000453961",
+      "title": "Sr. Engineer \u2013 Pen Tester",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Pen-Tester_R0000453961",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
