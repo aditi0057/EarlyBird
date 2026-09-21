@@ -1,139 +1,4 @@
 {
-  "6769aa644c": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Compute-Virtualization_R0000452932",
-      "title": "Sr Engineer - Compute Virtualization",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Compute-Virtualization_R0000452932",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "307cde6369": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-AI-Engineer--Item-Science_R0000450918",
-      "title": "Sr AI Engineer- Item Science",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-AI-Engineer--Item-Science_R0000450918",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "b64d78d923": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027033",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027033",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "3afe66917c": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027032",
-      "title": "R & D Software Engineer",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027032",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "78479c7d91": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10435882",
-      "title": "Software Development Engineer, FTV Frameworks and Performance",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10435882/software-development-engineer-ftv-frameworks-and-performance",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Job summaryFire TV is the #1 best-selling streaming media player in the U.S. We are looking for a strong software development engineer to contribute to the architecture and operating system level performance."
-    }
-  },
-  "64530800d4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10403403",
-      "title": "Software Development Engineer II, Amazon",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Revolutionize Global Financial Systems with Cutting-Edge TechnologyAre you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative"
-    }
-  },
-  "7005a2f967": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10538347",
-      "title": "Software Development Engineer II, Amazon Now (Tez)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10538347/software-development-engineer-ii-amazon-now-tez",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Now (Quick Commerce) \u2014 is one of Amazon's largest and fastest-growing businesses, operating across 8+ marketplaces (India, MENA, North America, EU, UK, Japan) and powering adjacent businesses like"
-    }
-  },
-  "9bcffe076f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10538810",
-      "title": "Software Development Engineer III, FBA Capacity and Inventory Health Management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10538810/software-development-engineer-iii-fba-capacity-and-inventory-health-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
-    }
-  },
-  "295e33caed": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10415631",
-      "title": "Software Develpment Engineer II, Physical Stores Payments",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10415631/software-develpment-engineer-ii-physical-stores-payments",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Physical Stores Payment team at Amazon is seeking a talented Software Development Engineer to help build the future of retail payments. Our team builds innovative payment solutions behind innovative"
-    }
-  },
   "5c4807dbaa": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1062,141 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "dda6113290": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8190887,
+      "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "dc5bf507c5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554342",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554342/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
+    }
+  },
+  "9a529cee18": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554323",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
+    }
+  },
+  "17c7fd80d9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554270",
+      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554270/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
+    }
+  },
+  "db4589d83e": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
+      "title": "Software Engineering, MTS (Backend)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "d526822c1e": {
+    "company": "Adyen",
+    "role_type": "fintech",
+    "job": {
+      "id": 8111699,
+      "title": "Software Engineer (Java) - Authentication & Tokenization",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8111699",
+      "_source": "greenhouse",
+      "_token": "adyen",
+      "_content": null
+    }
+  },
+  "6f284e7f1f": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Pune-IND/Software-Engineer--Java---AWS-_26WD100667-3",
+      "title": "Software Engineer (Java & AWS)",
+      "location": {
+        "name": "Pune, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java---AWS-_26WD100667-3",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "0b9cc539e6": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Fullstack-Engineer--Advanced-AI_R0000452682",
+      "title": "Sr Fullstack Engineer- Advanced AI",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Fullstack-Engineer--Advanced-AI_R0000452682",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "68c4c68fae": {
+    "company": "Broadcom",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R-D-Engineer-Software-5_R027120",
+      "title": "R&D Engineer Software 5",
+      "location": {
+        "name": "IND-Hyderabad 115 IT Park Area"
+      },
+      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R-D-Engineer-Software-5_R027120",
+      "_source": "workday",
+      "_token": "broadcom:wd1:External_Career",
+      "_content": null
     }
   }
 }
