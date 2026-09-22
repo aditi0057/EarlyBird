@@ -1,154 +1,4 @@
 {
-  "f2a620a1a9": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449097",
-      "title": "Cyber Hygiene Security Engineer / Developer",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449097",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "dd83b9bbb5": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449094",
-      "title": "Cyber Hygiene Security Engineer / Developer",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449094",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "6079d5ee7c": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449099",
-      "title": "Cyber Hygiene Security Engineer / Developer",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Cyber-Hygiene-Security-Engineer---Developer_R0449099",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "0f3b224449": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10543108",
-      "title": "Software Development Engineer, Amazon OpenSearch Service - Plugins and Security",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10543108/software-development-engineer-amazon-opensearch-service-plugins-and-security",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
-  "a67a970f68": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10543018",
-      "title": "Software Development Engineer, Amazon OpenSearch Service - Control Plane",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10543018/software-development-engineer-amazon-opensearch-service-control-plane",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
-  "19e28814c7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10543432",
-      "title": "Software Development Engineer, Sidewalk Cloud",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10543432/software-development-engineer-sidewalk-cloud",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Ring is looking for Software development Engineer to join our growing Sidewalk cloud services team and help build a nationwide community network that will enable connectivity for millions of IOT devices."
-    }
-  },
-  "26dbc534de": {
-    "company": "Morgan Stanley",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Data-Engineer-Director--Software-Engineering_JR042505",
-      "title": "Data Engineer Snowflake _Director _Software Engineering",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Data-Engineer-Director--Software-Engineering_JR042505",
-      "_source": "workday",
-      "_token": "ms:wd5:External",
-      "_content": null
-    }
-  },
-  "820b70e74c": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Software-Engineer_R0137887",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0137887",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "88c4cf4035": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Software-Engineer_R0137893",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0137893",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "3a211a4dfb": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137988",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137988",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
   "6acb6f6f89": {
     "company": "PayPal",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170647",
       "_source": "workday",
       "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "0a112391dd": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5210010007,
+      "title": "Escalation Engineer",
+      "location": {
+        "name": "Bangalore, IND; Mohali, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "a7e286bb7e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556180",
+      "title": "Software Development Engineer, Prime Video Live Events - Sports Data Platform",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556180/software-development-engineer-prime-video-live-events-sports-data-platform",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Job descriptionWant to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems? Looking forward to work with a team of highly competent software"
+    }
+  },
+  "71eddb6d04": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556613",
+      "title": "Software Development Engineer III",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556613/software-development-engineer-iii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers"
+    }
+  },
+  "c485591816": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556600",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556600/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers"
+    }
+  },
+  "d2a579cd9d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556603",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556603/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Infrastructure Services (AIS)AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running."
+    }
+  },
+  "fd7bc2f457": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556606",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556606/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Infrastructure Services (AIS)AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running."
+    }
+  },
+  "8181ede30c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10556331",
+      "title": "SDE II, Amazon Business Operations",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10556331/sde-ii-amazon-business-operations",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited about building software that operates at massive scale and directly impacts millions of customers? As a Software Development Engineer II for Amazon Business Operations, you will design,"
+    }
+  },
+  "5f9d22d6d1": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 8002097003,
+      "title": "Software Engineer 2 - Product Essentials",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/8002097003?gh_jid=8002097003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "92ec886f3a": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-IND/Software-Development-Enginner_26WD100369-1",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Software-Development-Enginner_26WD100369-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "3fd4f2d640": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Cloud-Enablement_R0000453825",
+      "title": "Sr Engineer - Cloud Enablement",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Cloud-Enablement_R0000453825",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
