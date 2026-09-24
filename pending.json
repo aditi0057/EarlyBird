@@ -1,154 +1,4 @@
 {
-  "5731491454": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-Tech-Park/Site-Reliability-Engineer_R0448537",
-      "title": "Site Reliability Engineer",
-      "location": {
-        "name": "Bangalore, Velankani Tech Park"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Site-Reliability-Engineer_R0448537",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "b7642ca865": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer_R-570569",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-570569",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "b82060993f": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426",
-      "title": "Connex/ Base24 Developer ( Chennai/ Bangalore/Pune)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "5b58c176ac": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer_JR0309416",
-      "title": "Site Reliability Engineer",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer_JR0309416",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "8ac12dba1a": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer--Azure-Preferred-_JR0309204",
-      "title": "Site Reliability Engineer (Azure Preferred)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--Azure-Preferred-_JR0309204",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "623afb2246": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Software-Engineer-II--COBOL-MAINFRAME-SQL--Non-Stop-TANDEM-_JR0309403",
-      "title": "Software Engineer II (COBOL/MAINFRAME-SQL, Non-Stop TANDEM)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Software-Engineer-II--COBOL-MAINFRAME-SQL--Non-Stop-TANDEM-_JR0309403",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "2753ce1546": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10552117",
-      "title": "Software Development Engineer III, HST Health Foundation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10552117/software-development-engineer-iii-hst-health-foundation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are a passionate team working to build a best-in-class healthcare product designed to make high-quality healthcare easy to access. We are looking for a Senior Software Development Engineer who can build"
-    }
-  },
-  "bec402404f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10552119",
-      "title": "Software Development Engineer II, Amazon Pharmacy",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10552119/software-development-engineer-ii-amazon-pharmacy",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join Amazon Pharmacy's ambitious mission to build a next-generation Pharmacy fulfillment technology that is reshaping healthcare delivery. As a founding member of our new Bangalore team, you'll architect"
-    }
-  },
-  "c21772bb25": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10381000",
-      "title": "Software Development Engineer, Buyer Safety Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10381000/software-development-engineer-buyer-safety-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "\u201cWARNING: Choking Hazard \u2014 small parts. Not for children under 3 years.\u201d\u201cWARNING: This product can expose you to chemicals including antimony trioxide, which are known to cause cancer or birth defects"
-    }
-  },
-  "8ef6d5b78f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10552379",
-      "title": "Software Development Engineer II, AWS OpenSearch",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10552379/software-development-engineer-ii-aws-opensearch",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
   "44b21a80a4": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/XMLNAME-Net-Full-stack-developer----Net-Core--Angular--Rest-API-_JR0309400-1",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "65cd1ae2b6": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8220011,
+      "title": "Security Engineer - Identity and Access ",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "5ba3125d51": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558329",
+      "title": "Software Development Engineer, Customer Experience and Business Trends",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558329/software-development-engineer-customer-experience-and-business-trends",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
+    }
+  },
+  "2e1fcdf0a8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558348",
+      "title": "Software Dev Engineer II, HST Health Foundation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558348/software-dev-engineer-ii-hst-health-foundation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are a passionate team working to build a best-in-class healthcare product designed to make high-quality healthcare easy to access. We are looking for a Software Development Engineer who can build new"
+    }
+  },
+  "818dfa5067": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558764",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558764/software-development-engineer-ii-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "e68f2bd43e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558338",
+      "title": "WiFi Software Development Engineer, eero",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558338/wifi-software-development-engineer-eero",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,"
+    }
+  },
+  "726c289778": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558339",
+      "title": "WiFi Software Development Engineer, eero",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558339/wifi-software-development-engineer-eero",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,"
+    }
+  },
+  "9a3fed0850": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10554632",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10554632/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building software that operates at massive scale and directly impacts millions of sellers? As a Software Development Engineer II on the Seller Compliance team at Amazon, you will"
+    }
+  },
+  "56070bfcd1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558792",
+      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558792/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
+    }
+  },
+  "008c5ff7e1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10558791",
+      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10558791/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
+    }
+  },
+  "53da4166e9": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-MTS--QA-Engineer-_JR358717-1",
+      "title": "Software Engineering MTS (QA Engineer)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--QA-Engineer-_JR358717-1",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
       "_content": null
     }
   }
