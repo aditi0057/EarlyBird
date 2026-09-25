@@ -1,19 +1,4 @@
 {
-  "20c325dac7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10554118",
-      "title": "Software Development Engineer II, Alexa Smart Home Cameras",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10554118/software-development-engineer-ii-alexa-smart-home-cameras",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Alexa Smart Home Cameras team is seeking an experienced Software Development Engineer. The ideal candidate is an innovative self-starter who is looking for an opportunity to be both an individual contributor"
-    }
-  },
   "6335a36c7f": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
       "_content": null
+    }
+  },
+  "2e3bba1009": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10555891",
+      "title": "SDE II, International Seller Expansion Team",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10555891/sde-ii-international-seller-expansion-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
     }
   }
 }
