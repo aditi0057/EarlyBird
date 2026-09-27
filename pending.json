@@ -1,109 +1,4 @@
 {
-  "6335a36c7f": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Engineer--AS_R0449228",
-      "title": "Engineer, AS",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Engineer--AS_R0449228",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "4667b7d8de": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---Saviynt-IGA_R-575186",
-      "title": "Software Engineer - Saviynt IGA",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Saviynt-IGA_R-575186",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "360914653d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10370961",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
-  "dda6113290": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 8190887,
-      "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
-  "dc5bf507c5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10554342",
-      "title": "Software Development Engineer, RBS Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10554342/software-development-engineer-rbs-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in designing and delivering solutions for complex and high impact business problems?Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks."
-    }
-  },
-  "9a529cee18": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10554323",
-      "title": "Software Development Engineer, Amazon",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
-    }
-  },
-  "17c7fd80d9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10554270",
-      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10554270/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
-    }
-  },
   "db4589d83e": {
     "company": "Salesforce",
     "role_type": "tech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "58a7432799": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561009",
+      "title": "Software Development Engineer II, Timehub Experience",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561009/software-development-engineer-ii-timehub-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Our team is building low latency, highly scalable policy computation and storage layer to support pay policies across multiple businesses and regions. We use cutting edge technologies from AWS and continuously"
+    }
+  },
+  "207c34d08c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561005",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561005/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "e70c57a3f8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561001",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561001/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "a7500d182e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561007",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "1602c19feb": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561003",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561003/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "5901aabca8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561002",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561002/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "f5a3146f4c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561004",
+      "title": "Software Development Engineer, Time & Pay Innovation",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561004/software-development-engineer-time-pay-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
     }
   }
 }
