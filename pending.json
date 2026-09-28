@@ -1,109 +1,4 @@
 {
-  "db4589d83e": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
-      "title": "Software Engineering, MTS (Backend)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "d526822c1e": {
-    "company": "Adyen",
-    "role_type": "fintech",
-    "job": {
-      "id": 8111699,
-      "title": "Software Engineer (Java) - Authentication & Tokenization",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8111699",
-      "_source": "greenhouse",
-      "_token": "adyen",
-      "_content": null
-    }
-  },
-  "6f284e7f1f": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Pune-IND/Software-Engineer--Java---AWS-_26WD100667-3",
-      "title": "Software Engineer (Java & AWS)",
-      "location": {
-        "name": "Pune, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java---AWS-_26WD100667-3",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "0b9cc539e6": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Fullstack-Engineer--Advanced-AI_R0000452682",
-      "title": "Sr Fullstack Engineer- Advanced AI",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Fullstack-Engineer--Advanced-AI_R0000452682",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "68c4c68fae": {
-    "company": "Broadcom",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/IND-Hyderabad-115-IT-Park-Area/R-D-Engineer-Software-5_R027120",
-      "title": "R&D Engineer Software 5",
-      "location": {
-        "name": "IND-Hyderabad 115 IT Park Area"
-      },
-      "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R-D-Engineer-Software-5_R027120",
-      "_source": "workday",
-      "_token": "broadcom:wd1:External_Career",
-      "_content": null
-    }
-  },
-  "094cc94d2b": {
-    "company": "Stripe",
-    "role_type": "fintech",
-    "job": {
-      "id": 8209970,
-      "title": "Software Engineer, Stripe Data Pipeline",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8209970",
-      "_source": "greenhouse",
-      "_token": "stripe",
-      "_content": null
-    }
-  },
-  "f81988e574": {
-    "company": "Fivetran",
-    "role_type": "data",
-    "job": {
-      "id": 7798462003,
-      "title": "Software Development Engineer in Test II",
-      "location": {
-        "name": "Bengaluru, Karnataka, India, APAC"
-      },
-      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=7798462003",
-      "_source": "greenhouse",
-      "_token": "fivetran",
-      "_content": null
-    }
-  },
   "f2f4d716d8": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
+    }
+  },
+  "836aa86939": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 8221290,
+      "title": "Software Engineer 3 - Enterprise Architecture",
+      "location": {
+        "name": "Gurugram"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "6b4b26abd3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561347",
+      "title": "Software Development Engineer II, Enterprise Engineering",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561347/software-development-engineer-ii-enterprise-engineering",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Enterprise Engineering (EE) builds and operates the internal productivity platforms that Amazon employees rely on: Slack, M365, WorkDocs, Quip, Asana, and Kingpin. The team manages these platforms"
+    }
+  },
+  "dce27509cf": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10561361",
+      "title": "Software Development Engineer II, Enterprise Engineering",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10561361/software-development-engineer-ii-enterprise-engineering",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Enterprise Engineering (EE) builds and operates the internal productivity platforms that Amazon employees rely on: Slack, M365, WorkDocs, Quip, Asana, and Kingpin. The team manages these platforms"
+    }
+  },
+  "90c0f64011": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Platform-Engineer-II_R-288632",
+      "title": "Platform Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-288632",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "36199c484f": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166496-2",
+      "title": "Android Multi-Device Experience Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166496-2",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "c77bec77d0": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/System-Software-Engineer-II_3168700-1",
+      "title": "System Software Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/System-Software-Engineer-II_3168700-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "5e34b0f191": {
+    "company": "Capital One",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-In/Distinguished-Engineer_R1001283-1",
+      "title": "Distinguished Engineer",
+      "location": {
+        "name": "Bangalore, In"
+      },
+      "absolute_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-Engineer_R1001283-1",
+      "_source": "workday",
+      "_token": "capitalone:wd12:Capital_One",
+      "_content": null
     }
   }
 }
