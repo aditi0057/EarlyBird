@@ -1,124 +1,4 @@
 {
-  "fd7bc2f457": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556606",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556606/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services (AIS)AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running."
-    }
-  },
-  "8181ede30c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556331",
-      "title": "SDE II, Amazon Business Operations",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556331/sde-ii-amazon-business-operations",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about building software that operates at massive scale and directly impacts millions of customers? As a Software Development Engineer II for Amazon Business Operations, you will design,"
-    }
-  },
-  "5f9d22d6d1": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8002097003,
-      "title": "Software Engineer 2 - Product Essentials",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8002097003?gh_jid=8002097003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "92ec886f3a": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-IND/Software-Development-Enginner_26WD100369-1",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Software-Development-Enginner_26WD100369-1",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "3fd4f2d640": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Cloud-Enablement_R0000453825",
-      "title": "Sr Engineer - Cloud Enablement",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Cloud-Enablement_R0000453825",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "7c222f0ead": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8184637,
-      "title": "Cloud Operations Engineer",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8184637",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "3c0fa99e12": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10557199",
-      "title": "Software Development Engineer, AI Trust & Innovation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10557199/software-development-engineer-ai-trust-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "About the TeamAmazon's Devices & Services Trust CX Innovations team is building the future of responsible AI for consumer devices. We deliver privacy-first, accessible, and trustworthy AI experiences that"
-    }
-  },
-  "853565d2dd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10557329",
-      "title": "Software Development Engineer II, Amazon Payment Services",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10557329/software-development-engineer-ii-amazon-payment-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a seasoned senior developer to design/build massive scale, distributed computing solutions. You will be responsible for driving the team\u2019s technical direction, strategizing and shaping"
-    }
-  },
   "20981ac273": {
     "company": "Adobe",
     "role_type": "tech",
@@ -1196,6 +1076,126 @@
       "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Systems-Engineer_3166624-1",
       "_source": "workday",
       "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "3fd8a93b4c": {
+    "company": "Fivetran",
+    "role_type": "data",
+    "job": {
+      "id": 8000545003,
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, India, APAC"
+      },
+      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=8000545003",
+      "_source": "greenhouse",
+      "_token": "fivetran",
+      "_content": null
+    }
+  },
+  "39c581716a": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Target-India-8_R0000453965",
+      "title": "Engineer - Target India-8",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India-8_R0000453965",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "16c15acd1c": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453981",
+      "title": "Sr Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453981",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "2dfff34e19": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---DevEx_R0000450352",
+      "title": "Engineer - DevEx",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---DevEx_R0000450352",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "0c1f15f3c3": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Dev-Ex_R0000450351",
+      "title": "Engineer - Dev Ex",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Dev-Ex_R0000450351",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "1e9776f5d8": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-Tech-Park/Backend-Developer--AVP_R0449344",
+      "title": "Backend Developer, AVP",
+      "location": {
+        "name": "Bangalore, Velankani Tech Park"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer--AVP_R0449344",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "dc8cb0edb6": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828",
+      "title": "Site Reliability Engineer (SRE) \u2013 Cloud Platform",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "c46fc3980c": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Engineer-II--Quality_JR0309808",
+      "title": "Engineer II, Quality",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Quality_JR0309808",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
   }
