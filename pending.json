@@ -1,154 +1,4 @@
 {
-  "fe29cf868b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10555136",
-      "title": "Sr. Software Development Engineer",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10555136/sr-software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Customer Service supports customers around the world through one of the world\u2019s largest and most diverse customer service workforces. As AI fundamentally changes how customer service work is performed,"
-    }
-  },
-  "074f203493": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10555781",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10555781/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to build the systems that power pricing for millions of business customers \u2014 and reinvent how those systems get built at the same time? We're an engineering team inside Amazon Business, and"
-    }
-  },
-  "92ca64b7ab": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10555786",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10555786/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "External job descriptionDeliver AI Innovation in Compliance at Amazon\u2028\u2028Are you seeking an environment where you can drive innovation? Do you want to apply state-of-the-art computer science to solve real"
-    }
-  },
-  "666a6e8fa4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10555688",
-      "title": "Software Development Engineer, AI Runtime",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10555688/software-development-engineer-ai-runtime",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a passionate and experienced Software Development Engineer to help us build and scale the next generation of AI runtime infrastructure for Alexa+. You will design and implement Tier-1"
-    }
-  },
-  "fbf79c7aac": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer-4_R170647",
-      "title": "Software Quality Engineer 5",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170647",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "0a112391dd": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5210010007,
-      "title": "Escalation Engineer",
-      "location": {
-        "name": "Bangalore, IND; Mohali, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5210010007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "a7e286bb7e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556180",
-      "title": "Software Development Engineer, Prime Video Live Events - Sports Data Platform",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556180/software-development-engineer-prime-video-live-events-sports-data-platform",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Job descriptionWant to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems? Looking forward to work with a team of highly competent software"
-    }
-  },
-  "71eddb6d04": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556613",
-      "title": "Software Development Engineer III",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556613/software-development-engineer-iii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers"
-    }
-  },
-  "c485591816": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556600",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556600/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers"
-    }
-  },
-  "d2a579cd9d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10556603",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10556603/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services (AIS)AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running."
-    }
-  },
   "fd7bc2f457": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1194,6 +1044,156 @@
         "name": "Bengaluru, Karnataka, India"
       },
       "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-System-Engineer_3166625-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "0c8c77922b": {
+    "company": "Elastic",
+    "role_type": "tech",
+    "job": {
+      "id": 8237463,
+      "title": "Platform Engineer - Kubernetes",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463",
+      "_source": "greenhouse",
+      "_token": "elastic",
+      "_content": null
+    }
+  },
+  "310b3a0837": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10562899",
+      "title": "Software Development Engineer II, Timehub Pay Extract",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10562899/software-development-engineer-ii-timehub-pay-extract",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Time & Pay Innovation (T&PA) organisation is looking for Software Development Engineers who enjoy working in a green field environment building large-scale intelligent products and services that"
+    }
+  },
+  "61a730a172": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10562897",
+      "title": "Software Development Engineer II, Timehub Pay Extract",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10562897/software-development-engineer-ii-timehub-pay-extract",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Time & Pay Innovation (T&PA) organisation is looking for Software Development Engineers who enjoy working in a green field environment building large-scale intelligent products and services that"
+    }
+  },
+  "a0fcb91793": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10563367",
+      "title": "Software Development Engineer, CAM",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10563367/software-development-engineer-cam",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
+    }
+  },
+  "424ba26a20": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10562604",
+      "title": "Software Development Engineer II, Unified Auth SDK",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10562604/software-development-engineer-ii-unified-auth-sdk",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "UnifiedAuth is the authentication and authorization backbone for Amazon's service ecosystem. We secure service-to-service communication, ensuring that every call between Amazon services is authenticated"
+    }
+  },
+  "fa9af41510": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10563217",
+      "title": "Software Development Engineer 2",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10563217/software-development-engineer-2",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The EU 3P (MFN) Acceleration Team\u2019s mission is to set our EU Sellers up for success while using the MFN (Merchant Fulfilment) Network across our EU Marketplaces. We deliver needle-moving initiatives which"
+    }
+  },
+  "4105b57a1c": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5424222008,
+      "title": "QA Engineer - O2C & Enterprise Billing Testing",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5424222008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "409b921913": {
+    "company": "Coupang",
+    "role_type": "tech",
+    "job": {
+      "id": 8239034,
+      "title": "Sr. Security Engineer",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://www.coupang.jobs/en/jobs/?gh_jid=8239034",
+      "_source": "greenhouse",
+      "_token": "coupang",
+      "_content": null
+    }
+  },
+  "c2e14c93a4": {
+    "company": "Astronomer",
+    "role_type": "data",
+    "job": {
+      "id": "6670d80f-97fc-4bd0-8e74-ba739c794ca9",
+      "title": "Customer Reliability Engineer, Infrastructure - Hyderabad, India",
+      "location": {
+        "name": "Hyderabad"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/astronomer/6670d80f-97fc-4bd0-8e74-ba739c794ca9",
+      "_source": "ashby",
+      "_token": "astronomer",
+      "_content": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow\u00ae. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit  www.astronomer.io http://www.astronomer.io.\n\n\n\n\nABOUT THIS ROLE:\n\nThe Astronomer Customer Reliability Engineering (CRE) team is responsible for the success of our customers' usage of our managed Airflow service.\n\nThe CRE are responsible for operating, monitoring, and maintaining the platform to ensure availability, predictability, and reliable operations.\n\nAs an infrastructure specialist within the team, you will focus on the reliability of the underlying cloud infrastructure and Kubernetes clusters. This entails responding to incidents either raised by a customer, or from our monitoring system and then taking further steps to ensure problems are permanently resolved or monitored. As owners of the observability platform, CRE has unlimited potential to improve the reliability of the product and deliver the best possible outcome for our customers.\n\n\u00a0\n\nThis role is directly customer-facing and gives exposure to very diverse problems and requirements. The CRE get the opportunity to interface with customers from a variety of industries across different cloud providers, and all with different expectations. Your contributions will directly impact customers' success with using the Astronomer products, and you will be able to help make meaningful improvements to the customer experience.\n\n\n\nHybrid Work Model: For this role, you will embrace a flexible hybrid work model, working at least 3 days per week at our Office in Hyderabad while delivering a seamless experience that is digitally and physically connected.\n\n\n\n\n\n\nWHAT YOU GET TO DO:\n\n - Provide solutions to customers to make them successful using our products.\n\n - Troubleshoot Customer environments and engage in active triaging with customers\n\n - Provide feedback to the product development teams on customer needs and pain points.\n\n - Build out our monitoring and alerting systems.\n\n - Build and maintain automation to ensure daily operational tasks are handled as efficiently as possible.\n\n - Help direct the architecture of the products and contribute where possible.\n\n - Own the customer experience, working directly with customers to prioritize and solve issues, meet SLAs, and provide \u201cwhite glove\u201d guidance on the path to production.\n\n - Participate remotely within a fully distributed team.\n\n - Enhance and Enrich customer documentation\n\n - Work on a modern, sophisticated, cloud native product that customers use to connect to dozens of other systems.\n\n - Help maintain 24x7 coverage through a specified 6 hour pager period during your work day.\n\n - Participate in paid on call rotation for weekend coverage.\n   \n\n\n\n\nWHAT YOU BRING TO THE ROLE:\n\n - 3+ years of experience, preferably with large, complex cloud infrastructures operating at scale\n\n - 2+ years of experience with Kubernetes\n\n - Experience managing a Production distributed system with at least one major cloud provider (one or all: AWS, GCP, Azure)\n\n - Strong Network Experience with one of the major Clouds\n\n - Strong Linux experience\n\n - Knowledge of how to operate and monitor issues for distributed systems\n\n - Experience with Observability tools\n\n - Previous experience in handling customers issues (internal and external)\n\n - Strong Communication Skills\n\n - DevOps or CI/CD experience\n\n - Python scripting\n\n\n\n\nBONUS POINTS IF YOU HAVE:\n\n - Experience as a Site Reliability Engineer\n\n - Worked with Kubernetes Custom Resources\n\n - Airflow/Big Data Orchestration experience\n\n - IaC experience\n\n\n\n#LI-Fulltime\n\n#LI-Hybrid\n\n\n\nAt Astronomer, we value diversity. We are an equal opportunity employer: we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
+    }
+  },
+  "f4e6979ece": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Systems-Engineer_3166624-1",
+      "title": "Android Systems Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Systems-Engineer_3166624-1",
       "_source": "workday",
       "_token": "hp:wd5:ExternalCareerSite",
       "_content": null
