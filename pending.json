@@ -1,154 +1,4 @@
 {
-  "1c6842a8b2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10557470",
-      "title": "Software Development Engineer, WW Services Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10557470/software-development-engineer-ww-services-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to work on innovative technology, solve new problems that didn\u2019t exist before, and have the ability to see the impact of your contributions?Amazon is growing, and so is our team, looking for"
-    }
-  },
-  "ad42af24d6": {
-    "company": "Observe.ai",
-    "role_type": "tech",
-    "job": {
-      "id": 5432596008,
-      "title": "AI Agent Engineer",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.observe.ai/position?gh_jid=5432596008",
-      "_source": "greenhouse",
-      "_token": "observeai",
-      "_content": null
-    }
-  },
-  "f3f841f998": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---Java-Full-Stack_R-575498",
-      "title": "Software Engineer - Java Full Stack",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Full-Stack_R-575498",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "f55ceeb3af": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/XMLNAME-Net-Full-stack-developer----Net-Core--Angular--Rest-API-_JR0309400-1",
-      "title": ".Net Full stack developer - (.Net Core, Angular, Rest API)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/XMLNAME-Net-Full-stack-developer----Net-Core--Angular--Rest-API-_JR0309400-1",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "65cd1ae2b6": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8220011,
-      "title": "Security Engineer - Identity and Access ",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "5ba3125d51": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558329",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558329/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
-    }
-  },
-  "2e1fcdf0a8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558348",
-      "title": "Software Dev Engineer II, HST Health Foundation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558348/software-dev-engineer-ii-hst-health-foundation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are a passionate team working to build a best-in-class healthcare product designed to make high-quality healthcare easy to access. We are looking for a Software Development Engineer who can build new"
-    }
-  },
-  "818dfa5067": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558764",
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558764/software-development-engineer-ii-amazon-cross-border-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
-    }
-  },
-  "e68f2bd43e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558338",
-      "title": "WiFi Software Development Engineer, eero",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558338/wifi-software-development-engineer-eero",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,"
-    }
-  },
-  "726c289778": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558339",
-      "title": "WiFi Software Development Engineer, eero",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558339/wifi-software-development-engineer-eero",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols,"
-    }
-  },
   "9a3fed0850": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1047,156 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "We are seeking a Software Development Engineer with a passion for innovating on behalf of eBook customers to simplify eBook purchases and Kindle subscriptions. You will build innovative experiences that"
+    }
+  },
+  "bfcb31b730": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565804",
+      "title": "Software Development Engineer II, Prime Video Sports, PV Sports and Linear Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565804/software-development-engineer-ii-prime-video-sports-pv-sports-and-linear-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Want to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems?We are the Prime Video Live Sports team and our mission is to revolutionize the"
+    }
+  },
+  "05f1fa02c0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565511",
+      "title": "Software Development Engineer, Prime Video Live Events - Sports Data Platform",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Job descriptionWant to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems? Looking forward to work with a team of highly competent software"
+    }
+  },
+  "8a20f5d9d8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565717",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565717/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "7796c75712": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565718",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565718/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "b2e386b9b1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565611",
+      "title": "Software Development II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565611/software-development-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
+    }
+  },
+  "a6b803da80": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565715",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565715/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "7c3e57bbc8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10565737",
+      "title": "Software Development Engineer II, Alexa Endpoint Experiences",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10565737/software-development-engineer-ii-alexa-endpoint-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our Echo Software team works on not only the Echo Show but other"
+    }
+  },
+  "8d492904e8": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Information-Systems-Engineer-4_R169535",
+      "title": "Software Development Engineer 2",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Information-Systems-Engineer-4_R169535",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "69d6ae3ced": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413",
+      "title": "Software Engineer (Mainframe Testing)",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "9d8522ac21": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/GCP-Data---AI-Engineer--AS_R0415266",
+      "title": "GCP Full-Stack Data & AI Engineer, AS",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP-Data---AI-Engineer--AS_R0415266",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
     }
   }
 }
