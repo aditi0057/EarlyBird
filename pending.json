@@ -1,154 +1,4 @@
 {
-  "9a3fed0850": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10554632",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10554632/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about building software that operates at massive scale and directly impacts millions of sellers? As a Software Development Engineer II on the Seller Compliance team at Amazon, you will"
-    }
-  },
-  "56070bfcd1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558792",
-      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558792/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
-    }
-  },
-  "008c5ff7e1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558791",
-      "title": "Software Development Engineer II, FBA Capacity and Inventory Health Management",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558791/software-development-engineer-ii-fba-capacity-and-inventory-health-management",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Sellers are a critical part of Amazon\u2019s ecosystem to deliver on our vision of offering the Earth\u2019s largest selection and lowest prices. These Sellers offer hundreds of millions of unique products providing"
-    }
-  },
-  "53da4166e9": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-MTS--QA-Engineer-_JR358717-1",
-      "title": "Software Engineering MTS (QA Engineer)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--QA-Engineer-_JR358717-1",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "dfbc449dbc": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8208074,
-      "title": "Software Engineer 3",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8208074",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "68ac69d6ac": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558895",
-      "title": "Software Development Engineer, Alexa for Shopping",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558895/software-development-engineer-alexa-for-shopping",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Alexa-for-Shopping team located in Bangalore is looking for an Software Development Engineer to deliver strategic goals for Shopping suite of products. This is an opportunity to join our mission to build"
-    }
-  },
-  "e2b49aac33": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558934",
-      "title": "Software Development Engineer II, Seller Partner Services Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558934/software-development-engineer-ii-seller-partner-services-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "As a Software Development Engineer, you will get the opportunity to own problems end-to-end and work with some of the best minds in Amazon. This role is for a full-stack developer with an emphasis on designing"
-    }
-  },
-  "ac12acedad": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558940",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558940/software-development-engineer-seller-and-am-genai-tools",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's International Seller Services (ISS) org  is seeking a Software Development Engineer to be part of an engineering team working on innovative  products and tools across 3P. 3P sellers WW register"
-    }
-  },
-  "ac8c51b2c0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10558939",
-      "title": "Software Development Engineer, Seller and AM GenAI Tools",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10558939/software-development-engineer-seller-and-am-genai-tools",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's International Seller Services (ISS) org  is seeking a Software Development Engineer to be part of an engineering team working on innovative  products and tools across 3P. 3P sellers WW register"
-    }
-  },
-  "093da9fdd7": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-290198",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290198",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "4786ba9a33": {
     "company": "Target",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP-Data---AI-Engineer--AS_R0415266",
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "6c6f9ac2eb": {
+    "company": "Fampay",
+    "role_type": "fintech",
+    "job": {
+      "id": "9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
+      "title": "SDE 2 Infra",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/fampay/9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
+      "_source": "lever",
+      "_token": "fampay",
+      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout the team\nThe Core Infrastructure team builds the platforms and systems that power everything at Fam, from real-time app experiences to high-volume payments. It operates as a small, high-leverage team with deep ownership. Every service at Fam runs on the platform this team builds, so it cares obsessively about system fundamentals, operational excellence, and mechanical sympathy.\nWhat our systems process\n1 Billion+ API requests per day powering ~10M daily transactions for 10M+ users at 20,000+ RPS.\n470+ node Kubernetes cluster (~2,500 vCPUs and ~8 TiB RAM) under active orchestration.\nDynamic, multi-dimensional auto-scaling powered by 195+ HPAs paired with Karpenter.\n12+ TB of active transactional data (and counting) across our high-throughput database clusters.\nEvent Streaming - 400+ topics, and 3,800+ partitions at ~46,700 messages/sec\nOur Next Chapter\nWhile our core systems already handle massive scale, our next vision as a team is to turn infrastructure into a frictionless platform discipline.\nWe are building towards a world where internal engineering teams consume platform primitives compute, storage, and event streams via self-serve contracts without waiting on us. We're also laying the groundwork for AI-native platform operations, developing agent plane and agent skills so agents can safely interact & operate infrastructure primitives alongside our team. We look to the CNCF landscape for best-in-class tools our systems, with a long-term commitment to contributing back to open source.\n"
+    }
+  },
+  "af1d037f7d": {
+    "company": "Toast",
+    "role_type": "tech",
+    "job": {
+      "id": 8232478,
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://careers.toasttab.com/jobs?gh_jid=8232478",
+      "_source": "greenhouse",
+      "_token": "toast",
+      "_content": null
+    }
+  },
+  "af6f9c7a4e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10566195",
+      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10566195/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Have you ever ordered a product from Amazon and been amazed by how fast it gets to you? Every day, Amazon engineers are working relentlessly to make sure that the time from Click to Deliver is as short"
+    }
+  },
+  "88ef0a3bc3": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Managed-Kubernetes_R0000453849",
+      "title": "Sr Engineer - Managed Kubernetes",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Managed-Kubernetes_R0000453849",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "e1073c97fa": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
+      "title": "Cloud Software Development Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "55e89a8d80": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/AI-Software-Development-Engineer_JR0287693",
+      "title": "AI Software Development Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Software-Development-Engineer_JR0287693",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "51c3e1ba6c": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
+      "title": "Cloud Software Development Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "80b6fc3d8e": {
+    "company": "Workday",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/INDPune/Information-Systems-Software-Application-Engineer_JR-0109365-1",
+      "title": "Information Systems Software Application Engineer",
+      "location": {
+        "name": "IND.Pune"
+      },
+      "absolute_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Information-Systems-Software-Application-Engineer_JR-0109365-1",
+      "_source": "workday",
+      "_token": "workday:wd5:Workday",
+      "_content": null
+    }
+  },
+  "183ea77006": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0426054",
+      "title": "GCP Full-Stack Data & AI Engineer, AS",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0426054",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "5f1a323a59": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/Software-Development-Engineering---Sr-Professional-II_R-10401290",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Software-Development-Engineering---Sr-Professional-II_R-10401290",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
