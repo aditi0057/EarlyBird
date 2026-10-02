@@ -1,19 +1,4 @@
 {
-  "75356d9c44": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Bangalore/AI-Engineer-Backend---LMTS-SMTS-MTS_JR340189-1",
-      "title": "Software Engineering, LMTS (Backend + Infra)",
-      "location": {
-        "name": "India - Bangalore"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/AI-Engineer-Backend---LMTS-SMTS-MTS_JR340189-1",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
   "c02ca88578": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
       "_content": null
+    }
+  },
+  "f480ad6f3d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10567650",
+      "title": "Software Development Engineer II, Infrastructure Supply Chain Automation, Infrastructure Supply Chain Automation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10567650/software-development-engineer-ii-infrastructure-supply-chain-automation-infrastructure-supply-chain-automation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers"
     }
   }
 }
