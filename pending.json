@@ -1,19 +1,4 @@
 {
-  "c02ca88578": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-Tech-Park/Engineer--NCT_R0448997",
-      "title": "Engineer, NCT",
-      "location": {
-        "name": "Bangalore, Velankani Tech Park"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Engineer--NCT_R0448997",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
   "4acf318ba9": {
     "company": "Broadcom",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers"
+    }
+  },
+  "6f48341721": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10567955",
+      "title": "Software Dev Engineer, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10567955/software-dev-engineer-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent. We're building intelligence that keeps customers connected effortlessly across calls, text, email, and beyond."
     }
   }
 }
