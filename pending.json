@@ -1,109 +1,4 @@
 {
-  "58a7432799": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561009",
-      "title": "Software Development Engineer II, Timehub Experience",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561009/software-development-engineer-ii-timehub-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Our team is building low latency, highly scalable policy computation and storage layer to support pay policies across multiple businesses and regions. We use cutting edge technologies from AWS and continuously"
-    }
-  },
-  "207c34d08c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561005",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561005/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
-  "e70c57a3f8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561001",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561001/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
-  "a7500d182e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561007",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561007/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
-  "1602c19feb": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561003",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561003/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
-  "5901aabca8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561002",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561002/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
-  "f5a3146f4c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561004",
-      "title": "Software Development Engineer, Time & Pay Innovation",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561004/software-development-engineer-time-pay-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is one of the largest employers on the planet with hundreds of thousands of employees across the globe. Come join us in our journey to deliver solutions for one of the most complex domains in People"
-    }
-  },
   "836aa86939": {
     "company": "MongoDB",
     "role_type": "tech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
+    }
+  },
+  "c1dd928e82": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10568545",
+      "title": "Software Dev Engineer, Alexa AI ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10568545/software-dev-engineer-alexa-ai",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Interested in Amazon Alexa, Machine Learning and Artificial Intelligence? We\u2019re building the runtime services that power state of the art Amazon Alexa. Come join us! The Alexa AI org in India is seeking"
+    }
+  },
+  "af5b4923e5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10568413",
+      "title": "Software Development Engineer, Amazon Flex",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10568413/software-development-engineer-amazon-flex",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s Last Mile Technology has the operational focus of providing new and different technologies to solve challenges in the last mile delivery space. We want to ensure a top-in-class customer experience"
+    }
+  },
+  "58efe2b345": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000475528",
+      "title": "Sr Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000475528",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "f0d4a53245": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000475525",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000475525",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "51a975e04b": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453039-1",
+      "title": "Sr Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453039-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "43fc78b32e": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000453035",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000453035",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "3a31fa6459": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000450927-1",
+      "title": "Sr Engineer - Target India",
+      "location": {
+        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000450927-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
     }
   }
 }
