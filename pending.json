@@ -1,64 +1,4 @@
 {
-  "836aa86939": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8221290,
-      "title": "Software Engineer 3 - Enterprise Architecture",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "6b4b26abd3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561347",
-      "title": "Software Development Engineer II, Enterprise Engineering",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561347/software-development-engineer-ii-enterprise-engineering",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Enterprise Engineering (EE) builds and operates the internal productivity platforms that Amazon employees rely on: Slack, M365, WorkDocs, Quip, Asana, and Kingpin. The team manages these platforms"
-    }
-  },
-  "dce27509cf": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561361",
-      "title": "Software Development Engineer II, Enterprise Engineering",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561361/software-development-engineer-ii-enterprise-engineering",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Enterprise Engineering (EE) builds and operates the internal productivity platforms that Amazon employees rely on: Slack, M365, WorkDocs, Quip, Asana, and Kingpin. The team manages these platforms"
-    }
-  },
-  "90c0f64011": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Platform-Engineer-II_R-288632",
-      "title": "Platform Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-288632",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "36199c484f": {
     "company": "HP",
     "role_type": "tech",
@@ -1194,6 +1134,66 @@
         "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
       },
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000450927-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "779c878fd7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10568815",
+      "title": "Software Development Engineer II, FinTech General Ledger",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10568815/software-development-engineer-ii-fintech-general-ledger",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Finance Technology (FinTech) organization is building the next generation of distributed, globally scalable financial systems \u2014 and we need your help. As a Software Development Engineer II on"
+    }
+  },
+  "587a2198a9": {
+    "company": "Morgan Stanley",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Java-Lead-Vice-President--Software-Engineer_PT-JR043379",
+      "title": "Java Lead_Vice President _Software Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Java-Lead-Vice-President--Software-Engineer_PT-JR043379",
+      "_source": "workday",
+      "_token": "ms:wd5:External",
+      "_content": null
+    }
+  },
+  "3e2b696833": {
+    "company": "HackerOne",
+    "role_type": "tech",
+    "job": {
+      "id": "63c16667-f10c-48ef-8a60-6dbc162422f7",
+      "title": "Software Engineer III",
+      "location": {
+        "name": "Pune"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/hackerone/63c16667-f10c-48ef-8a60-6dbc162422f7",
+      "_source": "ashby",
+      "_token": "hackerone",
+      "_content": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com http://Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner\u2019s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\n\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional \u2013 it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world\u2019s top organizations.\n\n\n\nHackerOne Values\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is Customer Obsessed and prioritizes customer outcomes in our decisions and actions. We Default to Disclosure by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners Win Together by fostering empowerment, inclusion, respect, and accountability.\n\n\n\n\nSOFTWARE ENGINEER III\n\n\nLOCATION: PUNE, INDIA (WORKING ONSITE 3-4 DAYS A WEEK)\n\n\n\nPosition Summary\n\nAs a Software Engineer at HackerOne, you will help build and evolve product capabilities that advance our Continuous Threat Exposure Management (CTEM) platform and improve how our Product Security Analysts and security researcher community get their work done. You will work closely with engineers, Product Managers, and Designers, while collaborating with our Pune-based Customer Operations team and global colleagues to turn real customer and user problems into reliable product experiences.\n\nYou will own meaningful features and components through the software development lifecycle, contributing across our application stack and continuing to grow your technical expertise. As HackerOne evolves its AI-powered platform, you will also have opportunities to apply and learn AI technologies where they improve customer outcomes.\n\nPrimary Responsibilities\n\nSuccess in the Software Engineer role will be accomplished by delivering on the responsibilities below in alignment with the Values and Principles that define how we work at HackerOne.\n\n - Build, test, ship, and maintain highly available, performant, and durable product features for HackerOne\u2019s CTEM platform, with a focus on capabilities that simplify workflows and improve outcomes for Product Security Analysts, security researchers, and customers.\n\n - Own meaningful features and components from development through production, working with engineers, Product Managers, and Designers to understand requirements, manage dependencies, make sound technical decisions, and deliver against team goals and roadmap priorities.\n\n - Apply First Principles Problem Solving to understand customer and technical problems at their root, break complex challenges into manageable components, and develop simple, maintainable solutions rather than relying on fragile short-term fixes.\n\n - Bring an AI Native mindset to engineering by using AI-enabled development tools where they improve quality or productivity and contributing to AI-assisted product capabilities where they create meaningful customer value. Develop your knowledge of technologies such as Python, LangChain, Langfuse, retrieval, and agentic workflows as relevant to the problems you are solving.\n\n - Use Data-Driven Decision Making to understand how features and systems are performing, drawing on product data, application telemetry, user feedback, quality measures, and other evidence to validate decisions and guide iteration after launch.\n\n - Demonstrate Change Agility as product priorities, customer needs, and technologies evolve, learning new tools and approaches while continuing to deliver reliable software in small, validated iterations.\n\n - Contribute to the quality and health of the broader engineering platform through code reviews, testing, observability, documentation, and improvements to reliability, maintainability, and developer experience; participate in cross-squad initiatives when your expertise or team\u2019s work can contribute.\n\n - Collaborate openly with engineers across levels and functions, sharing knowledge and supporting the growth and onboarding of less-experienced engineers while continuing to learn from Senior and Staff Engineers.\n\nMinimum Qualifications\n\n - 5+ years of software development experience, including experience building and delivering production software within a modern SaaS or web application environment.\n\n - Proficiency in a dynamically typed, object-oriented programming language such as Ruby, Python, JavaScript, or a similar language, along with practical experience with SQL and relational databases. You should be willing to learn and work with Ruby on Rails and PostgreSQL in our environment.\n\n - Experience building modern web applications using front-end technologies such as ReactJS or comparable frameworks, along with experience working with cloud platforms such as AWS or similar technologies.\n\n - Experience contributing to features or technical projects through multiple stages of the software development lifecycle, including implementation, testing, deployment, monitoring, and ongoing improvement.\n\nPreferred Qualifications\n\n - Hands-on experience with technologies in our application stack, including Ruby on Rails, ReactJS, PostgreSQL, GraphQL, and Amazon Web Services.\n\n - Experience building products or workflows for security professionals, analysts, technical operations teams, developers, communities, or other technical users.\n\n - Exposure to Python and AI application technologies or patterns such as LangChain, Langfuse, retrieval/RAG, tool use, workflow orchestration, human-in-the-loop systems, or LLM-powered features. We value an ability and willingness to learn these technologies and apply them thoughtfully rather than requiring deep AI specialization.\n\n - Experience using AI-enabled development tools or familiarity with evaluating AI-assisted product experiences through feedback, quality measures, monitoring, experimentation, or similar approaches.\n\nCompensation Bands:\n\nINR 30.64 - 36 LPA\n\nOffers equity\n\n\n\n\nJOB BENEFITS:\n\n - Health (medical, vision, dental), life, and disability insurance*\n\n - Equity stock options\n\n - Retirement plans\n\n - Paid public holidays and unlimited PTO\n\n - Paid maternity and parental leave\n\n - Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n\n - Employee Assistance Program\n\n*Eligibility may differ by country\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com https://remote.com/preemployment-faq as our Employer of Record (EOR).\n\n\n\nVisa/work permit sponsorship is not available. \n\n\n\nEmployment at HackerOne is contingent on a background check.\n\n\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\n\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\n\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position."
+    }
+  },
+  "3b4e503597": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Target-India_R0000453851",
+      "title": "Sr Engineer - Target India",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000453851",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
       "_content": null
