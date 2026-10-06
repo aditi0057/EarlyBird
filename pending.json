@@ -1,154 +1,4 @@
 {
-  "36199c484f": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166496-2",
-      "title": "Android Multi-Device Experience Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166496-2",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "c77bec77d0": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/System-Software-Engineer-II_3168700-1",
-      "title": "System Software Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/System-Software-Engineer-II_3168700-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "5e34b0f191": {
-    "company": "Capital One",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-In/Distinguished-Engineer_R1001283-1",
-      "title": "Distinguished Engineer",
-      "location": {
-        "name": "Bangalore, In"
-      },
-      "absolute_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Distinguished-Engineer_R1001283-1",
-      "_source": "workday",
-      "_token": "capitalone:wd12:Capital_One",
-      "_content": null
-    }
-  },
-  "4198d90420": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10562263",
-      "title": "Software Dev Engineer II, Emerging Device Software",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10562263/software-dev-engineer-ii-emerging-device-software",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon lab126 Platform Software team is looking for Software Development Engineer to lead the design and architecture of new consumer devices. You will drive technical direction and feature roadmap for"
-    }
-  },
-  "0d6179efad": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561512",
-      "title": "Software Dev Engineer III, Amazon Payment Services",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561512/software-dev-engineer-iii-amazon-payment-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "JOB DESCRIPTIONAmazon is looking for a Senior Software Development Engineer to design and build large-scale, distributed computing solutions with a focus on information security within the digital payments"
-    }
-  },
-  "40300f2bfa": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10561991",
-      "title": "Software Development Engineer, Amazon Flex",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10561991/software-development-engineer-amazon-flex",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s Last Mile Technology has the operational focus of providing new and different technologies to solve challenges in the last mile delivery space. We want to ensure a top-in-class customer experience"
-    }
-  },
-  "cbcc085fe9": {
-    "company": "Morgan Stanley",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Fullstack-Developer-Director-Software-Engineer_PT-JR044520",
-      "title": "Fullstack Developer_Director_Software Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Fullstack-Developer-Director-Software-Engineer_PT-JR044520",
-      "_source": "workday",
-      "_token": "ms:wd5:External",
-      "_content": null
-    }
-  },
-  "3b41af12e1": {
-    "company": "NVIDIA",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Pune/System-Security-Software-Engineer_JR2026548",
-      "title": "System Security Software Engineer",
-      "location": {
-        "name": "India, Pune"
-      },
-      "absolute_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/System-Security-Software-Engineer_JR2026548",
-      "_source": "workday",
-      "_token": "nvidia:wd5:NVIDIAExternalCareerSite",
-      "_content": null
-    }
-  },
-  "de0f12545e": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-291333-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-291333-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "de608d18e3": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer_R-290498-1",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-290498-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "3f1c8b1a14": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000453851",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "a15ba671d9": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8247112,
+      "title": "Software Engineer (L2)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8247112",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "aee703a421": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8243101,
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "d0892781a1": {
+    "company": "Airbnb",
+    "role_type": "tech",
+    "job": {
+      "id": 8245428,
+      "title": "Software Engineer, Guest & Host",
+      "location": {
+        "name": "India "
+      },
+      "absolute_url": "https://careers.airbnb.com/positions/8245428?gh_jid=8245428",
+      "_source": "greenhouse",
+      "_token": "airbnb",
+      "_content": null
+    }
+  },
+  "0bc215cd4c": {
+    "company": "Elastic",
+    "role_type": "tech",
+    "job": {
+      "id": 8247206,
+      "title": "Agentic AI Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8247206&gh_jid=8247206",
+      "_source": "greenhouse",
+      "_token": "elastic",
+      "_content": null
+    }
+  },
+  "59d6330cdf": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570061",
+      "title": "Software Development Engineer II, EU INTech Partner Growth Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570061/software-development-engineer-ii-eu-intech-partner-growth-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is seeking passionate, talented and inventive Software Development Engineers with a strong development background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission"
+    }
+  },
+  "e5c9e03b73": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570060",
+      "title": "Software Development Engineer II, EU INTech Partner Growth Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570060/software-development-engineer-ii-eu-intech-partner-growth-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is seeking passionate, talented and inventive Software Development Engineers with a strong development background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission"
+    }
+  },
+  "ba2181dfb0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570043",
+      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570043/software-development-engineer-ii-int-l-technologyeuregionalfund",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you ready to shape the future of e-commerce in Europe's emerging markets? Join Amazon's EU INTech E3 team as we build the next generation of shopping experiences for millions of customers across Europe.As"
+    }
+  },
+  "94953c74c3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570107",
+      "title": "Software Development Engineer - II",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570107/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
+    }
+  },
+  "b3ccd08469": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Software-Development-Engineer-3---Java_R171822",
+      "title": "Software Development Engineer 3 - Java",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-3---Java_R171822",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "0bb9949bfa": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-290866-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290866-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
     }
   }
