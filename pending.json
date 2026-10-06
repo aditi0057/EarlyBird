@@ -1,154 +1,4 @@
 {
-  "3f1c8b1a14": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Navi-Mumbai-India-Finicity/Software-Engineer-II_R-291019",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Navi Mumbai, India (Finicity)"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-II_R-291019",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "e7f50f2ce1": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8006504003,
-      "title": "Software Engineer II -  Data Integration Platform (DIP) Ingestion",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8006504003?gh_jid=8006504003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "ce54207aa9": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-System-Engineer_3166625-1",
-      "title": "Android System Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-System-Engineer_3166625-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "0c8c77922b": {
-    "company": "Elastic",
-    "role_type": "tech",
-    "job": {
-      "id": 8237463,
-      "title": "Platform Engineer - Kubernetes",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463",
-      "_source": "greenhouse",
-      "_token": "elastic",
-      "_content": null
-    }
-  },
-  "310b3a0837": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10562899",
-      "title": "Software Development Engineer II, Timehub Pay Extract",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10562899/software-development-engineer-ii-timehub-pay-extract",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Time & Pay Innovation (T&PA) organisation is looking for Software Development Engineers who enjoy working in a green field environment building large-scale intelligent products and services that"
-    }
-  },
-  "61a730a172": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10562897",
-      "title": "Software Development Engineer II, Timehub Pay Extract",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10562897/software-development-engineer-ii-timehub-pay-extract",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Time & Pay Innovation (T&PA) organisation is looking for Software Development Engineers who enjoy working in a green field environment building large-scale intelligent products and services that"
-    }
-  },
-  "a0fcb91793": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10563367",
-      "title": "Software Development Engineer, CAM",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10563367/software-development-engineer-cam",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
-    }
-  },
-  "424ba26a20": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10562604",
-      "title": "Software Development Engineer II, Unified Auth SDK",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10562604/software-development-engineer-ii-unified-auth-sdk",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "UnifiedAuth is the authentication and authorization backbone for Amazon's service ecosystem. We secure service-to-service communication, ensuring that every call between Amazon services is authenticated"
-    }
-  },
-  "fa9af41510": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10563217",
-      "title": "Software Development Engineer 2",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10563217/software-development-engineer-2",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The EU 3P (MFN) Acceleration Team\u2019s mission is to set our EU Sellers up for success while using the MFN (Merchant Fulfilment) Network across our EU Marketplaces. We deliver needle-moving initiatives which"
-    }
-  },
-  "4105b57a1c": {
-    "company": "New Relic",
-    "role_type": "tech",
-    "job": {
-      "id": 5424222008,
-      "title": "QA Engineer - O2C & Enterprise Billing Testing",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5424222008",
-      "_source": "greenhouse",
-      "_token": "newrelic",
-      "_content": null
-    }
-  },
   "409b921913": {
     "company": "Coupang",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290866-1",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "2ffa6d1bff": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8256407,
+      "title": "Software Engineer- SaaS O365",
+      "location": {
+        "name": "Bangalore "
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "e1b26dd1a0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570248",
+      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570248/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
+    }
+  },
+  "9676fcac38": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570198",
+      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570198/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
+    }
+  },
+  "2376e9af90": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570197",
+      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570197/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
+    }
+  },
+  "673f60cc59": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417",
+      "title": "Intermediate Software Engineer \u2013 Data Application Developer",
+      "location": {
+        "name": "Chennai Tamil Nadu India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "1b0d88a601": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Mumbai-India/Quality-Assurance-Engineer--Associate_R266463",
+      "title": "Quality Assurance Engineer, Associate",
+      "location": {
+        "name": "Mumbai, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Quality-Assurance-Engineer--Associate_R266463",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "fb4e3bcaec": {
+    "company": "Workday",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/INDChennai/Software-Development-Engineer_JR-0110318",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "IND.Chennai"
+      },
+      "absolute_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Software-Development-Engineer_JR-0110318",
+      "_source": "workday",
+      "_token": "workday:wd5:Workday",
+      "_content": null
+    }
+  },
+  "a26a48a3ca": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/Tech-Lead--Data-Engineering-SDE-_R-10404037",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Tech-Lead--Data-Engineering-SDE-_R-10404037",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "e979de7515": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/Tech-Lead--AI-Software-Engineering_R-10404036",
+      "title": "AI Engineer",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Tech-Lead--AI-Software-Engineering_R-10404036",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "b7760f389d": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Software-Engineer-Senior--Net-Angular-_JR0308958",
+      "title": "Lansa Developer",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Software-Engineer-Senior--Net-Angular-_JR0308958",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
   }
