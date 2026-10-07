@@ -1,109 +1,4 @@
 {
-  "409b921913": {
-    "company": "Coupang",
-    "role_type": "tech",
-    "job": {
-      "id": 8239034,
-      "title": "Sr. Security Engineer",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://www.coupang.jobs/en/jobs/?gh_jid=8239034",
-      "_source": "greenhouse",
-      "_token": "coupang",
-      "_content": null
-    }
-  },
-  "c2e14c93a4": {
-    "company": "Astronomer",
-    "role_type": "data",
-    "job": {
-      "id": "6670d80f-97fc-4bd0-8e74-ba739c794ca9",
-      "title": "Customer Reliability Engineer, Infrastructure - Hyderabad, India",
-      "location": {
-        "name": "Hyderabad"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/astronomer/6670d80f-97fc-4bd0-8e74-ba739c794ca9",
-      "_source": "ashby",
-      "_token": "astronomer",
-      "_content": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow\u00ae. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit  www.astronomer.io http://www.astronomer.io.\n\n\n\n\nABOUT THIS ROLE:\n\nThe Astronomer Customer Reliability Engineering (CRE) team is responsible for the success of our customers' usage of our managed Airflow service.\n\nThe CRE are responsible for operating, monitoring, and maintaining the platform to ensure availability, predictability, and reliable operations.\n\nAs an infrastructure specialist within the team, you will focus on the reliability of the underlying cloud infrastructure and Kubernetes clusters. This entails responding to incidents either raised by a customer, or from our monitoring system and then taking further steps to ensure problems are permanently resolved or monitored. As owners of the observability platform, CRE has unlimited potential to improve the reliability of the product and deliver the best possible outcome for our customers.\n\n\u00a0\n\nThis role is directly customer-facing and gives exposure to very diverse problems and requirements. The CRE get the opportunity to interface with customers from a variety of industries across different cloud providers, and all with different expectations. Your contributions will directly impact customers' success with using the Astronomer products, and you will be able to help make meaningful improvements to the customer experience.\n\n\n\nHybrid Work Model: For this role, you will embrace a flexible hybrid work model, working at least 3 days per week at our Office in Hyderabad while delivering a seamless experience that is digitally and physically connected.\n\n\n\n\n\n\nWHAT YOU GET TO DO:\n\n - Provide solutions to customers to make them successful using our products.\n\n - Troubleshoot Customer environments and engage in active triaging with customers\n\n - Provide feedback to the product development teams on customer needs and pain points.\n\n - Build out our monitoring and alerting systems.\n\n - Build and maintain automation to ensure daily operational tasks are handled as efficiently as possible.\n\n - Help direct the architecture of the products and contribute where possible.\n\n - Own the customer experience, working directly with customers to prioritize and solve issues, meet SLAs, and provide \u201cwhite glove\u201d guidance on the path to production.\n\n - Participate remotely within a fully distributed team.\n\n - Enhance and Enrich customer documentation\n\n - Work on a modern, sophisticated, cloud native product that customers use to connect to dozens of other systems.\n\n - Help maintain 24x7 coverage through a specified 6 hour pager period during your work day.\n\n - Participate in paid on call rotation for weekend coverage.\n   \n\n\n\n\nWHAT YOU BRING TO THE ROLE:\n\n - 3+ years of experience, preferably with large, complex cloud infrastructures operating at scale\n\n - 2+ years of experience with Kubernetes\n\n - Experience managing a Production distributed system with at least one major cloud provider (one or all: AWS, GCP, Azure)\n\n - Strong Network Experience with one of the major Clouds\n\n - Strong Linux experience\n\n - Knowledge of how to operate and monitor issues for distributed systems\n\n - Experience with Observability tools\n\n - Previous experience in handling customers issues (internal and external)\n\n - Strong Communication Skills\n\n - DevOps or CI/CD experience\n\n - Python scripting\n\n\n\n\nBONUS POINTS IF YOU HAVE:\n\n - Experience as a Site Reliability Engineer\n\n - Worked with Kubernetes Custom Resources\n\n - Airflow/Big Data Orchestration experience\n\n - IaC experience\n\n\n\n#LI-Fulltime\n\n#LI-Hybrid\n\n\n\nAt Astronomer, we value diversity. We are an equal opportunity employer: we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
-    }
-  },
-  "f4e6979ece": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Systems-Engineer_3166624-1",
-      "title": "Android Systems Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Systems-Engineer_3166624-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "3fd8a93b4c": {
-    "company": "Fivetran",
-    "role_type": "data",
-    "job": {
-      "id": 8000545003,
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Bengaluru, Karnataka, India, APAC"
-      },
-      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=8000545003",
-      "_source": "greenhouse",
-      "_token": "fivetran",
-      "_content": null
-    }
-  },
-  "39c581716a": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Target-India-8_R0000453965",
-      "title": "Engineer - Target India-8",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India-8_R0000453965",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "16c15acd1c": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453981",
-      "title": "Sr Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453981",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "2dfff34e19": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---DevEx_R0000450352",
-      "title": "Engineer - DevEx",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---DevEx_R0000450352",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "0c1f15f3c3": {
     "company": "Target",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Software-Engineer-Senior--Net-Angular-_JR0308958",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "3d92d3ad01": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "d2f50690-efbf-45c6-8985-1494901725e6",
+      "title": "Security Engineer III",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/d2f50690-efbf-45c6-8985-1494901725e6",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\n\u00a0\nThe security team at Meesho is like the Avengers to Meesho's S.H.I.E.L.D. After all, when 5% of Indian households shop with us, it\u2019s important to build resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e Sounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast. We place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As a Security Engineer, you will be part of self-starters who thrive on teamwork and constructive feedback. We know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favorite books and games \u2013 or even gossiping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\nAbout the Role\n\u00a0\nAs a Security Engineer 4, your role is integral in ensuring the security of our products throughout their development lifecycle. You will be involved from the very beginning, participating in threat modeling and design reviews to identify potential risks early. You'll also integrate and manage SAST tools within our CI/CD pipeline, ensuring continuous security testing as code evolves. Additionally, you'll lead and conduct vulnerability assessments and penetration testing (VAPT) to proactively uncover and address security vulnerabilities before they reach production. \n"
+    }
+  },
+  "a995ca68cf": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8258200,
+      "title": "Software Engineer - Cloud: Azure",
+      "location": {
+        "name": "Bangalore "
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "faf1904c52": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571553",
+      "title": "Software Development Engineer II, EU INTech Partner Growth Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571553/software-development-engineer-ii-eu-intech-partner-growth-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is seeking passionate, talented and inventive Software Development Engineers with a strong development background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission"
+    }
+  },
+  "23fcfd27bf": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571471",
+      "title": "Software Development Engineer II , Amazon Cross Border Tech, Amazon Cross Border Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571471/software-development-engineer-ii-amazon-cross-border-tech-amazon-cross-border-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Cross Border Core Technology team is seeking a seasoned Software Engineer to drive the development of innovative technologies that will shape platforms and products impacting a multibillion-dollar"
+    }
+  },
+  "408cfca3fc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571293",
+      "title": "Software Development Engineer II, Grocery In-store",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571293/software-development-engineer-ii-grocery-in-store",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is seeking a talented Software Development Engineer to join our Grocery In-store Technology team. In this role, you'll build innovative solutions that revolutionize the physical retail shopping"
+    }
+  },
+  "c8d7faeb7e": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Mumbai-India/Associate--Full-Stack-Engineer_R260054",
+      "title": "Associate, Full Stack Developer",
+      "location": {
+        "name": "Mumbai, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Associate--Full-Stack-Engineer_R260054",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "06043325dc": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/System-and-Software-Optimization-Engineer_JR0287295",
+      "title": "System and Software Optimization Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-and-Software-Optimization-Engineer_JR0287295",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
       "_content": null
     }
   }
