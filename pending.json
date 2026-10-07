@@ -1,154 +1,4 @@
 {
-  "0c1f15f3c3": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Dev-Ex_R0000450351",
-      "title": "Engineer - Dev Ex",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Dev-Ex_R0000450351",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "1e9776f5d8": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-Tech-Park/Backend-Developer--AVP_R0449344",
-      "title": "Backend Developer, AVP",
-      "location": {
-        "name": "Bangalore, Velankani Tech Park"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/Backend-Developer--AVP_R0449344",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "dc8cb0edb6": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828",
-      "title": "Site Reliability Engineer (SRE) \u2013 Cloud Platform",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "c46fc3980c": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Engineer-II--Quality_JR0309808",
-      "title": "Engineer II, Quality",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Engineer-II--Quality_JR0309808",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "7a52eccb7e": {
-    "company": "MongoDB",
-    "role_type": "tech",
-    "job": {
-      "id": 8239047,
-      "title": "Software Engineer 3",
-      "location": {
-        "name": "Gurugram"
-      },
-      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8239047",
-      "_source": "greenhouse",
-      "_token": "mongodb",
-      "_content": null
-    }
-  },
-  "b34d55fad2": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 8829029002,
-      "title": "IT Software Engineer, Infrastructure",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
-  "565ad436c6": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10564348",
-      "title": "Software Development Engineer II, Prime Video Resilience, Prime Video App Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10564348/software-development-engineer-ii-prime-video-resilience-prime-video-app-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about making sure millions of viewers can enjoy their favorite content without interruption? The Prime Video Resilience team is looking for a Software Development Engineer II to help us"
-    }
-  },
-  "4f35e373d4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10564584",
-      "title": "Software Development Engineer, AI Trust & Innovation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10564584/software-development-engineer-ai-trust-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "About the TeamAmazon's Devices & Services Trust CX Innovations team is building the future of responsible AI for consumer devices. We deliver privacy-first, accessible, and trustworthy AI experiences that"
-    }
-  },
-  "a68ae26c6f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565200",
-      "title": "Software Dev Engineer II, FinTech Tax",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565200/software-dev-engineer-ii-fintech-tax",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a leaders to build next generation tax systems that powers billions of dollars of accurate payments across multiple lines of business worldwide. Amazon is seeking a rock star Software"
-    }
-  },
-  "3ae5f86af6": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565199",
-      "title": "Software Dev Engineer II, FinTech Tax",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565199/software-dev-engineer-ii-fintech-tax",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a leaders to build next generation tax systems that powers billions of dollars of accurate payments across multiple lines of business worldwide. Amazon is seeking a rock star Software"
-    }
-  },
   "26bd21db8d": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-and-Software-Optimization-Engineer_JR0287295",
       "_source": "workday",
       "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "bece2b5d92": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10572202",
+      "title": "Software Development Engineer, Last Mile Platform Services, SDE",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10572202/software-development-engineer-last-mile-platform-services-sde",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to build impactful mobile software building blocks that empowers hundreds of engineers build and ship new delightful features every day? Our team is responsible for creating the best delivery"
+    }
+  },
+  "f803dcb0de": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571791",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571791/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
+    }
+  },
+  "c522b4d24d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571784",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571784/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
+    }
+  },
+  "8d95aa3e13": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571793",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571793/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
+    }
+  },
+  "33747c51d3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571786",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571786/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
+    }
+  },
+  "7788b5109e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10572015",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10572015/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
+    }
+  },
+  "d5df44a661": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571633",
+      "title": "Software Development Engineer, CAM",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571633/software-development-engineer-cam",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
+    }
+  },
+  "40ce5965af": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Mgr--Software-Development_R172270",
+      "title": "Mgr, Software Development",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Mgr--Software-Development_R172270",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "c2e394daba": {
+    "company": "Intel",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
+      "title": "GPU Software Development Engineer",
+      "location": {
+        "name": "India, Bangalore"
+      },
+      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
+      "_source": "workday",
+      "_token": "intel:wd1:External",
+      "_content": null
+    }
+  },
+  "650c7a4c50": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer---C---NET--and-ASPNET-Core_R-579867",
+      "title": "Software Engineer - C#, .NET, and ASP.NET Core",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---C---NET--and-ASPNET-Core_R-579867",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
     }
   }
