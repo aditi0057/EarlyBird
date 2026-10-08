@@ -1,79 +1,4 @@
 {
-  "ce50abba9d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10564385",
-      "title": "Software Development Engineer II, Workplace Productivity",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10564385/software-development-engineer-ii-workplace-productivity",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We seek an SDE II with strong technical acumen, a proven track record in engineering large-scale software systems, and a fervor for tackling complex challenges. This position calls for a candidate who"
-    }
-  },
-  "8b2d5d9713": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565065",
-      "title": "Software Development Engineer II, Books Purchase & Payments Experience",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565065/software-development-engineer-ii-books-purchase-payments-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are seeking a Software Development Engineer with a passion for innovating on behalf of eBook customers to simplify eBook purchases and Kindle subscriptions. You will build innovative experiences that"
-    }
-  },
-  "bfcb31b730": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565804",
-      "title": "Software Development Engineer II, Prime Video Sports, PV Sports and Linear Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565804/software-development-engineer-ii-prime-video-sports-pv-sports-and-linear-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Want to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems?We are the Prime Video Live Sports team and our mission is to revolutionize the"
-    }
-  },
-  "05f1fa02c0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565511",
-      "title": "Software Development Engineer, Prime Video Live Events - Sports Data Platform",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565511/software-development-engineer-prime-video-live-events-sports-data-platform",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Job descriptionWant to change the way people watch Live Sports? Passionate about building, owning and operating massively scalable systems? Looking forward to work with a team of highly competent software"
-    }
-  },
-  "8a20f5d9d8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565717",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565717/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
   "7796c75712": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1121,81 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Systems-Engineering--DevOps-Engineer-_R-10392182",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "96ad935dea": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8258587,
+      "title": "Machine Learning Engineer (L3)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "a28264c30b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10573207",
+      "title": "Software Development Engineer-II, Amazon Smart Vehicles",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10573207/software-development-engineer-ii-amazon-smart-vehicles",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
+    }
+  },
+  "6718a14f7c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10573554",
+      "title": "Software Development Engineer- II, Amazon Autos",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10573554/software-development-engineer-ii-amazon-autos",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We're on a journey to build something exciting on a green field project - Amazon Autos! We're looking for a talented Software Development Engineer to join our team of product managers, designers, and engineers"
+    }
+  },
+  "7b15a193e4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10573003",
+      "title": "Software Development Engineer, Amazon",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10573003/software-development-engineer-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
+    }
+  },
+  "429b27049a": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Velankani-ISC/Backend-Developer--AVP_R0449344",
+      "title": "Backend Developer, AVP",
+      "location": {
+        "name": "Bangalore Velankani ISC"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/Backend-Developer--AVP_R0449344",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
       "_content": null
     }
   }
