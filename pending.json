@@ -1,109 +1,4 @@
 {
-  "7796c75712": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565718",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565718/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
-  "b2e386b9b1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565611",
-      "title": "Software Development II",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565611/software-development-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. We thrive on maintaining the highest bar of customer"
-    }
-  },
-  "a6b803da80": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565715",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565715/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
-  "7c3e57bbc8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10565737",
-      "title": "Software Development Engineer II, Alexa Endpoint Experiences",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10565737/software-development-engineer-ii-alexa-endpoint-experiences",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join the team that brought you the Echo Show, a touch-screen enabled Alexa device that supports video calling, music, weather, and more! Our Echo Software team works on not only the Echo Show but other"
-    }
-  },
-  "8d492904e8": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bangalore/Information-Systems-Engineer-4_R169535",
-      "title": "Software Development Engineer 2",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Information-Systems-Engineer-4_R169535",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "69d6ae3ced": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413",
-      "title": "Software Engineer (Mainframe Testing)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "9d8522ac21": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/GCP-Data---AI-Engineer--AS_R0415266",
-      "title": "GCP Full-Stack Data & AI Engineer, AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP-Data---AI-Engineer--AS_R0415266",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
   "6c6f9ac2eb": {
     "company": "Fampay",
     "role_type": "fintech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/Backend-Developer--AVP_R0449344",
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "c7535042ba": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8771566002,
+      "title": "Forward Deployed Engineer",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "3492a096ad": {
+    "company": "Groww",
+    "role_type": "fintech",
+    "job": {
+      "id": 4971575101,
+      "title": "Product Solution Engineer - 2",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4971575101",
+      "_source": "greenhouse",
+      "_token": "groww",
+      "_content": null
+    }
+  },
+  "7fba143247": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10574336",
+      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10574336/software-development-engineer-ii-recipient-experience-recipient-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to influence the experience of millions of customers? Do you want to work in a collaborative environment that impacts products from across the company? The Recipient Experience (REX) team owns"
+    }
+  },
+  "9b4aad50ef": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10573876",
+      "title": "Software Development Engineer-II (SDE 2), Worldwide Returns & ReCommerce - OpsFlow",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10573876/software-development-engineer-ii-sde-2-worldwide-returns-recommerce-opsflow",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers, our company, and the environment. Our goal is to achieve the three zeroes: zero cost of returns,"
+    }
+  },
+  "e05e400b40": {
+    "company": "Netskope",
+    "role_type": "tech",
+    "job": {
+      "id": 8264291,
+      "title": "Software Development Engineer in Test, SASE",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8264291",
+      "_source": "greenhouse",
+      "_token": "netskope",
+      "_content": null
+    }
+  },
+  "bedfcc795c": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Software-Systems-Engineer-1_3168941-1",
+      "title": "Software Systems Engineer 1",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Systems-Engineer-1_3168941-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "37f8f78339": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000476563",
+      "title": "Engineer",
+      "location": {
+        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000476563",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
