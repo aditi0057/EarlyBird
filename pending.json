@@ -1,124 +1,4 @@
 {
-  "6c6f9ac2eb": {
-    "company": "Fampay",
-    "role_type": "fintech",
-    "job": {
-      "id": "9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
-      "title": "SDE 2 Infra",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/fampay/9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
-      "_source": "lever",
-      "_token": "fampay",
-      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout the team\nThe Core Infrastructure team builds the platforms and systems that power everything at Fam, from real-time app experiences to high-volume payments. It operates as a small, high-leverage team with deep ownership. Every service at Fam runs on the platform this team builds, so it cares obsessively about system fundamentals, operational excellence, and mechanical sympathy.\nWhat our systems process\n1 Billion+ API requests per day powering ~10M daily transactions for 10M+ users at 20,000+ RPS.\n470+ node Kubernetes cluster (~2,500 vCPUs and ~8 TiB RAM) under active orchestration.\nDynamic, multi-dimensional auto-scaling powered by 195+ HPAs paired with Karpenter.\n12+ TB of active transactional data (and counting) across our high-throughput database clusters.\nEvent Streaming - 400+ topics, and 3,800+ partitions at ~46,700 messages/sec\nOur Next Chapter\nWhile our core systems already handle massive scale, our next vision as a team is to turn infrastructure into a frictionless platform discipline.\nWe are building towards a world where internal engineering teams consume platform primitives compute, storage, and event streams via self-serve contracts without waiting on us. We're also laying the groundwork for AI-native platform operations, developing agent plane and agent skills so agents can safely interact & operate infrastructure primitives alongside our team. We look to the CNCF landscape for best-in-class tools our systems, with a long-term commitment to contributing back to open source.\n"
-    }
-  },
-  "af1d037f7d": {
-    "company": "Toast",
-    "role_type": "tech",
-    "job": {
-      "id": 8232478,
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://careers.toasttab.com/jobs?gh_jid=8232478",
-      "_source": "greenhouse",
-      "_token": "toast",
-      "_content": null
-    }
-  },
-  "af6f9c7a4e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10566195",
-      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10566195/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever ordered a product from Amazon and been amazed by how fast it gets to you? Every day, Amazon engineers are working relentlessly to make sure that the time from Click to Deliver is as short"
-    }
-  },
-  "88ef0a3bc3": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Managed-Kubernetes_R0000453849",
-      "title": "Sr Engineer - Managed Kubernetes",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Managed-Kubernetes_R0000453849",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "e1073c97fa": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-      "title": "Cloud Software Development Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287692",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
-      "_content": null
-    }
-  },
-  "55e89a8d80": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/AI-Software-Development-Engineer_JR0287693",
-      "title": "AI Software Development Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/AI-Software-Development-Engineer_JR0287693",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
-      "_content": null
-    }
-  },
-  "51c3e1ba6c": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-      "title": "Cloud Software Development Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-Software-Development-Engineer_JR0287694",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
-      "_content": null
-    }
-  },
-  "80b6fc3d8e": {
-    "company": "Workday",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/INDPune/Information-Systems-Software-Application-Engineer_JR-0109365-1",
-      "title": "Information Systems Software Application Engineer",
-      "location": {
-        "name": "IND.Pune"
-      },
-      "absolute_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Information-Systems-Software-Application-Engineer_JR-0109365-1",
-      "_source": "workday",
-      "_token": "workday:wd5:Workday",
-      "_content": null
-    }
-  },
   "183ea77006": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1196,6 +1076,126 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000476563",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "aaa7ca5382": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10574853",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10574853/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Customer Service (CS) is hiring a Software Development Engineer II to join the Associate Experience team. Our organization is at the forefront of customer experience \u2014 seeking to delight our customers"
+    }
+  },
+  "786b7c9524": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10570699",
+      "title": "Software Development Engineer, AWS DynamoDB",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10570699/software-development-engineer-aws-dynamodb",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
+    }
+  },
+  "1883958181": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10574438",
+      "title": "Software Development Engineer II, International Emerging Stores Sub-same Day",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10574438/software-development-engineer-ii-international-emerging-stores-sub-same-day",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to shape how fast Amazon can deliver to hundreds of millions of customers? The Sub-Same-Day (SSD) team builds the technology behind Amazon's fastest delivery promises across India and Emerging"
+    }
+  },
+  "d4b8cbf443": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10511509",
+      "title": "Software Development Engineer II, Amazon Leo",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10511509/software-development-engineer-ii-amazon-leo",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "About Amazon LeoAmazon Leo is Amazon\u2019s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual"
+    }
+  },
+  "5d44df10de": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bangalore/Conversation-AI-Engineer_R172109",
+      "title": "Conversation AI Engineer",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Conversation-AI-Engineer_R172109",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "6cbeab4e3c": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707",
+      "title": "Software Engineering MTS (DevOps Engineer)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "fc0696ff20": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Automation-Test-Engineer-with-Java-Selenium--3-to-6-Years-_JR0310304-1",
+      "title": "Automation Test Engineer with Java Selenium (3 to 6 Years)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Automation-Test-Engineer-with-Java-Selenium--3-to-6-Years-_JR0310304-1",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "7867c70450": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Java-Microservices-Developer--3-to-6-Years_JR0310305",
+      "title": "Java Microservices Developer- 3 to 6 Years",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Java-Microservices-Developer--3-to-6-Years_JR0310305",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
   }
