@@ -1,64 +1,4 @@
 {
-  "183ea77006": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0426054",
-      "title": "GCP Full-Stack Data & AI Engineer, AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/GCP-Data-Engineer--AS_R0426054",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "5f1a323a59": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru---GS-India/Software-Development-Engineering---Sr-Professional-II_R-10401290",
-      "title": "Software Development Engineering - Sr Professional II",
-      "location": {
-        "name": "Bengaluru - GS, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Software-Development-Engineering---Sr-Professional-II_R-10401290",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "1a440a4265": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Job-Title-Software-Engineer-II_R-291718",
-      "title": "Job Title Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Job-Title-Software-Engineer-II_R-291718",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "da012277dc": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Navi-Mumbai-India-Finicity/Software-Engineer-2_R-291365",
-      "title": "Software Engineer-2",
-      "location": {
-        "name": "Navi Mumbai, India (Finicity)"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Software-Engineer-2_R-291365",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "500d5d5855": {
     "company": "FIS",
     "role_type": "fintech",
@@ -1197,6 +1137,66 @@
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
       "_content": null
+    }
+  },
+  "00df6a2f7d": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8861748002,
+      "title": "People Systems Engineer",
+      "location": {
+        "name": "Bangalore, India; Remote, Poland"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "b5a3ec674d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10575325",
+      "title": "Software Development Engineer, FBA Defect Prevention",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10575325/software-development-engineer-fba-defect-prevention",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers"
+    }
+  },
+  "d1b35c98dc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10575322",
+      "title": "Software Development Engineer II, Fulfillment by Amazon (FBA)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10575322/software-development-engineer-ii-fulfillment-by-amazon-fba",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
+    }
+  },
+  "29d853df53": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10575326",
+      "title": "Software Development Engineer, FBA Defect Prevention",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10575326/software-development-engineer-fba-defect-prevention",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers"
     }
   }
 }
