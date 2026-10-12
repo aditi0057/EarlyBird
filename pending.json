@@ -1,139 +1,4 @@
 {
-  "f480ad6f3d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10567650",
-      "title": "Software Development Engineer II, Infrastructure Supply Chain Automation, Infrastructure Supply Chain Automation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10567650/software-development-engineer-ii-infrastructure-supply-chain-automation-infrastructure-supply-chain-automation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers"
-    }
-  },
-  "6f48341721": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10567955",
-      "title": "Software Dev Engineer, Alexa Connections",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10567955/software-dev-engineer-alexa-connections",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent. We're building intelligence that keeps customers connected effortlessly across calls, text, email, and beyond."
-    }
-  },
-  "e41c531833": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Software-Development-Engineer-3---Frontend_R170811",
-      "title": "Software Development Engineer 3 - Frontend",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Frontend_R170811",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "8a16d34e30": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10568477",
-      "title": "Software Development Engineer, AWS DynamoDB",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10568477/software-development-engineer-aws-dynamodb",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
-  "c1dd928e82": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10568545",
-      "title": "Software Dev Engineer, Alexa AI ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10568545/software-dev-engineer-alexa-ai",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Interested in Amazon Alexa, Machine Learning and Artificial Intelligence? We\u2019re building the runtime services that power state of the art Amazon Alexa. Come join us! The Alexa AI org in India is seeking"
-    }
-  },
-  "af5b4923e5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10568413",
-      "title": "Software Development Engineer, Amazon Flex",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10568413/software-development-engineer-amazon-flex",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s Last Mile Technology has the operational focus of providing new and different technologies to solve challenges in the last mile delivery space. We want to ensure a top-in-class customer experience"
-    }
-  },
-  "58efe2b345": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000475528",
-      "title": "Sr Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000475528",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "f0d4a53245": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000475525",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000475525",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "51a975e04b": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453039-1",
-      "title": "Sr Engineer - Target India",
-      "location": {
-        "name": "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000453039-1",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "43fc78b32e": {
     "company": "Target",
     "role_type": "tech",
@@ -1197,6 +1062,141 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf of our selling partners?Fulfillment"
+    }
+  },
+  "c12c418d68": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10575929",
+      "title": "Software Development Engineer - Connectivity, Emerging Device Software",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10575929/software-development-engineer-connectivity-emerging-device-software",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Imagine being part of a team building the future of wearable technology. Amazon is focused on developing devices that seamlessly integrate technology and design into forms that are familiar to millions"
+    }
+  },
+  "7fe06e8838": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10576171",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10576171/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
+    }
+  },
+  "776fa5e421": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10576165",
+      "title": "Software Development Engineer II, Payroll Tech - Xylem",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10576165/software-development-engineer-ii-payroll-tech-xylem",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
+    }
+  },
+  "e14cc385f5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10576078",
+      "title": "Software Dev Engineer II, Connectivity Systems",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10576078/software-dev-engineer-ii-connectivity-systems",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come join the Device connectivity team in building the next generation of innovative wireless solution that create a magical experience on our products and services. The Device connectivity team is seeking"
+    }
+  },
+  "1237670b3a": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Java-full-stack-and-AI--with-Python-_R-292315",
+      "title": "Software Engineer II - Java full stack and AI (with Python)",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-full-stack-and-AI--with-Python-_R-292315",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "260db88153": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
+      "title": "Software Engineer I - Java Backend",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "7a68186268": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-286596-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-286596-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "e53a2f0755": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000439789",
+      "title": "Sr Engineer - Ad Tech",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000439789",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "a0bb72a3ac": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/QA-Automation-Engineer-with-Backend--Database-Testing----Pune_JR0310309",
+      "title": "QA Automation Engineer\u00a0with Backend, Database Testing\u00a0 - Pune",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/QA-Automation-Engineer-with-Backend--Database-Testing----Pune_JR0310309",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
     }
   }
 }
