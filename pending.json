@@ -1,79 +1,4 @@
 {
-  "a15ba671d9": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 8247112,
-      "title": "Software Engineer (L2)",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8247112",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
-  "aee703a421": {
-    "company": "Okta",
-    "role_type": "tech",
-    "job": {
-      "id": 8243101,
-      "title": "Site Reliability Engineer",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
-      "_source": "greenhouse",
-      "_token": "okta",
-      "_content": null
-    }
-  },
-  "d0892781a1": {
-    "company": "Airbnb",
-    "role_type": "tech",
-    "job": {
-      "id": 8245428,
-      "title": "Software Engineer, Guest & Host",
-      "location": {
-        "name": "India "
-      },
-      "absolute_url": "https://careers.airbnb.com/positions/8245428?gh_jid=8245428",
-      "_source": "greenhouse",
-      "_token": "airbnb",
-      "_content": null
-    }
-  },
-  "0bc215cd4c": {
-    "company": "Elastic",
-    "role_type": "tech",
-    "job": {
-      "id": 8247206,
-      "title": "Agentic AI Engineer",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8247206&gh_jid=8247206",
-      "_source": "greenhouse",
-      "_token": "elastic",
-      "_content": null
-    }
-  },
-  "59d6330cdf": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570061",
-      "title": "Software Development Engineer II, EU INTech Partner Growth Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570061/software-development-engineer-ii-eu-intech-partner-growth-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is seeking passionate, talented and inventive Software Development Engineers with a strong development background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission"
-    }
-  },
   "e5c9e03b73": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1121,81 @@
       "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137506-1",
       "_source": "workday",
       "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "67cfde143c": {
+    "company": "Adobe",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
+      "title": "Sr Forward Deployed Engineer",
+      "location": {
+        "name": "Noida"
+      },
+      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
+      "_source": "workday",
+      "_token": "adobe:wd5:external_experienced",
+      "_content": null
+    }
+  },
+  "bfe2956bd1": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Priceless-Engineering-Team_R-289802",
+      "title": "Software Engineer II \u2013 Priceless Engineering Team",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Priceless-Engineering-Team_R-289802",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "c682067bfb": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138297-1",
+      "title": "Sr Software Engineer",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138297-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "786fbdc7a5": {
+    "company": "Workday",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/INDPune/Sr-Software-Application-Engineer_JR-0109519-1",
+      "title": "Sr Software Application Engineer",
+      "location": {
+        "name": "IND.Pune"
+      },
+      "absolute_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Software-Application-Engineer_JR-0109519-1",
+      "_source": "workday",
+      "_token": "workday:wd5:Workday",
+      "_content": null
+    }
+  },
+  "91c1246dde": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer---Java-full-stack-with-React_R-580200-1",
+      "title": "Software Engineer - Java full stack with React",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-full-stack-with-React_R-580200-1",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
     }
   }
