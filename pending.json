@@ -1,64 +1,4 @@
 {
-  "e5c9e03b73": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570060",
-      "title": "Software Development Engineer II, EU INTech Partner Growth Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570060/software-development-engineer-ii-eu-intech-partner-growth-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is seeking passionate, talented and inventive Software Development Engineers with a strong development background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission"
-    }
-  },
-  "ba2181dfb0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570043",
-      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570043/software-development-engineer-ii-int-l-technologyeuregionalfund",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you ready to shape the future of e-commerce in Europe's emerging markets? Join Amazon's EU INTech E3 team as we build the next generation of shopping experiences for millions of customers across Europe.As"
-    }
-  },
-  "94953c74c3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570107",
-      "title": "Software Development Engineer - II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570107/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "b3ccd08469": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bangalore/Software-Development-Engineer-3---Java_R171822",
-      "title": "Software Development Engineer 3 - Java",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-3---Java_R171822",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
   "0bb9949bfa": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-full-stack-with-React_R-580200-1",
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "c16c6784f9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10578008",
+      "title": "Software Dev Engineer II, Amazon India CFX team ",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10578008/software-dev-engineer-ii-amazon-india-cfx-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a passionate, hard-working, and talented Software Development Engineer who can build innovative & mission critical system software applications & tools. (Experience 4 to 8 years) You"
+    }
+  },
+  "6e00f39f33": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10578193",
+      "title": "Software Development Engineer, SW-Device OS",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10578193/software-development-engineer-sw-device-os",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
+    }
+  },
+  "1f7bd88136": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10578274",
+      "title": "Software Development Engineer II, Amazon Health Wellness And Subscriptions",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10578274/software-development-engineer-ii-amazon-health-wellness-and-subscriptions",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are spearheading the development of India-centric technology aimed at revolutionizing the Health, Wellness, Subscriptions in India. This presents a rare opportunity to work on pioneering projects with"
+    }
+  },
+  "01de1353cf": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 8016881003,
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/8016881003?gh_jid=8016881003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
       "_content": null
     }
   }
