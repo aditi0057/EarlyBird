@@ -1,109 +1,4 @@
 {
-  "0bb9949bfa": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-290866-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290866-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "2ffa6d1bff": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8256407,
-      "title": "Software Engineer- SaaS O365",
-      "location": {
-        "name": "Bangalore "
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "e1b26dd1a0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570248",
-      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570248/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
-    }
-  },
-  "9676fcac38": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570198",
-      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570198/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
-    }
-  },
-  "2376e9af90": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570197",
-      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570197/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Fulfillment Technologies (AFT) powers the physical engine at the heart of Amazon \u2014 magically turning your click of a button into packages at your door. Within AFT, the Labor Insights team builds"
-    }
-  },
-  "673f60cc59": {
-    "company": "Citi",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417",
-      "title": "Intermediate Software Engineer \u2013 Data Application Developer",
-      "location": {
-        "name": "Chennai Tamil Nadu India"
-      },
-      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Intermediate-Software-Engineer---Data-Application-Developer_26996417",
-      "_source": "workday",
-      "_token": "citi:wd5:2",
-      "_content": null
-    }
-  },
-  "1b0d88a601": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Quality-Assurance-Engineer--Associate_R266463",
-      "title": "Quality Assurance Engineer, Associate",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Quality-Assurance-Engineer--Associate_R266463",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
   "fb4e3bcaec": {
     "company": "Workday",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://abnormal.ai/careers/jobs/8016881003?gh_jid=8016881003",
       "_source": "greenhouse",
       "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "4052f2900f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10578772",
+      "title": "Software Development Engineer, Fire Tablet",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for passionate, hard-working, and talented Software Engineers who has experience in building innovative, mission critical, high volume applications & services. You will have an enormous"
+    }
+  },
+  "7fb88f384f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10578602",
+      "title": "Software Development Engineer, AI Trust & Innovation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10578602/software-development-engineer-ai-trust-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "About the TeamAmazon's Devices & Services Trust CX Innovations team is building the future of responsible AI for consumer devices. We deliver privacy-first, accessible, and trustworthy AI experiences that"
+    }
+  },
+  "969b1d2e87": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893",
+      "title": "Software Engineering PMTS - Backend Distributed Systems - Cloud Infrastructure",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "8b8ad6e2b5": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer_R-290463",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-290463",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "21e204d3dc": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer--DevSecOps-_R-289609-1",
+      "title": "Software Engineer (DevSecOps)",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer--DevSecOps-_R-289609-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "396bfd3c94": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer_R0000477032",
+      "title": "Sr Engineer",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000477032",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "fc8253f493": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
+      "title": "Software Development Engineering - Sr Professional II",
+      "location": {
+        "name": "Chennai, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
