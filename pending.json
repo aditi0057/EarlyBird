@@ -1,154 +1,4 @@
 {
-  "06043325dc": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/System-and-Software-Optimization-Engineer_JR0287295",
-      "title": "System and Software Optimization Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/System-and-Software-Optimization-Engineer_JR0287295",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
-      "_content": null
-    }
-  },
-  "bece2b5d92": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10572202",
-      "title": "Software Development Engineer, Last Mile Platform Services, SDE",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10572202/software-development-engineer-last-mile-platform-services-sde",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to build impactful mobile software building blocks that empowers hundreds of engineers build and ship new delightful features every day? Our team is responsible for creating the best delivery"
-    }
-  },
-  "f803dcb0de": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571791",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571791/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
-    }
-  },
-  "c522b4d24d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571784",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571784/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
-    }
-  },
-  "8d95aa3e13": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571793",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571793/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
-    }
-  },
-  "33747c51d3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571786",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571786/software-development-engineer",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon built world-class finance and accounting machinery to run its own business at scale. Finance as a Service (FaaS) is turning that machinery into a product: end-to-end back-office finance and accounting,"
-    }
-  },
-  "7788b5109e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10572015",
-      "title": "Software Development Engineer, Amazon",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10572015/software-development-engineer-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
-    }
-  },
-  "d5df44a661": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571633",
-      "title": "Software Development Engineer, CAM",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571633/software-development-engineer-cam",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
-    }
-  },
-  "40ce5965af": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Mgr--Software-Development_R172270",
-      "title": "Mgr, Software Development",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Mgr--Software-Development_R172270",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "c2e394daba": {
-    "company": "Intel",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-      "title": "GPU Software Development Engineer",
-      "location": {
-        "name": "India, Bangalore"
-      },
-      "absolute_url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/GPU-Software-Development-Engineer_JR0287726",
-      "_source": "workday",
-      "_token": "intel:wd1:External",
-      "_content": null
-    }
-  },
   "650c7a4c50": {
     "company": "Wells Fargo",
     "role_type": "fintech",
@@ -1197,6 +1047,156 @@
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
       "_content": null
+    }
+  },
+  "42de3935cc": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5233062007,
+      "title": "Sr. Software Development Engineer",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5233062007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "761e1ffc88": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8867649002,
+      "title": "Threat Research Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "f776d2e5fe": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580070",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580070/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "138501391b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580072",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580072/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "f236f4c4d9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580066",
+      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580066/software-development-engineer-ii-amazon-finauto-travel-events",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
+    }
+  },
+  "560f7632e5": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10579742",
+      "title": "Sr Software Engineer, Amazon Now ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10579742/sr-software-engineer-amazon-now",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is building India's Quick Commerce offering \u2014 Amazon Now \u2014 delivering everyday essentials to customers in minutes. We build world-class technology that powers store launches at scale, curates hyper-local"
+    }
+  },
+  "eea61e67e3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580014",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
+    }
+  },
+  "1bc5b6bd95": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580008",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
+    }
+  },
+  "3e21674d9e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580007",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580007/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
+    }
+  },
+  "c3266c477f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580010",
+      "title": "Software Development Engineer I FTC",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
     }
   }
 }
