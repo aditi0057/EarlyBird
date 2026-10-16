@@ -1,124 +1,4 @@
 {
-  "650c7a4c50": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---C---NET--and-ASPNET-Core_R-579867",
-      "title": "Software Engineer - C#, .NET, and ASP.NET Core",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---C---NET--and-ASPNET-Core_R-579867",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "e96fd8c673": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 7955594002,
-      "title": "Software Engineer (Backend - SDE 2)",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
-  "d0d39bc8a0": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Advisor--Systems-Engineering--DevOps-Engineer-_R-10392182",
-      "title": "Advisor, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Systems-Engineering--DevOps-Engineer-_R-10392182",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "96ad935dea": {
-    "company": "Twilio",
-    "role_type": "tech",
-    "job": {
-      "id": 8258587,
-      "title": "Machine Learning Engineer (L3)",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-      "_source": "greenhouse",
-      "_token": "twilio",
-      "_content": null
-    }
-  },
-  "a28264c30b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10573207",
-      "title": "Software Development Engineer-II, Amazon Smart Vehicles",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10573207/software-development-engineer-ii-amazon-smart-vehicles",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you have a passion for Automotive? Do you want to challenge the status quo of the in-car experience? Do you want to take on very ambiguous problems? If you answered yes to these questions, we have a"
-    }
-  },
-  "6718a14f7c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10573554",
-      "title": "Software Development Engineer- II, Amazon Autos",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10573554/software-development-engineer-ii-amazon-autos",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We're on a journey to build something exciting on a green field project - Amazon Autos! We're looking for a talented Software Development Engineer to join our team of product managers, designers, and engineers"
-    }
-  },
-  "7b15a193e4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10573003",
-      "title": "Software Development Engineer, Amazon",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10573003/software-development-engineer-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Purchase Experience team is seeking a full stack software development engineer with a passion for engineering excellence. We offer you the opportunity to deliver and lead high visibility & high-impact"
-    }
-  },
-  "429b27049a": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Velankani-ISC/Backend-Developer--AVP_R0449344",
-      "title": "Backend Developer, AVP",
-      "location": {
-        "name": "Bangalore Velankani ISC"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-ISC/Backend-Developer--AVP_R0449344",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
   "c7535042ba": {
     "company": "Databricks",
     "role_type": "data",
@@ -1197,6 +1077,126 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
+    }
+  },
+  "b00c16fa83": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580009",
+      "title": "Software Development Engineer I FTC",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
+    }
+  },
+  "b4b3b93f6e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580013",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
+    }
+  },
+  "85eef65ae2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580011",
+      "title": "Software Development Engineer I",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
+    }
+  },
+  "2e9602f811": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10581088",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you an innovative and accomplished professional seeking for a role with a significant impact and growth? Amazon is looking for a dynamic Software Development Engineer to join our core team in the Books"
+    }
+  },
+  "0efcfb3167": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10571940",
+      "title": "Software Development Engineer, Returns and Recommerce",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10571940/software-development-engineer-returns-and-recommerce",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
+    }
+  },
+  "b08a560b43": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-290039",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290039",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "ae686d5d29": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
+      "title": "Associate, Data Engineer Workplace Data & Insights",
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "243adc0e51": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/AI-Application-Support---Enablement-Engineer--Analyst_R0435036-1",
+      "title": "Automation Tester / SDET (Software Development Engineer in Test)",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Application-Support---Enablement-Engineer--Analyst_R0435036-1",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
     }
   }
 }
