@@ -1,19 +1,4 @@
 {
-  "786b7c9524": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10570699",
-      "title": "Software Development Engineer, AWS DynamoDB",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10570699/software-development-engineer-aws-dynamodb",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Utility Computing (UC) provides product innovations \u2014 from foundational services such as Amazon\u2019s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product"
-    }
-  },
   "1883958181": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
       "_content": null
+    }
+  },
+  "8e7bac1e86": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10582077",
+      "title": "Software Development Engineer, Customer Experience and Business Trends",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10582077/software-development-engineer-customer-experience-and-business-trends",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
     }
   }
 }
