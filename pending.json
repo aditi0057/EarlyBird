@@ -1,94 +1,4 @@
 {
-  "1883958181": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10574438",
-      "title": "Software Development Engineer II, International Emerging Stores Sub-same Day",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10574438/software-development-engineer-ii-international-emerging-stores-sub-same-day",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to shape how fast Amazon can deliver to hundreds of millions of customers? The Sub-Same-Day (SSD) team builds the technology behind Amazon's fastest delivery promises across India and Emerging"
-    }
-  },
-  "d4b8cbf443": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10511509",
-      "title": "Software Development Engineer II, Amazon Leo",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10511509/software-development-engineer-ii-amazon-leo",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "About Amazon LeoAmazon Leo is Amazon\u2019s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual"
-    }
-  },
-  "5d44df10de": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bangalore/Conversation-AI-Engineer_R172109",
-      "title": "Conversation AI Engineer",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Conversation-AI-Engineer_R172109",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
-  "6cbeab4e3c": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707",
-      "title": "Software Engineering MTS (DevOps Engineer)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "fc0696ff20": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Automation-Test-Engineer-with-Java-Selenium--3-to-6-Years-_JR0310304-1",
-      "title": "Automation Test Engineer with Java Selenium (3 to 6 Years)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Automation-Test-Engineer-with-Java-Selenium--3-to-6-Years-_JR0310304-1",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "7867c70450": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Java-Microservices-Developer--3-to-6-Years_JR0310305",
-      "title": "Java Microservices Developer- 3 to 6 Years",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Java-Microservices-Developer--3-to-6-Years_JR0310305",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
   "00df6a2f7d": {
     "company": "GitLab",
     "role_type": "tech",
@@ -1197,6 +1107,96 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
+    }
+  },
+  "8fad35a655": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8876613002,
+      "title": "Forward Deployed Engineer, FDE (L4)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "bed77feba0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10582204",
+      "title": "Software Dev Engineer II, Mesa",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10582204/software-dev-engineer-ii-mesa",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come help Amazon Books create and deploy the technology that gets every book, audiobook, and digital title in front of readers around the world. As a Software Development Engineer (SDE), you will be instrumental"
+    }
+  },
+  "58b27dce15": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Pune-IND/Software-Engineer--Java-AWS-_26WD99679-1",
+      "title": "Software Engineer (Java, AWS)",
+      "location": {
+        "name": "Pune, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java-AWS-_26WD99679-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "c35644d34c": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer-TP_R0000476594",
+      "title": "Sr Engineer TP",
+      "location": {
+        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer-TP_R0000476594",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "7ac56cb09a": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer_R0000477711",
+      "title": "Sr Engineer",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000477711",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "7ba0ac2949": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Sr-Engineer---Target-India_R0000476633",
+      "title": "Sr. Engineer - Target India",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000476633",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
     }
   }
 }
