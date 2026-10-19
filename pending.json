@@ -1,49 +1,4 @@
 {
-  "00df6a2f7d": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8861748002,
-      "title": "People Systems Engineer",
-      "location": {
-        "name": "Bangalore, India; Remote, Poland"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "b5a3ec674d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10575325",
-      "title": "Software Development Engineer, FBA Defect Prevention",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10575325/software-development-engineer-fba-defect-prevention",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers"
-    }
-  },
-  "d1b35c98dc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10575322",
-      "title": "Software Development Engineer II, Fulfillment by Amazon (FBA)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10575322/software-development-engineer-ii-fulfillment-by-amazon-fba",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "READY TO DO SOMETHING BIG?How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf"
-    }
-  },
   "29d853df53": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1151,51 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000476633",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "7e8c13ba06": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10582579",
+      "title": "Software Development Engineer, CAM",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10582579/software-development-engineer-cam",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
+    }
+  },
+  "8274f48235": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10582690",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10582690/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "cb15594d8f": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1",
+      "title": "Sr Software Engineer - Python",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
       "_content": null
     }
   }
