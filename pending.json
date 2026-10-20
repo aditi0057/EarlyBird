@@ -1,19 +1,4 @@
 {
-  "f7648b2d37": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 8516112002,
-      "title": "Sr. AI Engineer, AI FDE",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
   "123d4e2d1f": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1181,21 @@
       "absolute_url": "https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003",
       "_source": "greenhouse",
       "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "24f8d0fcaf": {
+    "company": "Stripe",
+    "role_type": "fintech",
+    "job": {
+      "id": 8185012,
+      "title": "Software Engineer, Payin",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8185012",
+      "_source": "greenhouse",
+      "_token": "stripe",
       "_content": null
     }
   }
