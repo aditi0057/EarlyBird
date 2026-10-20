@@ -1,19 +1,4 @@
 {
-  "29d853df53": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10575326",
-      "title": "Software Development Engineer, FBA Defect Prevention",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10575326/software-development-engineer-fba-defect-prevention",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join a new team and make a huge difference for Amazon, our sellers, and our supply chain. We are the team that deals with the exceptions to the exceptions in a complex process, saving Amazon and our sellers"
-    }
-  },
   "f7648b2d37": {
     "company": "Databricks",
     "role_type": "data",
@@ -1196,6 +1181,21 @@
       "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1",
       "_source": "workday",
       "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "8e345e45fd": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 8016870003,
+      "title": "Software Engineer 1 - Platform & Infrastructure",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
       "_content": null
     }
   }
