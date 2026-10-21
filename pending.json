@@ -1,34 +1,4 @@
 {
-  "a0bb72a3ac": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/QA-Automation-Engineer-with-Backend--Database-Testing----Pune_JR0310309",
-      "title": "QA Automation Engineer\u00a0with Backend, Database Testing\u00a0 - Pune",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/QA-Automation-Engineer-with-Backend--Database-Testing----Pune_JR0310309",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "54de8e4e4f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576701",
-      "title": "Software Development Engineer III, Selling Partner Identity Verification",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576701/software-development-engineer-iii-selling-partner-identity-verification",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Parter Identity Verifcation operates at the core of Amazon's marketplace security infrastructure, implementing complex distributed systems that ensure marketplace compliance and seller authenticity."
-    }
-  },
   "8bb07cdf41": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1167,36 @@
       "_source": "ashby",
       "_token": "hackerone",
       "_content": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com http://Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner\u2019s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\n\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional \u2013 it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world\u2019s top organizations.\n\n\n\nHackerOne Values\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is Customer Obsessed and prioritizes customer outcomes in our decisions and actions. We Default to Disclosure by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners Win Together by fostering empowerment, inclusion, respect, and accountability.\n\n\n\n\nAPPLICATION ENGINEER, GTM SYSTEMS\n\n\nLOCATION: PUNE, INDIA\n\n\nWORKING MODEL : IN-OFFICE\n\n\nWORKING TIME : UK SHIFT\n\n\n\n\nPOSITION SUMMARY\n\nAs part of HackerOne's Go-to-Market Operations team , the Application Engineer, GTM Systems will help design, build, and support the systems that power how our Go-to-Market (GTM) teams operate. You'll focus on hands-on development and integration across our Salesforce ecosystem and connected applications, enabling our Sales, Marketing, and Customer Success teams to work more efficiently.\n\nIn this role, you'll apply an AI-Native mindset to automate workflows and simplify complexity in our revenue processes. You will collaborate with system owners and stakeholders across RevOps, Finance, and Marketing to deliver reliable solutions that keep our GTM engine running. Your day-to-day work centers on building, configuring, troubleshooting, and improving the systems our teams depend on.\n\nAs we open our new office in Pune, India, we're excited to welcome team members who value in-person connection, collaboration, and shared purpose. All roles in Pune are hybrid by design; remote options are not available. As a fully integrated part of HackerOne's global team, the Pune office will play a meaningful role in advancing our culture and mission. At HackerOne, we Win Together, and our Pune team will help lead the way by shaping a dynamic, in-person culture rooted in purpose and partnership.\n\n\n\n\nWHAT YOU WILL DO\n\nSuccess in this role will be achieved by delivering on the responsibilities below, aligned with HackerOne's Talent Principles \u2014 AI-Native, Change Agility, Data-Driven Decision Making, and First Principles Problem Solving:\n\n - Develop and maintain Salesforce applications \u2013 Configure and support Salesforce Sales Cloud, Salesforce CPQ, and related GTM applications. Execute technical builds that solve defined business problems and maintain system reliability and data integrity.\n\n - Build and support integrations \u2013 Develop integrations across systems like Luminance, Slack, Marketo, 6sense, and data enrichment tools using APIs and automation platforms such as Workato. Troubleshoot integration issues and resolve data flow problems with minimal escalation.\n\n - Identify and implement automation opportunities \u2013 Work with GTM and business stakeholders to find ways to reduce manual work and improve accuracy through process automation and AI-enabled insights. Stay current on relevant Salesforce, automation, and AI trends, and share wins and learnings with peers.\n\n - Manage system changes with stability in mind \u2013 Adapt to changing business priorities while maintaining system stability and data integrity. Communicate blockers early and escalate only highly complex or ambiguous issues.\n\n - Troubleshoot and document solutions \u2013 Perform root-cause analysis on system issues, create documentation and playbooks for sustainable support, and help peers understand how to avoid or resolve common problems.\n\n - Collaborate on requirements and delivery \u2013 Work with cross-functional teams to understand business requirements, translate them into technical designs, and deliver solutions within defined scope and timelines.\n\n - Support testing, deployment, and release cycles \u2013 Participate in testing validation, manage deployments, and ensure changes are properly documented and communicated to stakeholders.\n\n\n\n\nMINIMUM QUALIFICATIONS\n\n - 3+ years of experience in Salesforce or GTM systems engineering, administration, or development roles.\n\n - Hands-on experience with Salesforce Sales Cloud, Salesforce CPQ, and platform automation (Flows, Apex, SOQL, Workato, or equivalent).\n\n - Experience building and maintaining GTM system integrations across tools such as Luminance, Slack, Marketo, 6sense, or data enrichment platforms.\n\n - Strong understanding of data models and APIs in the context of sales, marketing, and customer success processes.\n   \n   \n\n\nPREFERRED QUALIFICATIONS\n\n - Salesforce Administrator or Platform Developer certification(s).\n\n - Experience with workflow automation tools that improve efficiency and reduce manual effort.\n\n - Familiarity with modern data visualization or analytics tools (e.g., Looker).\n\n - Exposure to REST APIs, middleware, or integration frameworks such as Workato or Fivetran.\n   \n   \n\n\nCOMPENSATION BAND :\n\nINR 2,320,000 - 2,610,000 LPA\n\n\n\n\nJOB BENEFITS:\n\n - Health (medical, vision, dental), life, and disability insurance*\n\n - Equity stock options\n\n - Retirement plans\n\n - Paid public holidays and unlimited PTO\n\n - Paid maternity and parental leave\n\n - Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n\n - Employee Assistance Program\n\n*Eligibility may differ by country\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com https://remote.com/preemployment-faq as our Employer of Record (EOR).\n\n\n\nVisa/work permit sponsorship is not available. \n\n\n\nEmployment at HackerOne is contingent on a background check.\n\n\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\n\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\n\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position."
+    }
+  },
+  "8cb8eb8cc2": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8282005,
+      "title": "Software Engineer Product Infra: Core Services",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "68a196adc2": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Data-Engineer-II_R-293802",
+      "title": "Data Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-293802",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
     }
   }
 }
