@@ -1,139 +1,4 @@
 {
-  "123d4e2d1f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10575464",
-      "title": "Software Development Engineer II, FBA Placement",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10575464/software-development-engineer-ii-fba-placement",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "How would you build the next generation of mission critical systems and services that power the ability to send, store and manage billions of products across the globe on behalf of our selling partners?Fulfillment"
-    }
-  },
-  "c12c418d68": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10575929",
-      "title": "Software Development Engineer - Connectivity, Emerging Device Software",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10575929/software-development-engineer-connectivity-emerging-device-software",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Imagine being part of a team building the future of wearable technology. Amazon is focused on developing devices that seamlessly integrate technology and design into forms that are familiar to millions"
-    }
-  },
-  "7fe06e8838": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576171",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576171/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
-    }
-  },
-  "776fa5e421": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576165",
-      "title": "Software Development Engineer II, Payroll Tech - Xylem",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576165/software-development-engineer-ii-payroll-tech-xylem",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
-    }
-  },
-  "e14cc385f5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576078",
-      "title": "Software Dev Engineer II, Connectivity Systems",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576078/software-dev-engineer-ii-connectivity-systems",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Come join the Device connectivity team in building the next generation of innovative wireless solution that create a magical experience on our products and services. The Device connectivity team is seeking"
-    }
-  },
-  "1237670b3a": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Java-full-stack-and-AI--with-Python-_R-292315",
-      "title": "Software Engineer II - Java full stack and AI (with Python)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-full-stack-and-AI--with-Python-_R-292315",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "260db88153": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
-      "title": "Software Engineer I - Java Backend",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "7a68186268": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-286596-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-286596-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "e53a2f0755": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000439789",
-      "title": "Sr Engineer - Ad Tech",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Ad-Tech_R0000439789",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "a0bb72a3ac": {
     "company": "FIS",
     "role_type": "fintech",
@@ -1197,6 +1062,141 @@
       "_source": "greenhouse",
       "_token": "stripe",
       "_content": null
+    }
+  },
+  "5682c7f013": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10584606",
+      "title": "Software Development Engineer, WWRR Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10584606/software-development-engineer-wwrr-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers, our company, and the environment. Our goal is to achieve the three zeroes: zero cost of returns,"
+    }
+  },
+  "5265e695b9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10584599",
+      "title": "Software Development Engineer, WW Returns and Recommerce",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10584599/software-development-engineer-ww-returns-and-recommerce",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
+    }
+  },
+  "ae1e5e63a8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10584598",
+      "title": "Software Development Engineer, WW Returns and ReCommerce",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10584598/software-development-engineer-ww-returns-and-recommerce",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
+    }
+  },
+  "bda09808a4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10584602",
+      "title": "Software Development Engineer, WW Returns and Recommerce",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10584602/software-development-engineer-ww-returns-and-recommerce",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
+    }
+  },
+  "b3c84634ed": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10584600",
+      "title": "Software Development Engineer, WW Returns and Recommerce",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10584600/software-development-engineer-ww-returns-and-recommerce",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
+    }
+  },
+  "cdcb715db1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10583550",
+      "title": "Software Development Engineer II, FinTech Account Receivables Cash Applications",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10583550/software-development-engineer-ii-fintech-account-receivables-cash-applications",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable Artificial Intelligence (AI) based Financial systems that support Amazon's current and future growth? Are you looking to partner with"
+    }
+  },
+  "d1218a7dd6": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-293121",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293121",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "2de2c9db8e": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5444781008,
+      "title": "Software Engineer 1",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5444781008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "5273ee35ea": {
+    "company": "HackerOne",
+    "role_type": "tech",
+    "job": {
+      "id": "f323570e-5924-4502-8344-e75beddf1c29",
+      "title": "Applications Engineer, GTM Systems",
+      "location": {
+        "name": "Pune"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/hackerone/f323570e-5924-4502-8344-e75beddf1c29",
+      "_source": "ashby",
+      "_token": "hackerone",
+      "_content": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous reduction of cyber risk for enterprises. Industry leaders, including Anthropic, Crypto.com http://Crypto.com, General Motors, Goldman Sachs, Lufthansa, Uber, UK Ministry of Defence, and the U.S. Department of Defense, trust HackerOne to safeguard their digital ecosystems. HackerOne was recognized in Gartner\u2019s Emerging Tech Impact Radar: AI Cybersecurity Ecosystem report for its leadership in AI Security Testing and has been named a Most Loved Workplace for Young Professionals (2024).\n\n\n\nHackerOne is at a pivotal inflection point in the security industry. Offensive security is no longer optional \u2013 it is the standard for forward-thinking companies that want to build trust and resilience in a world where AI-driven innovation and adversaries are moving faster than ever. With the industry shifting, HackerOne stands apart: we combine the ingenuity of the largest security research community with a best-in-class AI-powered platform, trusted by the world\u2019s top organizations.\n\n\n\nHackerOne Values\n\nHackerOne is dedicated to fostering a strong and inclusive culture. HackerOne is Customer Obsessed and prioritizes customer outcomes in our decisions and actions. We Default to Disclosure by operating with transparency and integrity, ensuring trust and accountability. Employees, researchers, customers, and partners Win Together by fostering empowerment, inclusion, respect, and accountability.\n\n\n\n\nAPPLICATION ENGINEER, GTM SYSTEMS\n\n\nLOCATION: PUNE, INDIA\n\n\nWORKING MODEL : IN-OFFICE\n\n\nWORKING TIME : UK SHIFT\n\n\n\n\nPOSITION SUMMARY\n\nAs part of HackerOne's Go-to-Market Operations team , the Application Engineer, GTM Systems will help design, build, and support the systems that power how our Go-to-Market (GTM) teams operate. You'll focus on hands-on development and integration across our Salesforce ecosystem and connected applications, enabling our Sales, Marketing, and Customer Success teams to work more efficiently.\n\nIn this role, you'll apply an AI-Native mindset to automate workflows and simplify complexity in our revenue processes. You will collaborate with system owners and stakeholders across RevOps, Finance, and Marketing to deliver reliable solutions that keep our GTM engine running. Your day-to-day work centers on building, configuring, troubleshooting, and improving the systems our teams depend on.\n\nAs we open our new office in Pune, India, we're excited to welcome team members who value in-person connection, collaboration, and shared purpose. All roles in Pune are hybrid by design; remote options are not available. As a fully integrated part of HackerOne's global team, the Pune office will play a meaningful role in advancing our culture and mission. At HackerOne, we Win Together, and our Pune team will help lead the way by shaping a dynamic, in-person culture rooted in purpose and partnership.\n\n\n\n\nWHAT YOU WILL DO\n\nSuccess in this role will be achieved by delivering on the responsibilities below, aligned with HackerOne's Talent Principles \u2014 AI-Native, Change Agility, Data-Driven Decision Making, and First Principles Problem Solving:\n\n - Develop and maintain Salesforce applications \u2013 Configure and support Salesforce Sales Cloud, Salesforce CPQ, and related GTM applications. Execute technical builds that solve defined business problems and maintain system reliability and data integrity.\n\n - Build and support integrations \u2013 Develop integrations across systems like Luminance, Slack, Marketo, 6sense, and data enrichment tools using APIs and automation platforms such as Workato. Troubleshoot integration issues and resolve data flow problems with minimal escalation.\n\n - Identify and implement automation opportunities \u2013 Work with GTM and business stakeholders to find ways to reduce manual work and improve accuracy through process automation and AI-enabled insights. Stay current on relevant Salesforce, automation, and AI trends, and share wins and learnings with peers.\n\n - Manage system changes with stability in mind \u2013 Adapt to changing business priorities while maintaining system stability and data integrity. Communicate blockers early and escalate only highly complex or ambiguous issues.\n\n - Troubleshoot and document solutions \u2013 Perform root-cause analysis on system issues, create documentation and playbooks for sustainable support, and help peers understand how to avoid or resolve common problems.\n\n - Collaborate on requirements and delivery \u2013 Work with cross-functional teams to understand business requirements, translate them into technical designs, and deliver solutions within defined scope and timelines.\n\n - Support testing, deployment, and release cycles \u2013 Participate in testing validation, manage deployments, and ensure changes are properly documented and communicated to stakeholders.\n\n\n\n\nMINIMUM QUALIFICATIONS\n\n - 3+ years of experience in Salesforce or GTM systems engineering, administration, or development roles.\n\n - Hands-on experience with Salesforce Sales Cloud, Salesforce CPQ, and platform automation (Flows, Apex, SOQL, Workato, or equivalent).\n\n - Experience building and maintaining GTM system integrations across tools such as Luminance, Slack, Marketo, 6sense, or data enrichment platforms.\n\n - Strong understanding of data models and APIs in the context of sales, marketing, and customer success processes.\n   \n   \n\n\nPREFERRED QUALIFICATIONS\n\n - Salesforce Administrator or Platform Developer certification(s).\n\n - Experience with workflow automation tools that improve efficiency and reduce manual effort.\n\n - Familiarity with modern data visualization or analytics tools (e.g., Looker).\n\n - Exposure to REST APIs, middleware, or integration frameworks such as Workato or Fivetran.\n   \n   \n\n\nCOMPENSATION BAND :\n\nINR 2,320,000 - 2,610,000 LPA\n\n\n\n\nJOB BENEFITS:\n\n - Health (medical, vision, dental), life, and disability insurance*\n\n - Equity stock options\n\n - Retirement plans\n\n - Paid public holidays and unlimited PTO\n\n - Paid maternity and parental leave\n\n - Leaves of absence (including caregiver leave and leave under CO's Healthy Families and Workplaces Act)\n\n - Employee Assistance Program\n\n*Eligibility may differ by country\n\nWe're committed to building a global team! For certain roles outside the United States, India, the U.K., and the Netherlands, we partner with Remote.com https://remote.com/preemployment-faq as our Employer of Record (EOR).\n\n\n\nVisa/work permit sponsorship is not available. \n\n\n\nEmployment at HackerOne is contingent on a background check.\n\n\n\nHackerOne is an Equal Opportunity Employer in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, pregnancy, disability or veteran status, or any other protected characteristic as outlined by international, federal, state, or local laws.\n\n\n\nThis policy applies to all HackerOne employment practices, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. HackerOne makes hiring decisions based solely on qualifications, merit, and business needs at the time.\n\n\n\nFor US based roles only: Pursuant to the San Francisco Fair Chance Ordinance, all qualified applicants with arrest and conviction records will be considered for the position."
     }
   }
 }
