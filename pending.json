@@ -1,79 +1,4 @@
 {
-  "bfe2956bd1": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Priceless-Engineering-Team_R-289802",
-      "title": "Software Engineer II \u2013 Priceless Engineering Team",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Priceless-Engineering-Team_R-289802",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "c682067bfb": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138297-1",
-      "title": "Sr Software Engineer",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138297-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "786fbdc7a5": {
-    "company": "Workday",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/INDPune/Sr-Software-Application-Engineer_JR-0109519-1",
-      "title": "Sr Software Application Engineer",
-      "location": {
-        "name": "IND.Pune"
-      },
-      "absolute_url": "https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Software-Application-Engineer_JR-0109519-1",
-      "_source": "workday",
-      "_token": "workday:wd5:Workday",
-      "_content": null
-    }
-  },
-  "91c1246dde": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---Java-full-stack-with-React_R-580200-1",
-      "title": "Software Engineer - Java full stack with React",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-full-stack-with-React_R-580200-1",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "c16c6784f9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10578008",
-      "title": "Software Dev Engineer II, Amazon India CFX team ",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10578008/software-dev-engineer-ii-amazon-india-cfx-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a passionate, hard-working, and talented Software Development Engineer who can build innovative & mission critical system software applications & tools. (Experience 4 to 8 years) You"
-    }
-  },
   "6e00f39f33": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
+    }
+  },
+  "76507a8e1e": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5263563007,
+      "title": "Escalation Engineer",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5263563007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "09068eda1d": {
+    "company": "Fampay",
+    "role_type": "fintech",
+    "job": {
+      "id": "8b4517b2-b038-4f57-b7ef-d2cc8ee588f7",
+      "title": "QA Engineer- 1",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/fampay/8b4517b2-b038-4f57-b7ef-d2cc8ee588f7",
+      "_source": "lever",
+      "_token": "fampay",
+      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout this Role\n\u00a0\nOur team is looking for builders of the 1st order, who are detail oriented and passionate about the quality and is enthusiastic about the new cutting edge technologies offered to users. An anti-OK approach. You hate good enough. You understand that an OK service and an OK experience may lead to customer satisfaction, but that\u2019s never enough. Instead, you focus on exceeding expectations and delivering experiences that breed customer loyalty. When it breaks, they cannot sleep without finding that pesky little condition in some forgotten corner.\n\u00a0\nLet's get on the ship together?\u00a0\n\u00a0\n"
+    }
+  },
+  "b2fbf869ed": {
+    "company": "Airbnb",
+    "role_type": "tech",
+    "job": {
+      "id": 8312713,
+      "title": "Systems Engineer, Tech Foundations (Jira cloud)",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
+      "_source": "greenhouse",
+      "_token": "airbnb",
+      "_content": null
+    }
+  },
+  "f0fb2849f4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10582086",
+      "title": "Software Development Engineer II , DA FRK ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10582086/software-development-engineer-ii-da-frk",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited about building distributed systems with really challenging mix of requirements on availability, latency and consistency? Are you someone who enjoys the challenge of figuring out scalable"
+    }
+  },
+  "98ce8b48e2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10586124",
+      "title": "Software Development Engineer, Ship With Amazon",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10586124/software-development-engineer-ship-with-amazon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon\u2019s global fulfillment network enables any merchant to ship items that are ordered on Amazon to any place on earth. There is a complex network of ways in which items move between vendor locations,"
     }
   }
 }
