@@ -1,94 +1,4 @@
 {
-  "8bb07cdf41": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576700",
-      "title": "Software Development Engineer - II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576700/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "eee67b25e1": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10576699",
-      "title": "Software Development Engineer - II",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10576699/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Selling Partner Identity Verification (SPIV) team ensures that Amazon is a safe and trustworthy place to shop and an amazing place to build a successful business selling products. We support this mission"
-    }
-  },
-  "7d768304f3": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer_R-293367",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-293367",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "e852c7f622": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-I_R-292435",
-      "title": "Software Engineer I",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-292435",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "4555d9954c": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137506-1",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137506-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "67cfde143c": {
-    "company": "Adobe",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
-      "title": "Sr Forward Deployed Engineer",
-      "location": {
-        "name": "Noida"
-      },
-      "absolute_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Forward-Deployed-Engineer_R172762",
-      "_source": "workday",
-      "_token": "adobe:wd5:external_experienced",
-      "_content": null
-    }
-  },
   "bfe2956bd1": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1194,6 +1104,96 @@
         "name": "Pune, India"
       },
       "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-293802",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "d788476882": {
+    "company": "SumoLogic",
+    "role_type": "tech",
+    "job": {
+      "id": 8305995,
+      "title": "Technical Account Engineer I",
+      "location": {
+        "name": "Noida, Uttar Pradesh, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8305995",
+      "_source": "greenhouse",
+      "_token": "sumologic",
+      "_content": null
+    }
+  },
+  "9b059c63b1": {
+    "company": "SumoLogic",
+    "role_type": "tech",
+    "job": {
+      "id": 8305881,
+      "title": "Technical Account Engineer I",
+      "location": {
+        "name": "Noida, Uttar Pradesh, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8305881",
+      "_source": "greenhouse",
+      "_token": "sumologic",
+      "_content": null
+    }
+  },
+  "1dd62d4764": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10585995",
+      "title": "Software Development Engineer II, Prime Benefits",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about transforming the shopping experience for millions of Prime members worldwide? Join Amazon's Benefits, Pricing & Constructs team where you'll build innovative technical solutions"
+    }
+  },
+  "5b00128db4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10585996",
+      "title": "Software Development Engineer II, Prime Benefits",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about transforming the shopping experience for millions of Prime members worldwide? Join Amazon's Benefits, Pricing & Constructs team where you'll build innovative technical solutions"
+    }
+  },
+  "d372d773be": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-288948",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288948",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "ab3132244c": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613",
+      "title": "Software Engineer II - Java Full Stack React",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613",
       "_source": "workday",
       "_token": "mastercard:wd1:CorporateCareers",
       "_content": null
