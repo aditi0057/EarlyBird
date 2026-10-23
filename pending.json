@@ -1,139 +1,4 @@
 {
-  "21e204d3dc": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer--DevSecOps-_R-289609-1",
-      "title": "Software Engineer (DevSecOps)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer--DevSecOps-_R-289609-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "396bfd3c94": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer_R0000477032",
-      "title": "Sr Engineer",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000477032",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "fc8253f493": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
-      "title": "Software Development Engineering - Sr Professional II",
-      "location": {
-        "name": "Chennai, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Chennai-India/Software-Development-Engineering---Sr-Professional-II_R-10398733",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "5330404f68": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5261571007,
-      "title": "Software Development Engineer - Java + Distributed Systems",
-      "location": {
-        "name": "Hyderabad, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5261571007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "8171b91d5e": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8881474002,
-      "title": "Intermediate Backend Engineer, Cells Infrastructure",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8881474002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "baaae02752": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8867756002,
-      "title": "Site Reliability Engineer, Cells Infrastructure",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "31100cf20c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10579529",
-      "title": "Software Dev Engineer II, Seller Springboard ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10579529/software-dev-engineer-ii-seller-springboard",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are seeking a talented Software Development Engineer II to join our ISPX Registration team in Bangalore, focusing on building AI-powered solutions that will transform how millions of sellers register"
-    }
-  },
-  "3a9108ef33": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10579527",
-      "title": "Software Development Engineer II , Product & Offers Experience",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10579527/software-development-engineer-ii-product-offers-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you shop on Amazon? Have you ever browsed a product detail page, scrolled through images, compared prices, checked delivery dates, and then clicked \"Add to Cart\"? That entire experience? Our team builds"
-    }
-  },
-  "b170510aad": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-engineer-II--Java--Apache--Spark--AWS-and-ETL-_R-293439",
-      "title": "Software engineer II (Java, Apache/ Spark, AWS and ETL)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-engineer-II--Java--Apache--Spark--AWS-and-ETL-_R-293439",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "6f486ec75e": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1061,141 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer--Angular---Restful-Webservices-_JR0310522",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "fc12c6e977": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10585989",
+      "title": "Software Development Engineer II, EU INTech Delivery Speed Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10585989/software-development-engineer-ii-eu-intech-delivery-speed-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "594a70598c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10585988",
+      "title": "Software Development Engineer II, EU INTech Delivery Speed Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10585988/software-development-engineer-ii-eu-intech-delivery-speed-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "dfd4ffa196": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10587759",
+      "title": "Software Development Engineer, Amazon Photos",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10587759/software-development-engineer-amazon-photos",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Photos empowers customers to preserve, share, and relieve their memories across mobile applications, web, desktop, Amazon devices, and as part of Alexa+.  We strive to provide customers with the"
+    }
+  },
+  "0f902de5cd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10587573",
+      "title": "Sr. Software Development Engineer, PCT Partner Connection Technology",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10587573/sr-software-development-engineer-pct-partner-connection-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's last-mile delivery network relies on thousands of independent Delivery Service Partners (DSPs)- small businesses whose drivers deliver packages to customers every day. We are looking for a Senior"
+    }
+  },
+  "81f81a219f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580361",
+      "title": "Software Development Engineer, Prime Video Experience Tech ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580361/software-development-engineer-prime-video-experience-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you eager to shape the future of video entertainment, from movies and TV shows to live sports events? Do you enjoy tackling complex challenges within large-scale systems? If so, we invite you to help"
+    }
+  },
+  "bc12959533": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
+      "title": "Software Engineer II - Java Full stack with AI",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "d44d4091e1": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-293529",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "5c187fd805": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
+      "title": "Software Engineer II - Java Full stack and AI (with Python)",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "5c436fa2ed": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000477074",
+      "title": "Engineer - Target India",
+      "location": {
+        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000477074",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
       "_content": null
     }
   }
