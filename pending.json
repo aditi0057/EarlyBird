@@ -1,109 +1,4 @@
 {
-  "6e00f39f33": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10578193",
-      "title": "Software Development Engineer, SW-Device OS",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10578193/software-development-engineer-sw-device-os",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
-    }
-  },
-  "1f7bd88136": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10578274",
-      "title": "Software Development Engineer II, Amazon Health Wellness And Subscriptions",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10578274/software-development-engineer-ii-amazon-health-wellness-and-subscriptions",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are spearheading the development of India-centric technology aimed at revolutionizing the Health, Wellness, Subscriptions in India. This presents a rare opportunity to work on pioneering projects with"
-    }
-  },
-  "01de1353cf": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8016881003,
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8016881003?gh_jid=8016881003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "4052f2900f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10578772",
-      "title": "Software Development Engineer, Fire Tablet",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for passionate, hard-working, and talented Software Engineers who has experience in building innovative, mission critical, high volume applications & services. You will have an enormous"
-    }
-  },
-  "7fb88f384f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10578602",
-      "title": "Software Development Engineer, AI Trust & Innovation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10578602/software-development-engineer-ai-trust-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "About the TeamAmazon's Devices & Services Trust CX Innovations team is building the future of responsible AI for consumer devices. We deliver privacy-first, accessible, and trustworthy AI experiences that"
-    }
-  },
-  "969b1d2e87": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893",
-      "title": "Software Engineering PMTS - Backend Distributed Systems - Cloud Infrastructure",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "8b8ad6e2b5": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer_R-290463",
-      "title": "Software Engineer",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer_R-290463",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "21e204d3dc": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon\u2019s global fulfillment network enables any merchant to ship items that are ordered on Amazon to any place on earth. There is a complex network of ways in which items move between vendor locations,"
+    }
+  },
+  "b0adc02dce": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10585542",
+      "title": "Software Development Engineer, Finance Technology",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10585542/software-development-engineer-finance-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are responsible for billions of dollars of payments each month to millions of Amazon vendors across the globe. We delight our vendors by paying them when they want and how they want, accurately and"
+    }
+  },
+  "4439c0fc54": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10583673",
+      "title": "Software Development Engineer, Finance Technology",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10583673/software-development-engineer-finance-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are responsible for billions of dollars of payments each month to millions of Amazon vendors across the globe. We delight our vendors by paying them when they want and how they want, accurately and"
+    }
+  },
+  "ba3a074ebb": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
+      "title": "Software Engineer I - Java Full Stack React/Angular",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "5652041d19": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
+      "title": "Software Engineer II | Data & AI Platform",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "80d45ae8f6": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-294296-1",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-294296-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "0583fa998f": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Python-Software-Engineer_26998717",
+      "title": "Python Software Engineer",
+      "location": {
+        "name": "Chennai Tamil Nadu India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Python-Software-Engineer_26998717",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "6bef8edb65": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Dotnet-Developer--Angular---Restful-Webservices-_JR0310522",
+      "title": "Dotnet Developer (Angular & Restful Webservices)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer--Angular---Restful-Webservices-_JR0310522",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
+      "_content": null
     }
   }
 }
