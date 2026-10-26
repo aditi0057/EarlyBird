@@ -1,109 +1,4 @@
 {
-  "6f486ec75e": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-292431",
-      "title": "Data Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-292431",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "a7929ca314": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II--Java-Full-stack-Developer-_R-293119",
-      "title": "Software Engineer II (Java Full stack Developer)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II--Java-Full-stack-Developer-_R-293119",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "27c8100a51": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Data-Engineer_3169354-1",
-      "title": "Data Engineer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Data-Engineer_3169354-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "200c1734c2": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-AI-Engineer-Promo-Optimisation_R0000442383-1",
-      "title": "Sr. AI Engineer-MarTech",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-AI-Engineer-Promo-Optimisation_R0000442383-1",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "42de3935cc": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5233062007,
-      "title": "Sr. Software Development Engineer",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5233062007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "761e1ffc88": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8867649002,
-      "title": "Threat Research Engineer",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "f776d2e5fe": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580070",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580070/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
   "138501391b": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000477074",
       "_source": "workday",
       "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "2d696e6221": {
+    "company": "CRED",
+    "role_type": "fintech",
+    "job": {
+      "id": "9a746e68-0858-4190-9144-54b19a2cbf2c",
+      "title": "cloud security engineer",
+      "location": {
+        "name": "bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/cred/9a746e68-0858-4190-9144-54b19a2cbf2c",
+      "_source": "lever",
+      "_token": "cred",
+      "_content": "What is CRED?\nCRED is an exclusive community for India\u2019s most trustworthy and CREDitworthy individuals, where the members are rewarded for good financial behavior. CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception. to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true\nhere\u2019s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better\n"
+    }
+  },
+  "2180af516f": {
+    "company": "CRED",
+    "role_type": "fintech",
+    "job": {
+      "id": "b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3",
+      "title": "threat detection engineer",
+      "location": {
+        "name": "bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/cred/b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3",
+      "_source": "lever",
+      "_token": "cred",
+      "_content": "what is CRED?\nCRED is an exclusive community for India\u2019s most trustworthy and CREDitworthy individuals, where the members are rewarded for good financial behavior. CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception. to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true\nhere\u2019s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better\n"
+    }
+  },
+  "396c454aa2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10588652",
+      "title": "Software Development Engineer - 3, Tax and Account Compliance",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10588652/software-development-engineer-3-tax-and-account-compliance",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join a team building the future of automated compliance in the product space. Your work will directly impact Amazon's ability to serve customers and partners safely and efficiently across the globe. The"
+    }
+  },
+  "a359ea2d90": {
+    "company": "HighRadius",
+    "role_type": "fintech",
+    "job": {
+      "id": 7511614003,
+      "title": "Site Reliability Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, India"
+      },
+      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7511614003",
+      "_source": "greenhouse",
+      "_token": "highradius",
+      "_content": null
+    }
+  },
+  "3ef44636ef": {
+    "company": "Netskope",
+    "role_type": "tech",
+    "job": {
+      "id": 8324352,
+      "title": "Sr. Software Engineer, DAPII ",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8324352",
+      "_source": "greenhouse",
+      "_token": "netskope",
+      "_content": null
+    }
+  },
+  "d48438b560": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Margarpatta/Engineer--AS_R0447430",
+      "title": "Engineer, AS",
+      "location": {
+        "name": "Pune - Margarpatta"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer--AS_R0447430",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "c8027688bd": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Software-Architecture---Lead_R-10395395",
+      "title": "Software Development Engineering - Professional II",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Architecture---Lead_R-10395395",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
