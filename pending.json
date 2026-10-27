@@ -1,34 +1,4 @@
 {
-  "85eef65ae2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580011",
-      "title": "Software Development Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580011/software-development-engineer-i",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
-    }
-  },
-  "2e9602f811": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10581088",
-      "title": "Software Development Engineer II",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you an innovative and accomplished professional seeking for a role with a significant impact and growth? Amazon is looking for a dynamic Software Development Engineer to join our core team in the Books"
-    }
-  },
   "0efcfb3167": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1166,36 @@
       "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer---Microservices-_JR0310520",
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
+      "_content": null
+    }
+  },
+  "e8aaabe97f": {
+    "company": "Citi",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-Maharashtra-India/Generative-AI-Software-Engineer_261001423",
+      "title": "Generative AI Software Engineer",
+      "location": {
+        "name": "Pune Maharashtra India"
+      },
+      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Generative-AI-Software-Engineer_261001423",
+      "_source": "workday",
+      "_token": "citi:wd5:2",
+      "_content": null
+    }
+  },
+  "3931ba6b90": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5459401008,
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5459401008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
       "_content": null
     }
   }
