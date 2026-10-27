@@ -1,139 +1,4 @@
 {
-  "138501391b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580072",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580072/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
-  "f236f4c4d9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580066",
-      "title": "Software Development Engineer II, Amazon FinAuto - Travel & Events",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580066/software-development-engineer-ii-amazon-finauto-travel-events",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Travel & Events (AT&E) Tech team, part of Finance Automation, is driving a multi-year transformation of the end-to-end Travel & Expense experience for over 500,000 Amazon employees across 64"
-    }
-  },
-  "560f7632e5": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10579742",
-      "title": "Sr Software Engineer, Amazon Now ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10579742/sr-software-engineer-amazon-now",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is building India's Quick Commerce offering \u2014 Amazon Now \u2014 delivering everyday essentials to customers in minutes. We build world-class technology that powers store launches at scale, curates hyper-local"
-    }
-  },
-  "eea61e67e3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580014",
-      "title": "Software Development Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
-    }
-  },
-  "1bc5b6bd95": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580008",
-      "title": "Software Development Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
-    }
-  },
-  "3e21674d9e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580007",
-      "title": "Software Development Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580007/software-development-engineer-i",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you a software engineer who is excited about writing clean, well-tested code that ships to production and impacts millions of customers? At Amazon, you will have the opportunity to build software that"
-    }
-  },
-  "c3266c477f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580010",
-      "title": "Software Development Engineer I FTC",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
-    }
-  },
-  "b00c16fa83": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580009",
-      "title": "Software Development Engineer I FTC",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580009/software-development-engineer-i-ftc",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "This is a 12 Month Amazon Contract Role. It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components"
-    }
-  },
-  "b4b3b93f6e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580013",
-      "title": "Software Development Engineer I",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580013/software-development-engineer-i",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel"
-    }
-  },
   "85eef65ae2": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1061,141 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Architecture---Lead_R-10395395",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "ca94925840": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589519",
+      "title": "Software Development Engineer - Connectivity, Emerging Device Software",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589519/software-development-engineer-connectivity-emerging-device-software",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Imagine being part of a team building the future of wearable technology. Amazon is focused on developing devices that seamlessly integrate technology and design into forms that are familiar to millions"
+    }
+  },
+  "81c53de843": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589608",
+      "title": "Software Development Engineer II, FMA - Featured Merchant Algorithm",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589608/software-development-engineer-ii-fma-featured-merchant-algorithm",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We're looking for an experienced software engineer to join a high impact high visibility team on the Amazon website. This is an opportunity to work with a team that drives one of the most coveted real"
+    }
+  },
+  "e3fa953aab": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589588",
+      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589588/software-development-engineer-ii-recipient-experience-recipient-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to influence the experience of millions of customers? Do you want to work in a collaborative environment that impacts products from across the company? The Recipient Experience (REX) team owns"
+    }
+  },
+  "78cb73f61e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589217",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589217/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "4186fe0c15": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589212",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589212/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "e3e08cb0fc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589205",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "45372e152b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589203",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589203/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "161bd0c63f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589197",
+      "title": "Software Development Engineer, AFT External Fulfillment",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589197/software-development-engineer-aft-external-fulfillment",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
+    }
+  },
+  "d6acdf1f86": {
+    "company": "FIS",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/IND-PUNE-FL7/Dotnet-Developer---Microservices-_JR0310520",
+      "title": "Dotnet Developer  (Microservices)",
+      "location": {
+        "name": "IND PUNE FL7"
+      },
+      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer---Microservices-_JR0310520",
+      "_source": "workday",
+      "_token": "fis:wd5:SearchJobs",
       "_content": null
     }
   }
