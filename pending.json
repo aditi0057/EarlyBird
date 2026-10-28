@@ -1,79 +1,4 @@
 {
-  "6f5afd88dc": {
-    "company": "Astronomer",
-    "role_type": "data",
-    "job": {
-      "id": "c6bcfa3c-e59d-4768-8d78-d12a4442c114",
-      "title": "Customer Reliability Engineer - Infrastructure - Hyderabad, India",
-      "location": {
-        "name": "Hyderabad"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/astronomer/c6bcfa3c-e59d-4768-8d78-d12a4442c114",
-      "_source": "ashby",
-      "_token": "astronomer",
-      "_content": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow\u00ae. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit  www.astronomer.io http://www.astronomer.io.\n\n\n\n\nABOUT THIS ROLE:\n\nThe Astronomer Customer Reliability Engineering (CRE) team is responsible for the success of our customers' usage of our managed Airflow service.\n\nThe CRE are responsible for operating, monitoring, and maintaining the platform to ensure availability, predictability, and reliable operations.\n\nAs an infrastructure specialist within the team, you will focus on the reliability of the underlying cloud infrastructure and Kubernetes clusters. This entails responding to incidents either raised by a customer, or from our monitoring system and then taking further steps to ensure problems are permanently resolved or monitored. As owners of the observability platform, CRE has unlimited potential to improve the reliability of the product and deliver the best possible outcome for our customers.\n\n\u00a0\n\nThis role is directly customer-facing and gives exposure to very diverse problems and requirements. The CRE get the opportunity to interface with customers from a variety of industries across different cloud providers, and all with different expectations. Your contributions will directly impact customers' success with using the Astronomer products, and you will be able to help make meaningful improvements to the customer experience.\n\n\n\nHybrid Work Model: For this role, you will embrace a flexible hybrid work model, working at least 3 days per week at our Office in Hyderabad while delivering a seamless experience that is digitally and physically connected.\n\n\n\n\n\n\nWHAT YOU GET TO DO:\n\n - Provide solutions to customers to make them successful using our products.\n\n - Troubleshoot Customer environments and engage in active triaging with customers\n\n - Provide feedback to the product development teams on customer needs and pain points.\n\n - Build out our monitoring and alerting systems.\n\n - Build and maintain automation to ensure daily operational tasks are handled as efficiently as possible.\n\n - Help direct the architecture of the products and contribute where possible.\n\n - Own the customer experience, working directly with customers to prioritize and solve issues, meet SLAs, and provide \u201cwhite glove\u201d guidance on the path to production.\n\n - Participate remotely within a fully distributed team.\n\n - Enhance and Enrich customer documentation\n\n - Work on a modern, sophisticated, cloud native product that customers use to connect to dozens of other systems.\n\n - Help maintain 24x7 coverage through a specified 6 hour pager period during your work day.\n\n - Participate in paid on call rotation for weekend coverage.\n   \n\n\n\n\nWHAT YOU BRING TO THE ROLE:\n\n - 3+ years of experience, preferably with large, complex cloud infrastructures operating at scale\n\n - 2+ years of experience with Kubernetes\n\n - Experience managing a Production distributed system with at least one major cloud provider (one or all: AWS, GCP, Azure)\n\n - Strong Network Experience with one of the major Clouds\n\n - Strong Linux experience\n\n - Knowledge of how to operate and monitor issues for distributed systems\n\n - Experience with Observability tools\n\n - Previous experience in handling customers issues (internal and external)\n\n - Strong Communication Skills\n\n - DevOps or CI/CD experience\n\n - Python scripting\n\n\n\n\nBONUS POINTS IF YOU HAVE:\n\n - Experience as a Site Reliability Engineer\n\n - Worked with Kubernetes Custom Resources\n\n - Airflow/Big Data Orchestration experience\n\n - IaC experience\n\n\n\n#LI-Fulltime\n\n#LI-Hybrid\n\n\n\nAt Astronomer, we value diversity. We are an equal opportunity employer: we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
-    }
-  },
-  "4ae14e3cd4": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/DevOps-Engineer--Analyst_R0435038",
-      "title": "Automation Tester / SDET (Software Development Engineer in Test)",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/DevOps-Engineer--Analyst_R0435038",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "8e7bac1e86": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10582077",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10582077/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you customer-obsessed, data oriented, and confident in proposing opportunities to improve our customers\u2019 experience across different Amazon businesses? Customer Experience and Business Trends (CXBT)"
-    }
-  },
-  "8fad35a655": {
-    "company": "Databricks",
-    "role_type": "data",
-    "job": {
-      "id": 8876613002,
-      "title": "Forward Deployed Engineer, FDE (L4)",
-      "location": {
-        "name": "Remote - India"
-      },
-      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002",
-      "_source": "greenhouse",
-      "_token": "databricks",
-      "_content": null
-    }
-  },
-  "bed77feba0": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10582204",
-      "title": "Software Dev Engineer II, Mesa",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10582204/software-dev-engineer-ii-mesa",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Come help Amazon Books create and deploy the technology that gets every book, audiobook, and digital title in front of readers around the world. As a Software Development Engineer (SDE), you will be instrumental"
-    }
-  },
   "58b27dce15": {
     "company": "Autodesk",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
       "_content": null
+    }
+  },
+  "e5e13ea8a9": {
+    "company": "Stripe",
+    "role_type": "fintech",
+    "job": {
+      "id": 8130876,
+      "title": "Software Engineer, New Grad",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8130876",
+      "_source": "greenhouse",
+      "_token": "stripe",
+      "_content": null
+    }
+  },
+  "166752a34b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591315",
+      "title": "Software Development Engineer II, Alexa Excellence",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Chennai/Bengaluru is looking for a talented engineer to help revolutionize our voice-forward"
+    }
+  },
+  "b9696eaa74": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591316",
+      "title": "Software Development Engineer, Alexa Excellence",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Bangalore/Chennai is looking for a talented engineer to help revolutionize our voice-forward"
+    }
+  },
+  "a0bfff3f8f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10557433",
+      "title": "Software Development Engineer II, Relay Yard Automation, Relay Yard Automation",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10557433/software-development-engineer-ii-relay-yard-automation-relay-yard-automation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon moves millions of packages daily through a global logistics network of Fulfillment Centers, Sort Centers, and Delivery Stations. Every facility has a trailer yard \u2014 the physical space where line-haul"
+    }
+  },
+  "927b004572": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591021",
+      "title": "Software Dev Engineer II, Cross Border Seller Programs",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591021/software-dev-engineer-ii-cross-border-seller-programs",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Stay local, shop global! Amazon Cross Border (XB) team allows customers to easily discover a wide selection of international products available from Amazon\u2019s websites around the world, offering simplified"
     }
   }
 }
