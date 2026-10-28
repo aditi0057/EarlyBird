@@ -1,154 +1,4 @@
 {
-  "0efcfb3167": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10571940",
-      "title": "Software Development Engineer, Returns and Recommerce",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10571940/software-development-engineer-returns-and-recommerce",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
-    }
-  },
-  "b08a560b43": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-290039",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-290039",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "ae686d5d29": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
-      "title": "Associate, Data Engineer Workplace Data & Insights",
-      "location": {
-        "name": "Gurugram, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/Associate--Data-Engineer-Workplace-Data---Insights_R266668",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
-  "243adc0e51": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/AI-Application-Support---Enablement-Engineer--Analyst_R0435036-1",
-      "title": "Automation Tester / SDET (Software Development Engineer in Test)",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/AI-Application-Support---Enablement-Engineer--Analyst_R0435036-1",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "64de3c0acc": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8894531002,
-      "title": "Intermediate Backend Engineer - Code Security",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "f211439a40": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10581201",
-      "title": "Software Dev Engineer III, AWS Infrastructure Supply Chain ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10581201/software-dev-engineer-iii-aws-infrastructure-supply-chain",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We're the people who keep the cloud running \u2014 supporting all AWS data centers and the servers,"
-    }
-  },
-  "b9fec035a3": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10581459",
-      "title": "Software Development Engineer, AI Runtime",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10581459/software-development-engineer-ai-runtime",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a passionate and experienced Software Development Engineer to help us build and scale the next generation of AI runtime infrastructure for Alexa+. You will design and implement Tier-1"
-    }
-  },
-  "d52d2be4bd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10581433",
-      "title": "Software Development Engineer, Your Orders & Federation Platform",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10581433/software-development-engineer-your-orders-federation-platform",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to influence the experience of millions of customers? Do you want to work in a collaborative environment that impacts products from across the company? Our team owns and build customer-facing"
-    }
-  },
-  "747790491b": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
-      "title": "Systems Engineer-Force.com",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineer-Forcecom_JR364392",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "7d5dcb0692": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-I-1_R-293576-1",
-      "title": "Software Engineer I-1",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "6f5afd88dc": {
     "company": "Astronomer",
     "role_type": "data",
@@ -1196,6 +1046,156 @@
       "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5459401008",
       "_source": "greenhouse",
       "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "660ed1930e": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5261565007,
+      "title": "Information Security Engineer (Thick Client Testing /  Harness / VAPT)",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5261565007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "6901346790": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8916232002,
+      "title": "Software Engineer, Delivery : Release",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "807046bdb4": {
+    "company": "Snowflake",
+    "role_type": "data",
+    "job": {
+      "id": "1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
+      "title": "Data Engineer",
+      "location": {
+        "name": "IN-Pune"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/snowflake/1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
+      "_source": "ashby",
+      "_token": "snowflake",
+      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset, rapidly testing emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.\n\nWe are looking for a Data Engineer to help build and operate the data pipelines and models that power internal decision-making on the Snowflake AI Data Cloud. You will work alongside senior engineers, learn our platform from the inside as customer zero, and grow your ownership of production data products over time.\n\nAS A DATA ENGINEER AT SNOWFLAKE, YOU WILL:\n\n - Build and maintain production data pipelines and models on Snowflake, from ingestion through transformation and consumption\n\n - Develop dbt models with tests and documentation that follow team standards and governance practices\n\n - Build and support Apache Airflow DAGs that orchestrate Snowflake workloads reliably\n\n - Ingest data from enterprise sources using Snowpipe, Snowpark, and dynamic tables\n\n - Apply data quality checks and help monitor Snowflake warehouse cost and performance\n\n - Act as an internal customer zero, sharing feedback on Snowflake features with Product teams\n\n - Take part in Agile ceremonies including stand ups, sprint planning, reviews, and retrospectives\n\n - Partner with stakeholders and senior engineers to turn well-defined requirements into scoped technical tasks\n\nOUR IDEAL DATA ENGINEER WILL HAVE:\n\n - Bachelor's degree in Computer Science, Information Systems, or a related field, or equivalent practical experience\n\n - 3+ years of hands-on experience building data pipelines or data models in a production environment\n\n - Strong SQL and working Python skills, including basic query tuning and schema design\n\n - Hands-on experience with a cloud data warehouse, ideally Snowflake\n\n - Working knowledge of dbt and an orchestration tool such as Apache Airflow\n\n - Understanding of dimensional modelling concepts\n\n - Clear written and verbal communication and a collaborative, curious approach to learning\n\n - Ownership mindset: you follow problems through to resolution and ask for help when needed\n\nBONUS POINTS FOR THE FOLLOWING:\n\n - Exposure to Snowflake Cortex AI functions or other LLM APIs for data enrichment\n\n - Experience preparing data for ML model training or feature engineering\n\n - Familiarity with streaming ingestion such as Kafka or Snowpipe Streaming\n\n - Experience with AWS, Azure, or GCP, including infrastructure-as-code\n\n - Awareness of data contracts or schema registry tooling\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
+    }
+  },
+  "8a2bb3a26d": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8318044,
+      "title": "Sr AI Engineer, Agentic Systems",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "b05080ccae": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10590891",
+      "title": "Software Development Engineer, Amazon Regulatory and Trade Services (ARTS Tech)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10590891/software-development-engineer-amazon-regulatory-and-trade-services-arts-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "ARTS Tech is seeking an experienced Software Development Engineer to build services that make the cross-border movement of products, software, and technology secure, lawful, and seamless. You will design"
+    }
+  },
+  "f71addeb50": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10586506",
+      "title": "Sr. Software Dev Engineer, Alexa LLM Inference, Capacity, & Efficiency",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10586506/sr-software-dev-engineer-alexa-llm-inference-capacity-efficiency",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building and operating the world's largest real-time LLM inference systems? Are you a technical leader who thrives in high-ambiguity environments and wants to drive architectural"
+    }
+  },
+  "f589591216": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166494-1",
+      "title": "Android Multi-Device Experience Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Multi-Device-Experience-Engineer_3166494-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "32efcbd3c7": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Applied-Research-Engineer_3169518-1",
+      "title": "Applied Research Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Applied-Research-Engineer_3169518-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "ad35be1b11": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer_R-583781",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-583781",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "fa949ca083": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/C-and-C---Develp-er_R-10395388",
+      "title": "Software Development Engineering - Professional II",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/C-and-C---Develp-er_R-10395388",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
