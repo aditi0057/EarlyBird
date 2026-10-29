@@ -1,109 +1,4 @@
 {
-  "8e345e45fd": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8016870003,
-      "title": "Software Engineer 1 - Platform & Infrastructure",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "24f8d0fcaf": {
-    "company": "Stripe",
-    "role_type": "fintech",
-    "job": {
-      "id": 8185012,
-      "title": "Software Engineer, Payin",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8185012",
-      "_source": "greenhouse",
-      "_token": "stripe",
-      "_content": null
-    }
-  },
-  "5682c7f013": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10584606",
-      "title": "Software Development Engineer, WWRR Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10584606/software-development-engineer-wwrr-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers, our company, and the environment. Our goal is to achieve the three zeroes: zero cost of returns,"
-    }
-  },
-  "5265e695b9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10584599",
-      "title": "Software Development Engineer, WW Returns and Recommerce",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10584599/software-development-engineer-ww-returns-and-recommerce",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
-    }
-  },
-  "ae1e5e63a8": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10584598",
-      "title": "Software Development Engineer, WW Returns and ReCommerce",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10584598/software-development-engineer-ww-returns-and-recommerce",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
-    }
-  },
-  "bda09808a4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10584602",
-      "title": "Software Development Engineer, WW Returns and Recommerce",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10584602/software-development-engineer-ww-returns-and-recommerce",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
-    }
-  },
-  "b3c84634ed": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10584600",
-      "title": "Software Development Engineer, WW Returns and Recommerce",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10584600/software-development-engineer-ww-returns-and-recommerce",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Not many teams aspire to zero. Welcome to the Worldwide Returns and ReCommerce team (WWR&R) at Amazon.com.WW R&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers,"
-    }
-  },
   "cdcb715db1": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1091,111 @@
       "absolute_url": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
       "_source": "greenhouse",
       "_token": "abnormalsecurity",
+      "_content": null
+    }
+  },
+  "a6c4af469f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592247",
+      "title": "Software Development Engineer, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592247/software-development-engineer-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to shape how people stay connected across calls, text, and email? Alexa Connections is building a trusted communication agent that understands intent, context, and relationships, then acts"
+    }
+  },
+  "c0bb266c25": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592289",
+      "title": "Software Development Engineer II, AFT Sortation, AFT Mansort",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592289/software-development-engineer-ii-aft-sortation-aft-mansort",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Have you ever wondered how Amazon delivers millions of customer orders with exceptional speed and reliability? Behind every fast and on-time delivery is a complex network of software, infrastructure, robotics,"
+    }
+  },
+  "2ee61ee49c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592159",
+      "title": "Software Development Engineer II, FinTech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592159/software-development-engineer-ii-fintech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
+    }
+  },
+  "20bb6a2b70": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR362247",
+      "title": "Software Engineering MTS (Full-Stack)",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR362247",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "970b66b4a8": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Product-Manager---Technical-II_R-293237",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "5ce3dd59bd": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Software-Engineer-II_R-293708",
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293708",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "a7a918655b": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/Software-Development-Engineer_R-10405598",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Software-Development-Engineer_R-10405598",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
