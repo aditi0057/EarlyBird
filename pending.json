@@ -1,109 +1,4 @@
 {
-  "58b27dce15": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Pune-IND/Software-Engineer--Java-AWS-_26WD99679-1",
-      "title": "Software Engineer (Java, AWS)",
-      "location": {
-        "name": "Pune, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java-AWS-_26WD99679-1",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "c35644d34c": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer-TP_R0000476594",
-      "title": "Sr Engineer TP",
-      "location": {
-        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer-TP_R0000476594",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "7ac56cb09a": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer_R0000477711",
-      "title": "Sr Engineer",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer_R0000477711",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "7ba0ac2949": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Sr-Engineer---Target-India_R0000476633",
-      "title": "Sr. Engineer - Target India",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000476633",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "7e8c13ba06": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10582579",
-      "title": "Software Development Engineer, CAM",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10582579/software-development-engineer-cam",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
-    }
-  },
-  "8274f48235": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10582690",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10582690/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "cb15594d8f": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1",
-      "title": "Sr Software Engineer - Python",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
   "8e345e45fd": {
     "company": "Abnormal Security",
     "role_type": "tech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Stay local, shop global! Amazon Cross Border (XB) team allows customers to easily discover a wide selection of international products available from Amazon\u2019s websites around the world, offering simplified"
+    }
+  },
+  "53371f0278": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591189",
+      "title": "SDE II, AB Mobile",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested to improve the mobile shopping experience for B2B customers, if the answer is Yes, come join us.Amazon Business is a rapidly expanding $35 billion-dollar global business where we're"
+    }
+  },
+  "c1cc75b59a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10587550",
+      "title": "Software Development Engineer II, Amazon Business",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10587550/software-development-engineer-ii-amazon-business",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We're seeking a Software Development Engineer to lead and build technical initiatives that will reshape how businesses sell on Amazon. Our team is passionate about learning and building advanced solutions"
+    }
+  },
+  "079ffd4dca": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591597",
+      "title": "Sr. SDE, Alexa AI Agent Core, Alexa AI - Agent Core",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591597/sr-sde-alexa-ai-agent-core-alexa-ai-agent-core",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a passionate and experienced Sr, Software Development Engineer to help us build and scale the next generation of AI runtime infrastructure for Alexa+. You will design and implement model"
+    }
+  },
+  "c2e7b59e5e": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592055",
+      "title": "Software Development Engineer, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592055/software-development-engineer-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you ready to be at the forefront of Agentic AI innovation and redefine the future of communication?Join our dynamic Alexa Connections team as an SDE, and lead futuristic agentic AI initiatives that"
+    }
+  },
+  "a3e965df2d": {
+    "company": "Salesforce",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Salesforce-Developer_JR366273",
+      "title": "Software Engineering MTS- Salesforce Developer",
+      "location": {
+        "name": "India - Hyderabad"
+      },
+      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Salesforce-Developer_JR366273",
+      "_source": "workday",
+      "_token": "salesforce:wd12:External_Career_Site",
+      "_content": null
+    }
+  },
+  "e42c3bd693": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1",
+      "title": "Sr Software Engineer",
+      "location": {
+        "name": "Chennai, Tamil Nadu, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "a3fc9804ee": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 8016939003,
+      "title": "Software Engineer 1",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
     }
   }
 }
