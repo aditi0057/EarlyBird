@@ -1,94 +1,4 @@
 {
-  "68a196adc2": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Data-Engineer-II_R-293802",
-      "title": "Data Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Engineer-II_R-293802",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "d788476882": {
-    "company": "SumoLogic",
-    "role_type": "tech",
-    "job": {
-      "id": 8305995,
-      "title": "Technical Account Engineer I",
-      "location": {
-        "name": "Noida, Uttar Pradesh, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8305995",
-      "_source": "greenhouse",
-      "_token": "sumologic",
-      "_content": null
-    }
-  },
-  "9b059c63b1": {
-    "company": "SumoLogic",
-    "role_type": "tech",
-    "job": {
-      "id": 8305881,
-      "title": "Technical Account Engineer I",
-      "location": {
-        "name": "Noida, Uttar Pradesh, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8305881",
-      "_source": "greenhouse",
-      "_token": "sumologic",
-      "_content": null
-    }
-  },
-  "1dd62d4764": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10585995",
-      "title": "Software Development Engineer II, Prime Benefits",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about transforming the shopping experience for millions of Prime members worldwide? Join Amazon's Benefits, Pricing & Constructs team where you'll build innovative technical solutions"
-    }
-  },
-  "5b00128db4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10585996",
-      "title": "Software Development Engineer II, Prime Benefits",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about transforming the shopping experience for millions of Prime members worldwide? Join Amazon's Benefits, Pricing & Constructs team where you'll build innovative technical solutions"
-    }
-  },
-  "d372d773be": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-288948",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288948",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
   "ab3132244c": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1196,6 +1106,96 @@
       "absolute_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Pune-EON-Kharadi-Infrastructure/Emulation-Engineer_R027574-5",
       "_source": "workday",
       "_token": "broadcom:wd1:External_Career",
+      "_content": null
+    }
+  },
+  "21c4cc99bd": {
+    "company": "Zeta",
+    "role_type": "fintech",
+    "job": {
+      "id": "4dfd3df1-9520-4e20-9b9b-3a1fa80ad323",
+      "title": "Site Reliability Engineer II",
+      "location": {
+        "name": "Hyderabad"
+      },
+      "absolute_url": "https://jobs.lever.co/zeta/4dfd3df1-9520-4e20-9b9b-3a1fa80ad323",
+      "_source": "lever",
+      "_token": "zeta",
+      "_content": "About us\n\u00a0\nBuild the future of banking.\n\u00a0\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0Our impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\u00a0\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n\u00a0\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n4. Elena, our intelligent and conversational AI platform for banking\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\u2026and more across cards, payments, lending, and core banking.\n\u00a0\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work. If you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\n\u00a0\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram,YouTube, and X.\n\u00a0\n\u00a0\n"
+    }
+  },
+  "a76cfe36b9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10593656",
+      "title": "Software Development Engineer ",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10593656/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's mission is to be 'Earth's most customer-centric company', and our award-winning Customer Service (CS) team is an essential part of that mission. Amazon CS is one of the largest customer service"
+    }
+  },
+  "e69f84c438": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10593661",
+      "title": "Sr. Software Development Engineer, Crossborder Shopping Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10593661/sr-software-development-engineer-crossborder-shopping-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Join a team revolutionizing how millions of customers shop globally on Amazon as a Senior Software Development Engineer for Cross Border Shopping Experience. We're building next-generation AI-powered solutions"
+    }
+  },
+  "cb0a2f1d86": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10591201",
+      "title": "SDE-II, AB Mobile",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10591201/sde-ii-ab-mobile",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested to improve the mobile shopping experience for B2B customers, if the answer is Yes, come join us.Amazon Business is a rapidly expanding $35 billion-dollar global business where we're"
+    }
+  },
+  "13e0429975": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411",
+      "title": "Sr Software Engineer, iOS",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "cdf85e6afd": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1",
+      "title": "Software Engineer - Backend (Java)",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer---Backend--Java-_R0138270-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
       "_content": null
     }
   }
