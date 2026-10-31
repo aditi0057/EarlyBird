@@ -1,34 +1,4 @@
 {
-  "ab3132244c": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613",
-      "title": "Software Engineer II - Java Full Stack React",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-Stack-React_R-293613",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "76507a8e1e": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5263563007,
-      "title": "Escalation Engineer",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5263563007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
   "09068eda1d": {
     "company": "Fampay",
     "role_type": "fintech",
@@ -1197,6 +1167,36 @@
       "_source": "workday",
       "_token": "paypal:wd1:jobs",
       "_content": null
+    }
+  },
+  "c324c84299": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10593690",
+      "title": "Software Dev Engineer ",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10593690/software-dev-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Customer Service (CS) is hiring a Software Development Engineer II to join the Associate Experience team. Our organization is at the forefront of customer experience \u2014 seeking to delight our customers"
+    }
+  },
+  "1852cc44fd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10593707",
+      "title": "Sr. Software Dev Engineer, FinAuto Receivables Tech",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10593707/sr-software-dev-engineer-finauto-receivables-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you looking for an opportunity to build a highly available, large-scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
     }
   }
 }
