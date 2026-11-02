@@ -1,154 +1,4 @@
 {
-  "09068eda1d": {
-    "company": "Fampay",
-    "role_type": "fintech",
-    "job": {
-      "id": "8b4517b2-b038-4f57-b7ef-d2cc8ee588f7",
-      "title": "QA Engineer- 1",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/fampay/8b4517b2-b038-4f57-b7ef-d2cc8ee588f7",
-      "_source": "lever",
-      "_token": "fampay",
-      "_content": "About Fam (previously FamPay)\n\nFam is India\u2019s first payments app for everyone above 11. FamApp helps make online and offline payments through UPI and FamCard. We are on a mission to raise a new, financially aware generation, and drive 250 million+ young users in India to kickstart their financial journey super early in their life.\n\nWe\u2019re reimagining how the next generation experiences fintech\u2014going beyond payments to build a lifestyle brand that blends money, identity, and everyday experiences into one seamless, intuitive journey.\n\nFounded in 2019 by IIT Roorkee alumni, Fam is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Peak XV (Sequoia Capital) India, Venture Highway, Global Founder\u2019s Capital and the likes of Kunal Shah, Amrish Rao as angel investors.\n\n\nAbout this Role\n\u00a0\nOur team is looking for builders of the 1st order, who are detail oriented and passionate about the quality and is enthusiastic about the new cutting edge technologies offered to users. An anti-OK approach. You hate good enough. You understand that an OK service and an OK experience may lead to customer satisfaction, but that\u2019s never enough. Instead, you focus on exceeding expectations and delivering experiences that breed customer loyalty. When it breaks, they cannot sleep without finding that pesky little condition in some forgotten corner.\n\u00a0\nLet's get on the ship together?\u00a0\n\u00a0\n"
-    }
-  },
-  "b2fbf869ed": {
-    "company": "Airbnb",
-    "role_type": "tech",
-    "job": {
-      "id": 8312713,
-      "title": "Systems Engineer, Tech Foundations (Jira cloud)",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
-      "_source": "greenhouse",
-      "_token": "airbnb",
-      "_content": null
-    }
-  },
-  "f0fb2849f4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10582086",
-      "title": "Software Development Engineer II , DA FRK ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10582086/software-development-engineer-ii-da-frk",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about building distributed systems with really challenging mix of requirements on availability, latency and consistency? Are you someone who enjoys the challenge of figuring out scalable"
-    }
-  },
-  "98ce8b48e2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10586124",
-      "title": "Software Development Engineer, Ship With Amazon",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10586124/software-development-engineer-ship-with-amazon",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon\u2019s global fulfillment network enables any merchant to ship items that are ordered on Amazon to any place on earth. There is a complex network of ways in which items move between vendor locations,"
-    }
-  },
-  "b0adc02dce": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10585542",
-      "title": "Software Development Engineer, Finance Technology",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10585542/software-development-engineer-finance-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are responsible for billions of dollars of payments each month to millions of Amazon vendors across the globe. We delight our vendors by paying them when they want and how they want, accurately and"
-    }
-  },
-  "4439c0fc54": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10583673",
-      "title": "Software Development Engineer, Finance Technology",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10583673/software-development-engineer-finance-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are responsible for billions of dollars of payments each month to millions of Amazon vendors across the globe. We delight our vendors by paying them when they want and how they want, accurately and"
-    }
-  },
-  "ba3a074ebb": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
-      "title": "Software Engineer I - Java Full Stack React/Angular",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "5652041d19": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
-      "title": "Software Engineer II | Data & AI Platform",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Data---AI-Platform_R-294109-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "80d45ae8f6": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-294296-1",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-294296-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "0583fa998f": {
-    "company": "Citi",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Python-Software-Engineer_26998717",
-      "title": "Python Software Engineer",
-      "location": {
-        "name": "Chennai Tamil Nadu India"
-      },
-      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Python-Software-Engineer_26998717",
-      "_source": "workday",
-      "_token": "citi:wd5:2",
-      "_content": null
-    }
-  },
   "6bef8edb65": {
     "company": "FIS",
     "role_type": "fintech",
@@ -1197,6 +1047,156 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you looking for an opportunity to build a highly available, large-scale, enterprise-wide software solution? Does it excite you to find patterns and build generic, composable software solutions to solve"
+    }
+  },
+  "6bb2e69f51": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5278557007,
+      "title": "Sr. Software Development Engineer",
+      "location": {
+        "name": "India - Update Location"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5278557007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "3b867ebcf3": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8319386,
+      "title": "Software Engineer (L3)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "8df8aab70f": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8878946002,
+      "title": "Evergreen - AI Engineer, AI FDE",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "958a4b225b": {
+    "company": "Databricks",
+    "role_type": "data",
+    "job": {
+      "id": 8924868002,
+      "title": "Sr. Software Engineer- Databricks AI",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002",
+      "_source": "greenhouse",
+      "_token": "databricks",
+      "_content": null
+    }
+  },
+  "9448bc1904": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8924923002,
+      "title": "Intermediate Data Engineer",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "15d896adc8": {
+    "company": "Toast",
+    "role_type": "tech",
+    "job": {
+      "id": 8302709,
+      "title": "QA Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka ,India"
+      },
+      "absolute_url": "https://careers.toasttab.com/jobs?gh_jid=8302709",
+      "_source": "greenhouse",
+      "_token": "toast",
+      "_content": null
+    }
+  },
+  "2949cccdd8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594189",
+      "title": "Software Development Engineer II , Amazon Pay",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594189/software-development-engineer-ii-amazon-pay",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Want to be part of a dynamic start-up environment within Amazon and be at the forefront of enabling \"Amazon Pay\" outside of Amazon?Our team is looking for passionate, experienced software developer who"
+    }
+  },
+  "808a156282": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594157",
+      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "bbdd82fbfc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594156",
+      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594156/software-development-engineer-ii-int-l-technologyeuregionalfund",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "a354216501": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592249",
+      "title": "Software Development Engineer, Alexa Connections",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence"
     }
   }
 }
