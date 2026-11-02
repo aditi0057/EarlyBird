@@ -1,79 +1,4 @@
 {
-  "6bef8edb65": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Dotnet-Developer--Angular---Restful-Webservices-_JR0310522",
-      "title": "Dotnet Developer (Angular & Restful Webservices)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer--Angular---Restful-Webservices-_JR0310522",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "fc12c6e977": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10585989",
-      "title": "Software Development Engineer II, EU INTech Delivery Speed Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10585989/software-development-engineer-ii-eu-intech-delivery-speed-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "594a70598c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10585988",
-      "title": "Software Development Engineer II, EU INTech Delivery Speed Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10585988/software-development-engineer-ii-eu-intech-delivery-speed-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "dfd4ffa196": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10587759",
-      "title": "Software Development Engineer, Amazon Photos",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10587759/software-development-engineer-amazon-photos",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Photos empowers customers to preserve, share, and relieve their memories across mobile applications, web, desktop, Amazon devices, and as part of Alexa+.  We strive to provide customers with the"
-    }
-  },
-  "0f902de5cd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10587573",
-      "title": "Sr. Software Development Engineer, PCT Partner Connection Technology",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10587573/sr-software-development-engineer-pct-partner-connection-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's last-mile delivery network relies on thousands of independent Delivery Service Partners (DSPs)- small businesses whose drivers deliver packages to customers every day. We are looking for a Senior"
-    }
-  },
   "81f81a219f": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence"
+    }
+  },
+  "49559c828b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594535",
+      "title": "Software Development Engineer II, AFT Flow, AFT OB&Flow",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594535/software-development-engineer-ii-aft-flow-aft-ob-flow",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Have you ever ordered from Amazon and been amazed at how fast you receive the shipment? Ever wondered how Amazon delivers to customers so fast and on promised time? Every day, Amazon engineers are relentlessly"
+    }
+  },
+  "e7827ebdc6": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1",
+      "title": "Software Engineer, Android",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "764e3d398c": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1",
+      "title": "Sr Software Engineer, Back End",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "61c2946715": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Backend-with-Gen-Ai_R0000479586",
+      "title": "Engineer - Backend with Gen Ai",
+      "location": {
+        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Backend-with-Gen-Ai_R0000479586",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "9d08584b02": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175",
+      "title": "Specialist, Software Development Engineering",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
     }
   }
 }
