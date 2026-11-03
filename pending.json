@@ -1,94 +1,4 @@
 {
-  "81f81a219f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580361",
-      "title": "Software Development Engineer, Prime Video Experience Tech ",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580361/software-development-engineer-prime-video-experience-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you eager to shape the future of video entertainment, from movies and TV shows to live sports events? Do you enjoy tackling complex challenges within large-scale systems? If so, we invite you to help"
-    }
-  },
-  "bc12959533": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
-      "title": "Software Engineer II - Java Full stack with AI",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-with-AI_R-294118",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "d44d4091e1": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-293529",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293529",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "5c187fd805": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
-      "title": "Software Engineer II - Java Full stack and AI (with Python)",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II---Java-Full-stack-and-AI--with-Python-_R-294262",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "5c436fa2ed": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000477074",
-      "title": "Engineer - Target India",
-      "location": {
-        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Target-India_R0000477074",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "2d696e6221": {
-    "company": "CRED",
-    "role_type": "fintech",
-    "job": {
-      "id": "9a746e68-0858-4190-9144-54b19a2cbf2c",
-      "title": "cloud security engineer",
-      "location": {
-        "name": "bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/cred/9a746e68-0858-4190-9144-54b19a2cbf2c",
-      "_source": "lever",
-      "_token": "cred",
-      "_content": "What is CRED?\nCRED is an exclusive community for India\u2019s most trustworthy and CREDitworthy individuals, where the members are rewarded for good financial behavior. CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception. to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true\nhere\u2019s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better\n"
-    }
-  },
   "2180af516f": {
     "company": "CRED",
     "role_type": "fintech",
@@ -1194,6 +1104,96 @@
         "name": "Pune - Trion Business Park, India"
       },
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "d635a1b364": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
+      "title": "Security Engineer III - Infra Security",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\n\u00a0\nThe security team at Meesho is like the Avengers to Meesho's S.H.I.E.L.D. After all, when 5% of Indian households shop with us, it\u2019s important to build resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e Sounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast. We place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As a Security Engineer, you will be part of self-starters who thrive on teamwork and constructive feedback. We know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favorite books and games \u2013 or even gossiping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\nAbout the Role\n\u00a0\nAs a Security Engineer 3 in Infrastructure Security, you are a senior individual contributor who owns Meesho's infrastructure security and security operations (SOC) end to end. You will be one of the engineers securing everything from GCP organisation policy and IAM down to Kubernetes workloads and CI/CD infrastructure, so you will set the technical direction for infrastructure security, not just execute it. You operate with limited supervision, act as the trusted security voice in infrastructure and platform architecture discussions, and partner closely with other engineers whom you will mentor and uplevel.\u00a0\nThe role rewards breadth with depth: you should be comfortable moving between cloud architecture reviews, hands-on hardening, detection engineering, and incident response in the same week, and you will have unusual freedom to automate, consolidate, and build the guardrails that let a lean team secure a platform operating at Meesho's scale.\n\n\n"
+    }
+  },
+  "e32b3ee58d": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10595059",
+      "title": "Software Development Engineer , AWS & Ads Performance Benchmarks",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10595059/software-development-engineer-aws-ads-performance-benchmarks",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Customer Experience and Business Trends (CXBT) organization is seeking a Software Development Engineer II  (SDE) to shape the future of Amazon Web Services (AWS) customer experience by improving"
+    }
+  },
+  "3e9baed636": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10590907",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10590907/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited about building the future of Retail Automation powered by Generative AI?Retail Business Services (RBS) supports Amazon's Retail business growth WW through three core tasks. These are (a)"
+    }
+  },
+  "cfa1a8d97f": {
+    "company": "Mastercard",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1",
+      "title": "Sofware Engineer, Priceless Platform",
+      "location": {
+        "name": "Pune, India"
+      },
+      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1",
+      "_source": "workday",
+      "_token": "mastercard:wd1:CorporateCareers",
+      "_content": null
+    }
+  },
+  "225d6ef2b8": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/SDE_R-10406535",
+      "title": "SDE",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/SDE_R-10406535",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "bb51fe6b6c": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru---GS-India/Advisor--Software-Development-Engineering_R-10406508",
+      "title": "Advisor, Software Development Engineering",
+      "location": {
+        "name": "Bengaluru - GS, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Advisor--Software-Development-Engineering_R-10406508",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
       "_content": null
