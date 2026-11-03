@@ -1,64 +1,4 @@
 {
-  "2180af516f": {
-    "company": "CRED",
-    "role_type": "fintech",
-    "job": {
-      "id": "b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3",
-      "title": "threat detection engineer",
-      "location": {
-        "name": "bengaluru"
-      },
-      "absolute_url": "https://jobs.lever.co/cred/b3da0ae4-d0a8-45ce-a1e5-73be12b4bfe3",
-      "_source": "lever",
-      "_token": "cred",
-      "_content": "what is CRED?\nCRED is an exclusive community for India\u2019s most trustworthy and CREDitworthy individuals, where the members are rewarded for good financial behavior. CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception. to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true\nhere\u2019s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better\n"
-    }
-  },
-  "396c454aa2": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10588652",
-      "title": "Software Development Engineer - 3, Tax and Account Compliance",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10588652/software-development-engineer-3-tax-and-account-compliance",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Join a team building the future of automated compliance in the product space. Your work will directly impact Amazon's ability to serve customers and partners safely and efficiently across the globe. The"
-    }
-  },
-  "a359ea2d90": {
-    "company": "HighRadius",
-    "role_type": "fintech",
-    "job": {
-      "id": 7511614003,
-      "title": "Site Reliability Engineer",
-      "location": {
-        "name": "Hyderabad, Telangana, India"
-      },
-      "absolute_url": "https://www.highradius.com/about/careers-list/?gh_jid=7511614003",
-      "_source": "greenhouse",
-      "_token": "highradius",
-      "_content": null
-    }
-  },
-  "3ef44636ef": {
-    "company": "Netskope",
-    "role_type": "tech",
-    "job": {
-      "id": 8324352,
-      "title": "Sr. Software Engineer, DAPII ",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8324352",
-      "_source": "greenhouse",
-      "_token": "netskope",
-      "_content": null
-    }
-  },
   "d48438b560": {
     "company": "Deutsche Bank",
     "role_type": "fintech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Advisor--Software-Development-Engineering_R-10406508",
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "dee7431147": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8905402002,
+      "title": "Intermediate Backend Engineer, Authorization",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "caedfdd5da": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594146",
+      "title": "Software Dev Engineer II, Minerva",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594146/software-dev-engineer-ii-minerva",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about using Software Engineering as a way to enable automation, knowledge extraction, and artificial intelligence through the use of Machine Learning, Natural Language Processing, Recommender"
+    }
+  },
+  "54bda9e88e": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170446-1",
+      "title": "AI and Automation Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170446-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "5fb8b66f14": {
+    "company": "Autodesk",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1",
+      "title": "Software Engineer(AI/ML Platform)",
+      "location": {
+        "name": "Pune, IND"
+      },
+      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1",
+      "_source": "workday",
+      "_token": "autodesk:wd1:Ext",
       "_content": null
     }
   }
