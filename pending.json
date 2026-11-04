@@ -1,124 +1,4 @@
 {
-  "d48438b560": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Engineer--AS_R0447430",
-      "title": "Engineer, AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Engineer--AS_R0447430",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "c8027688bd": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Software-Architecture---Lead_R-10395395",
-      "title": "Software Development Engineering - Professional II",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Software-Architecture---Lead_R-10395395",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "ca94925840": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589519",
-      "title": "Software Development Engineer - Connectivity, Emerging Device Software",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589519/software-development-engineer-connectivity-emerging-device-software",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Imagine being part of a team building the future of wearable technology. Amazon is focused on developing devices that seamlessly integrate technology and design into forms that are familiar to millions"
-    }
-  },
-  "81c53de843": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589608",
-      "title": "Software Development Engineer II, FMA - Featured Merchant Algorithm",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589608/software-development-engineer-ii-fma-featured-merchant-algorithm",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We're looking for an experienced software engineer to join a high impact high visibility team on the Amazon website. This is an opportunity to work with a team that drives one of the most coveted real"
-    }
-  },
-  "e3fa953aab": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589588",
-      "title": "Software Development Engineer II, Recipient Experience, Recipient Experience",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589588/software-development-engineer-ii-recipient-experience-recipient-experience",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to influence the experience of millions of customers? Do you want to work in a collaborative environment that impacts products from across the company? The Recipient Experience (REX) team owns"
-    }
-  },
-  "78cb73f61e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589217",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589217/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "4186fe0c15": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589212",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589212/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "e3e08cb0fc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589205",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589205/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
   "45372e152b": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1076,126 @@
       "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1",
       "_source": "workday",
       "_token": "autodesk:wd1:Ext",
+      "_content": null
+    }
+  },
+  "1a4f2ca92f": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5267221007,
+      "title": "Sr. Software Development Engineer - Java/ Agentic AI/ Big Data",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5267221007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "4c45ada94f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592113",
+      "title": "Sr. Software Dev Engineer, Finance Technology",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592113/sr-software-dev-engineer-finance-technology",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is looking for a Senior Software Development Engineer who is excited about building high-performance, globally scalable systems. In this role, you will design and build next-generation payment solutions"
+    }
+  },
+  "e7a62ca3a6": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2",
+      "title": "Software Firmware Engineer 4",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "3d1ab655d1": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/Software-Engineer-4_3166627-1",
+      "title": "Software Engineer 4",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Engineer-4_3166627-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "7a905760fe": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Chennai-Tamil-Nadu-India/Manufacturing-Operations-Engineer_3169984-1",
+      "title": "Manufacturing Operations Engineer",
+      "location": {
+        "name": "Chennai, Tamil Nadu, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/Manufacturing-Operations-Engineer_3169984-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "55bb235c55": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Virtualization_R0000451028-1",
+      "title": "Engineer - Virtualization",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Virtualization_R0000451028-1",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "b1c9d2e250": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173",
+      "title": "Specialist, Software Development Engineering",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "b19010ce65": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Noida-India/Professional--Software-Development-Engineering_R-10405756",
+      "title": "Professional, Software Development Engineering",
+      "location": {
+        "name": "Noida, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Noida-India/Professional--Software-Development-Engineering_R-10405756",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
       "_content": null
     }
   }
