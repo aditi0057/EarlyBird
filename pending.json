@@ -1,139 +1,4 @@
 {
-  "45372e152b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589203",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589203/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "161bd0c63f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589197",
-      "title": "Software Development Engineer, AFT External Fulfillment",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589197/software-development-engineer-aft-external-fulfillment",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you seeking an environment where you can apply state-of-the-art computer science techniques, build large-scale distributed systems, and directly impact how millions of customers experience ultra-fast"
-    }
-  },
-  "d6acdf1f86": {
-    "company": "FIS",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/IND-PUNE-FL7/Dotnet-Developer---Microservices-_JR0310520",
-      "title": "Dotnet Developer  (Microservices)",
-      "location": {
-        "name": "IND PUNE FL7"
-      },
-      "absolute_url": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dotnet-Developer---Microservices-_JR0310520",
-      "_source": "workday",
-      "_token": "fis:wd5:SearchJobs",
-      "_content": null
-    }
-  },
-  "e8aaabe97f": {
-    "company": "Citi",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-Maharashtra-India/Generative-AI-Software-Engineer_261001423",
-      "title": "Generative AI Software Engineer",
-      "location": {
-        "name": "Pune Maharashtra India"
-      },
-      "absolute_url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Generative-AI-Software-Engineer_261001423",
-      "_source": "workday",
-      "_token": "citi:wd5:2",
-      "_content": null
-    }
-  },
-  "3931ba6b90": {
-    "company": "New Relic",
-    "role_type": "tech",
-    "job": {
-      "id": 5459401008,
-      "title": "Software Engineer",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5459401008",
-      "_source": "greenhouse",
-      "_token": "newrelic",
-      "_content": null
-    }
-  },
-  "660ed1930e": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5261565007,
-      "title": "Information Security Engineer (Thick Client Testing /  Harness / VAPT)",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5261565007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "6901346790": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8916232002,
-      "title": "Software Engineer, Delivery : Release",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "807046bdb4": {
-    "company": "Snowflake",
-    "role_type": "data",
-    "job": {
-      "id": "1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
-      "title": "Data Engineer",
-      "location": {
-        "name": "IN-Pune"
-      },
-      "absolute_url": "https://jobs.ashbyhq.com/snowflake/1af751fb-d53e-43b0-a3bc-6fcc4004cafb",
-      "_source": "ashby",
-      "_token": "snowflake",
-      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don't just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset, rapidly testing emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.\n\nWe are looking for a Data Engineer to help build and operate the data pipelines and models that power internal decision-making on the Snowflake AI Data Cloud. You will work alongside senior engineers, learn our platform from the inside as customer zero, and grow your ownership of production data products over time.\n\nAS A DATA ENGINEER AT SNOWFLAKE, YOU WILL:\n\n - Build and maintain production data pipelines and models on Snowflake, from ingestion through transformation and consumption\n\n - Develop dbt models with tests and documentation that follow team standards and governance practices\n\n - Build and support Apache Airflow DAGs that orchestrate Snowflake workloads reliably\n\n - Ingest data from enterprise sources using Snowpipe, Snowpark, and dynamic tables\n\n - Apply data quality checks and help monitor Snowflake warehouse cost and performance\n\n - Act as an internal customer zero, sharing feedback on Snowflake features with Product teams\n\n - Take part in Agile ceremonies including stand ups, sprint planning, reviews, and retrospectives\n\n - Partner with stakeholders and senior engineers to turn well-defined requirements into scoped technical tasks\n\nOUR IDEAL DATA ENGINEER WILL HAVE:\n\n - Bachelor's degree in Computer Science, Information Systems, or a related field, or equivalent practical experience\n\n - 3+ years of hands-on experience building data pipelines or data models in a production environment\n\n - Strong SQL and working Python skills, including basic query tuning and schema design\n\n - Hands-on experience with a cloud data warehouse, ideally Snowflake\n\n - Working knowledge of dbt and an orchestration tool such as Apache Airflow\n\n - Understanding of dimensional modelling concepts\n\n - Clear written and verbal communication and a collaborative, curious approach to learning\n\n - Ownership mindset: you follow problems through to resolution and ask for help when needed\n\nBONUS POINTS FOR THE FOLLOWING:\n\n - Exposure to Snowflake Cortex AI functions or other LLM APIs for data enrichment\n\n - Experience preparing data for ML model training or feature engineering\n\n - Familiarity with streaming ingestion such as Kafka or Snowpipe Streaming\n\n - Experience with AWS, Azure, or GCP, including infrastructure-as-code\n\n - Awareness of data contracts or schema registry tooling\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
-    }
-  },
-  "8a2bb3a26d": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8318044,
-      "title": "Sr AI Engineer, Agentic Systems",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
   "b05080ccae": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1062,141 @@
       "_source": "workday",
       "_token": "fiserv:wd5:EXT",
       "_content": null
+    }
+  },
+  "c871318a27": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8890971002,
+      "title": "Intermediate Backend Engineer , Security Factory",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "b911fb5eb6": {
+    "company": "SumoLogic",
+    "role_type": "tech",
+    "job": {
+      "id": 8352378,
+      "title": "Software Engineer II",
+      "location": {
+        "name": "Noida, Uttar Pradesh, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8352378",
+      "_source": "greenhouse",
+      "_token": "sumologic",
+      "_content": null
+    }
+  },
+  "17c88f6fc7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596464",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As a wireless software engineer on our new Bangalore device software team, you will bring"
+    }
+  },
+  "7093487bc4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596462",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596462/software-development-engineer-ii-alexa-connectivity-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an Embedded software Engineer on our new Bangalore device software team, you will bring"
+    }
+  },
+  "d318d99417": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596461",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596461/software-development-engineer-ii-alexa-connectivity-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
+    }
+  },
+  "c487679be7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596460",
+      "title": "Software Development Engineer II, Alexa Connectivity Devices",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596460/software-development-engineer-ii-alexa-connectivity-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
+    }
+  },
+  "806e52d5f9": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596459",
+      "title": "Software Development Engineer, Alexa Connectivity Devices",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596459/software-development-engineer-alexa-connectivity-devices",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
+    }
+  },
+  "3909a167fc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10589830",
+      "title": "Software Development Engineer, Sports Data Platform - Prime Video Sports",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10589830/software-development-engineer-sports-data-platform-prime-video-sports",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "What if you could build the systems that tell millions of sports fans exactly when something incredible just happened in a live game? That's the kind of problem you'll solve here.We're looking for a Software"
+    }
+  },
+  "9f505c9898": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10588111",
+      "title": "Software Dev Engineer II, Amazon Business",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10588111/software-dev-engineer-ii-amazon-business",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We're seeking a Software Development Engineer to lead and build technical initiatives that will reshape how businesses sell on Amazon. Our team is passionate about learning and building advanced solutions"
     }
   }
 }
