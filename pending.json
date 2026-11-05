@@ -1,19 +1,4 @@
 {
-  "fa949ca083": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/C-and-C---Develp-er_R-10395388",
-      "title": "Software Development Engineering - Professional II",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/C-and-C---Develp-er_R-10395388",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "e5e13ea8a9": {
     "company": "Stripe",
     "role_type": "fintech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "fis:wd5:SearchJobs",
       "_content": null
+    }
+  },
+  "fef7867399": {
+    "company": "Zeta",
+    "role_type": "fintech",
+    "job": {
+      "id": "a83bd184-4c9b-42b8-a6d4-7be310774a6a",
+      "title": "DevSecOps Engineer II",
+      "location": {
+        "name": "Hyderabad"
+      },
+      "absolute_url": "https://jobs.lever.co/zeta/a83bd184-4c9b-42b8-a6d4-7be310774a6a",
+      "_source": "lever",
+      "_token": "zeta",
+      "_content": "About us:\nBuild the future of banking.\n\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0\n\u00a0\nOur impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\u00a0\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n4. Elena, our intelligent and conversational AI platform for banking\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\u2026and more across cards, payments, lending, and core banking.\n\u00a0\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work.\n\u00a0\nIf you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram, YouTube, and X.\n\u00a0\n\nAbout the Role:\nAs a Cloud Security & DevSecOps Engineer II, you will play a key role in strengthening the security posture of our cloud infrastructure, Kubernetes/container platforms and software delivery ecosystem.\u00a0\nYou will work closely with Cloud/Platform, SRE, DevOps, Engineering, Product Security and Risk & Compliance teams to identify and mitigate security risks, build scalable security controls, automate recurring security activities and drive security findings through remediation and closure.\u00a0\nThe role covers Cloud Security Posture Management (CSPM), IAM & Access Governance, DevSecOps, Kubernetes Security, Infrastructure Security, Vulnerability Management, Security Monitoring, Security Automation and Compliance Engineering, while also contributing to broader Information Security initiatives across the organisation.\n"
     }
   }
 }
