@@ -1,109 +1,4 @@
 {
-  "e5e13ea8a9": {
-    "company": "Stripe",
-    "role_type": "fintech",
-    "job": {
-      "id": 8130876,
-      "title": "Software Engineer, New Grad",
-      "location": {
-        "name": "Bangalore"
-      },
-      "absolute_url": "https://stripe.com/jobs/search?gh_jid=8130876",
-      "_source": "greenhouse",
-      "_token": "stripe",
-      "_content": null
-    }
-  },
-  "166752a34b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10591315",
-      "title": "Software Development Engineer II, Alexa Excellence",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Chennai/Bengaluru is looking for a talented engineer to help revolutionize our voice-forward"
-    }
-  },
-  "b9696eaa74": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10591316",
-      "title": "Software Development Engineer, Alexa Excellence",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Bangalore/Chennai is looking for a talented engineer to help revolutionize our voice-forward"
-    }
-  },
-  "a0bfff3f8f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10557433",
-      "title": "Software Development Engineer II, Relay Yard Automation, Relay Yard Automation",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10557433/software-development-engineer-ii-relay-yard-automation-relay-yard-automation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon moves millions of packages daily through a global logistics network of Fulfillment Centers, Sort Centers, and Delivery Stations. Every facility has a trailer yard \u2014 the physical space where line-haul"
-    }
-  },
-  "927b004572": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10591021",
-      "title": "Software Dev Engineer II, Cross Border Seller Programs",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10591021/software-dev-engineer-ii-cross-border-seller-programs",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Stay local, shop global! Amazon Cross Border (XB) team allows customers to easily discover a wide selection of international products available from Amazon\u2019s websites around the world, offering simplified"
-    }
-  },
-  "53371f0278": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10591189",
-      "title": "SDE II, AB Mobile",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested to improve the mobile shopping experience for B2B customers, if the answer is Yes, come join us.Amazon Business is a rapidly expanding $35 billion-dollar global business where we're"
-    }
-  },
-  "c1cc75b59a": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10587550",
-      "title": "Software Development Engineer II, Amazon Business",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10587550/software-development-engineer-ii-amazon-business",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We're seeking a Software Development Engineer to lead and build technical initiatives that will reshape how businesses sell on Amazon. Our team is passionate about learning and building advanced solutions"
-    }
-  },
   "079ffd4dca": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1092,111 @@
       "_source": "lever",
       "_token": "zeta",
       "_content": "About us:\nBuild the future of banking.\n\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0\n\u00a0\nOur impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\u00a0\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n4. Elena, our intelligent and conversational AI platform for banking\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\u2026and more across cards, payments, lending, and core banking.\n\u00a0\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work.\n\u00a0\nIf you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram, YouTube, and X.\n\u00a0\n\nAbout the Role:\nAs a Cloud Security & DevSecOps Engineer II, you will play a key role in strengthening the security posture of our cloud infrastructure, Kubernetes/container platforms and software delivery ecosystem.\u00a0\nYou will work closely with Cloud/Platform, SRE, DevOps, Engineering, Product Security and Risk & Compliance teams to identify and mitigate security risks, build scalable security controls, automate recurring security activities and drive security findings through remediation and closure.\u00a0\nThe role covers Cloud Security Posture Management (CSPM), IAM & Access Governance, DevSecOps, Kubernetes Security, Infrastructure Security, Vulnerability Management, Security Monitoring, Security Automation and Compliance Engineering, while also contributing to broader Information Security initiatives across the organisation.\n"
+    }
+  },
+  "da80dfd089": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10598131",
+      "title": "Software Dev Engineer II, Alexa AI - Personalization and Delivery Experiences",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10598131/software-dev-engineer-ii-alexa-ai-personalization-and-delivery-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Interested in Amazon Alexa, Machine Learning and Artificial Intelligence? We\u2019re building the runtime services that power state of the art Amazon Alexa. Come join us!The Alexa AI org in India is seeking"
+    }
+  },
+  "b9c6ddd2e2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10598473",
+      "title": "Software Development Engineer II, Cross Border Seller Programs",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10598473/software-development-engineer-ii-cross-border-seller-programs",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building software that makes a meaningful difference for millions of customers? We are looking for a Software Development Engineer II to join our team at Amazon, where you will"
+    }
+  },
+  "1c04c9c404": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10598377",
+      "title": "Software Development Engineer II, Last Mile",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10598377/software-development-engineer-ii-last-mile",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to build impactful mobile software building blocks that empowers hundreds of engineers build and ship new delightful features every day?. Our team is responsible for creating the best delivery"
+    }
+  },
+  "45067ca9fc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10597850",
+      "title": "Software Development Engineer, DSP Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you want to be part of the team that transforms how safety decisions are made for Amazon's Delivery Service Partners (DSPs) across 21 countries? Are you passionate about building intelligent, data driven"
+    }
+  },
+  "653544d86a": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10580411",
+      "title": "Software Development Engineer III, Associate Experience, Amazon Customer Service",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10580411/software-development-engineer-iii-associate-experience-amazon-customer-service",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Customer Service (CS) is hiring a Software Development Engineer III to join the Associate Experience team. Our organization is at the forefront of customer experience, seeking to delight customers"
+    }
+  },
+  "f5c6e5cfcc": {
+    "company": "New Relic",
+    "role_type": "tech",
+    "job": {
+      "id": 5467941008,
+      "title": "Software Engineer 1",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5467941008",
+      "_source": "greenhouse",
+      "_token": "newrelic",
+      "_content": null
+    }
+  },
+  "fb524ce6f2": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bengaluru-India/Software-Engineer---Java-Fullstack_R-584424",
+      "title": "Software Engineer - Java Fullstack",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-Fullstack_R-584424",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
     }
   }
 }
