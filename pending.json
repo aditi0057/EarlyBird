@@ -1,19 +1,4 @@
 {
-  "079ffd4dca": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10591597",
-      "title": "Sr. SDE, Alexa AI Agent Core, Alexa AI - Agent Core",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10591597/sr-sde-alexa-ai-agent-core-alexa-ai-agent-core",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a passionate and experienced Sr, Software Development Engineer to help us build and scale the next generation of AI runtime infrastructure for Alexa+. You will design and implement model"
-    }
-  },
   "c2e7b59e5e": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "wf:wd1:WellsFargoJobs",
       "_content": null
+    }
+  },
+  "dcf24e18c2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10598513",
+      "title": "Software Dev Engineer II, Amazon International Seller Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10598513/software-dev-engineer-ii-amazon-international-seller-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building software that operates at massive scale and directly impacts millions of sellers? As a Software Development Engineer II on the Seller Compliance team at Amazon, you will"
     }
   }
 }
