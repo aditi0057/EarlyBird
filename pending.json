@@ -1,49 +1,4 @@
 {
-  "c2e7b59e5e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592055",
-      "title": "Software Development Engineer, Alexa Connections",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592055/software-development-engineer-alexa-connections",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you ready to be at the forefront of Agentic AI innovation and redefine the future of communication?Join our dynamic Alexa Connections team as an SDE, and lead futuristic agentic AI initiatives that"
-    }
-  },
-  "a3e965df2d": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Salesforce-Developer_JR366273",
-      "title": "Software Engineering MTS- Salesforce Developer",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Salesforce-Developer_JR366273",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "e42c3bd693": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1",
-      "title": "Sr Software Engineer",
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Software-Engineer_R0138599-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
   "a3fc9804ee": {
     "company": "Abnormal Security",
     "role_type": "tech",
@@ -1197,6 +1152,51 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you passionate about building software that operates at massive scale and directly impacts millions of sellers? As a Software Development Engineer II on the Seller Compliance team at Amazon, you will"
+    }
+  },
+  "721c8f4f9f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10599103",
+      "title": "Software Dev Engineer III, AFFS Checkbook",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10599103/software-dev-engineer-iii-affs-checkbook",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is looking for a Software Development Engineer to design and build large-scale, distributed computing solutions. In this role, you will contribute to the team's technical direction, support long-term"
+    }
+  },
+  "0a44127c50": {
+    "company": "Target",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/BangaloreIndia/Engineer---Target-India-1_R0000451665",
+      "title": "Engineer - Target India-1",
+      "location": {
+        "name": "Bangalore,India"
+      },
+      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India-1_R0000451665",
+      "_source": "workday",
+      "_token": "target:wd5:targetcareers",
+      "_content": null
+    }
+  },
+  "495989f776": {
+    "company": "Deutsche Bank",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Business-Bay/Senior-Engineer--AVP_R0456747",
+      "title": "Software Development Engineer in Test, AVP",
+      "location": {
+        "name": "Pune - Business Bay"
+      },
+      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Senior-Engineer--AVP_R0456747",
+      "_source": "workday",
+      "_token": "db:wd3:DBWebsite",
+      "_content": null
     }
   }
 }
