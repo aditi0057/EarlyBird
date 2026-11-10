@@ -1,49 +1,4 @@
 {
-  "a3fc9804ee": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8016939003,
-      "title": "Software Engineer 1",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "a6c4af469f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592247",
-      "title": "Software Development Engineer, Alexa Connections",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592247/software-development-engineer-alexa-connections",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to shape how people stay connected across calls, text, and email? Alexa Connections is building a trusted communication agent that understands intent, context, and relationships, then acts"
-    }
-  },
-  "c0bb266c25": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592289",
-      "title": "Software Development Engineer II, AFT Sortation, AFT Mansort",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592289/software-development-engineer-ii-aft-sortation-aft-mansort",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever wondered how Amazon delivers millions of customer orders with exceptional speed and reliability? Behind every fast and on-time delivery is a complex network of software, infrastructure, robotics,"
-    }
-  },
   "2ee61ee49c": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1152,51 @@
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
       "_content": null
+    }
+  },
+  "fa88d7595c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10596568",
+      "title": "Sr. Software Engineer, AI Trust and Innovation",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10596568/sr-software-engineer-ai-trust-and-innovation",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are seeking an exceptional Software Development Engineer III to build the foundational systems and consumer-facing features that enable trustworthy, accessible AI experiences at scale. You will partner"
+    }
+  },
+  "93a39f2f12": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594182",
+      "title": "Software Dev Engineer II, Amazon India CFX team ",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594182/software-dev-engineer-ii-amazon-india-cfx-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a passionate, hard-working, and talented Software Development Engineer who can build innovative & mission critical system software applications & tools. (Experience 4 to 8 years) You"
+    }
+  },
+  "a10ca0ac12": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10590909",
+      "title": "Software Development Engineer, RBS Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10590909/software-development-engineer-rbs-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited about building the future of Retail Automation powered by Generative AI?Retail Business Services (RBS) supports Amazon's Retail business growth WW through three core tasks. These are (a)"
     }
   }
 }
