@@ -1,94 +1,4 @@
 {
-  "2ee61ee49c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592159",
-      "title": "Software Development Engineer II, FinTech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592159/software-development-engineer-ii-fintech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
-    }
-  },
-  "20bb6a2b70": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR362247",
-      "title": "Software Engineering MTS (Full-Stack)",
-      "location": {
-        "name": "India - Hyderabad"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR362247",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "970b66b4a8": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Product-Manager---Technical-II_R-293237",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Product-Manager---Technical-II_R-293237",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "5ce3dd59bd": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Software-Engineer-II_R-293708",
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-293708",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "a7a918655b": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru---GS-India/Software-Development-Engineer_R-10405598",
-      "title": "Software Development Engineer",
-      "location": {
-        "name": "Bengaluru - GS, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Software-Development-Engineer_R-10405598",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "978443949e": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8161018,
-      "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
   "067cc55fc0": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1107,96 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you excited about building the future of Retail Automation powered by Generative AI?Retail Business Services (RBS) supports Amazon's Retail business growth WW through three core tasks. These are (a)"
+    }
+  },
+  "b50ba98c75": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10601861",
+      "title": "Software Development Engineer II, AB ESI",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10601861/software-development-engineer-ii-ab-esi",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building software that impacts millions of customers? We are looking for a Software Development Engineer to join our team at Amazon and help design, build, and deliver solutions"
+    }
+  },
+  "b33fd6f61e": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138500-1",
+      "title": "Sr Software Engineer",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138500-1",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "692a24be73": {
+    "company": "Wells Fargo",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425",
+      "title": "Software Engineer - Java Fullstack",
+      "location": {
+        "name": "Hyderabad, India"
+      },
+      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425",
+      "_source": "workday",
+      "_token": "wf:wd1:WellsFargoJobs",
+      "_content": null
+    }
+  },
+  "bd507c6527": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Advisor--Software-Development_R-10401213",
+      "title": "Advisor, Software Development",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development_R-10401213",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "295f153a29": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10401215",
+      "title": "Advisor, Software Development Engineering",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10401215",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
+    }
+  },
+  "8508e5411a": {
+    "company": "Fiserv",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Pune---Trion-Business-Park-India/Professional--Software-Development-Engineering_R-10401495",
+      "title": "Professional, Software Development Engineering",
+      "location": {
+        "name": "Pune - Trion Business Park, India"
+      },
+      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Software-Development-Engineering_R-10401495",
+      "_source": "workday",
+      "_token": "fiserv:wd5:EXT",
+      "_content": null
     }
   }
 }
