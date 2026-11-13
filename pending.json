@@ -1,49 +1,4 @@
 {
-  "808a156282": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10594157",
-      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10594157/software-development-engineer-ii-int-l-technologyeuregionalfund",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "bbdd82fbfc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10594156",
-      "title": "Software Development Engineer II, Int'l TechnologyEURegionalfund",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10594156/software-development-engineer-ii-int-l-technologyeuregionalfund",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
-    }
-  },
-  "a354216501": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592249",
-      "title": "Software Development Engineer, Alexa Connections",
-      "location": {
-        "name": "Chennai, Tamil Nadu, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence"
-    }
-  },
   "49559c828b": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1196,6 +1151,51 @@
       "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Technical-specialist--Backend-Engineer--L3---AS_R0448756",
       "_source": "workday",
       "_token": "db:wd3:DBWebsite",
+      "_content": null
+    }
+  },
+  "e5c8b671fd": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10603987",
+      "title": "Software Development Engineer II, Amazon Now (Tez)",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10603987/software-development-engineer-ii-amazon-now-tez",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Now (Quick Commerce) \u2014 is one of Amazon's largest and fastest-growing businesses, operating across 8+ marketplaces (India, MENA, North America, EU, UK, Japan) and powering adjacent businesses like"
+    }
+  },
+  "9616235a2b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10603992",
+      "title": "Software Development Engineer, IN Amazon Business",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10603992/software-development-engineer-in-amazon-business",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited by the challenge of launching new business initiatives for Amazon in India?India Consumer Technology (ICT) team builds products and services that solve unique customer needs in Amazon\u2019s"
+    }
+  },
+  "b8b0b7e3e9": {
+    "company": "Adyen",
+    "role_type": "fintech",
+    "job": {
+      "id": 8041307,
+      "title": "Backend Engineer (Java) ",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
+      "_source": "greenhouse",
+      "_token": "adyen",
       "_content": null
     }
   }
