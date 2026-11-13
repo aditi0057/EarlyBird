@@ -1,64 +1,4 @@
 {
-  "49559c828b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10594535",
-      "title": "Software Development Engineer II, AFT Flow, AFT OB&Flow",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10594535/software-development-engineer-ii-aft-flow-aft-ob-flow",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Have you ever ordered from Amazon and been amazed at how fast you receive the shipment? Ever wondered how Amazon delivers to customers so fast and on promised time? Every day, Amazon engineers are relentlessly"
-    }
-  },
-  "e7827ebdc6": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1",
-      "title": "Software Engineer, Android",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer--Android_R0138414-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "764e3d398c": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1",
-      "title": "Sr Software Engineer, Back End",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "61c2946715": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Backend-with-Gen-Ai_R0000479586",
-      "title": "Engineer - Backend with Gen Ai",
-      "location": {
-        "name": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer---Backend-with-Gen-Ai_R0000479586",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "9d08584b02": {
     "company": "Fiserv",
     "role_type": "fintech",
@@ -1196,6 +1136,66 @@
       "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
       "_source": "greenhouse",
       "_token": "adyen",
+      "_content": null
+    }
+  },
+  "45ea1f5646": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10604005",
+      "title": "Software Development Engineer, CS ARIA",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The SDE II on the CS ARIA team builds automation and self-service capabilities that resolve customer issues in real time across CS channels (Homepage, Chat and Voice). This role owns features end to end,"
+    }
+  },
+  "ae9cf6a94e": {
+    "company": "PayPal",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Bangalore-Karnataka-India/Software-Engineer_R0138600",
+      "title": "Software Engineer",
+      "location": {
+        "name": "Bangalore, Karnataka, India"
+      },
+      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0138600",
+      "_source": "workday",
+      "_token": "paypal:wd1:jobs",
+      "_content": null
+    }
+  },
+  "768fcce4b6": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/AI---Data-Analytics_3164052-1",
+      "title": "Data Scientist - AI Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI---Data-Analytics_3164052-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
+      "_content": null
+    }
+  },
+  "0d6f13b43d": {
+    "company": "HP",
+    "role_type": "tech",
+    "job": {
+      "id": "/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170449-1",
+      "title": "AI and Automation Developer",
+      "location": {
+        "name": "Bengaluru, Karnataka, India"
+      },
+      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170449-1",
+      "_source": "workday",
+      "_token": "hp:wd5:ExternalCareerSite",
       "_content": null
     }
   }
