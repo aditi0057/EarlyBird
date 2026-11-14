@@ -1,19 +1,4 @@
 {
-  "9d08584b02": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175",
-      "title": "Specialist, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401175",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "d635a1b364": {
     "company": "Meesho",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "workday",
       "_token": "hp:wd5:ExternalCareerSite",
       "_content": null
+    }
+  },
+  "bad518f246": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10605092",
+      "title": "Software Development Engineer, SW-Device OS",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10605092/software-development-engineer-sw-device-os",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
     }
   }
 }
