@@ -1,49 +1,4 @@
 {
-  "d635a1b364": {
-    "company": "Meesho",
-    "role_type": "tech",
-    "job": {
-      "id": "9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
-      "title": "Security Engineer III - Infra Security",
-      "location": {
-        "name": "Bangalore, Karnataka"
-      },
-      "absolute_url": "https://jobs.lever.co/meesho/9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
-      "_source": "lever",
-      "_token": "meesho",
-      "_content": "About the Team\n\u00a0\nThe security team at Meesho is like the Avengers to Meesho's S.H.I.E.L.D. After all, when 5% of Indian households shop with us, it\u2019s important to build resilient systems to manage millions of orders every day. We\u2019ve done this \u2013 with zero downtime! \ud83d\ude0e Sounds impossible? Well, that\u2019s the kind of Engineering muscle that has helped Meesho become the e-commerce giant it is today. We value speed over perfection, and see failures as opportunities to become better. We\u2019ve taken steps to inculcate a strong \u2018Founder\u2019s Mindset\u2019 across our engineering teams, making us grow and move fast. We place special emphasis on the continuous growth of each team member - and we do this with regular 1-1s and open communication. As a Security Engineer, you will be part of self-starters who thrive on teamwork and constructive feedback. We know how to party as hard as we work! If we aren\u2019t building unparalleled tech solutions, you can find us debating the plot points of our favorite books and games \u2013 or even gossiping over chai. So, if a day filled with building impactful solutions with a fun team sounds appealing to you, join us.\n\u00a0\nAbout the Role\n\u00a0\nAs a Security Engineer 3 in Infrastructure Security, you are a senior individual contributor who owns Meesho's infrastructure security and security operations (SOC) end to end. You will be one of the engineers securing everything from GCP organisation policy and IAM down to Kubernetes workloads and CI/CD infrastructure, so you will set the technical direction for infrastructure security, not just execute it. You operate with limited supervision, act as the trusted security voice in infrastructure and platform architecture discussions, and partner closely with other engineers whom you will mentor and uplevel.\u00a0\nThe role rewards breadth with depth: you should be comfortable moving between cloud architecture reviews, hands-on hardening, detection engineering, and incident response in the same week, and you will have unusual freedom to automate, consolidate, and build the guardrails that let a lean team secure a platform operating at Meesho's scale.\n\n\n"
-    }
-  },
-  "e32b3ee58d": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10595059",
-      "title": "Software Development Engineer , AWS & Ads Performance Benchmarks",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10595059/software-development-engineer-aws-ads-performance-benchmarks",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon's Customer Experience and Business Trends (CXBT) organization is seeking a Software Development Engineer II  (SDE) to shape the future of Amazon Web Services (AWS) customer experience by improving"
-    }
-  },
-  "3e9baed636": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10590907",
-      "title": "Software Development Engineer, RBS Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10590907/software-development-engineer-rbs-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about building the future of Retail Automation powered by Generative AI?Retail Business Services (RBS) supports Amazon's Retail business growth WW through three core tasks. These are (a)"
-    }
-  },
   "cfa1a8d97f": {
     "company": "Mastercard",
     "role_type": "fintech",
@@ -1197,6 +1152,51 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating"
+    }
+  },
+  "0dff16aa2e": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8319442,
+      "title": "Software Engineer (L1)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8319442",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "d001cb7112": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10605712",
+      "title": "Software Development Engineer, Amazon Business India",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10605712/software-development-engineer-amazon-business-india",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you excited by the challenge of launching new business initiatives for Amazon in India?India Consumer Technology (ICT) team builds products and services that solve unique customer needs in Amazon\u2019s"
+    }
+  },
+  "c763b603f8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10592583",
+      "title": "Software Development Engineer, Trust Sensitive & Content Intelligence",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10592583/software-development-engineer-trust-sensitive-content-intelligence",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Trust Sensitive Content Intelligence team owns the Responsible AI platform for Alexa+ worldwide \u2014 building ML-powered infrastructure that keeps content safe across cloud and on-device experiences."
     }
   }
 }
