@@ -1,79 +1,4 @@
 {
-  "cfa1a8d97f": {
-    "company": "Mastercard",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1",
-      "title": "Sofware Engineer, Priceless Platform",
-      "location": {
-        "name": "Pune, India"
-      },
-      "absolute_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Sofware-Engineer--Priceless-Platform_R-293896-1",
-      "_source": "workday",
-      "_token": "mastercard:wd1:CorporateCareers",
-      "_content": null
-    }
-  },
-  "225d6ef2b8": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru---GS-India/SDE_R-10406535",
-      "title": "SDE",
-      "location": {
-        "name": "Bengaluru - GS, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/SDE_R-10406535",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "bb51fe6b6c": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru---GS-India/Advisor--Software-Development-Engineering_R-10406508",
-      "title": "Advisor, Software Development Engineering",
-      "location": {
-        "name": "Bengaluru - GS, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Bengaluru---GS-India/Advisor--Software-Development-Engineering_R-10406508",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "dee7431147": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8905402002,
-      "title": "Intermediate Backend Engineer, Authorization",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "caedfdd5da": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10594146",
-      "title": "Software Dev Engineer II, Minerva",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10594146/software-dev-engineer-ii-minerva",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about using Software Engineering as a way to enable automation, knowledge extraction, and artificial intelligence through the use of Machine Learning, Natural Language Processing, Recommender"
-    }
-  },
   "54bda9e88e": {
     "company": "HP",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "The Trust Sensitive Content Intelligence team owns the Responsible AI platform for Alexa+ worldwide \u2014 building ML-powered infrastructure that keeps content safe across cloud and on-device experiences."
+    }
+  },
+  "6f3fd86a8b": {
+    "company": "Okta",
+    "role_type": "tech",
+    "job": {
+      "id": 8377182,
+      "title": "Demo Engineering Developer",
+      "location": {
+        "name": "Bengaluru, India"
+      },
+      "absolute_url": "https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182",
+      "_source": "greenhouse",
+      "_token": "okta",
+      "_content": null
+    }
+  },
+  "4ea6391aac": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10603416",
+      "title": "Software Development Engineer III, Alexa 3P Experiences, Alexa 3P Experiences",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10603416/software-development-engineer-iii-alexa-3p-experiences-alexa-3p-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa+ is Amazon's next-generation personal assistant powered by generative AI \u2013 more conversational, smarter, personalized, and built to get things done on any device.The Alexa 3P Experiences team is"
+    }
+  },
+  "b11e6bb82b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "3202055",
+      "title": "Software Development Engineer II , Amazon Pay",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/3202055/software-development-engineer-ii-amazon-pay",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Want to be part of a dynamic start-up environment within Amazon and be at the forefront of enabling \"Amazon Pay\" outside of Amazon?Our team is looking for passionate, experienced software developer who"
+    }
+  },
+  "7f6ee54ad7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10419476",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10419476/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Sales Abuse Prevention (SAP) vision is to make Amazon the safest and most trustworthy store for our buyers, brands, and selling partners. Integrity in our store is self-evident, abuse is deterred by ensuring"
+    }
+  },
+  "66b31d2b6b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "3198115",
+      "title": "SDE II - Backend, Cross Border Shopping Experience",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/3198115/sde-ii-backend-cross-border-shopping-experience",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Stay local, shop global! Amazon Cross Border Shopping experiences allow customers to easily discover a wide selection of international products available from Amazon\u2019s websites around the world, offering"
     }
   }
 }
