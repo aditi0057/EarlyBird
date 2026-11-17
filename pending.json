@@ -1,79 +1,4 @@
 {
-  "54bda9e88e": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170446-1",
-      "title": "AI and Automation Developer",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/AI-and-Automation-Developer_3170446-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "5fb8b66f14": {
-    "company": "Autodesk",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1",
-      "title": "Software Engineer(AI/ML Platform)",
-      "location": {
-        "name": "Pune, IND"
-      },
-      "absolute_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-Software-Engineer-AI-ML-Platform-_26WD96776-1",
-      "_source": "workday",
-      "_token": "autodesk:wd1:Ext",
-      "_content": null
-    }
-  },
-  "1a4f2ca92f": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5267221007,
-      "title": "Sr. Software Development Engineer - Java/ Agentic AI/ Big Data",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5267221007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "4c45ada94f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10592113",
-      "title": "Sr. Software Dev Engineer, Finance Technology",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10592113/sr-software-dev-engineer-finance-technology",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a Senior Software Development Engineer who is excited about building high-performance, globally scalable systems. In this role, you will design and build next-generation payment solutions"
-    }
-  },
-  "e7a62ca3a6": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2",
-      "title": "Software Firmware Engineer 4",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Android-Graphics-Expert_3160029-2",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
   "3d1ab655d1": {
     "company": "HP",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Stay local, shop global! Amazon Cross Border Shopping experiences allow customers to easily discover a wide selection of international products available from Amazon\u2019s websites around the world, offering"
+    }
+  },
+  "d0df911ad9": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5123489007,
+      "title": "Escalation Engineer - ZIA/ZPA",
+      "location": {
+        "name": "Bangalore, IND; Mohali, IND; Pune, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5123489007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "c25fc36b29": {
+    "company": "Snowflake",
+    "role_type": "data",
+    "job": {
+      "id": "a276eb40-644b-4384-9d9a-bae1c263baa6",
+      "title": "Forward Deployed Engineer, Frontier Engineering",
+      "location": {
+        "name": "IN-Bangalore-MSO"
+      },
+      "absolute_url": "https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6",
+      "_source": "ashby",
+      "_token": "snowflake",
+      "_content": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nFORWARD DEPLOYED ENGINEER, FRONTIER ENGINEERING\n\nSnowflake is about empowering enterprises to achieve their full potential \u2013 and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2013 and careers \u2013 to the next level.\n\nWhere Data Does More. Join the Snowflake team.\n\nAt Snowflake, we are building a high-impact team to help the world's most innovative companies unlock the power of AI. As a Forward Deployed Engineer on our Frontier Engineering team, you will be a hands-on builder and a key technical partner to our most strategic customers, placing you at the forefront of the enterprise AI revolution. You won't just work with cutting-edge technology \u2013 you'll deploy it to solve real-world business problems at scale, building production-grade AI systems using Snowpark, Cortex, and our native LLM capabilities.\n\n\nIN THIS ROLE AT SNOWFLAKE, YOU WILL:\n\nBuild Customer Solutions: Architect, build, and deploy enterprise-grade AI solutions, including sophisticated AI agents. Own the end-to-end lifecycle of your workstreams \u2013 from prototype to production \u2013 directly solving customers' most complex business challenges.\n\nOwn the Quality of What You Ship: Define what \"good\" means for the systems you build. Translate ambiguous customer goals into measurable quality metrics, evaluation frameworks, and golden datasets \u2013 then run systematic eval loops to hill-climb on agent quality, catch regressions before customers do, and continuously raise the bar on accuracy, faithfulness, and safety. Treat measurement as a first-class part of building, not an afterthought.\n\nDeliver with Velocity: Rapidly design, iterate, and ship high-quality code and pipelines. Translate ambiguous business objectives into robust, scalable, and performant solutions using Python and SQL.\n\nProductionize AI at Scale: Own the full implementation lifecycle for your solutions \u2013 from prototype through deployment, monitoring, and optimization in secure, large-scale production environments. Build the safety guardrails, observability, and human-review workflows that keep AI applications reliable and trustworthy, and close the loop from production traces and user feedback back into your evals so quality compounds over time.\n\nBe a Technical Partner: Partner directly with customer data science and engineering teams as a hands-on technical resource and trusted advisor on how to best leverage AI for their business challenges.\n\nCollaborate to Innovate: Work cross-functionally with Snowflake's Product and Engineering teams, sharing real-world feedback from the field to directly influence the future of Snowflake's AI platform.\n\nHave the opportunity to travel: Spend at least 25% of your time onsite, working closely with Snowflake's most strategic customers.\n\n\nWE'RE LOOKING FOR CANDIDATES WHO HAVE:\n\n\nMINIMUM QUALIFICATIONS\n\n - Bachelor's degree in Computer Science, Engineering, a related technical field, or equivalent practical experience.\n\n - 3+ years of professional software engineering experience.\n\n - Willingness to travel.\n\n - Proven experience building applications using LLMs, especially with technologies like RAG and agentic workflows.\n\n - Hands-on experience defining quality metrics and running evaluations for LLM or agent systems, and using evals to systematically improve quality.\n\n - Excellent problem-solving and communication skills, with an ability to articulate complex technical concepts to diverse stakeholders.\n\n - Comfort with ambiguity and a desire to thrive in a fast-paced, ever-changing Generative AI environment.\n\n\nPREFERRED QUALIFICATIONS\n\n - Experience building eval sets from production traces and synthetic data, and running structured experimentation (A/B tests, ablations, offline evals) to compare prompts, models, or agent architectures.\n\n - Familiarity with eval and observability tooling (e.g., Braintrust, LangSmith, Arize, Weave, Promptfoo) or experience building custom eval harnesses.\n\n - Experience with failure-mode analysis on agent or RAG systems \u2013 categorizing errors (hallucination, retrieval miss, planning failure, tool misuse) and driving each down with targeted evals.\n\n - Hands-on experience with the MLOps lifecycle, including model deployment, monitoring, and evaluation in a cloud environment (AWS, Azure, or GCP).\n\n - Familiarity with core data science libraries and tools (e.g., pandas, numpy, Snowpark).\n\n - Experience in a customer-facing technical role (e.g., solutions architect, sales engineer, or professional services).\n\n - Startup experience.\n\nSnowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com"
+    }
+  },
+  "7366275280": {
+    "company": "Rubrik",
+    "role_type": "tech",
+    "job": {
+      "id": 8349847,
+      "title": "Software Engineer ",
+      "location": {
+        "name": "bangalore"
+      },
+      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847",
+      "_source": "greenhouse",
+      "_token": "rubrik",
+      "_content": null
+    }
+  },
+  "4827f13194": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594183",
+      "title": "Software Dev Engineer II, Amazon India CFX team ",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594183/software-dev-engineer-ii-amazon-india-cfx-team",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are looking for a passionate, hard-working, and talented Software Development Engineer who can build innovative & mission critical system software applications & tools. (Experience 4 to 8 years) You"
+    }
+  },
+  "9a5020c0d2": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10588285",
+      "title": "Software Development Engineer , UTR - Pick Stage",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10588285/software-development-engineer-utr-pick-stage",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about writing code that makes a real difference for millions of people? Do you thrive when tackling complex problems and turning them into simple, elegant solutions? As a Software Development"
     }
   }
 }
