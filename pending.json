@@ -1,49 +1,4 @@
 {
-  "3d1ab655d1": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Bengaluru-Karnataka-India/Software-Engineer-4_3166627-1",
-      "title": "Software Engineer 4",
-      "location": {
-        "name": "Bengaluru, Karnataka, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Software-Engineer-4_3166627-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "7a905760fe": {
-    "company": "HP",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/Chennai-Tamil-Nadu-India/Manufacturing-Operations-Engineer_3169984-1",
-      "title": "Manufacturing Operations Engineer",
-      "location": {
-        "name": "Chennai, Tamil Nadu, India"
-      },
-      "absolute_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Chennai-Tamil-Nadu-India/Manufacturing-Operations-Engineer_3169984-1",
-      "_source": "workday",
-      "_token": "hp:wd5:ExternalCareerSite",
-      "_content": null
-    }
-  },
-  "55bb235c55": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Virtualization_R0000451028-1",
-      "title": "Engineer - Virtualization",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Virtualization_R0000451028-1",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
   "b1c9d2e250": {
     "company": "Fiserv",
     "role_type": "fintech",
@@ -1197,6 +1152,51 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you passionate about writing code that makes a real difference for millions of people? Do you thrive when tackling complex problems and turning them into simple, elegant solutions? As a Software Development"
+    }
+  },
+  "bbf2208ff0": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607252",
+      "title": "Software Development Engineer, Last Mile Platform Services, SDE",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607252/software-development-engineer-last-mile-platform-services-sde",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Last Mile Technology team brings new technology to the hardest problems in last mile delivery. We want a top-in-class experience, not only for the customer receiving a package but also for the"
+    }
+  },
+  "948910a067": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607545",
+      "title": "Software Dev Engineer II , Last Mile Delivery Prdct&Tech",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607545/software-dev-engineer-ii-last-mile-delivery-prdct-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are hiring an experienced Full-Stack Software Development Engineer to join our Tracking team in Hyderabad. This role focuses on building and scaling real-time tracking systems that serve hundreds of"
+    }
+  },
+  "c48b162fb1": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10602100",
+      "title": "Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10602100/software-development-engineer-agentic-data-infrastructure-partner-data-and-analytics",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Data Services team within PDNA (Partner Data And Analytics) builds and operates the Agentic Data Platform that powers Amazon's Selling Partner analytics infrastructure. We serve 900K+ Selling Partners"
     }
   }
 }
