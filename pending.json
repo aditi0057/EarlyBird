@@ -1,94 +1,4 @@
 {
-  "b1c9d2e250": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173",
-      "title": "Specialist, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Specialist--Software-Development-Engineering_R-10401173",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "b19010ce65": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Noida-India/Professional--Software-Development-Engineering_R-10405756",
-      "title": "Professional, Software Development Engineering",
-      "location": {
-        "name": "Noida, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Noida-India/Professional--Software-Development-Engineering_R-10405756",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "c871318a27": {
-    "company": "GitLab",
-    "role_type": "tech",
-    "job": {
-      "id": 8890971002,
-      "title": "Intermediate Backend Engineer , Security Factory",
-      "location": {
-        "name": "Bangalore, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
-      "_source": "greenhouse",
-      "_token": "gitlab",
-      "_content": null
-    }
-  },
-  "b911fb5eb6": {
-    "company": "SumoLogic",
-    "role_type": "tech",
-    "job": {
-      "id": 8352378,
-      "title": "Software Engineer II",
-      "location": {
-        "name": "Noida, Uttar Pradesh, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/sumologic/jobs/8352378",
-      "_source": "greenhouse",
-      "_token": "sumologic",
-      "_content": null
-    }
-  },
-  "17c88f6fc7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596464",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596464/software-development-engineer-ii-alexa-connectivity-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As a wireless software engineer on our new Bangalore device software team, you will bring"
-    }
-  },
-  "7093487bc4": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596462",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596462/software-development-engineer-ii-alexa-connectivity-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an Embedded software Engineer on our new Bangalore device software team, you will bring"
-    }
-  },
   "d318d99417": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1107,96 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "The Data Services team within PDNA (Partner Data And Analytics) builds and operates the Agentic Data Platform that powers Amazon's Selling Partner analytics infrastructure. We serve 900K+ Selling Partners"
+    }
+  },
+  "1be3cfa2de": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607819",
+      "title": "Software Development Engineer II, Edge Intelli",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607819/software-development-engineer-ii-edge-intelli",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "The Edge Intelligence team, part of Amazon's Connected Vehicles organization within Last Mile Technology, builds and operates real-time intelligence, perception, and camera/sensor fusion systems that run"
+    }
+  },
+  "32ada5d409": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607822",
+      "title": "Software Development Engineer, Last Mile Platform Services, SDE",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607822/software-development-engineer-last-mile-platform-services-sde",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Last Mile Technology team brings new technology to the hardest problems in last mile delivery. We want a top-in-class experience, not only for the customer receiving a package but also for the"
+    }
+  },
+  "1f39052915": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607547",
+      "title": "Sr. Software Development Engineer, On Road Transporter Experience, Last Mile Delivery Prdct&Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607547/sr-software-development-engineer-on-road-transporter-experience-last-mile-delivery-prdct-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come help Amazon create and deploy advanced technologies to deliver packages to the customer's doorstep !"
+    }
+  },
+  "0555003860": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10594150",
+      "title": "Software Development Engineer, Amazon International Seller Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10594150/software-development-engineer-amazon-international-seller-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Seller Compliance team builds mission-critical services that enable millions of sellers worldwide to meet regulatory requirements while growing their business. Our platform handles complex compliance"
+    }
+  },
+  "51ac1fbbe3": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "3193935",
+      "title": "Software Development Engineer, Amazon Books",
+      "location": {
+        "name": "Chennai, Tamil Nadu, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/3193935/software-development-engineer-amazon-books",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Kindle is a revolutionary reading device and one of the most innovative devices at Amazon. Our Organization is looking for an inventive and technically skilled Software Development Engineer to join"
+    }
+  },
+  "40751e15eb": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "3203393",
+      "title": "Software Development Engineer - Test II, Alexa Endpoint Experiences",
+      "location": {
+        "name": "Pune, Maharashtra, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/3203393/software-development-engineer-test-ii-alexa-endpoint-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are seeking an innovative and technically skilled Software Development Engineer in Test (SDET) to join our team. The ideal candidate will leverage AI tools and modern automation frameworks to transform"
     }
   }
 }
