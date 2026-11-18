@@ -1,49 +1,4 @@
 {
-  "d318d99417": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596461",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596461/software-development-engineer-ii-alexa-connectivity-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
-    }
-  },
-  "c487679be7": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596460",
-      "title": "Software Development Engineer II, Alexa Connectivity Devices",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596460/software-development-engineer-ii-alexa-connectivity-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
-    }
-  },
-  "806e52d5f9": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596459",
-      "title": "Software Development Engineer, Alexa Connectivity Devices",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596459/software-development-engineer-alexa-connectivity-devices",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are building a new device software team in Bangalore to power the next generation of Amazon connected devices. As an OS / Kernel Engineer, you will own the foundational operating system layer \u2014 Linux"
-    }
-  },
   "3909a167fc": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1152,51 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "We are seeking an innovative and technically skilled Software Development Engineer in Test (SDET) to join our team. The ideal candidate will leverage AI tools and modern automation frameworks to transform"
+    }
+  },
+  "3c38a45feb": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8730125002,
+      "title": "Release Engineer, Salesforce",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8730125002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "3d2800562f": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10606051",
+      "title": "Software Development Engineer, ASA",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10606051/software-development-engineer-asa",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Retail Business Services (RBS) supports Amazon\u2019s Retail business growth WW through three core tasks. These are (a) Selection, where RBS sources, creates and enrich ASINs to drive GMS growth; (b) Defect"
+    }
+  },
+  "975277d428": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10608163",
+      "title": "Software Development Engineer II, Account Compliance Tech",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10608163/software-development-engineer-ii-account-compliance-tech",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "We are the guardians of the Amazon galaxy. The Account Compliance team strives to ensure that Amazon remains compliant and the cost of being compliant is never the reason where the business or our sellers"
     }
   }
 }
