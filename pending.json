@@ -1,64 +1,4 @@
 {
-  "3909a167fc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10589830",
-      "title": "Software Development Engineer, Sports Data Platform - Prime Video Sports",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10589830/software-development-engineer-sports-data-platform-prime-video-sports",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "What if you could build the systems that tell millions of sports fans exactly when something incredible just happened in a live game? That's the kind of problem you'll solve here.We're looking for a Software"
-    }
-  },
-  "9f505c9898": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10588111",
-      "title": "Software Dev Engineer II, Amazon Business",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10588111/software-dev-engineer-ii-amazon-business",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We're seeking a Software Development Engineer to lead and build technical initiatives that will reshape how businesses sell on Amazon. Our team is passionate about learning and building advanced solutions"
-    }
-  },
-  "16fd777e2f": {
-    "company": "Salesforce",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/India---Bangalore/Full-Stack-Developer---AI-Native-Engineering_JR359537",
-      "title": "Full-Stack Developer \u2014 AI-Native Engineering",
-      "location": {
-        "name": "India - Bangalore"
-      },
-      "absolute_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Full-Stack-Developer---AI-Native-Engineering_JR359537",
-      "_source": "workday",
-      "_token": "salesforce:wd12:External_Career_Site",
-      "_content": null
-    }
-  },
-  "55231d66fd": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R266920",
-      "title": "Data Engineer, Aladdin Data, Associate",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R266920",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
   "da8a4b290b": {
     "company": "Target",
     "role_type": "tech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "We are the guardians of the Amazon galaxy. The Account Compliance team strives to ensure that Amazon remains compliant and the cost of being compliant is never the reason where the business or our sellers"
+    }
+  },
+  "5904bd2201": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5085027007,
+      "title": "Escalation Engineer - ZTB",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5085027007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "c1a1d8eb49": {
+    "company": "MongoDB",
+    "role_type": "tech",
+    "job": {
+      "id": 8205430,
+      "title": "Technical Services Engineer (Weekend working)",
+      "location": {
+        "name": "Bengaluru"
+      },
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8205430",
+      "_source": "greenhouse",
+      "_token": "mongodb",
+      "_content": null
+    }
+  },
+  "f20fa6f00b": {
+    "company": "Samsara",
+    "role_type": "tech",
+    "job": {
+      "id": 8393354,
+      "title": "Business Technology Engineer II",
+      "location": {
+        "name": "Bengaluru - BLR2"
+      },
+      "absolute_url": "https://www.samsara.com/company/careers/roles/8393354?gh_jid=8393354",
+      "_source": "greenhouse",
+      "_token": "samsara",
+      "_content": null
+    }
+  },
+  "1b7716bec4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10603415",
+      "title": "Software Development Engineer II, Alexa 3P Experiences, Alexa 3P Experiences",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10603415/software-development-engineer-ii-alexa-3p-experiences-alexa-3p-experiences",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Alexa+ is Amazon's next-generation personal assistant powered by generative AI \u2013 more conversational, smarter, personalized, and built to get things done on any device.The Alexa 3P Experiences team is"
     }
   }
 }
