@@ -1,49 +1,4 @@
 {
-  "45067ca9fc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10597850",
-      "title": "Software Development Engineer, DSP Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Do you want to be part of the team that transforms how safety decisions are made for Amazon's Delivery Service Partners (DSPs) across 21 countries? Are you passionate about building intelligent, data driven"
-    }
-  },
-  "653544d86a": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10580411",
-      "title": "Software Development Engineer III, Associate Experience, Amazon Customer Service",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10580411/software-development-engineer-iii-associate-experience-amazon-customer-service",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Customer Service (CS) is hiring a Software Development Engineer III to join the Associate Experience team. Our organization is at the forefront of customer experience, seeking to delight customers"
-    }
-  },
-  "f5c6e5cfcc": {
-    "company": "New Relic",
-    "role_type": "tech",
-    "job": {
-      "id": 5467941008,
-      "title": "Software Engineer 1",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/newrelic/jobs/5467941008",
-      "_source": "greenhouse",
-      "_token": "newrelic",
-      "_content": null
-    }
-  },
   "fb524ce6f2": {
     "company": "Wells Fargo",
     "role_type": "fintech",
@@ -1197,6 +1152,51 @@
       "_source": "greenhouse",
       "_token": "abnormalsecurity",
       "_content": null
+    }
+  },
+  "b399c489cd": {
+    "company": "Zeta",
+    "role_type": "fintech",
+    "job": {
+      "id": "f827a249-2537-4f7f-aade-25b829fc13f2",
+      "title": "Site Reliability Engineer- II",
+      "location": {
+        "name": "Bangalore"
+      },
+      "absolute_url": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2",
+      "_source": "lever",
+      "_token": "zeta",
+      "_content": "About us\n\u00a0\nBuild the future of banking.\n\u00a0\nZeta is a next-generation banking technology company providing cloud-native, fully stackable processing and core banking platforms for issuers. With a focus on scalability, compliance, and innovation, Zeta empowers financial institutions to modernize their technology infrastructure and deliver secure, seamless digital banking experiences.\u00a0Our impact runs at real-world scale. Today, over 25 million cards are live on Zeta-powered platforms across 7 countries, supported by a passionate team of 1,700+ Zetanauts across India, the US, EMEA, and Asia. Backed by SoftBank Vision Fund, Mastercard, and other reputed strategic investors, we reached a valuation of $2 billion in 2025.\n\u00a0\nOur focus is on establishing product lines that focus on key outcomes by addressing real customer pain points, modernizing legacy systems, and strengthening core fundamentals. As a result, our systems and platforms support a wide range of banking and payments capabilities, including:\n\u00a0\n1. Tachyon, our cloud-native banking stack built for population-scale systems\n2. Cipher, our unified authentication platform for secure, high-volume banking environments\n3. Digital Credit as a Service, enabling banks to launch credit lines on UPI\n4. Elena, our intelligent and conversational AI platform for banking\n5. Pixel, India\u2019s first digital-native credit card, launched in partnership with HDFC Bank, for whom we also revamped their PayZapp mobile app: Winner of the Celent Model Bank Award for Payments Innovation 2024\n6. Sparrow, the leading card experience for non-prime cardholders in the US\n\u2026and more across cards, payments, lending, and core banking.\n\u00a0\nWe are an engineering-first organization that values ownership, bias for action, and long-term thinking. Together, we solve some of the hardest problems in banking tech. Our culture is built around trust, collaboration, and creating the conditions for you to drive impact proportionate to your potential. Reinforcing our commitment to creating an inclusive and supportive workplace, we have been consistently recognized as a Great Place to Work. If you want to build cutting-edge banking tech that enables banks to serve millions reliably, securely, and at a population scale, Zeta is your playground.\n\u00a0\nIf you would like to learn more about how we have grown and evolved over the years, watch our journey here. You can also explore our website and follow us on LinkedIn, Instagram,YouTube, and X.\n\u00a0\n\u00a0\n\u00a0\n"
+    }
+  },
+  "4ddec7ee3a": {
+    "company": "Toast",
+    "role_type": "tech",
+    "job": {
+      "id": 8392140,
+      "title": "QA Engineer II",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://careers.toasttab.com/jobs?gh_jid=8392140",
+      "_source": "greenhouse",
+      "_token": "toast",
+      "_content": null
+    }
+  },
+  "9dfc52c698": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10610616",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10610616/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Customer Service supports customers around the world through one of the world\u2019s largest and most diverse customer service workforces. As AI fundamentally changes how customer service work is performed,"
     }
   }
 }
