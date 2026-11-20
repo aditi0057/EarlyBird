@@ -1,19 +1,4 @@
 {
-  "1c04c9c404": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10598377",
-      "title": "Software Development Engineer II, Last Mile",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10598377/software-development-engineer-ii-last-mile",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Would you like to build impactful mobile software building blocks that empowers hundreds of engineers build and ship new delightful features every day?. Our team is responsible for creating the best delivery"
-    }
-  },
   "45067ca9fc": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "AWS Applied AI Solutions (AAIS) is building toward a future where every business innovates with Amazon AI teammates. To get there, we build AI solutions that improve human capabilities and transform entire"
+    }
+  },
+  "6966f4b3bf": {
+    "company": "Abnormal Security",
+    "role_type": "tech",
+    "job": {
+      "id": 8210392003,
+      "title": "Software Engineer 2 - ADEX",
+      "location": {
+        "name": "Hybrid - Bangalore, India"
+      },
+      "absolute_url": "https://abnormal.ai/careers/jobs/8210392003?gh_jid=8210392003",
+      "_source": "greenhouse",
+      "_token": "abnormalsecurity",
+      "_content": null
     }
   }
 }
