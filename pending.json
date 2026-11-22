@@ -1,19 +1,4 @@
 {
-  "fb524ce6f2": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bengaluru-India/Software-Engineer---Java-Fullstack_R-584424",
-      "title": "Software Engineer - Java Fullstack",
-      "location": {
-        "name": "Bengaluru, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineer---Java-Fullstack_R-584424",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
   "dcf24e18c2": {
     "company": "Amazon",
     "role_type": "tech",
@@ -1197,6 +1182,21 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon Customer Service supports customers around the world through one of the world\u2019s largest and most diverse customer service workforces. As AI fundamentally changes how customer service work is performed,"
+    }
+  },
+  "1fed586406": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10610986",
+      "title": "Sr. Software Development Engineer",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10610986/sr-software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Shape the future of ACD LifeCycle as the senior engineer who leads its design and architecture. Join the BLR team to build large-scale distributed systems from the ground up and set the technical direction"
     }
   }
 }
