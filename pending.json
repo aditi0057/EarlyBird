@@ -1,109 +1,4 @@
 {
-  "721c8f4f9f": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10599103",
-      "title": "Software Dev Engineer III, AFFS Checkbook",
-      "location": {
-        "name": "Pune, Maharashtra, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10599103/software-dev-engineer-iii-affs-checkbook",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon is looking for a Software Development Engineer to design and build large-scale, distributed computing solutions. In this role, you will contribute to the team's technical direction, support long-term"
-    }
-  },
-  "0a44127c50": {
-    "company": "Target",
-    "role_type": "tech",
-    "job": {
-      "id": "/job/BangaloreIndia/Engineer---Target-India-1_R0000451665",
-      "title": "Engineer - Target India-1",
-      "location": {
-        "name": "Bangalore,India"
-      },
-      "absolute_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Engineer---Target-India-1_R0000451665",
-      "_source": "workday",
-      "_token": "target:wd5:targetcareers",
-      "_content": null
-    }
-  },
-  "495989f776": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Business-Bay/Senior-Engineer--AVP_R0456747",
-      "title": "Software Development Engineer in Test, AVP",
-      "location": {
-        "name": "Pune - Business Bay"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Senior-Engineer--AVP_R0456747",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "fa88d7595c": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10596568",
-      "title": "Sr. Software Engineer, AI Trust and Innovation",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10596568/sr-software-engineer-ai-trust-and-innovation",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are seeking an exceptional Software Development Engineer III to build the foundational systems and consumer-facing features that enable trustworthy, accessible AI experiences at scale. You will partner"
-    }
-  },
-  "93a39f2f12": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10594182",
-      "title": "Software Dev Engineer II, Amazon India CFX team ",
-      "location": {
-        "name": "Gurugram, Haryana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10594182/software-dev-engineer-ii-amazon-india-cfx-team",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "We are looking for a passionate, hard-working, and talented Software Development Engineer who can build innovative & mission critical system software applications & tools. (Experience 4 to 8 years) You"
-    }
-  },
-  "a10ca0ac12": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10590909",
-      "title": "Software Development Engineer, RBS Tech",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10590909/software-development-engineer-rbs-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited about building the future of Retail Automation powered by Generative AI?Retail Business Services (RBS) supports Amazon's Retail business growth WW through three core tasks. These are (a)"
-    }
-  },
-  "b50ba98c75": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10601861",
-      "title": "Software Development Engineer II, AB ESI",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10601861/software-development-engineer-ii-ab-esi",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you passionate about building software that impacts millions of customers? We are looking for a Software Development Engineer to join our team at Amazon and help design, build, and deliver solutions"
-    }
-  },
   "b33fd6f61e": {
     "company": "PayPal",
     "role_type": "fintech",
@@ -1197,6 +1092,111 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Job summaryLove to work in Digital Advertising; one of the biggest revenue drivers for internet giants of the world and Amazon\u2019s fastest-growing business with an explosive growth?Love to conceptualise"
+    }
+  },
+  "bcbb30c151": {
+    "company": "Twilio",
+    "role_type": "tech",
+    "job": {
+      "id": 8065032,
+      "title": "Software Engineer (L3)",
+      "location": {
+        "name": "Remote - India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
+      "_source": "greenhouse",
+      "_token": "twilio",
+      "_content": null
+    }
+  },
+  "6db1bc8ea8": {
+    "company": "Toast",
+    "role_type": "tech",
+    "job": {
+      "id": 8370624,
+      "title": "Software Engineer-I",
+      "location": {
+        "name": "Bengaluru,Karnataka,India"
+      },
+      "absolute_url": "https://careers.toasttab.com/jobs?gh_jid=8370624",
+      "_source": "greenhouse",
+      "_token": "toast",
+      "_content": null
+    }
+  },
+  "25b3e94fe8": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10610387",
+      "title": "Software Development Engineer III, PaySec, StoreSec",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10610387/software-development-engineer-iii-paysec-storesec",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come build the future with us! In Payments Security (PaySec), we protect the foundational systems and products that allow Amazon to accept payments for all goods, content, and services that people buy"
+    }
+  },
+  "6c0afc6486": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10610382",
+      "title": "Software Development Engineer , PaySec, StoreSec",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10610382/software-development-engineer-paysec-storesec",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Come build the future with us! In Payments Security (PaySec), we protect the foundational systems and products that allow Amazon to accept payments for all goods, content, and services that people buy"
+    }
+  },
+  "a0f95c7036": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10603086",
+      "title": "Software Dev Engineer II, Alexa AI ",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10603086/software-dev-engineer-ii-alexa-ai",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Interested in Amazon Alexa, Machine Learning and Artificial Intelligence? We\u2019re building the runtime services that power state of the art Amazon Alexa. Come join us! The Alexa AI org in India is seeking"
+    }
+  },
+  "ea51504640": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10601863",
+      "title": "SDE-II, AB Mobile",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10601863/sde-ii-ab-mobile",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested to improve the mobile shopping experience for B2B customers, if the answer is Yes, come join us.Amazon Business is a rapidly expanding $35 billion-dollar global business where we're"
+    }
+  },
+  "cfa99ba428": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10611161",
+      "title": "Software Development Engineer , Shiptech - Transportation Technology & Services",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10611161/software-development-engineer-shiptech-transportation-technology-services",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
     }
   }
 }
