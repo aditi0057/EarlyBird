@@ -1,49 +1,4 @@
 {
-  "693968de15": {
-    "company": "Abnormal Security",
-    "role_type": "tech",
-    "job": {
-      "id": 8196521003,
-      "title": "Software Engineer I - Backend",
-      "location": {
-        "name": "Hybrid - Bangalore, India"
-      },
-      "absolute_url": "https://abnormal.ai/careers/jobs/8196521003?gh_jid=8196521003",
-      "_source": "greenhouse",
-      "_token": "abnormalsecurity",
-      "_content": null
-    }
-  },
-  "c92ed7ce9d": {
-    "company": "Zscaler",
-    "role_type": "tech",
-    "job": {
-      "id": 5271582007,
-      "title": "Sr. Software Development Engineer (Backend Dev - C)",
-      "location": {
-        "name": "Bangalore, IND"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5271582007",
-      "_source": "greenhouse",
-      "_token": "zscaler",
-      "_content": null
-    }
-  },
-  "774c7694e0": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8258201,
-      "title": "Software Engineer - Cloud: Azure",
-      "location": {
-        "name": "Bangalore "
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
   "40049a0e97": {
     "company": "Rubrik",
     "role_type": "tech",
@@ -1197,6 +1152,51 @@
       "_source": "lever",
       "_token": "mindtickle",
       "_content": "Who we are\n\nMindtickle is the market-leading revenue productivity platform that combines on-the-job learning and deal execution to drive more revenue per rep. We help revenue teams at world-class companies unleash their potential by providing a unified platform for conversation intelligence, training, coaching, and analytics. Recognized as a market leader by top industry analysts and ranked by G2 as the #1 sales onboarding and training product, Mindtickle serves a global customer base across industries, scales, and maturity levels. The engineering work behind the platform sits at the intersection of data pipelines, real-time analytics, AI-powered content and coaching intelligence, search, integrations, and platform infrastructure.\n\nJob summary\n\nThe SDE-III is a senior technical leader inside a product team. The role is defined by scope, not tenure or technology.\n\nSDE-IIIs own the architecture of complex systems that span the user interface, the services behind it, and the data underneath. They take a problem from an ambiguous customer need to a running system, keep it healthy in production, and make the engineers around them better.\n\nThis is not a mid-level engineer with a different title. The role exists for people who own designs and their outcomes, not only the implementation of someone else's design.\n\nThis is a lateral hire. The person joins the engineering organization and any product team can take them, so the role is described by scope and stack, not by one team's roadmap.\n\nKey responsibilities\n\nOwn the architecture of complex systems \u2014 take a problem from an ambiguous need to a running system across front end, services and data. Make the structural decisions, write down the trade-offs, and stay accountable for how the system behaves months later.\n\nDeliver end to end. Break down large initiatives, lead them across the stack, and ship reliably. Keep pull requests focused and reviewable.\n\nOwn the operational health of the systems your team runs. Improve observability, lead post-mortems, reduce incident frequency, and drive performance work with measured outcomes.\n\nLead technically beyond your own team. Lead design reviews, including for systems you do not own. Resolve competing technical approaches. Influence through clarity, not authority.\n\nMake other engineers better \u2014 through design reviews, technical mentorship, and creating clarity in areas where others are stuck. Distribute knowledge rather than concentrate it.\n\nKeep systems simple over time. Deprecate what no longer earns its cost. Choose the boring option where it suffices.\n\nUnderstand the customer. Know why a feature exists, who uses it, and how customer configuration varies. Push back on flawed requirements.\n\nUse AI as part of everyday engineering \u2014 writing and reviewing code, generating tests, debugging, documenting \u2014 and have the judgment to say where an AI-native approach should replace or augment a traditional one, and where it should not.\n\nRequired qualifications\n\nClear evidence of significant industry experience as an individual contributor in software engineering, with the most recent years operating at SDE-III scope or equivalent. Scope is defined by the kind of problem owned, not the title held.\n\nFull-stack delivery in production. Systems you built and shipped across the user interface and the services and data behind it, and stayed responsible for afterwards.\n\nDemonstrated architectural ownership. Evidence that you made structural decisions, not only implemented them: designed systems from scratch, led significant refactors, or evaluated technology choices, with the trade-offs.\n\nProduction discipline. Direct ownership of systems running in production, with demonstrated work on reliability, observability, or operational improvement, including diagnosing incidents and running post-mortems.\n\nTechnical influence and mentorship. Design documents or patterns that shaped decisions beyond your own team, and engineers who grew because of your mentoring.\n\nStrong written technical communication. Design documents or technical proposals that articulate trade-offs in writing.\n\nJudgment on complexity. A record of making systems simpler \u2014 deprecations led, abstractions removed, boring technology chosen where it sufficed.\n\nFluency with AI coding assistants. Daily use to build, review, test, and document, with a specific account of where they help and where they mislead.\n\nStrong programming ability in our stack: React on the front end, and a back end in Go primarily, with Java or Python also in use. Services run on AWS.\n\nPreferred qualifications\n\nExperience in B2B SaaS, multi-tenant systems, workflow-heavy platforms, or integration-heavy architectures, where customer variation and backward compatibility are first-class constraints.\n\nLed a migration, deprecation, or platform investment that reduced long-term technical cost.\n\nPerformance work with measured outcomes on both the client and the server.\n\nHands-on experience with AWS services, containers, and CI/CD.\n\nGo as a primary back-end language.\n\nEvidence of evaluating AI-native approaches for product problems, with a decision and a reason.\n\nPublished technical writing \u2014 engineering blog posts, design documents, RFCs, or conference talks with substantive material.\n\nFamiliarity with the broader Mindtickle problem space \u2014 sales enablement, revenue productivity, learning systems, content intelligence, or call analytics."
+    }
+  },
+  "399b7fc522": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10612630",
+      "title": "Software Development Engineer II- (Android/ios), Last Mile Platform Services, SDE",
+      "location": {
+        "name": "Gurugram, Haryana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10612630/software-development-engineer-ii-android-ios-last-mile-platform-services-sde",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's Last Mile Technology team brings new technology to the hardest problems in last mile delivery. We want a top-in-class experience, not only for the customer receiving a package but also for the"
+    }
+  },
+  "86efe36450": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10612911",
+      "title": "Software Development Engineer, Finance Technology, FinTech TAX",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10612911/software-development-engineer-finance-technology-fintech-tax",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you interested in building high-performance, globally scalable Financial systems that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation leveraging"
+    }
+  },
+  "464c17f405": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10586505",
+      "title": "Software Development Engineer, Alexa LLM Inference, Capacity, & Efficiency",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10586505/software-development-engineer-alexa-llm-inference-capacity-efficiency",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Are you passionate about building infrastructure that powers AI at scale? Do you want to work on systems that serve millions of Alexa customers every day? The Alexa LLM Inference, Capacity, & Efficiency"
     }
   }
 }
