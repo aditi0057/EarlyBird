@@ -1,64 +1,4 @@
 {
-  "b33fd6f61e": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138500-1",
-      "title": "Sr Software Engineer",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138500-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "692a24be73": {
-    "company": "Wells Fargo",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425",
-      "title": "Software Engineer - Java Fullstack",
-      "location": {
-        "name": "Hyderabad, India"
-      },
-      "absolute_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425",
-      "_source": "workday",
-      "_token": "wf:wd1:WellsFargoJobs",
-      "_content": null
-    }
-  },
-  "bd507c6527": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Advisor--Software-Development_R-10401213",
-      "title": "Advisor, Software Development",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development_R-10401213",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "295f153a29": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10401215",
-      "title": "Advisor, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Advisor--Software-Development-Engineering_R-10401215",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
   "8508e5411a": {
     "company": "Fiserv",
     "role_type": "fintech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world\u2019s most beloved brands \u2013 customer obsession"
+    }
+  },
+  "5f00f5346b": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "b5ae6036-5129-439e-b133-9aefa609eedd",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/b5ae6036-5129-439e-b133-9aefa609eedd",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\nWant to build a platform that lets businesses talk to their customers at scale? Meesho AI Services builds Voice AI that handles thousands of live customer conversations every day, from Meesho's own customer experience operations to enterprise BFSI clients with demanding call-quality needs.\n\u00a0\nWe operate with a strong ownership mindset. Our team moves fast, communicates clearly, and holds a high bar for engineering quality. We work closely with Product, Infra, and Biz. As an SDE-II, you'll work alongside a sharp team solving hard real-time problems at the intersection of telephony, speech, and LLMs.\nAbout the Role\nAs an SDE-II on Meesho AI Services, you'll build and scale the core Voice AI platform behind our voicebot products. You'll own services end-to-end, from design and development to production reliability, and work on real-time problems across telephony, speech recognition, speech synthesis, and LLM orchestration. You'll also build the agent flows for customer use cases yourself, so you see first-hand how the platform performs in real deployments. If you enjoy owning systems that run in production at scale, this role is built for you.\n\u00a0\n\u00a0\n"
+    }
+  },
+  "6d64213e17": {
+    "company": "GitLab",
+    "role_type": "tech",
+    "job": {
+      "id": 8940982002,
+      "title": "Applied AI Engineer, Enterprise AI",
+      "location": {
+        "name": "Bangalore, India"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
+      "_source": "greenhouse",
+      "_token": "gitlab",
+      "_content": null
+    }
+  },
+  "65fa88b030": {
+    "company": "CRED",
+    "role_type": "fintech",
+    "job": {
+      "id": "913a6616-78c9-4ca3-8c92-67ddea8a80df",
+      "title": "fraud analytics engineer",
+      "location": {
+        "name": "bengaluru"
+      },
+      "absolute_url": "https://jobs.lever.co/cred/913a6616-78c9-4ca3-8c92-67ddea8a80df",
+      "_source": "lever",
+      "_token": "cred",
+      "_content": "what is CRED?\n\u00a0\nCRED is an exclusive community for India\u2019s most trustworthy and creditworthy individuals, where the members are rewarded for good financial behavior.\u00a0CRED was born out of a need to bring back the focus on a long lost virtue, one of trust, the idea being to create a community centered around this virtue. a community that constantly strives to become more virtuous in this regard till they finally scale their behavior to create a utopia where being trustworthy is the norm and not the exception.\u00a0to build a community like this requires a community of its own; a community special in its own way, working towards making this vision come true.\u00a0\n\u00a0\nhere\u2019s a thought experiment: what do you get when you put a group of incredibly passionate and driven people and entrust them with the complete freedom to chase down their goals in a completely uninhibited manner? answer: you get something close to what we have at CRED; CRED just has it better.\u00a0\n\u00a0\nhere\u2019s what will be in store for you at CRED once you join as a part of the datascience fraud team:\n\nrole overview\nas a fraud analyst at CRED, you\u2019ll work at the intersection of data, technology and fraud prevention to identify and prevent emerging fraud patterns across products.\nfraud patterns continue to evolve, making it important to identify and address emerging risks and vulnerabilities. you\u2019ll think like an adversary -analyse data and system behaviour, spot unusual patterns and vulnerabilities, and work closely with data science, product and engineering teams to build practical solutions that prevent fraud.\nthis is a hands-on problem-solving role. you don\u2019t need to be a fraud expert or a deep ml specialist. what matters is strong analytical and coding fundamentals, curiosity, and the ability to approach problems from first principles.\n"
+    }
+  },
+  "815163953b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10611480",
+      "title": "Software Development Engineer II, Grocery In-store",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10611480/software-development-engineer-ii-grocery-in-store",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon is seeking a talented Software Development Engineer to join our Grocery In-store Technology team. In this role, you'll build innovative solutions that revolutionize the physical retail shopping"
     }
   }
 }
