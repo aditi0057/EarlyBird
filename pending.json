@@ -1,79 +1,4 @@
 {
-  "8508e5411a": {
-    "company": "Fiserv",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Trion-Business-Park-India/Professional--Software-Development-Engineering_R-10401495",
-      "title": "Professional, Software Development Engineering",
-      "location": {
-        "name": "Pune - Trion Business Park, India"
-      },
-      "absolute_url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Pune---Trion-Business-Park-India/Professional--Software-Development-Engineering_R-10401495",
-      "_source": "workday",
-      "_token": "fiserv:wd5:EXT",
-      "_content": null
-    }
-  },
-  "0949b5d6fc": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10602542",
-      "title": "Software Development Engineer, Customer Experience and Business Trends",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10602542/software-development-engineer-customer-experience-and-business-trends",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Customer Experience and Business Trends (CXBT) is looking for a talented Software Development Engineer (SDE) to build innovative solutions that drive deeper Customer Experience (CX) insights and"
-    }
-  },
-  "38c7bd878e": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10602293",
-      "title": "Sr Software Development Engineer, FAI-Asset Creation Tech ",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10602293/sr-software-development-engineer-fai-asset-creation-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Is passion for innovation what drives you? Are you excited by seeing something you worked on being used by millions of people? FAI-Asset Creation Tech  is a global Machine Intelligence Data Services organization"
-    }
-  },
-  "1a7959e68a": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10602292",
-      "title": "Sr Software Development Engineer, FAI-Asset Creation Tech",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10602292/sr-software-development-engineer-fai-asset-creation-tech",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Is passion for innovation what drives you? Are you excited by seeing something you worked on being used by millions of people? FAI-Asset Creation Tech  is a global Machine Intelligence Data Services organization"
-    }
-  },
-  "e3e8f9cbbf": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10593781",
-      "title": "Software Development Engineer, ESI",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10593781/software-development-engineer-esi",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The Amazon Business team is looking for candidates who are passionate about delivering an amazing experience to our international business customers. We focus on merging the customer experience, selection,"
-    }
-  },
   "693968de15": {
     "company": "Abnormal Security",
     "role_type": "tech",
@@ -1197,6 +1122,81 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Amazon is seeking a talented Software Development Engineer to join our Grocery In-store Technology team. In this role, you'll build innovative solutions that revolutionize the physical retail shopping"
+    }
+  },
+  "b239f68ea7": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607570",
+      "title": "Software Development Engineer, Last Mile Platform Services, SDE",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607570/software-development-engineer-last-mile-platform-services-sde",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Would you like to build impactful mobile software building blocks that empowers hundreds of engineers build and ship new delightful features every day? Our team is responsible for creating the best delivery"
+    }
+  },
+  "e264da536b": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10611676",
+      "title": "Software Development Engineer II, ICON",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10611676/software-development-engineer-ii-icon",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "About the roleAs an SDE II, you'll own the design and delivery of features and services that solve ambiguous customer problems at Amazon scale. You'll work mostly on your own and make sound technical trade-offs"
+    }
+  },
+  "676ff5dfbc": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10609449",
+      "title": "Software Development Engineer II, Featured Merchant Algorithm",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10609449/software-development-engineer-ii-featured-merchant-algorithm",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Do you ever struggle to explain your work? How's this: \"Do you shop at Amazon? Do you know that box that says 'Add to Cart' and shows a price? Our team owns the model which picks that offer and the customer"
+    }
+  },
+  "6e8d99576a": {
+    "company": "BlackRock",
+    "role_type": "fintech",
+    "job": {
+      "id": "/job/Gurugram-India/Python-Developer--Securities-Lending---BlackRock-Global-Markets--Associate_R267053",
+      "title": "Python Developer (Securities Lending), BlackRock Global Markets, Associate",
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Gurugram-India/Python-Developer--Securities-Lending---BlackRock-Global-Markets--Associate_R267053",
+      "_source": "workday",
+      "_token": "blackrock:wd1:BlackRock_Professional",
+      "_content": null
+    }
+  },
+  "0ac5592b7e": {
+    "company": "MindTickle",
+    "role_type": "tech",
+    "job": {
+      "id": "2f32712f-bc84-4485-b2fb-99e167f54e21",
+      "title": "SDE-III",
+      "location": {
+        "name": "Pune, Maharashtra"
+      },
+      "absolute_url": "https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21",
+      "_source": "lever",
+      "_token": "mindtickle",
+      "_content": "Who we are\n\nMindtickle is the market-leading revenue productivity platform that combines on-the-job learning and deal execution to drive more revenue per rep. We help revenue teams at world-class companies unleash their potential by providing a unified platform for conversation intelligence, training, coaching, and analytics. Recognized as a market leader by top industry analysts and ranked by G2 as the #1 sales onboarding and training product, Mindtickle serves a global customer base across industries, scales, and maturity levels. The engineering work behind the platform sits at the intersection of data pipelines, real-time analytics, AI-powered content and coaching intelligence, search, integrations, and platform infrastructure.\n\nJob summary\n\nThe SDE-III is a senior technical leader inside a product team. The role is defined by scope, not tenure or technology.\n\nSDE-IIIs own the architecture of complex systems that span the user interface, the services behind it, and the data underneath. They take a problem from an ambiguous customer need to a running system, keep it healthy in production, and make the engineers around them better.\n\nThis is not a mid-level engineer with a different title. The role exists for people who own designs and their outcomes, not only the implementation of someone else's design.\n\nThis is a lateral hire. The person joins the engineering organization and any product team can take them, so the role is described by scope and stack, not by one team's roadmap.\n\nKey responsibilities\n\nOwn the architecture of complex systems \u2014 take a problem from an ambiguous need to a running system across front end, services and data. Make the structural decisions, write down the trade-offs, and stay accountable for how the system behaves months later.\n\nDeliver end to end. Break down large initiatives, lead them across the stack, and ship reliably. Keep pull requests focused and reviewable.\n\nOwn the operational health of the systems your team runs. Improve observability, lead post-mortems, reduce incident frequency, and drive performance work with measured outcomes.\n\nLead technically beyond your own team. Lead design reviews, including for systems you do not own. Resolve competing technical approaches. Influence through clarity, not authority.\n\nMake other engineers better \u2014 through design reviews, technical mentorship, and creating clarity in areas where others are stuck. Distribute knowledge rather than concentrate it.\n\nKeep systems simple over time. Deprecate what no longer earns its cost. Choose the boring option where it suffices.\n\nUnderstand the customer. Know why a feature exists, who uses it, and how customer configuration varies. Push back on flawed requirements.\n\nUse AI as part of everyday engineering \u2014 writing and reviewing code, generating tests, debugging, documenting \u2014 and have the judgment to say where an AI-native approach should replace or augment a traditional one, and where it should not.\n\nRequired qualifications\n\nClear evidence of significant industry experience as an individual contributor in software engineering, with the most recent years operating at SDE-III scope or equivalent. Scope is defined by the kind of problem owned, not the title held.\n\nFull-stack delivery in production. Systems you built and shipped across the user interface and the services and data behind it, and stayed responsible for afterwards.\n\nDemonstrated architectural ownership. Evidence that you made structural decisions, not only implemented them: designed systems from scratch, led significant refactors, or evaluated technology choices, with the trade-offs.\n\nProduction discipline. Direct ownership of systems running in production, with demonstrated work on reliability, observability, or operational improvement, including diagnosing incidents and running post-mortems.\n\nTechnical influence and mentorship. Design documents or patterns that shaped decisions beyond your own team, and engineers who grew because of your mentoring.\n\nStrong written technical communication. Design documents or technical proposals that articulate trade-offs in writing.\n\nJudgment on complexity. A record of making systems simpler \u2014 deprecations led, abstractions removed, boring technology chosen where it sufficed.\n\nFluency with AI coding assistants. Daily use to build, review, test, and document, with a specific account of where they help and where they mislead.\n\nStrong programming ability in our stack: React on the front end, and a back end in Go primarily, with Java or Python also in use. Services run on AWS.\n\nPreferred qualifications\n\nExperience in B2B SaaS, multi-tenant systems, workflow-heavy platforms, or integration-heavy architectures, where customer variation and backward compatibility are first-class constraints.\n\nLed a migration, deprecation, or platform investment that reduced long-term technical cost.\n\nPerformance work with measured outcomes on both the client and the server.\n\nHands-on experience with AWS services, containers, and CI/CD.\n\nGo as a primary back-end language.\n\nEvidence of evaluating AI-native approaches for product problems, with a decision and a reason.\n\nPublished technical writing \u2014 engineering blog posts, design documents, RFCs, or conference talks with substantive material.\n\nFamiliarity with the broader Mindtickle problem space \u2014 sales enablement, revenue productivity, learning systems, content intelligence, or call analytics."
     }
   }
 }
