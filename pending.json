@@ -1,64 +1,4 @@
 {
-  "40049a0e97": {
-    "company": "Rubrik",
-    "role_type": "tech",
-    "job": {
-      "id": 8327940,
-      "title": "Software Engineer - Cloud Native Protection",
-      "location": {
-        "name": "Bangalore "
-      },
-      "absolute_url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
-      "_source": "greenhouse",
-      "_token": "rubrik",
-      "_content": null
-    }
-  },
-  "98352b9c7e": {
-    "company": "Fivetran",
-    "role_type": "data",
-    "job": {
-      "id": 8201478003,
-      "title": "Systems Engineer II - R&D Business Systems",
-      "location": {
-        "name": "Bengaluru, Karnataka, India, APAC"
-      },
-      "absolute_url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
-      "_source": "greenhouse",
-      "_token": "fivetran",
-      "_content": null
-    }
-  },
-  "4edc37fe0b": {
-    "company": "PayPal",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138432-1",
-      "title": "Sr Software Engineer",
-      "location": {
-        "name": "Bangalore, Karnataka, India"
-      },
-      "absolute_url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0138432-1",
-      "_source": "workday",
-      "_token": "paypal:wd1:jobs",
-      "_content": null
-    }
-  },
-  "d4655e816b": {
-    "company": "BlackRock",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Mumbai-India/ServiceNow-Developer--Aladdin-Platform-Engineering--Associate_R266361",
-      "title": "ServiceNow Developer, Aladdin Platform Engineering, Associate",
-      "location": {
-        "name": "Mumbai, India"
-      },
-      "absolute_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/ServiceNow-Developer--Aladdin-Platform-Engineering--Associate_R266361",
-      "_source": "workday",
-      "_token": "blackrock:wd1:BlackRock_Professional",
-      "_content": null
-    }
-  },
   "b9c9eb9293": {
     "company": "Target",
     "role_type": "tech",
@@ -1197,6 +1137,66 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "Are you passionate about building infrastructure that powers AI at scale? Do you want to work on systems that serve millions of Alexa customers every day? The Alexa LLM Inference, Capacity, & Efficiency"
+    }
+  },
+  "f03112cc95": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5271559007,
+      "title": "Production Engineer (SRE/Dev - Python)",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "16cd8eed21": {
+    "company": "Zscaler",
+    "role_type": "tech",
+    "job": {
+      "id": 5271549007,
+      "title": "Sr Production Engineer (SRE / Dev-Python)",
+      "location": {
+        "name": "Bangalore, IND"
+      },
+      "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5271549007",
+      "_source": "greenhouse",
+      "_token": "zscaler",
+      "_content": null
+    }
+  },
+  "1b3db62d16": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10613775",
+      "title": "Software Development Engineer",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10613775/software-development-engineer",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon's International Seller Services (ISS) org  is seeking a Software Development Engineer to be part of an engineering team working on innovative  products and tools to help Account Managers (AMs)."
+    }
+  },
+  "ce5c490279": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10613545",
+      "title": "Software Development Engineer II",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10613545/software-development-engineer-ii",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Shape the future of ACD Lifecycle as the senior engineer who leads its design and architecture. Join the BLR team to build large-scale distributed systems from the ground up and set the technical direction"
     }
   }
 }
