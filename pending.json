@@ -1,79 +1,4 @@
 {
-  "9ffd9d7289": {
-    "company": "Deutsche Bank",
-    "role_type": "fintech",
-    "job": {
-      "id": "/job/Pune---Margarpatta/Technical-specialist--Backend-Engineer--L3---AS_R0448756",
-      "title": "Technical specialist- Backend Engineer (L3), AS",
-      "location": {
-        "name": "Pune - Margarpatta"
-      },
-      "absolute_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Technical-specialist--Backend-Engineer--L3---AS_R0448756",
-      "_source": "workday",
-      "_token": "db:wd3:DBWebsite",
-      "_content": null
-    }
-  },
-  "e5c8b671fd": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10603987",
-      "title": "Software Development Engineer II, Amazon Now (Tez)",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10603987/software-development-engineer-ii-amazon-now-tez",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Amazon Now (Quick Commerce) \u2014 is one of Amazon's largest and fastest-growing businesses, operating across 8+ marketplaces (India, MENA, North America, EU, UK, Japan) and powering adjacent businesses like"
-    }
-  },
-  "9616235a2b": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10603992",
-      "title": "Software Development Engineer, IN Amazon Business",
-      "location": {
-        "name": "Bengaluru, Karnataka, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10603992/software-development-engineer-in-amazon-business",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "Are you excited by the challenge of launching new business initiatives for Amazon in India?India Consumer Technology (ICT) team builds products and services that solve unique customer needs in Amazon\u2019s"
-    }
-  },
-  "b8b0b7e3e9": {
-    "company": "Adyen",
-    "role_type": "fintech",
-    "job": {
-      "id": 8041307,
-      "title": "Backend Engineer (Java) ",
-      "location": {
-        "name": "Bengaluru"
-      },
-      "absolute_url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
-      "_source": "greenhouse",
-      "_token": "adyen",
-      "_content": null
-    }
-  },
-  "45ea1f5646": {
-    "company": "Amazon",
-    "role_type": "tech",
-    "job": {
-      "id": "10604005",
-      "title": "Software Development Engineer, CS ARIA",
-      "location": {
-        "name": "Hyderabad, Telangana, IND"
-      },
-      "absolute_url": "https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria",
-      "_source": "amazon",
-      "_token": "india",
-      "_content": "The SDE II on the CS ARIA team builds automation and self-service capabilities that resolve customer issues in real time across CS channels (Homepage, Chat and Voice). This role owns features end to end,"
-    }
-  },
   "ae9cf6a94e": {
     "company": "PayPal",
     "role_type": "fintech",
@@ -1197,6 +1122,81 @@
       "_source": "amazon",
       "_token": "india",
       "_content": "We are responsible for billions of dollars of payments each month to millions of Amazon vendors across the globe. We delight our vendors by paying them when they want and how they want, accurately and"
+    }
+  },
+  "a729184cd6": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "title": "Software Engineer I - Backend  (Kirana Club)",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\nWe're a small engineering team, so scope is wide and ownership is real. You'll ship to production in your first week, and every\nweek after that.\nEvery engineering role here is back-end-leaning fullstack. Most of your time goes into services, data models and APIs, but you\nown your work all the way to the screen \u2014 and the screen should look like someone cared. If frontend hasn't been your main\nthing, that gap is far smaller than it used to be. What we can't teach is taste: the sense of what a good interface feels like, and\nthe instinct to notice when something is confusing, slow or ugly before a user has to tell you.\nEveryone here writes code with LLMs \u2014 Claude Code, Codex, Cursor, whatever works, on the paid tier, and we don't count\ntokens. Producing code is cheap now, so what we hire for is judgment, verification, specification and taste. One hard rule: you\nown every line you ship, whether you typed it or not. \"The model wrote it\" is not an explanation in code review, in a\npostmortem, or in a design discussion.\nAbout the role\nThis is a backend-leaning fullstack role, and a high-volume learning one. You'll build and ship features end to end \u2014 from the\ndata model through the API to the screen someone actually uses \u2014 writing a lot of code and getting a lot of reviews. You'll be\ntrusted with production early and work on real problems from your first week. The goal for your first year is simple: to become\nsomeone the team can hand an ambiguous problem to.\n\u00a0\n\u00a0\n"
+    }
+  },
+  "3e9b2b6dd7": {
+    "company": "Meesho",
+    "role_type": "tech",
+    "job": {
+      "id": "9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "title": "Software Engineer II \u2014 Backend (Kirana Club)",
+      "location": {
+        "name": "Bangalore, Karnataka"
+      },
+      "absolute_url": "https://jobs.lever.co/meesho/9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "_source": "lever",
+      "_token": "meesho",
+      "_content": "About the Team\nWe're a small engineering team, so scope is wide and ownership is real. You'll ship to production in your first week, and every\u00a0week after that.\n\nEvery engineering role here is back-end-leaning fullstack. Most of your time goes into services, data models and APIs, but you\u00a0own your work all the way to the screen \u2014 and the screen should look like someone cared. If frontend hasn't been your main\u00a0thing, that gap is far smaller than it used to be.\n\nWhat we can't teach is taste: the sense of what a good interface feels like, and\u00a0the instinct to notice when something is confusing, slow or ugly before a user has to tell you.\n\nEveryone here writes code with LLMs \u2014 Claude Code, Codex, Cursor, whatever works, on the paid tier, and we don't count\u00a0tokens. Producing code is cheap now, so what we hire for is judgment, verification, specification and taste. One hard rule: you\u00a0own every line you ship, whether you typed it or not. \"The model wrote it\" is not an explanation in code review, in a\u00a0postmortem, or in a design discussion.\n\nAbout the Role\n Join us in building technology for the next generation of retail commerce. You will work on real-world product and platform\u00a0problems, partnering closely with product, business, and operations teams.\n\n\n"
+    }
+  },
+  "01e99f231c": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10615779",
+      "title": "Sr. Software Dev Engineer, Amazon Freight ",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10615779/sr-software-dev-engineer-amazon-freight",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Freight is building an innovative transportation network with the vision of redefining shipping for its customers. As our Less-Than-Truckload (LTL) and Truckload (TL) business continues to grow,"
+    }
+  },
+  "f11c8de129": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10615778",
+      "title": "Sr. Software Dev Engineer, Amazon Freight ",
+      "location": {
+        "name": "Hyderabad, Telangana, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10615778/sr-software-dev-engineer-amazon-freight",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Amazon Freight is building an innovative transportation network with the vision of redefining shipping for its customers. As our Less-Than-Truckload (LTL) and Truckload (TL) business continues to grow,"
+    }
+  },
+  "c5ad6162c4": {
+    "company": "Amazon",
+    "role_type": "tech",
+    "job": {
+      "id": "10607560",
+      "title": "Software Development Engineer II, Prime Video Sports",
+      "location": {
+        "name": "Bengaluru, Karnataka, IND"
+      },
+      "absolute_url": "https://www.amazon.jobs/en/jobs/10607560/software-development-engineer-ii-prime-video-sports",
+      "_source": "amazon",
+      "_token": "india",
+      "_content": "Prime Video is reimagining the live streaming experience, combining high-quality video delivery with interactive features across some of the world's most popular sports properties. We're looking for a"
     }
   }
 }
